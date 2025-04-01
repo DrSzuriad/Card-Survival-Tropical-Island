@@ -3,8 +3,8 @@ import os
 
 def merge_csv(input_file_1, input_file_2, output_file):
     # Wczytanie plików CSV z folderów 'pl' i 'en'
-    df_1 = pd.read_csv(input_file_1, encoding="utf-8")
-    df_2 = pd.read_csv(input_file_2, encoding="utf-8")
+    df_1 = pd.read_csv(input_file_1, header=None, names=["KEY", "COLUMN_2"])  # Wczytanie z nagłówkami "KEY" i "COLUMN_2"
+    df_2 = pd.read_csv(input_file_2, header=None, names=["KEY", "COLUMN_3"])
     
     # Łączenie dwóch DataFrame'ów po kolumnie "KEY"
     df_merged = pd.merge(df_1, df_2, on="KEY", how="inner")  # Możesz zmienić 'how' na 'outer' w zależności od potrzeb
@@ -17,7 +17,7 @@ def merge_csv(input_file_1, input_file_2, output_file):
     print(f"Plik został zapisany jako: {output_file}")
 
 # Przykładowe użycie
-input_path_1 = "en/Pl.csv" 
-input_path_2 = "pl/Pl.csv"
-output_path = "Pl_merged.csv"
+input_path_1 = "files/en/Pl.csv" 
+input_path_2 = "files/pl/Pl.csv"
+output_path = "mod/Pl.csv"
 merge_csv(input_path_1, input_path_2, output_path)

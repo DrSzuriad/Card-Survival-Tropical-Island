@@ -14,16 +14,16 @@ def split_csv(input_file, output_file_1, output_file_2):
     
     # Tworzymy pierwszy plik w folderze "pl", który zawiera pierwszą i drugą kolumnę
     df_1 = df[["KEY", "COLUMN_2"]]
-    df_1.to_csv(output_file_1, index=False, encoding="utf-8")
+    df_1.to_csv(output_file_1, header=False, index=False, encoding="utf-8")
     print(f"Plik 1 został zapisany jako: {output_file_1}")
     
     # Tworzymy drugi plik w folderze "en", który zawiera pierwszą i trzecią kolumnę
     df_2 = df[["KEY", "COLUMN_3"]]
-    df_2.to_csv(output_file_2, index=False, encoding="utf-8")
+    df_2.to_csv(output_file_2, header=False, index=False, encoding="utf-8")
     print(f"Plik 2 został zapisany jako: {output_file_2}")
 
 # Przykładowe użycie
-input_path = "Pl.csv"
-output_path_1 = "en/Pl.csv"
-output_path_2 = "pl/Pl.csv"
+input_path = "game/Pl.csv"
+output_path_1 = "files/en/Pl.csv"
+output_path_2 = "files/pl/Pl.csv"
 split_csv(input_path, output_path_1, output_path_2)

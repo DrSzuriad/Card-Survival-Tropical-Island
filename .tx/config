@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[o:Spolszczenia-gier:p:card-survival-tropical-island:r:plcsv]
+file_filter = files/<lang>/Pl.csv
+minimum_perc = 0
+source_file = files/en/Pl.csv
+source_lang = en
+type = MAGENTO
