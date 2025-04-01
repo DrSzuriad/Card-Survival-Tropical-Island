@@ -201,7 +201,7 @@ SAVE_AND_QUIT,Save and Quit,Zapisz i zakończ
 CHECKPOINT_CONFIRM,Restart from the start of this day?,Cofnąć do początku tego dnia?
 QUIT_CONFIRM,Save and quit to main menu?,Zapisać i wyjść do głównego menu?
 STATS_TITLE,STATS,STATYSTYKI
-AUTOFILL,Fill Required Items,Uzupełnij wymagane przedmioty
+AUTOFILL,Fill Required Items,Dodaj potrzebne przedmioty
 THROW_AWAY,Throw away,Wyrzuć
 RENAME_CARD,Rename Card,Zmień nazwę karty
 THROW_ALL_AWAY,Throw \nall away,Wyrzuć \nwszystkie
@@ -937,7 +937,7 @@ Campfire_CardInteractions[3].ActionName,Feed Charcoal,Dorzuć węgla drzewnego
 Campfire_CardInteractions[4].ActionName,Feed Snakegrass,Dorzuć trawy wężowej
 Campfire_CardInteractions[5].ActionName,Light Tinder,Podpal podpałkę
 Campfire_CardInteractions[6].ActionName,Feed Leaves,Dorzuć liści
-Campfire_CardInteractions[7].ActionName,Make Rustic Spear,Sporządź dzidę
+Campfire_CardInteractions[7].ActionName,Make Rustic Spear,Zrób dzidę
 Campfire_CardInteractions[8].ActionName,Feed Husk,Dorzuć łusek
 Campfire_CardInteractions[9].ActionName,Place Alembic,Postaw alembik
 Campfire_DismantleActions[0].ActionName,Take Embers,Zbierz żar
@@ -1038,7 +1038,7 @@ ClayFirePit_CardInteractions[3].ActionName,Feed Charcoal,Dorzuć węgla drzewneg
 ClayFirePit_CardInteractions[4].ActionName,Feed Snakegrass,Dorzuć trawy wężowej
 ClayFirePit_CardInteractions[5].ActionName,Light Tinder,Podpal podpałkę
 ClayFirePit_CardInteractions[6].ActionName,Feed Leaves,Dorzuć liści
-ClayFirePit_CardInteractions[7].ActionName,Make Rustic Spear,Zrób prostą włócznię
+ClayFirePit_CardInteractions[7].ActionName,Make Rustic Spear,Zrób dzidę
 ClayFirePit_CardInteractions[8].ActionName,Feed Husk,Dorzuć łusek
 ClayFirePit_DismantleActions[0].ActionName,Take Embers,Zbierz żar
 ClayFirePit_DismantleActions[0].RequiredReceivingDurabilities.FailMessage,Charcoal not ready yet.,Węgiel drzewny nie jest jeszcze gotowy.
@@ -1134,7 +1134,7 @@ Fire_CardInteractions[3].ActionName,Feed Charcoal,Dorzuć węgla drzewnego
 Fire_CardInteractions[4].ActionName,Feed Snakegrass,Dorzuć trawy wężowej
 Fire_CardInteractions[5].ActionName,Light Tinder,Podpal podpałkę
 Fire_CardInteractions[6].ActionName,Feed Leaves,Dorzuć liści
-Fire_CardInteractions[7].ActionName,Make Rustic Spear,Zrób prostą włócznię
+Fire_CardInteractions[7].ActionName,Make Rustic Spear,Zrób dzidę
 Fire_CardInteractions[8].ActionName,Feed Husk,Dorzuć łusek
 Fire_DismantleActions[0].ActionName,Take Embers,Zbierz żar
 Fire_DismantleActions[0].RequiredReceivingDurabilities.FailMessage,Charcoal not ready yet.,Węgiel drzewny nie jest jeszcze gotowy.
@@ -1797,7 +1797,7 @@ Smoker_CardInteractions[1].ActionName,Feed Charcoal,Feed Charcoal
 Smoker_CardInteractions[2].ActionName,Feed Sticks,Feed Sticks
 Smoker_CardInteractions[3].ActionName,Take Embers,Take Embers
 Smoker_CardInteractions[4].ActionName,Feed Tinder,Feed Tinder
-Smoker_CardInteractions[5].ActionName,Make Rustic Spear,Make Rustic Spear
+Smoker_CardInteractions[5].ActionName,Make Rustic Spear,Zrób dzidę
 Smoker_CardInteractions[6].ActionName,Cook Goatfish,Cook Goatfish
 Smoker_CardInteractions[7].ActionName,Cook Egg,Cook Egg
 Smoker_CardInteractions[8].ActionName,Cook Grouper,Cook Grouper
@@ -1882,7 +1882,7 @@ SmokerPlastic_CardInteractions[1].ActionName,Feed Charcoal,Feed Charcoal
 SmokerPlastic_CardInteractions[2].ActionName,Feed Kindling,Feed Kindling
 SmokerPlastic_CardInteractions[3].ActionName,Take Embers,Take Embers
 SmokerPlastic_CardInteractions[4].ActionName,Feed Tinder,Feed Tinder
-SmokerPlastic_CardInteractions[5].ActionName,Make Rustic Spear,Make Rustic Spear
+SmokerPlastic_CardInteractions[5].ActionName,Make Rustic Spear,Zrób dzidę
 SmokerPlastic_CardInteractions[6].ActionName,Cook Egg,Cook Egg
 SmokerPlastic_CardInteractions[7].ActionName,Cook Goatfish,Cook Goatfish
 SmokerPlastic_CardInteractions[8].ActionName,Cook Grouper,Cook Grouper
@@ -2439,7 +2439,7 @@ Bp_RicePaddy_CardName,Rice Paddy,Rice Paddy
 Bp_RicePaddy_CardDescription,Perfect for growing Rice.,Perfect for growing Rice.
 Bp_RicePaddy_UnlockConditionsDesc,Rice Grains Needed,Rice Grains Needed
 Bp_RicePaddy_BlueprintFinishedLog.LogText,I built a Rice Paddy.,I built a Rice Paddy.
-Bp_RusticSpear_CardName,Rustic Spear,Rustic Spear
+Bp_RusticSpear_CardName,Rustic Spear,Dzida
 Bp_RusticSpear_CardDescription,A basic spear. Simple but should get the job done.,A basic spear. Simple but should get the job done.
 Bp_RusticSpear_BlueprintFinishedLog.LogText,I made a rustic spear.,I made a rustic spear.
 Bp_Sack_CardName,Sack,Sack
@@ -3309,14 +3309,14 @@ Event_BayExplored_DismantleActions[0].ActionName,Continue,Continue
 Event_BayExplored_DismantleActions[0].ActionLog.LogText,I finished exploring the Bay.,I finished exploring the Bay.
 Event_BeachExplored_CardName,Area Explored,Area Explored
 Event_BeachExplored_CardDescription,I think I found all landmarks in this area.,I think I found all landmarks in this area.
-Event_BeachExplored_DismantleActions[0].ActionName,Continue,Continue
+Event_BeachExplored_DismantleActions[0].ActionName,Continue,Kontynuuj
 Event_BeachExplored_DismantleActions[0].ActionLog.LogText,I finished exploring the beach.,I finished exploring the beach.
-Event_BeachFoundFromMangroves_CardName,Beach,Beach
+Event_BeachFoundFromMangroves_CardName,Beach,Plaża
 Event_BeachFoundFromMangroves_CardDescription,The Mangrove Forest seems to end here.,The Mangrove Forest seems to end here.
 Event_BeachFoundFromMangroves_DismantleActions[0].ActionName,Continue,Continue
-Event_BeachFoundFromOutskirts_CardName,Beach,Beach
+Event_BeachFoundFromOutskirts_CardName,Beach,Plaża
 Event_BeachFoundFromOutskirts_CardDescription,That path seems to lead to the shores of the Island.,That path seems to lead to the shores of the Island.
-Event_BeachFoundFromOutskirts_DismantleActions[0].ActionName,Continue,Continue
+Event_BeachFoundFromOutskirts_DismantleActions[0].ActionName,Continue,Kontynuuj
 Event_BeesSwarming_CardName,A Bee Swarm!,A Bee Swarm!
 Event_BeesSwarming_CardDescription,They're swarming me!,They're swarming me!
 Event_BeesSwarming_DismantleActions[0].ActionName,My clothes protected me!,My clothes protected me!
@@ -3491,7 +3491,7 @@ Event_IntroFarmer_DismantleActions[0].ActionName,Let's Start,Let's Start
 Event_IntroNormal_CardName,Lost,Lost
 Event_IntroNormal_CardDescription,"...you wake up on the sandy shores of a tropical island, bothered by the intense heat of the sun. \n\nYou find yourself hungry, disoriented and very thirsty. You will need to start acting immediately if you want to have any chances at survival.","...you wake up on the sandy shores of a tropical island, bothered by the intense heat of the sun. \n\nYou find yourself hungry, disoriented and very thirsty. You will need to start acting immediately if you want to have any chances at survival."
 Event_IntroNormal_DismantleActions[0].ActionName,Stand Up,Stand Up
-Event_IntroParachute_CardName,Parachute,Parachute
+Event_IntroParachute_CardName,Parachute,Spadochron
 Event_IntroParachute_CardDescription,"You wake up hunging from your parachute,  open your eyes... It's all coming back to you, your plane crashed!\n\nYou find yourself hungry, disoriented and very thirsty. You will need to start acting immediately if you want to have any chances at survival.","You wake up hunging from your parachute,  open your eyes... It's all coming back to you, your plane crashed!\n\nYou find yourself hungry, disoriented and very thirsty. You will need to start acting immediately if you want to have any chances at survival."
 Event_IntroParachute_DismantleActions[0].ActionName,Stand Up,Stand Up
 Event_IntroSmart_CardName,Shipwrecked,Shipwrecked
@@ -5601,7 +5601,7 @@ SpearObsidian_CardDescription,A great hunting tool.,A great hunting tool.
 SpearObsidian_UsageDurability.OnZero.ActionName,The Spear Breaks,The Spear Breaks
 SpearObsidian_DismantleActions[0].ActionName,Train,Train
 SpearObsidian_DismantleActions[1].ActionName,Dismantle,Dismantle
-SpearRustic_CardName,Rustic Spear,Rustic Spear
+SpearRustic_CardName,Rustic Spear,Dzida
 SpearRustic_CardDescription,"Not the best spear, but it's something. Could be used for hunting or fishing.","Not the best spear, but it's something. Could be used for hunting or fishing."
 SpearRustic_UsageDurability.OnZero.ActionName,The Spear Breaks,The Spear Breaks
 SpearRustic_DismantleActions[0].ActionName,Train,Train
@@ -6438,7 +6438,7 @@ SoapWet_CardInteractions[0].ActionName,Wet,Wet
 SoapWet_DismantleActions[0].ActionName,Wash yourself,Wash yourself
 StickLong_CardName,Long Stick,Long Stick
 StickLong_CardDescription,"Many uses, could serve as support for a shelter or get sharpened into a spear.","Many uses, could serve as support for a shelter or get sharpened into a spear."
-StickLong_CardInteractions[0].ActionName,Craft Rustic Spear,Craft Rustic Spear
+StickLong_CardInteractions[0].ActionName,Craft Rustic Spear,Wykonaj dzidę
 StickLong_DismantleActions[0].ActionName,Break Long Stick,Break Long Stick
 Sticks_CardName,Sticks,Sticks
 Sticks_CardDescription,"Can be used as fuel or for crafting different things, such as a hand drill for example.","Can be used as fuel or for crafting different things, such as a hand drill for example."
@@ -6452,7 +6452,7 @@ Stone_DismantleActions[0].ActionName,Practice Rock Throwing,Practice Rock Throwi
 StoneBurnt_CardName,Burnt Stone,Burnt Stone
 StoneBurnt_CardDescription,Could grind it to get quicklime.,Could grind it to get quicklime.
 StoneBurnt_CardInteractions[0].ActionName,Ground,Ground
-StoneHeavy_CardName,Heavy Stone,Heavy Stone
+StoneHeavy_CardName,Heavy Stone,Ciężki kamień
 StoneHeavy_CardDescription,"A large heavy stone, ideal for traps.  Could also fire it in a kiln to make quicklime.","A large heavy stone, ideal for traps.  Could also fire it in a kiln to make quicklime."
 StoneHeavy_CardInteractions[0].ActionName,Sharpen Stone,Sharpen Stone
 StoneHeavy_CardInteractions[0].ActionLog.LogText,I sharpened a stone to use it as a tool.,I sharpened a stone to use it as a tool.
@@ -8193,24 +8193,24 @@ TropicalIsland_StormStart_CardName,Storm,Storm
 TropicalIsland_StormStart_CardDescription,I should stay away from the coast and seek shelter.,I should stay away from the coast and seek shelter.
 Tmp_StrandedJournal_CardName,Journal,Journal
 Tmp_StrandedJournal_DismantleActions[0].ActionName,Read Journal,Read Journal
-LegacySet_SetName,Accessible,Accessible
-TypewriterSet_SetName,Stylized,Stylized
+LegacySet_SetName,Accessible,Prosty
+TypewriterSet_SetName,Stylized,Stylizowany
 DemoCharacter_CharacterName,Character Example,Character Example
 DemoCharacter_CharacterDescription,Having trouble surviving? Try this character. ;)\n\nIn the full game you can create characters by choosing their perks\n\nThis custom character starts with a liferaft and a trunk full of supplies among many other things.,Having trouble surviving? Try this character. ;)\n\nIn the full game you can create characters by choosing their perks\n\nThis custom character starts with a liferaft and a trunk full of supplies among many other things.
 EasyMode_PackageName,Easy Mode,Easy Mode
-Farmer_CharacterName,Farmer,Farmer
+Farmer_CharacterName,Farmer,Rolnik
 Farmer_CharacterDescription,"Having nowhere else to go you were brought to this island to live at your grandfather's farm.\n\nUnfortunately, not a week had passed when a terrible hurricane hit the island, destroying most of the crops and animal enclosures. The farm now lies in ruins and your grandfather has fallen sick and unresponsive. \n\nWill you be able to repair the farm and nurse your grandfather back to health?","Having nowhere else to go you were brought to this island to live at your grandfather's farm.\n\nUnfortunately, not a week had passed when a terrible hurricane hit the island, destroying most of the crops and animal enclosures. The farm now lies in ruins and your grandfather has fallen sick and unresponsive. \n\nWill you be able to repair the farm and nurse your grandfather back to health?"
-Hunter_CharacterName,Hunter,Hunter
+Hunter_CharacterName,Hunter,Łowca
 Hunter_CharacterDescription,"You have arrived to the island on your own, with nothing but the bare necessities. \n\nThe evil spirits thirst for your unravelling, the good ones clamour your name, they want you to join them!\nYet you are not ready. You must first understand the shape of your own soul.\n\nYour old life is no more. Now there is only the skies, the island and the sea.","You have arrived to the island on your own, with nothing but the bare necessities. \n\nThe evil spirits thirst for your unravelling, the good ones clamour your name, they want you to join them!\nYet you are not ready. You must first understand the shape of your own soul.\n\nYour old life is no more. Now there is only the skies, the island and the sea."
-Mermaid_CharacterName,Mermaid,Mermaid
+Mermaid_CharacterName,Mermaid,Syrena
 Mermaid_CharacterDescription,"From the waves you emerge, pregnant with a child sired by the ocean.\nThis isolated island shall be your nesting ground.\n\nA creature of the depths, your skin must be kept moist and away from the sun, yet you can also drink seawater as if it were fresh, and see through darkness as if there were light.\nYour hunger is great yet only flesh can give you and your unborn one the nourishment you crave.\n\nSurvive and thrive, daughter of the sea... and await for the arrival of your child!","From the waves you emerge, pregnant with a child sired by the ocean.\nThis isolated island shall be your nesting ground.\n\nA creature of the depths, your skin must be kept moist and away from the sun, yet you can also drink seawater as if it were fresh, and see through darkness as if there were light.\nYour hunger is great yet only flesh can give you and your unborn one the nourishment you crave.\n\nSurvive and thrive, daughter of the sea... and await for the arrival of your child!"
 NormalGuy_CharacterName,Normal Guy,Normal Guy
 NormalGuy_CharacterDescription,"A completely ordinary and very average human. Nothing special, really.\n\nPros:\n- No Cons\nCons:\n- No Pros\n\n<b> The standard experience. </b>","A completely ordinary and very average human. Nothing special, really.\n\nPros:\n- No Cons\nCons:\n- No Pros\n\n<b> The standard experience. </b>"
-Survivalist_CharacterName,Survivalist,Survivalist
+Survivalist_CharacterName,Survivalist,Surwiwalista
 Survivalist_CharacterDescription,"You flew to the nearest city a week ago, ready to embark on the adventure of your life.\n\nAfter leaving your affairs in order and securing the necessary supplies you managed to find a local fisherman that was willing to take you to an isolated island for a low price.\n\nYou are there now, not a single soul in the island but you. \nYoung, strong and prepared, you are in your element.","You flew to the nearest city a week ago, ready to embark on the adventure of your life.\n\nAfter leaving your affairs in order and securing the necessary supplies you managed to find a local fisherman that was willing to take you to an isolated island for a low price.\n\nYou are there now, not a single soul in the island but you. \nYoung, strong and prepared, you are in your element."
-Tourist_CharacterName,Tourist,Tourist
+Tourist_CharacterName,Tourist,Turysta
 Tourist_CharacterDescription,"It was supposed to be the perfect holiday... but your plane had to crash in the middle of nowhere.\n\nYou are short sighted, your skin and the sun don't get along well, and you know bugs are going to eat you alive like they always do...\nOh, and you're bleeding, to death! This is not going to be nice.\n\nAt least you have enough fat stored in your body to last for a while, if you manage to stop the bleeding!","It was supposed to be the perfect holiday... but your plane had to crash in the middle of nowhere.\n\nYou are short sighted, your skin and the sun don't get along well, and you know bugs are going to eat you alive like they always do...\nOh, and you're bleeding, to death! This is not going to be nice.\n\nAt least you have enough fat stored in your body to last for a while, if you manage to stop the bleeding!"
-CharacterGlobalInfo_DifficultyRatings[0].Label,Relaxed,Relaxed
+CharacterGlobalInfo_DifficultyRatings[0].Label,Relaxed,Zrelaksowany
 CharacterGlobalInfo_DifficultyRatings[1].Label,Controlled,Controlled
 CharacterGlobalInfo_DifficultyRatings[2].Label,Tense,Tense
 CharacterGlobalInfo_DifficultyRatings[3].Label,Stressed,Stressed
@@ -8297,13 +8297,13 @@ GpTag_SweetWater_TabName,Sweet Water,Sweet Water
 GpTag_Temper_TabName,Temper,Temper
 GpTag_Vase_TabName,Vase,Vase
 GpTag_Water_TabName,Water Fresh,Water Fresh
-GpTag_WaterAny_TabName,Water,Water
-GpTag_WaterCooking_TabName,Water,Water
+GpTag_WaterAny_TabName,Water,Podlej
+GpTag_WaterCooking_TabName,Water,Podlej
 GpTag_WaxFat_TabName,Wax / Fat,Wax / Fat
-PkTab0_All_TabName,All,All
-PkTab1_Conditions_TabName,Conditions,Conditions
-PkTab2_Traits_TabName,Traits,Traits
-PkTab3_Background_TabName,Background,Background
+PkTab0_All_TabName,All,Wszystko
+PkTab1_Conditions_TabName,Conditions,Warunki
+PkTab2_Traits_TabName,Traits,Cechy
+PkTab3_Background_TabName,Background,Pochodzenie
 Pkg_Appetite_GroupName,Appetite,Appetite
 Pkg_Clothing_GroupName,Clothing,Clothing
 Pkg_Diet_GroupName,Mood,Mood
@@ -9449,7 +9449,7 @@ pg_Tools_Sections[0].Entries[0].Title,<b>Sharpened Stone</b>,<b>Sharpened Stone<
 pg_Tools_Sections[0].Entries[0].Content,"Combine a <b>Stone and a Heavy stone</b> to create a sharpened stone, which can be used as a rudimentary <b>knife</b> or as part of more complex tools.","Combine a <b>Stone and a Heavy stone</b> to create a sharpened stone, which can be used as a rudimentary <b>knife</b> or as part of more complex tools."
 pg_Tools_Sections[0].Entries[1].Title,<b>Stone Axe</b>,<b>Stone Axe</b>
 pg_Tools_Sections[0].Entries[1].Content,Through the right blueprint one can combine a piece of <b>Wood</b> and a <b>Sharpened Stone</b> to create a rudimentary Stone Axe.,Through the right blueprint one can combine a piece of <b>Wood</b> and a <b>Sharpened Stone</b> to create a rudimentary Stone Axe.
-pg_Tools_Sections[0].Entries[2].Title,<b>Rustic Spear</b>,<b>Rustic Spear</b>
+pg_Tools_Sections[0].Entries[2].Title,<b>Rustic Spear</b>,<b>Dzida</b>
 pg_Tools_Sections[0].Entries[2].Content,A simple <b>Spear</b> can be crafted by combining a <b>Long Stick</b> with a <b>Cutting tool or a Campfire</b>.\nThe resulting weapon can be used for both <b>Spearfishing and Hunting</b>.,A simple <b>Spear</b> can be crafted by combining a <b>Long Stick</b> with a <b>Cutting tool or a Campfire</b>.\nThe resulting weapon can be used for both <b>Spearfishing and Hunting</b>.
 pg_TutorialVideos_PageTitle,NEOMARE'S VIDEOS,NEOMARE'S VIDEOS
 pg_TutorialVideos_Sections[0].Entries[0].Content,Neomare is a youtuber who's made a lot of content about our game!\nHere's a few links to some of his ongoing runs in case you want to check them.,Neomare is a youtuber who's made a lot of content about our game!\nHere's a few links to some of his ongoing runs in case you want to check them.
@@ -9672,7 +9672,7 @@ ObjF9_CookYamJam_ObjectiveDescription,Cook Yam Jam,Cook Yam Jam
 ObjF9_CookYamJam_OnCompleteActions[0].ActionName,Courage,Courage
 ObjH1_ExploreBay_ObjectiveDescription,Explore the Bay.,Explore the Bay.
 ObjH1_ExploreBay_OnCompleteActions[0].ActionName,Courage,Courage
-ObjH2_MakeSpear_ObjectiveDescription,Craft a Rustic Spear,Craft a Rustic Spear
+ObjH2_MakeSpear_ObjectiveDescription,Craft a Rustic Spear,Wykonaj dzidę
 ObjH2_MakeSpear_OnCompleteActions[0].ActionName,Courage,Courage
 ObjH4_Artisan_ObjectiveDescription,Artisan,Artisan
 ObjH4_Artisan_OnCompleteActions[0].ActionName,Courage,Courage
@@ -9992,8 +9992,8 @@ Pk_1_MacaqueCurse_PerkName,Macaque Curse,Macaque Curse
 Pk_1_MacaqueCurse_PerkDescription,Macaques will especially enjoy annoying you.,Macaques will especially enjoy annoying you.
 Pk_1_NightStart_PerkName,Night Start,Night Start
 Pk_1_NightStart_PerkDescription,Start the game during the night.,Start the game during the night.
-Pk_1_Parachute_PerkName,Parachute,Parachute
-Pk_1_Parachute_PerkDescription,Start with a parachute.,Start with a parachute.
+Pk_1_Parachute_PerkName,Parachute,Spadochron
+Pk_1_Parachute_PerkDescription,Start with a parachute.,Rozpoczynasz ze spadochronem.
 Pk_1_PlaneCrash_PerkName,Plane Crash,Plane Crash
 Pk_1_PlaneCrash_PerkDescription,Start in a Crashed Plane in the wetlands.,Start in a Crashed Plane in the wetlands.
 Pk_1_RainSeason_PerkName,Extreme Rain,Extreme Rain
@@ -10963,27 +10963,27 @@ Headache_Statuses[2].GameName,Severe Headache,Severe Headache
 Headache_Statuses[2].Description,My head is killing me!,My head is killing me!
 HolidaySatisfaction_GameName,Holiday Satisfaction,Holiday Satisfaction
 HolidaySatisfaction_NotEnoughText,My holiday needs are still not satisfied.,My holiday needs are still not satisfied.
-Hydration_GameName,Hydration,Hydration
-Hydration_Description,Your body's hydration level. If it reaches zero you're dead.,Your body's hydration level. If it reaches zero you're dead.
-Hydration_DefaultStatusName,Not Thirsty,Not Thirsty
-Hydration_DefaultStatusDescription,Not feeling thirsty right now.,Not feeling thirsty right now.
-Hydration_Statuses[0].GameName,Slightly Thirsty,Slightly Thirsty
-Hydration_Statuses[0].Description,Could have something to drink,Could have something to drink
-Hydration_Statuses[1].GameName,Thirsty,Thirsty
-Hydration_Statuses[1].Description,I want to drink something,I want to drink something
-Hydration_Statuses[2].GameName,Very Thirsty,Very Thirsty
-Hydration_Statuses[2].Description,I need to drink something,I need to drink something
-Hydration_Statuses[3].GameName,Dehydrated,Dehydrated
-Hydration_Statuses[3].Description,I really need to drink something,I really need to drink something
-Hydration_Statuses[4].GameName,Seriously Dehydrated,Seriously Dehydrated
-Hydration_Statuses[4].Description,I'm seriously dehydrated,I'm seriously dehydrated
-Hydration_Statuses[4].PreventingActionMessage,Too thirsty to perform this action.,Too thirsty to perform this action.
-Hydration_Statuses[5].GameName,Dangerously Dehydrated,Dangerously Dehydrated
-Hydration_Statuses[5].Description,I won't make it for much longer,I won't make it for much longer
-Hydration_Statuses[5].PreventingActionMessage,Too thirsty to perform this action.,Too thirsty to perform this action.
-Hydration_Statuses[6].GameName,Dead of Thirst,Dead of Thirst
-Hydration_Statuses[6].Description,You died of dehydration.,You died of dehydration.
-Hydration_Statuses[6].PreventingActionMessage,Too thirsty to perform this action.,Too thirsty to perform this action.
+Hydration_GameName,Hydration,Nawodnienie
+Hydration_Description,Your body's hydration level. If it reaches zero you're dead.,"Poziom nawodnienia organizmu. Jeśli osiągnie zero, umrzesz."
+Hydration_DefaultStatusName,Not Thirsty,Nawodnienie
+Hydration_DefaultStatusDescription,Not feeling thirsty right now.,Nie czuję teraz pragnienia.
+Hydration_Statuses[0].GameName,Slightly Thirsty,Lekkie pragnienie
+Hydration_Statuses[0].Description,Could have something to drink,Przydałoby się czegoś napić.
+Hydration_Statuses[1].GameName,Thirsty,Pragnienie
+Hydration_Statuses[1].Description,I want to drink something,Potrzebuję się czegoś napić
+Hydration_Statuses[2].GameName,Very Thirsty,Duże pragnienie
+Hydration_Statuses[2].Description,I need to drink something,Muszę się czegoś napić
+Hydration_Statuses[3].GameName,Dehydrated,Odwodnienie
+Hydration_Statuses[3].Description,I really need to drink something,Koniecznie muszę się czegoś napić
+Hydration_Statuses[4].GameName,Seriously Dehydrated,Poważne odwodnienie
+Hydration_Statuses[4].Description,I'm seriously dehydrated,Poważnie brakuje mi wody
+Hydration_Statuses[4].PreventingActionMessage,Too thirsty to perform this action.,"Zbytnie odwodnienie, by wykonać tę akcję."
+Hydration_Statuses[5].GameName,Dangerously Dehydrated,Niebezpieczne odwodnienie
+Hydration_Statuses[5].Description,I won't make it for much longer,Ne wytrzymam tego dłużej
+Hydration_Statuses[5].PreventingActionMessage,Too thirsty to perform this action.,"Zbytnie odwodnienie, by wykonać tę akcję."
+Hydration_Statuses[6].GameName,Dead of Thirst,Śmierć z odwodnienia
+Hydration_Statuses[6].Description,You died of dehydration.,Giniesz od odwodnienia.
+Hydration_Statuses[6].PreventingActionMessage,Too thirsty to perform this action.,"Zbytnie odwodnienie, by wykonać tę akcję."
 Hyperthermia_GameName,Hyperthermia,Hyperthermia
 Hyperthermia_Description,Shows how much your body is overheating. You will die if the bar fills up completely.,Shows how much your body is overheating. You will die if the bar fills up completely.
 Hyperthermia_Statuses[0].GameName,Overheating,Overheating
@@ -11441,16 +11441,16 @@ VenomKraitResistance_Statuses[4].GameName,Complete Resistance,Complete Resistanc
 VomitCounter_GameName,Vomit Counter,Vomit Counter
 WaveCounter_GameName,WaveCounter,WaveCounter
 WaveCounter_NotEnoughText,It's too stormy to sleep!,It's too stormy to sleep!
-Weight_GameName,Weight,Weight
-Weight_Description,Shows how much fat your body is storing. You will die if it reaches zero.,Shows how much fat your body is storing. You will die if it reaches zero.
-Weight_Statuses[0].GameName,Obese,Obese
-Weight_Statuses[1].GameName,Overweight,Overweight
-Weight_Statuses[2].GameName,Normal Weight,Normal Weight
-Weight_Statuses[3].GameName,Normal Weight,Normal Weight
-Weight_Statuses[4].GameName,Normal Weight,Normal Weight
-Weight_Statuses[5].GameName,Underweight,Underweight
+Weight_GameName,Weight,Waga
+Weight_Description,Shows how much fat your body is storing. You will die if it reaches zero.,"Pokazuje, ile tłuszczu jest zgromadzone w organizmie. Jeśli osiągnie zero, umrzesz."
+Weight_Statuses[0].GameName,Obese,Otyłość
+Weight_Statuses[1].GameName,Overweight,Nadwaga
+Weight_Statuses[2].GameName,Normal Weight,Normalna waga
+Weight_Statuses[3].GameName,Normal Weight,Normalna waga
+Weight_Statuses[4].GameName,Normal Weight,Normalna waga
+Weight_Statuses[5].GameName,Underweight,Niedowaga
 Weight_Statuses[5].Description,I'm feeling weak,I'm feeling weak
-Weight_Statuses[6].GameName,Emaciated,Emaciated
+Weight_Statuses[6].GameName,Emaciated,Wychudzenie
 Weight_Statuses[6].Description,I'm feeling very weak,I'm feeling very weak
 Weight_Statuses[7].GameName,On the Verge of Starvation,On the Verge of Starvation
 Weight_Statuses[7].Description,I can barely move... I won't last long,I can barely move... I won't last long
@@ -11643,13 +11643,13 @@ SuccessLabels_ModifiedSuccessLabels[4].LabelText,Don't see how this could fail!,
 SuccessLabels_ContributionLabels[0].LabelText,Helps a little,Helps a little
 SuccessLabels_ContributionLabels[1].LabelText,Helps,Helps
 SuccessLabels_ContributionLabels[2].LabelText,Helps a lot,Helps a lot
-TimeSkipOptions_SetName,WAITING,WAITING
-TimeSkipOptions_Description,Resting Options,Resting Options
-TimeSkipOptions_Actions[0].ActionName,Rest,Rest
-TimeSkipOptions_Actions[0].FadeMessage,Waiting...,Waiting...
-TimeSkipOptions_Actions[1].ActionName,Meditate,Meditate
-TimeSkipOptions_Actions[1].FadeMessage,Resting...,Resting...
-TimeSkipOptions_Actions[2].ActionName,Nap,Nap
+TimeSkipOptions_SetName,WAITING,ODPOCZYWAJ
+TimeSkipOptions_Description,Resting Options,Opcje odpoczynku
+TimeSkipOptions_Actions[0].ActionName,Rest,Odpoczynek
+TimeSkipOptions_Actions[0].FadeMessage,Waiting...,Czekanie...
+TimeSkipOptions_Actions[1].ActionName,Meditate,Medytacja
+TimeSkipOptions_Actions[1].FadeMessage,Resting...,Odpoczywanie...
+TimeSkipOptions_Actions[2].ActionName,Nap,Drzemka
 TimeSkipOptions_Actions[2].StatInterruptions[1].Notification,I'm too thirsty to sleep...,I'm too thirsty to sleep...
 TimeSkipOptions_Actions[2].StatInterruptions[2].Notification,I'm too hot to sleep...,I'm too hot to sleep...
 TimeSkipOptions_Actions[2].StatInterruptions[3].Notification,I'm too cold to sleep...,I'm too cold to sleep...
@@ -11657,8 +11657,8 @@ TimeSkipOptions_Actions[2].StatInterruptions[4].Notification,I'm losing too much
 TimeSkipOptions_Actions[2].StatInterruptions[5].Notification,I'm not feeling well...,I'm not feeling well...
 TimeSkipOptions_Actions[2].StatInterruptions[6].Notification,I'm not feeling well...,I'm not feeling well...
 TimeSkipOptions_Actions[2].StatInterruptions[7].Notification,I can't sleep in the middle of a storm!,I can't sleep in the middle of a storm!
-TimeSkipOptions_Actions[2].FadeMessage,Napping...,Napping...
-TimeSkipOptions_Actions[3].ActionName,Sleep,Sleep
+TimeSkipOptions_Actions[2].FadeMessage,Napping...,Drzemanie...
+TimeSkipOptions_Actions[3].ActionName,Sleep,Sen
 TimeSkipOptions_Actions[3].StatInterruptions[1].Notification,I'm too thirsty to sleep...,I'm too thirsty to sleep...
 TimeSkipOptions_Actions[3].StatInterruptions[2].Notification,I'm too hot to sleep...,I'm too hot to sleep...
 TimeSkipOptions_Actions[3].StatInterruptions[3].Notification,I'm too cold to sleep...,I'm too cold to sleep...
@@ -11666,10 +11666,10 @@ TimeSkipOptions_Actions[3].StatInterruptions[4].Notification,I'm losing too much
 TimeSkipOptions_Actions[3].StatInterruptions[5].Notification,I'm not feeling well...,I'm not feeling well...
 TimeSkipOptions_Actions[3].StatInterruptions[6].Notification,I'm not feeling well...,I'm not feeling well...
 TimeSkipOptions_Actions[3].StatInterruptions[7].Notification,I can't sleep in the middle of a storm!,I can't sleep in the middle of a storm!
-TimeSkipOptions_Actions[3].FadeMessage,Sleeping...,Sleeping...
+TimeSkipOptions_Actions[3].FadeMessage,Sleeping...,Spanie...
 LANGUAGE,Language,Language
 LANGUAGE_CHANGE_CONFIRM,Changing the language requires a restart (your progress will be saved if you're in a run). Do you wish to proceed?,Changing the language requires a restart (your progress will be saved if you're in a run). Do you wish to proceed?
-NEW_GAME,NEW GAME,NEW GAME
+NEW_GAME,NEW GAME,NOWA GRA
 THANKS_RETROMATION,Retromation \n<size=75\n%>For being an all around great guy & for showing our game to the world.</size>,Retromation \n<size=75\n%>For being an all around great guy & for showing our game to the world.</size>
 THANKS_THENEOMARE,The Neomare \n<size=75\n%>For being another great guy & showing his constant support both in his Youtube channel & the forums.</size>,The Neomare \n<size=75\n%>For being another great guy & showing his constant support both in his Youtube channel & the forums.</size>
 THANKS_TIMMEKEMMIT,"Matthew Kemmit aka ""Doc""\n<size=75%>For sharing your knowledge and ideas with us!</size>","Matthew Kemmit aka ""Doc""\n<size=75%>For sharing your knowledge and ideas with us!</size>"
@@ -13836,7 +13836,7 @@ StonePreciseLowDamage_CardInteractions[0].ActionName,Sharpen Stone,Sharpen Stone
 StonePreciseLowDamage_CardInteractions[0].ActionLog.LogText,I sharpened a stone to use it as a tool.,I sharpened a stone to use it as a tool.
 StonePreciseLowDamage_DismantleActions[0].ActionName,Practice Rock Throwing,Practice Rock Throwing
 WOUNDED,YOU GOT WOUNDED!,YOU GOT WOUNDED!
-INVERT_SCROLL,Invert Horizontal Scroll,Invert Horizontal Scroll
+INVERT_SCROLL,Invert Horizontal Scroll,Odwróć poziome przesuwanie kółkiem
 CampfireExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
 ClayFirePit_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
 ClayFirePitExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
