@@ -48,7 +48,7 @@ DIFFICULTY_SCORE,Difficulty: {0}pts,Poziom trudności: {0}pkt
 DISCARD_ACTION_DESC,Permanently get rid of this object.,Permanentnie pozbądź się tego obiektu.
 DISCARD_ACTION_TITLE,Discard,Odrzuć
 DISMANTLE_DESC,Collect all items and revert to previous building stage.,Zbierz wszystkie przedmioty i wróć do poprzedniego etapu budowy.
-DISMANTLE_DESC_FIRST_STEP,Collect all items and destroy building.,Zbierz wszystkie przedmioty i zniszcz budynek.
+DISMANTLE_DESC_FIRST_STEP,Collect all items and destroy building.,Zbierz wszystkie przedmioty i usuń tworzenie przedmiotu.
 DURATION,Duration,Czas trwania
 EMPTY,Empty,Puste
 NO_CHARACTER_BIO,You don't remember anything before the island...,Nie pamiętasz niczego sprzed trafienia na wyspę...
@@ -1235,15 +1235,15 @@ Forge_CardInteractions[6].ActionName,Feed Leaves,Feed Leaves
 Forge_CardInteractions[7].ActionName,Increase Temperature,Increase Temperature
 Forge_CookingConditions.CookingPausedNotification,Not Hot Enough,Not Hot Enough
 Forge_CookingRecipes[0].ActionName,Smelt Copper,Smelt Copper
-Forge_CookingRecipes[0].CannotCookText,More temperature required!,More temperature required!
+Forge_CookingRecipes[0].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Forge_CookingRecipes[1].ActionName,Axe Head,Axe Head
-Forge_CookingRecipes[1].CannotCookText,More temperature required!,More temperature required!
+Forge_CookingRecipes[1].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Forge_CookingRecipes[2].ActionName,Shovel Head,Shovel Head
-Forge_CookingRecipes[2].CannotCookText,More temperature required!,More temperature required!
+Forge_CookingRecipes[2].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Forge_CookingRecipes[3].ActionName,Spear Head,Spear Head
-Forge_CookingRecipes[3].CannotCookText,More temperature required!,More temperature required!
+Forge_CookingRecipes[3].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Forge_CookingRecipes[4].ActionName,Knife,Knife
-Forge_CookingRecipes[4].CannotCookText,More temperature required!,More temperature required!
+Forge_CookingRecipes[4].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 ForgeExtinguished_CardName,Forge,Forge
 ForgeExtinguished_CardDescription,A specialized structure for smelting metals. Should be able to relight it with some lit tinder.,A specialized structure for smelting metals. Should be able to relight it with some lit tinder.
 ForgeExtinguished_SpoilageTime.CardStatName,Temperature,Temperature
@@ -1348,37 +1348,37 @@ Kiln_CardInteractions[6].ActionName,Feed Leaves,Feed Leaves
 Kiln_CardInteractions[7].ActionName,Increase Temperature,Increase Temperature
 Kiln_CookingConditions.CookingPausedNotification,Not Hot Enough,Not Hot Enough
 Kiln_CookingRecipes[0].ActionName,Alembic,Alembic
-Kiln_CookingRecipes[0].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[0].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[2].ActionName,Burn Brimstone Heavy Stone,Burn Brimstone Heavy Stone
-Kiln_CookingRecipes[2].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[2].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[3].ActionName,Burn Heavy Stone,Burn Heavy Stone
-Kiln_CookingRecipes[3].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[3].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[4].ActionName,Burn Mortar,Burn Mortar
-Kiln_CookingRecipes[4].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[4].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[5].ActionName,Burn Stone,Burn Stone
-Kiln_CookingRecipes[5].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[5].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[6].ActionName,Clay Pot Cooler,Clay Pot Cooler
-Kiln_CookingRecipes[6].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[6].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[7].ActionName,Fire Bee Smoker,Fire Bee Smoker
-Kiln_CookingRecipes[7].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[7].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[8].ActionName,Fire Clay Bowl,Fire Clay Bowl
-Kiln_CookingRecipes[8].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[8].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[9].ActionName,Fire Clay Fire Pit,Fire Clay Fire Pit
-Kiln_CookingRecipes[9].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[9].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[10].ActionName,Fire Clay Jar,Fire Clay Jar
-Kiln_CookingRecipes[10].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[10].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[11].ActionName,Fire Clay Vase,Fire Clay Vase
-Kiln_CookingRecipes[11].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[11].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[12].ActionName,Fire Cooking Pot,Fire Cooking Pot
-Kiln_CookingRecipes[12].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[12].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[13].ActionName,Fire Glazed Vase,Fire Glazed Vase
-Kiln_CookingRecipes[13].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[13].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[15].ActionName,Make Charcoal,Make Charcoal
-Kiln_CookingRecipes[15].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[15].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[16].ActionName,Make Quicklime,Make Quicklime
-Kiln_CookingRecipes[16].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[16].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[17].ActionName,Make Vitriol,Make Vitriol
-Kiln_CookingRecipes[17].CannotCookText,More temperature required!,More temperature required!
+Kiln_CookingRecipes[17].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CardName,Advanced Kiln,Advanced Kiln
 KilnAdvanced_CardDescription,Can fire clay in here once it has reached a high enough temperature.,Can fire clay in here once it has reached a high enough temperature.
 KilnAdvanced_SpoilageTime.CardStatName,Temperature,Temperature
@@ -1392,43 +1392,43 @@ KilnAdvanced_CardInteractions[6].ActionName,Feed Leaves,Feed Leaves
 KilnAdvanced_CardInteractions[7].ActionName,Increase Temperature,Increase Temperature
 KilnAdvanced_CookingConditions.CookingPausedNotification,Not Hot Enough,Not Hot Enough
 KilnAdvanced_CookingRecipes[0].ActionName,Alembic,Alembic
-KilnAdvanced_CookingRecipes[0].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[0].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[1].ActionName,Smelt Axe Head,Smelt Axe Head
-KilnAdvanced_CookingRecipes[1].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[1].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[2].ActionName,Burn Brimstone Heavy Stone,Burn Brimstone Heavy Stone
-KilnAdvanced_CookingRecipes[2].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[2].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[3].ActionName,Burn Heavy Stone,Burn Heavy Stone
-KilnAdvanced_CookingRecipes[3].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[3].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[4].ActionName,Burn Mortar,Burn Mortar
-KilnAdvanced_CookingRecipes[4].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[4].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[5].ActionName,Burn Stone,Burn Stone
-KilnAdvanced_CookingRecipes[5].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[5].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[6].ActionName,Clay Pot Cooler,Clay Pot Cooler
-KilnAdvanced_CookingRecipes[6].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[6].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[7].ActionName,Fire Clay Bowl,Fire Clay Bowl
-KilnAdvanced_CookingRecipes[7].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[7].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[8].ActionName,Fire Clay Fire Pit,Fire Clay Fire Pit
-KilnAdvanced_CookingRecipes[8].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[8].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[9].ActionName,Fire Clay Jar,Fire Clay Jar
-KilnAdvanced_CookingRecipes[9].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[9].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[10].ActionName,Fire Bee Smoker,Fire Bee Smoker
-KilnAdvanced_CookingRecipes[10].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[10].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[11].ActionName,Fire Clay Vase,Fire Clay Vase
-KilnAdvanced_CookingRecipes[11].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[11].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[12].ActionName,Fire Cooking Pot,Fire Cooking Pot
-KilnAdvanced_CookingRecipes[12].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[12].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[13].ActionName,Fire Glazed Vase,Fire Glazed Vase
-KilnAdvanced_CookingRecipes[13].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[13].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[15].ActionName,Make Charcoal,Make Charcoal
-KilnAdvanced_CookingRecipes[15].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[15].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[16].ActionName,Make Quicklime,Make Quicklime
-KilnAdvanced_CookingRecipes[16].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[16].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[17].ActionName,Make Vitriol,Make Vitriol
-KilnAdvanced_CookingRecipes[17].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[17].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[18].ActionName,Smelt Small Tool,Smelt Small Tool
-KilnAdvanced_CookingRecipes[18].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[18].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[19].ActionName,Smelt Copper,Smelt Copper
-KilnAdvanced_CookingRecipes[19].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[19].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvancedExtinguished_CardName,Advanced Kiln,Advanced Kiln
 KilnAdvancedExtinguished_CardDescription,I should be able to relight it with some lit tinder.,I should be able to relight it with some lit tinder.
 KilnAdvancedExtinguished_SpoilageTime.CardStatName,Temperature,Temperature
@@ -1966,16 +1966,16 @@ WateringTrough_CardInteractions[0].ActionName,Demolish,Demolish
 WateringTrough_CookingConditions.CookingPausedNotification,Organic waste needed!,Organic waste needed!
 Bp_Butter_CardName,Butter,Butter
 Bp_Butter_CardDescription,Can turn milk into tasty butter.,Can turn milk into tasty butter.
-Bp_Butter_UnlockConditionsDesc,Milk Needed,Milk Needed
+Bp_Butter_UnlockConditionsDesc,Milk Needed,Potrzebne mleko
 Bp_ButterBakedOysters_CardName,Butter Baked Oysters,Butter Baked Oysters
 Bp_ButterBakedOysters_CardDescription,Wow!,Wow!
-Bp_ButterBakedOysters_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_ButterBakedOysters_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_CandiedGinger_CardName,Candied Ginger,Candied Ginger
 Bp_CandiedGinger_CardDescription,Tasty and durable.,Tasty and durable.
-Bp_CandiedGinger_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_CandiedGinger_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_Cheese_CardName,Cheese,Cheese
 Bp_Cheese_CardDescription,Can turn milk into tasty cheese.,Can turn milk into tasty cheese.
-Bp_Cheese_UnlockConditionsDesc,Milk Needed,Milk Needed
+Bp_Cheese_UnlockConditionsDesc,Milk Needed,Potrzebne mleko
 Bp_ChickenSandwich_CardName,Chicken Sandwich,Chicken Sandwich
 Bp_ChickenSandwich_CardDescription,It's not really made with chicken but it's close enough!,It's not really made with chicken but it's close enough!
 Bp_ChickenSandwich_UnlockConditionsDesc,Sago Flatbread Needed,Sago Flatbread Needed
@@ -1984,40 +1984,40 @@ Bp_CoconutFish_CardDescription,Tasty and rich!,Tasty and rich!
 Bp_CoconutFish_UnlockConditionsDesc,Cooking Pot Needed,Cooking Pot Needed
 Bp_CoconutMilk_CardName,Coconut Milk,Coconut Milk
 Bp_CoconutMilk_CardDescription,"Tasty, can also boil it into oil.","Tasty, can also boil it into oil."
-Bp_CoconutMilk_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_CoconutMilk_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_DrunkenCrab_CardName,Drunken Crab,Drunken Crab
 Bp_DrunkenCrab_CardDescription,Delicious and nutritious!,Delicious and nutritious!
-Bp_DrunkenCrab_UnlockConditionsDesc,Alcohol Needed,Alcohol Needed
+Bp_DrunkenCrab_UnlockConditionsDesc,Alcohol Needed,Potrzebny alkohol
 Bp_FishNChips_CardName,Fish N' Chips,Fish N' Chips
 Bp_FishNChips_CardDescription,"Tasty, rich and cheap","Tasty, rich and cheap"
-Bp_FishNChips_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_FishNChips_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_FishOmelette_CardName,Fish Omelette,Fish Omelette
 Bp_FishOmelette_CardDescription,"Tasty, rich and cheap","Tasty, rich and cheap"
-Bp_FishOmelette_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_FishOmelette_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_FishTaco_CardName,Fish Taco,Fish Taco
 Bp_FishTaco_CardDescription,Nice and spicy.,Nice and spicy.
 Bp_FishTaco_UnlockConditionsDesc,Sago Flatbread Needed,Sago Flatbread Needed
 Bp_FriedBananas_CardName,Fried Bananas,Fried Bananas
 Bp_FriedBananas_CardDescription,Tasty and rich.,Tasty and rich.
-Bp_FriedBananas_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_FriedBananas_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_GoatStew_CardName,Goat Stew,Goat Stew
 Bp_GoatStew_CardDescription,"Filling, and tasty.","Filling, and tasty."
-Bp_GoatStew_UnlockConditionsDesc,Goat Meat Needed,Goat Meat Needed
+Bp_GoatStew_UnlockConditionsDesc,Goat Meat Needed,Potrzebne kozie mięso
 Bp_HeartyFeast_CardName,Hearty Feast,Hearty Feast
 Bp_HeartyFeast_CardDescription,"Tasty, rich and filling.","Tasty, rich and filling."
-Bp_HeartyFeast_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_HeartyFeast_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_HoneyCandy_CardName,Honey Candy,Honey Candy
 Bp_HoneyCandy_CardDescription,Tasty and durable.,Tasty and durable.
-Bp_HoneyCandy_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_HoneyCandy_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_HoneyGlazedPork_CardName,Honey Glazed Pork,Honey Glazed Pork
 Bp_HoneyGlazedPork_CardDescription,"Tasty, rich and filling.","Tasty, rich and filling."
-Bp_HoneyGlazedPork_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_HoneyGlazedPork_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_IslandChicken_CardName,Island Chicken,Island Chicken
 Bp_IslandChicken_CardDescription,Tasty and rich!,Tasty and rich!
 Bp_IslandChicken_UnlockConditionsDesc,Cooking Pot Needed,Cooking Pot Needed
 Bp_JungleSalad_CardName,Jungle Salad,Jungle Salad
 Bp_JungleSalad_CardDescription,Tasty and refreshing.,Tasty and refreshing.
-Bp_JungleSalad_UnlockConditionsDesc,Oil Needed,Oil Needed
+Bp_JungleSalad_UnlockConditionsDesc,Oil Needed,Potrzebny olej
 Bp_LizardFry_CardName,Lizard Fry,Lizard Fry
 Bp_LizardFry_CardDescription,Tasty and rich.,Tasty and rich.
 Bp_LizardFry_UnlockConditionsDesc,Monitor Meat Needed,Monitor Meat Needed
@@ -2026,13 +2026,13 @@ Bp_MacaqueSkewers_CardDescription,"Tasty, rich and cheap","Tasty, rich and cheap
 Bp_MacaqueSkewers_UnlockConditionsDesc,Macaque Meat Needed,Macaque Meat Needed
 Bp_ProteinBar_CardName,Protein Bar,Protein Bar
 Bp_ProteinBar_CardDescription,Practical and rich in nutrients.,Practical and rich in nutrients.
-Bp_ProteinBar_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_ProteinBar_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_SagoCake_CardName,Sago Cake,Sago Cake
 Bp_SagoCake_CardDescription,"Tasty, rich and filling.","Tasty, rich and filling."
-Bp_SagoCake_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_SagoCake_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_SagoSlime_CardName,Sago Slime,Sago Slime
 Bp_SagoSlime_CardDescription,"Not particularly tasty, but its filling and full of calories.","Not particularly tasty, but its filling and full of calories."
-Bp_SagoSlime_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_SagoSlime_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_ScrappySoup_CardName,Bone Broth,Bone Broth
 Bp_ScrappySoup_CardDescription,"Filling, if nothing else.","Filling, if nothing else."
 Bp_ScrappySoup_UnlockConditionsDesc,Cooking Pot Needed,Cooking Pot Needed
@@ -2041,31 +2041,31 @@ Bp_SeafoodCup_CardDescription,Tasty and refreshing.,Tasty and refreshing.
 Bp_SeafoodCup_UnlockConditionsDesc,Urchin Meat Needed,Urchin Meat Needed
 Bp_Sushi_CardName,Sushi,Sushi
 Bp_Sushi_CardDescription,So Tasty!,So Tasty!
-Bp_Sushi_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_Sushi_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_TonicWater_CardName,Tonic Water,Tonic Water
 Bp_TonicWater_CardDescription,Bitter but tasty to some. Helps prevent Malaria!,Bitter but tasty to some. Helps prevent Malaria!
-Bp_TonicWater_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_TonicWater_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_YamCurry_CardName,Yam Curry,Yam Curry
 Bp_YamCurry_CardDescription,Tasty and rich.,Tasty and rich.
-Bp_YamCurry_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_YamCurry_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_YamJam_CardName,Yam Jam,Yam Jam
 Bp_YamJam_CardDescription,Tasty and rich. Perfect with flatbread.,Tasty and rich. Perfect with flatbread.
-Bp_YamJam_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_YamJam_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_Alembic_CardName,Alembic,Alembic
 Bp_Alembic_CardDescription,A device to turn seawater into fresh water.,A device to turn seawater into fresh water.
 Bp_Alembic_UnlockConditionsDesc,Clay Pot Cooler Needed,Clay Pot Cooler Needed
 Bp_Alembic_BlueprintFinishedLog.LogText,I built an Alembic.,I built an Alembic.
 Bp_AloeGel_CardName,Aloe Gel,Aloe Gel
 Bp_AloeGel_CardDescription,"Good for pretty much everything, sunburns, backpain, bug bites, wounds and more.","Good for pretty much everything, sunburns, backpain, bug bites, wounds and more."
-Bp_AloeGel_UnlockConditionsDesc,More Herbology Needed,More Herbology Needed
+Bp_AloeGel_UnlockConditionsDesc,More Herbology Needed,Potrzebne bardziej rozwinięte zielarstwo
 Bp_AloeGel_BlueprintFinishedLog.LogText,I made some aloe vera gel.,I made some aloe vera gel.
 Bp_Arrow_CardName,Arrows,Arrows
 Bp_Arrow_CardDescription,Simple bow arrows.,Simple bow arrows.
-Bp_Arrow_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_Arrow_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_Arrow_BlueprintFinishedLog.LogText,I crafted some arrows.,I crafted some arrows.
 Bp_AshDressing_CardName,Ash Dressing,Ash Dressing
 Bp_AshDressing_CardDescription,"Sterile wound dressing, should help protect wounds from infection and help them heal faster.\n","Sterile wound dressing, should help protect wounds from infection and help them heal faster.\n"
-Bp_AshDressing_UnlockConditionsDesc,Ash Needed,Ash Needed
+Bp_AshDressing_UnlockConditionsDesc,Ash Needed,Potrzebny pył
 Bp_AshDressing_BlueprintFinishedLog.LogText,I made an ash dressing.,I made an ash dressing.
 Bp_Bedroll_CardName,Bedroll,Bedroll
 Bp_Bedroll_CardDescription,A portable sleeping bag.,A portable sleeping bag.
@@ -2073,11 +2073,11 @@ Bp_Bedroll_UnlockConditionsDesc,Leather Pants Needed,Leather Pants Needed
 Bp_Bedroll_BlueprintFinishedLog.LogText,I made a leather bedroll.,I made a leather bedroll.
 Bp_BedRustic_CardName,Rustic Bed,Rustic Bed
 Bp_BedRustic_CardDescription,A nice wooden bed. My back will thank me.,A nice wooden bed. My back will thank me.
-Bp_BedRustic_UnlockConditionsDesc,More Crafting Needed,More Crafting Needed
+Bp_BedRustic_UnlockConditionsDesc,More Crafting Needed,Potrzebne bardziej rozwinięte wytwarzanie
 Bp_BedRustic_BlueprintFinishedLog.LogText,I built myself a new bed.,I built myself a new bed.
 Bp_BedWooden_CardName,Wooden Bed,Wooden Bed
 Bp_BedWooden_CardDescription,A nice and comfortable wooden bed. My back will thank me.,A nice and comfortable wooden bed. My back will thank me.
-Bp_BedWooden_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_BedWooden_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_BedWooden_BlueprintFinishedLog.LogText,I built myself a very comfortable bed.,I built myself a very comfortable bed.
 Bp_BeeSkep_CardName,Bee Skep,Bee Skep
 Bp_BeeSkep_CardDescription,An artificial beehive.,An artificial beehive.
@@ -2085,7 +2085,7 @@ Bp_BeeSkep_UnlockConditionsDesc,Empty Skep Needed,Empty Skep Needed
 Bp_BeeSkep_BlueprintFinishedLog.LogText,I placed some bees inside a Bee Skep.,I placed some bees inside a Bee Skep.
 Bp_BeeSkepEmpty_CardName,Empty Skep,Empty Skep
 Bp_BeeSkepEmpty_CardDescription,An artificial beehive.,An artificial beehive.
-Bp_BeeSkepEmpty_UnlockConditionsDesc,Beehive Needed,Beehive Needed
+Bp_BeeSkepEmpty_UnlockConditionsDesc,Beehive Needed,Potrzebny ul
 Bp_BeeSkepEmpty_BlueprintFinishedLog.LogText,I built a Bee Skep.,I built a Bee Skep.
 Bp_BeeSmoker_CardName,Bee Smoker,Bee Smoker
 Bp_BeeSmoker_CardDescription,A tool for calming bees down.,A tool for calming bees down.
@@ -2097,76 +2097,76 @@ Bp_BeeSuit_UnlockConditionsDesc,Bee Smoker Needed,Bee Smoker Needed
 Bp_BeeSuit_BlueprintFinishedLog.LogText,I made a bee suit for myself.,I made a bee suit for myself.
 Bp_Bellows_CardName,Bellows,Bellows
 Bp_Bellows_CardDescription,Should help me work faster with Kilns and Forges.,Should help me work faster with Kilns and Forges.
-Bp_Bellows_UnlockConditionsDesc,Kiln Needed,Kiln Needed
+Bp_Bellows_UnlockConditionsDesc,Kiln Needed,Potrzebny piec do wypalania
 Bp_Bellows_BlueprintFinishedLog.LogText,I made myself some bellows.,I made myself some bellows.
 Bp_BoneKnife_CardName,Bone Knife,Bone Knife
 Bp_BoneKnife_CardDescription,A sharp bone knife.,A sharp bone knife.
-Bp_BoneKnife_UnlockConditionsDesc,Bones Needed,Bones Needed
+Bp_BoneKnife_UnlockConditionsDesc,Bones Needed,Potrzebne kości
 Bp_BoneKnife_BlueprintFinishedLog.LogText,I crafted a nice bone knife.,I crafted a nice bone knife.
 Bp_Bookshelf_CardName,Bookshelf,Bookshelf
 Bp_Bookshelf_CardDescription,"A shelving unit, can store and display things on it.","A shelving unit, can store and display things on it."
-Bp_Bookshelf_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_Bookshelf_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_Bookshelf_BlueprintFinishedLog.LogText,I built some nice shelves.,I built some nice shelves.
 Bp_Bow_CardName,Bow,Bow
 Bp_Bow_CardDescription,A rustic hunting bow.,A rustic hunting bow.
-Bp_Bow_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_Bow_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_Bow_BlueprintFinishedLog.LogText,I crafted a bow.,I crafted a bow.
 Bp_BrimstoneGel_CardName,Brimstone Gel,Brimstone Gel
 Bp_BrimstoneGel_CardDescription,A great desinfectant for your wounds.,A great desinfectant for your wounds.
-Bp_BrimstoneGel_UnlockConditionsDesc,Brimstone Needed,Brimstone Needed
+Bp_BrimstoneGel_UnlockConditionsDesc,Brimstone Needed,Potrzebna siarka
 Bp_BrimstoneGel_BlueprintFinishedLog.LogText,I made some brimstone gel.,I made some brimstone gel.
 Bp_Broom_CardName,Broom,Broom
 Bp_Broom_CardDescription,Perfect for cleaning the home.,Perfect for cleaning the home.
-Bp_Broom_UnlockConditionsDesc,More Discomfort Needed,More Discomfort Needed
+Bp_Broom_UnlockConditionsDesc,More Discomfort Needed,Potrzebne bardziej rozwinięty dyskomfort
 Bp_Broom_BlueprintFinishedLog.LogText,I made a broom.,I made a broom.
 Bp_BugRepellent_CardName,Bug Repellant,Bug Repellant
 Bp_BugRepellent_CardDescription,Goodbye bugbites!,Goodbye bugbites!
-Bp_BugRepellent_UnlockConditionsDesc,More Herbology Needed,More Herbology Needed
+Bp_BugRepellent_UnlockConditionsDesc,More Herbology Needed,Potrzebne bardziej rozwinięte zielarstwo
 Bp_BugRepellent_BlueprintFinishedLog.LogText,I made some bug repellant.,I made some bug repellant.
 Bp_Campfire_CardName,Campfire,Campfire
 Bp_Campfire_CardDescription,"Perfect for cooking, should provide me with warmth and light.","Perfect for cooking, should provide me with warmth and light."
 Bp_Campfire_BlueprintFinishedLog.LogText,I built a campfire.,I built a campfire.
 Bp_Candles_CardName,Candles,Candles
 Bp_Candles_CardDescription,A long lasting portable source of light.,A long lasting portable source of light.
-Bp_Candles_UnlockConditionsDesc,Fat/Wax Needed,Fat/Wax Needed
+Bp_Candles_UnlockConditionsDesc,Fat/Wax Needed,Potrzebny tłuszcz/wosk
 Bp_Candles_BlueprintFinishedLog.LogText,I made some candles.,I made some candles.
 Bp_CandlesCitronella_CardName,Citronella Candles,Citronella Candles
 Bp_CandlesCitronella_CardDescription,A long lasting portable source of light. Smells good and repells bugs!,A long lasting portable source of light. Smells good and repells bugs!
-Bp_CandlesCitronella_UnlockConditionsDesc,Candles Needed,Candles Needed
+Bp_CandlesCitronella_UnlockConditionsDesc,Candles Needed,Potrzebne świece
 Bp_CandlesCitronella_BlueprintFinishedLog.LogText,I made some candles.,I made some candles.
 Bp_CandlesJasmine_CardName,Jasmine Candles,Jasmine Candles
 Bp_CandlesJasmine_CardDescription,A long lasting portable source of light. Smells very very good!,A long lasting portable source of light. Smells very very good!
-Bp_CandlesJasmine_UnlockConditionsDesc,Candles Needed,Candles Needed
+Bp_CandlesJasmine_UnlockConditionsDesc,Candles Needed,Potrzebne świece
 Bp_CandlesJasmine_BlueprintFinishedLog.LogText,I made some candles.,I made some candles.
 Bp_Cellar_CardName,Cellar,Cellar
 Bp_Cellar_CardDescription,"An underground room, food stored here will last longer.","An underground room, food stored here will last longer."
-Bp_Cellar_UnlockConditionsDesc,More Crafting Needed,More Crafting Needed
+Bp_Cellar_UnlockConditionsDesc,More Crafting Needed,Potrzebne bardziej rozwinięte wytwarzanie
 Bp_Cellar_BlueprintFinishedLog.LogText,I dug up a cellar.,I dug up a cellar.
 Bp_CeremonialDagger_CardName,Ceremonial Dagger,Ceremonial Dagger
 Bp_CeremonialDagger_CardDescription,A very sharp obsidian dagger.,A very sharp obsidian dagger.
 Bp_CeremonialDagger_BlueprintFinishedLog.LogText,I crafted a nice obsidian knife.,I crafted a nice obsidian knife.
 Bp_Chair_CardName,Chair,Chair
 Bp_Chair_CardDescription,A chair to sit on.,A chair to sit on.
-Bp_Chair_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_Chair_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_Chair_BlueprintFinishedLog.LogText,I built myself a comfy chair.,I built myself a comfy chair.
 Bp_Chest_CardName,Chest,Chest
 Bp_Chest_CardDescription,A large storage chest.,A large storage chest.
-Bp_Chest_UnlockConditionsDesc,More Crafting Needed,More Crafting Needed
+Bp_Chest_UnlockConditionsDesc,More Crafting Needed,Potrzebne bardziej rozwinięte wytwarzanie
 Bp_Chest_BlueprintFinishedLog.LogText,I built a chest.,I built a chest.
 Bp_Cistern_CardName,Cistern,Cistern
-Bp_Cistern_UnlockConditionsDesc,Shovel Needed,Shovel Needed
+Bp_Cistern_UnlockConditionsDesc,Shovel Needed,Potrzebna łopata
 Bp_Cistern_BlueprintFinishedLog.LogText,I dug up a cistern.,I dug up a cistern.
 Bp_ClayBowl_CardName,Clay Bowl,Clay Bowl
 Bp_ClayBowl_CardDescription,A small clay bowl.,A small clay bowl.
-Bp_ClayBowl_UnlockConditionsDesc,Clay Needed,Clay Needed
+Bp_ClayBowl_UnlockConditionsDesc,Clay Needed,Potrzebna glina
 Bp_ClayBowl_BlueprintFinishedLog.LogText,I made a clay bowl.,I made a clay bowl.
 Bp_ClayFirePit_CardName,Clay Fire Pit,Clay Fire Pit
 Bp_ClayFirePit_CardDescription,A portable fire pit that can be used on a raft. Needs to be fired in a Kiln.,A portable fire pit that can be used on a raft. Needs to be fired in a Kiln.
-Bp_ClayFirePit_UnlockConditionsDesc,Raft Needed,Raft Needed
+Bp_ClayFirePit_UnlockConditionsDesc,Raft Needed,Potrzebna tratwa
 Bp_ClayFirePit_BlueprintFinishedLog.LogText,I crafted a clay fire pit.,I crafted a clay fire pit.
 Bp_ClayJar_CardName,Clay Jar,Clay Jar
 Bp_ClayJar_CardDescription,A small sealed container.,A small sealed container.
-Bp_ClayJar_UnlockConditionsDesc,Kiln Needed,Kiln Needed
+Bp_ClayJar_UnlockConditionsDesc,Kiln Needed,Potrzebny piec do wypalania
 Bp_ClayJar_BlueprintFinishedLog.LogText,I made a clay jar.,I made a clay jar.
 Bp_ClayPotCooler_CardName,Clay Pot Cooler,Clay Pot Cooler
 Bp_ClayPotCooler_CardDescription,A device to store food and make it last longer.,A device to store food and make it last longer.
@@ -2174,19 +2174,19 @@ Bp_ClayPotCooler_UnlockConditionsDesc,Clay Vase Needed,Clay Vase Needed
 Bp_ClayPotCooler_BlueprintFinishedLog.LogText,I built a clay pot cooler.,I built a clay pot cooler.
 Bp_ClayVase_CardName,Clay Vase,Clay Vase
 Bp_ClayVase_CardDescription,A large water container. Needs to be fired in a Kiln.,A large water container. Needs to be fired in a Kiln.
-Bp_ClayVase_UnlockConditionsDesc,Kiln Needed,Kiln Needed
+Bp_ClayVase_UnlockConditionsDesc,Kiln Needed,Potrzebny piec do wypalania
 Bp_ClayVase_BlueprintFinishedLog.LogText,I crafted a clay vase.,I crafted a clay vase.
 Bp_CoconutSandals_CardName,Coconut Sandals,Coconut Sandals
 Bp_CoconutSandals_CardDescription,"They're not comfortable, but they should protect my feet from damage.","They're not comfortable, but they should protect my feet from damage."
-Bp_CoconutSandals_UnlockConditionsDesc,Cords Needed,Cords Needed
+Bp_CoconutSandals_UnlockConditionsDesc,Cords Needed,Potrzebne sznury
 Bp_CoconutSandals_BlueprintFinishedLog.LogText,I crafted myself a pair of coconut sandals.,I crafted myself a pair of coconut sandals.
 Bp_CompostBin_CardName,Compost Bin,Compost Bin
 Bp_CompostBin_CardDescription,Turn organic waste into fertilizer for my crops.,Turn organic waste into fertilizer for my crops.
-Bp_CompostBin_UnlockConditionsDesc,More Herbology Needed,More Herbology Needed
+Bp_CompostBin_UnlockConditionsDesc,More Herbology Needed,Potrzebne bardziej rozwinięte zielarstwo
 Bp_CompostBin_BlueprintFinishedLog.LogText,I built a chest.,I built a chest.
 Bp_CookingPot_CardName,Cooking Pot,Cooking Pot
 Bp_CookingPot_CardDescription,A cooking pot for preparing more advanced meals. Needs to be fired in a Kiln.,A cooking pot for preparing more advanced meals. Needs to be fired in a Kiln.
-Bp_CookingPot_UnlockConditionsDesc,Kiln Needed,Kiln Needed
+Bp_CookingPot_UnlockConditionsDesc,Kiln Needed,Potrzebny piec do wypalania
 Bp_CookingPot_BlueprintFinishedLog.LogText,I made a cooking pot with clay.,I made a cooking pot with clay.
 Bp_CopperAxe_CardName,Copper Axe,Miedziana siekiera
 Bp_CopperAxe_CardDescription,A copper axe. A proper axe!,A copper axe. A proper axe!
@@ -2202,7 +2202,7 @@ Bp_CopperSpear_UnlockConditionsDesc,Copper Spearhead Needed,Copper Spearhead Nee
 Bp_CopperSpear_BlueprintFinishedLog.LogText,I made a copper spear.,I made a copper spear.
 Bp_CropPlot_CardName,Crop Plot,Crop Plot
 Bp_CropPlot_CardDescription,A plot for growing crops.,A plot for growing crops.
-Bp_CropPlot_UnlockConditionsDesc,More Herbology Needed,More Herbology Needed
+Bp_CropPlot_UnlockConditionsDesc,More Herbology Needed,Potrzebne bardziej rozwinięte zielarstwo
 Bp_CropPlot_BlueprintFinishedLog.LogText,I built a plot for my crops.,I built a plot for my crops.
 Bp_DeadfallTrap_CardName,Deadfall Trap,Deadfall Trap
 Bp_DeadfallTrap_CardDescription,A simple trap.,A simple trap.
@@ -2210,19 +2210,19 @@ Bp_DeadfallTrap_UnlockConditionsDesc,Heavy Stone Needed,Heavy Stone Needed
 Bp_DeadfallTrap_BlueprintFinishedLog.LogText,I built a deadfall trap.,I built a deadfall trap.
 Bp_Drum_CardName,Drum,Drum
 Bp_Drum_CardDescription,Rythm has arrived to the island.,Rythm has arrived to the island.
-Bp_Drum_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_Drum_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_Drum_BlueprintFinishedLog.LogText,I built a drum!,I built a drum!
 Bp_DryingRack_CardName,Drying Rack,Drying Rack
 Bp_DryingRack_CardDescription,I can hang vegetables and meat to dry here.,I can hang vegetables and meat to dry here.
-Bp_DryingRack_UnlockConditionsDesc,More Cooking Needed,More Cooking Needed
+Bp_DryingRack_UnlockConditionsDesc,More Cooking Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_DryingRack_BlueprintFinishedLog.LogText,I built a Drying Rack for drying food.,I built a Drying Rack for drying food.
 Bp_Dynamite_CardName,Dynamite,Dynamite
 Bp_Dynamite_CardDescription,Make things go BOOM!,Make things go BOOM!
-Bp_Dynamite_UnlockConditionsDesc,Saltpeter Needed,Saltpeter Needed
+Bp_Dynamite_UnlockConditionsDesc,Saltpeter Needed,Potrzebna saletra
 Bp_Dynamite_BlueprintFinishedLog.LogText,I made some dynamite!,I made some dynamite!
 Bp_Enclosure_CardName,Enclosure,Enclosure
 Bp_Enclosure_CardDescription,An animal enclosure.,An animal enclosure.
-Bp_Enclosure_UnlockConditionsDesc,Partridge Needed,Partridge Needed
+Bp_Enclosure_UnlockConditionsDesc,Partridge Needed,Potrzebna kuropatwa
 Bp_Enclosure_BlueprintFinishedLog.LogText,I built an enclosure for animals.,I built an enclosure for animals.
 Bp_FeedBird_CardName,Bird Feed,Bird Feed
 Bp_FeedBird_CardDescription,"Bird food, perfect for the feeder.","Bird food, perfect for the feeder."
@@ -2232,14 +2232,14 @@ Bp_FeedGoat_CardDescription,"Goat food, perfect for the feeding trough.","Goat f
 Bp_FeedGoat_UnlockConditionsDesc,Feeding Trough Needed,Feeding Trough Needed
 Bp_FeedingTrough_CardName,Goat Feeder,Goat Feeder
 Bp_FeedingTrough_CardDescription,A device to feed goats with minimal work.,A device to feed goats with minimal work.
-Bp_FeedingTrough_UnlockConditionsDesc,Goat Needed,Goat Needed
+Bp_FeedingTrough_UnlockConditionsDesc,Goat Needed,Potrzebna koza
 Bp_FeedingTrough_BlueprintFinishedLog.LogText,I built a a feeding Trough.,I built a a feeding Trough.
 Bp_Fire_CardName,Fire,Fire
 Bp_Fire_CardDescription,A simple temprorary fire to provide me with warmth and light.,A simple temprorary fire to provide me with warmth and light.
 Bp_Fire_BlueprintFinishedLog.LogText,I built a fire.,I built a fire.
 Bp_FishBait_CardName,Fish Bait,Fish Bait
 Bp_FishBait_CardDescription,"Bait made of feathers, cord and seashells.","Bait made of feathers, cord and seashells."
-Bp_FishBait_UnlockConditionsDesc,More Fishing Needed,More Fishing Needed
+Bp_FishBait_UnlockConditionsDesc,More Fishing Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_FishBait_BlueprintFinishedLog.LogText,I made some fish bait with seashells and feathers.,I made some fish bait with seashells and feathers.
 Bp_FishingLine_CardName,Fishing Line,Fishing Line
 Bp_FishingLine_CardDescription,A simple tool for fishing.,A simple tool for fishing.
@@ -2247,27 +2247,27 @@ Bp_FishingLine_UnlockConditionsDesc,Bone Hook Needed,Bone Hook Needed
 Bp_FishingLine_BlueprintFinishedLog.LogText,I made a fishing line.,I made a fishing line.
 Bp_FishingRod_CardName,Fishing Rod,Fishing Rod
 Bp_FishingRod_CardDescription,Perfect tool for fishing.,Perfect tool for fishing.
-Bp_FishingRod_UnlockConditionsDesc,More Fishing Needed,More Fishing Needed
+Bp_FishingRod_UnlockConditionsDesc,More Fishing Needed,Potrzebne bardziej rozwinięte gotowanie
 Bp_FishingRod_BlueprintFinishedLog.LogText,I made a fishing rod.,I made a fishing rod.
 Bp_FishingSpear_CardName,Fishing Spear,Fishing Spear
 Bp_FishingSpear_CardDescription,A pretty good spear for fishing. Should increase my chances of catching fish.,A pretty good spear for fishing. Should increase my chances of catching fish.
-Bp_FishingSpear_UnlockConditionsDesc,More Spearfishing Needed,More Spearfishing Needed
+Bp_FishingSpear_UnlockConditionsDesc,More Spearfishing Needed,Potrzebne bardziej rozwinięte łowienie włócznią
 Bp_FishingSpear_BlueprintFinishedLog.LogText,I made a fishing spear.,I made a fishing spear.
 Bp_FishTrap_CardName,Fish Trap,Fish Trap
 Bp_FishTrap_CardDescription,A trap to catch fish with.,A trap to catch fish with.
-Bp_FishTrap_UnlockConditionsDesc,More Fishing Needed,More Fishing Needed
+Bp_FishTrap_UnlockConditionsDesc,More Fishing Needed,Potrzebne bardziej rozwinięte rybactwo
 Bp_FishTrap_BlueprintFinishedLog.LogText,I built a fish trap.,I built a fish trap.
 Bp_FlintAxe_CardName,Flint Axe,Krzemienna siekiera
 Bp_FlintAxe_CardDescription,An axe made with flint.,An axe made with flint.
-Bp_FlintAxe_UnlockConditionsDesc,More Knapping Needed,More Knapping Needed
+Bp_FlintAxe_UnlockConditionsDesc,More Knapping Needed,Potrzebne bardziej rozwinięte kamieniarstwo
 Bp_FlintAxe_BlueprintFinishedLog.LogText,I made an axe with flint.,I made an axe with flint.
 Bp_FlintKnife_CardName,Flint Knife,Flint Knife
 Bp_FlintKnife_CardDescription,A sharp stone knife.,A sharp stone knife.
-Bp_FlintKnife_UnlockConditionsDesc,More Knapping Needed,More Knapping Needed
+Bp_FlintKnife_UnlockConditionsDesc,More Knapping Needed,Potrzebne bardziej rozwinięte kamieniarstwo
 Bp_FlintKnife_BlueprintFinishedLog.LogText,I crafted a flint knife.,I crafted a flint knife.
 Bp_FlintSpear_CardName,Flint Spear,Flint Spear
 Bp_FlintSpear_CardDescription,Perfect tool for hunting.,Perfect tool for hunting.
-Bp_FlintSpear_UnlockConditionsDesc,More Knapping Needed,More Knapping Needed
+Bp_FlintSpear_UnlockConditionsDesc,More Knapping Needed,Potrzebne bardziej rozwinięte kamieniarstwo
 Bp_FlintSpear_BlueprintFinishedLog.LogText,I made a flint spear.,I made a flint spear.
 Bp_FlowerNecklace_CardName,Flower Necklace,Flower Necklace
 Bp_FlowerNecklace_CardDescription,Perhaps it would be nice to wear one.,Perhaps it would be nice to wear one.
@@ -2279,7 +2279,7 @@ Bp_Forge_UnlockConditionsDesc,Copper Ore Needed,Copper Ore Needed
 Bp_Forge_BlueprintFinishedLog.LogText,I built a forge for smelting copper.,I built a forge for smelting copper.
 Bp_GasMask_CardName,Gas Mask,Gas Mask
 Bp_GasMask_CardDescription,An airtight mask with a filter. Perfect for exploring areas with toxic gases.,An airtight mask with a filter. Perfect for exploring areas with toxic gases.
-Bp_GasMask_UnlockConditionsDesc,Volcano Needed,Volcano Needed
+Bp_GasMask_UnlockConditionsDesc,Volcano Needed,Potrzebny wulkan
 Bp_GasMask_BlueprintFinishedLog.LogText,I made myself a waterskin.,I made myself a waterskin.
 Bp_GlazedVase_CardName,Glazed Vase,Glazed Vase
 Bp_GlazedVase_CardDescription,A sealed container strong enough to hold acids.,A sealed container strong enough to hold acids.
@@ -2287,44 +2287,44 @@ Bp_GlazedVase_UnlockConditionsDesc,Clay Vase Needed,Clay Vase Needed
 Bp_GlazedVase_BlueprintFinishedLog.LogText,I crafted a clay vase.,I crafted a clay vase.
 Bp_Glue_CardName,Glue,Glue
 Bp_Glue_CardDescription,Perfect for sticking things together.,Perfect for sticking things together.
-Bp_Glue_UnlockConditionsDesc,Quicklime Needed,Quicklime Needed
+Bp_Glue_UnlockConditionsDesc,Quicklime Needed,Potrzebne wapno palone
 Bp_Hammock_CardName,Hammock,Hammock
 Bp_Hammock_CardDescription,A comfortable bed. My back is really going to thank me for this.,A comfortable bed. My back is really going to thank me for this.
-Bp_Hammock_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_Hammock_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_Hammock_BlueprintFinishedLog.LogText,I built a hammock.,I built a hammock.
 Bp_HandDrill_CardName,Hand Drill,Hand Drill
 Bp_HandDrill_CardDescription,A tool for starting fires,A tool for starting fires
 Bp_HandDrill_BlueprintFinishedLog.LogText,I made a hand drill.,I made a hand drill.
 Bp_Harpoon_CardName,Harpoon,Harpoon
 Bp_Harpoon_CardDescription,"Perfect tool for catching big fish, specially in the open sea.","Perfect tool for catching big fish, specially in the open sea."
-Bp_Harpoon_UnlockConditionsDesc,More Spearfishing Needed,More Spearfishing Needed
+Bp_Harpoon_UnlockConditionsDesc,More Spearfishing Needed,Potrzebne bardziej rozwinięte łowienie włócznią
 Bp_Harpoon_BlueprintFinishedLog.LogText,I made a harpoon.,I made a harpoon.
 Bp_Honey_CardName,Honey,Honey
 Bp_Honey_CardDescription,Tasty and durable.,Tasty and durable.
-Bp_Honey_UnlockConditionsDesc,Honeycomb Needed,Honeycomb Needed
+Bp_Honey_UnlockConditionsDesc,Honeycomb Needed,Potrzebny plaster miodu
 Bp_Kiln_CardName,Kiln,Kiln
 Bp_Kiln_CardDescription,A furnace for firing clay.,A furnace for firing clay.
 Bp_Kiln_UnlockConditionsDesc,Mud Brick Needed,Mud Brick Needed
 Bp_Kiln_BlueprintFinishedLog.LogText,I built a kiln for firing clay.,I built a kiln for firing clay.
 Bp_KilnAdvanced_CardName,Advanced Kiln,Advanced Kiln
 Bp_KilnAdvanced_CardDescription,Bigger and better than the normal kiln.,Bigger and better than the normal kiln.
-Bp_KilnAdvanced_UnlockConditionsDesc,Mortar Needed,Mortar Needed
+Bp_KilnAdvanced_UnlockConditionsDesc,Mortar Needed,Potrzebna zaprawa
 Bp_KilnAdvanced_BlueprintFinishedLog.LogText,I built an advanced kiln.,I built an advanced kiln.
 Bp_Leafbed_CardName,Leaf Bed,Leaf Bed
 Bp_Leafbed_CardDescription,A simple leaf bed. More comfortable than a rustic shelter and offers protection against insects. No protection against the weather however.,A simple leaf bed. More comfortable than a rustic shelter and offers protection against insects. No protection against the weather however.
-Bp_Leafbed_UnlockConditionsDesc,Leaves Needed,Leaves Needed
+Bp_Leafbed_UnlockConditionsDesc,Leaves Needed,Potrzebne liście
 Bp_Leafbed_BlueprintFinishedLog.LogText,I made a leaf bed to sleep on.,I made a leaf bed to sleep on.
 Bp_LeafSkirt_CardName,Leaf Skirt,Leaf Skirt
 Bp_LeafSkirt_CardDescription,Simple clothing to cover your privates.,Simple clothing to cover your privates.
-Bp_LeafSkirt_UnlockConditionsDesc,Cord Needed,Cord Needed
+Bp_LeafSkirt_UnlockConditionsDesc,Cord Needed,Potrzebny sznur
 Bp_LeafSkirt_BlueprintFinishedLog.LogText,I made a leaf skirt.,I made a leaf skirt.
 Bp_LeatherBackpack_CardName,Leather Backpack,Leather Backpack
 Bp_LeatherBackpack_CardDescription,I can store things inside.,I can store things inside.
-Bp_LeatherBackpack_UnlockConditionsDesc,Satchel Needed,Satchel Needed
+Bp_LeatherBackpack_UnlockConditionsDesc,Satchel Needed,Potrzebna sakwa
 Bp_LeatherBackpack_BlueprintFinishedLog.LogText,I made myself a leather backpack.,I made myself a leather backpack.
 Bp_LeatherPants_CardName,Leather Pants,Leather Pants
 Bp_LeatherPants_CardDescription,"A bit hot, but should offer protection to my legs.","A bit hot, but should offer protection to my legs."
-Bp_LeatherPants_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_LeatherPants_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_LeatherPants_BlueprintFinishedLog.LogText,I made myself some leather pants.,I made myself some leather pants.
 Bp_LeatherShoes_CardName,Leather Shoes,Leather Shoes
 Bp_LeatherShoes_UnlockConditionsDesc,Cured Skin Needed,Cured Skin Needed
@@ -2334,78 +2334,78 @@ Bp_LizardDrum_CardDescription,Make the spirits hear you.,Make the spirits hear y
 Bp_LizardDrum_BlueprintFinishedLog.LogText,I built a drum!,I built a drum!
 Bp_LogTrap_CardName,Log Trap,Log Trap
 Bp_LogTrap_CardDescription,A big game trap.,A big game trap.
-Bp_LogTrap_UnlockConditionsDesc,More Trapping Needed,More Trapping Needed
+Bp_LogTrap_UnlockConditionsDesc,More Trapping Needed,Potrzebne bardziej rozwinięte zastawianie płapek
 Bp_LogTrap_BlueprintFinishedLog.LogText,I built a Log trap.,I built a Log trap.
 Bp_Loom_CardName,Loom,Loom
 Bp_Loom_CardDescription,It should allow me to weave cloth once it's finished.,It should allow me to weave cloth once it's finished.
-Bp_Loom_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_Loom_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_Loom_BlueprintFinishedLog.LogText,I built a loom for weaving cloth.,I built a loom for weaving cloth.
 Bp_MermaidNest_CardName,Mermaid Nest,Mermaid Nest
 Bp_MermaidNest_CardDescription,A nest made of seaweeds. Helps stay wet and figth land sickness.,A nest made of seaweeds. Helps stay wet and figth land sickness.
 Bp_MermaidNest_BlueprintFinishedLog.LogText,I made a seaweed nest to sleep on.,I made a seaweed nest to sleep on.
 Bp_MoldAxe_CardName,Axe Mold,Axe Mold
 Bp_MoldAxe_CardDescription,A mold for a copper axe.,A mold for a copper axe.
-Bp_MoldAxe_UnlockConditionsDesc,Copper Needed,Copper Needed
+Bp_MoldAxe_UnlockConditionsDesc,Copper Needed,Potrzebna miedź
 Bp_MoldAxe_BlueprintFinishedLog.LogText,I made a mold for an axe.,I made a mold for an axe.
 Bp_MoldKnife_CardName,Knife Mold,Knife Mold
 Bp_MoldKnife_CardDescription,A mold for a copper knife.,A mold for a copper knife.
-Bp_MoldKnife_UnlockConditionsDesc,Copper Needed,Copper Needed
+Bp_MoldKnife_UnlockConditionsDesc,Copper Needed,Potrzebna miedź
 Bp_MoldKnife_BlueprintFinishedLog.LogText,I made a mold for a knife.,I made a mold for a knife.
 Bp_MoldShovel_CardName,Shovel Mold,Shovel Mold
 Bp_MoldShovel_CardDescription,A mold for a shovel.,A mold for a shovel.
-Bp_MoldShovel_UnlockConditionsDesc,More Metalworking Needed,More Metalworking Needed
+Bp_MoldShovel_UnlockConditionsDesc,More Metalworking Needed,Potrzebna bardziej rozwinięta obróbka metali
 Bp_MoldShovel_BlueprintFinishedLog.LogText,I made a mold for a shovel.,I made a mold for a shovel.
 Bp_MoldSpear_CardName,Spear Mold,Spear Mold
 Bp_MoldSpear_CardDescription,A mold for a spear head.,A mold for a spear head.
 Bp_MoldSpear_UnlockConditionsDesc,Copper Knife Needed,Copper Knife Needed
 Bp_MoldSpear_BlueprintFinishedLog.LogText,I made a mold for a spear.,I made a mold for a spear.
-Bp_Mortar_CardName,Mortar,Mortar
-Bp_Mortar_CardDescription,A great construction material.,A great construction material.
-Bp_Mortar_UnlockConditionsDesc,Quicklime Needed,Quicklime Needed
+Bp_Mortar_CardName,Mortar,Zaprawa
+Bp_Mortar_CardDescription,A great construction material.,Świetny materiał konstrukcyjny.
+Bp_Mortar_UnlockConditionsDesc,Quicklime Needed,Potrzebne wapno palone
 Bp_Mortar_BlueprintFinishedLog.LogText,I built some wooden planks.,I built some wooden planks.
 Bp_MudHut_CardName,Mud Hut,Mud Hut
 Bp_MudHut_CardDescription,A place to call home. It should protect me from bugs and the weather.,A place to call home. It should protect me from bugs and the weather.
-Bp_MudHut_UnlockConditionsDesc,Log Needed,Log Needed
+Bp_MudHut_UnlockConditionsDesc,Log Needed,Potrzebna kłoda
 Bp_MudHut_BlueprintFinishedLog.LogText,I built a mud hut. I have a new home.,I built a mud hut. I have a new home.
 Bp_MushroomBed_CardName,Mushroom Bed,Mushroom Bed
 Bp_MushroomBed_CardDescription,A plot for growing mushrooms.,A plot for growing mushrooms.
-Bp_MushroomBed_UnlockConditionsDesc,More Herbology Needed,More Herbology Needed
+Bp_MushroomBed_UnlockConditionsDesc,More Herbology Needed,Potrzebne bardziej rozwinięte zielarstwo
 Bp_MushroomBed_BlueprintFinishedLog.LogText,I built a mushroom bed.,I built a mushroom bed.
 Bp_NiterBed_CardName,Niter Bed,Niter Bed
 Bp_NiterBed_CardDescription,For making saltpeter.,For making saltpeter.
-Bp_NiterBed_UnlockConditionsDesc,More Herbology Needed,More Herbology Needed
+Bp_NiterBed_UnlockConditionsDesc,More Herbology Needed,Potrzebne bardziej rozwinięte zielarstwo
 Bp_NiterBed_BlueprintFinishedLog.LogText,I built a niter bed to make saltpeter.,I built a niter bed to make saltpeter.
 Bp_ObsidianKnife_CardName,Obsidian Knife,Obsidian Knife
 Bp_ObsidianKnife_CardDescription,A very sharp obsidian knife.,A very sharp obsidian knife.
-Bp_ObsidianKnife_UnlockConditionsDesc,More Knapping Needed,More Knapping Needed
+Bp_ObsidianKnife_UnlockConditionsDesc,More Knapping Needed,Potrzebne bardziej rozwinięte kamieniarstwo
 Bp_ObsidianKnife_BlueprintFinishedLog.LogText,I crafted a nice obsidian knife.,I crafted a nice obsidian knife.
 Bp_ObsidianSpear_CardName,Obsidian Spear,Obsidian Spear
 Bp_ObsidianSpear_CardDescription,The best spear in the island.,The best spear in the island.
-Bp_ObsidianSpear_UnlockConditionsDesc,More Knapping Needed,More Knapping Needed
+Bp_ObsidianSpear_UnlockConditionsDesc,More Knapping Needed,Potrzebne bardziej rozwinięte kamieniarstwo
 Bp_ObsidianSpear_BlueprintFinishedLog.LogText,I made an obsidian spear.,I made an obsidian spear.
 Bp_PartridgeFeeder_CardName,Partridge Feeder,Partridge Feeder
 Bp_PartridgeFeeder_CardDescription,A device to feed partridges with minimal work.,A device to feed partridges with minimal work.
-Bp_PartridgeFeeder_UnlockConditionsDesc,Partridge Needed,Partridge Needed
+Bp_PartridgeFeeder_UnlockConditionsDesc,Partridge Needed,Potrzebna kuropatwa
 Bp_PartridgeFeeder_BlueprintFinishedLog.LogText,I built a Partridge Feeder.,I built a Partridge Feeder.
 Bp_PearlNecklace_CardName,Pearl Necklace,Pearl Necklace
 Bp_PearlNecklace_CardDescription,A fancy necklace made of beautiful pearls!,A fancy necklace made of beautiful pearls!
-Bp_PearlNecklace_UnlockConditionsDesc,Pearl Needed,Pearl Needed
+Bp_PearlNecklace_UnlockConditionsDesc,Pearl Needed,Potrzebna perła
 Bp_PearlNecklace_BlueprintFinishedLog.LogText,I made a bautiful pearl necklace.,I made a bautiful pearl necklace.
 Bp_PesticideBrimstone_CardName,Brimstone Pesticide,Brimstone Pesticide
 Bp_PesticideBrimstone_CardDescription,"Should protect my crops from animals, bugs and fungi.","Should protect my crops from animals, bugs and fungi."
-Bp_PesticideBrimstone_UnlockConditionsDesc,More Herbology Needed,More Herbology Needed
+Bp_PesticideBrimstone_UnlockConditionsDesc,More Herbology Needed,Potrzebne bardziej rozwinięte zielarstwo
 Bp_PesticideBrimstone_BlueprintFinishedLog.LogText,I made some brimstone pesticide.,I made some brimstone pesticide.
 Bp_PesticideChilli_CardName,Chilli Pesticide,Chilli Pesticide
 Bp_PesticideChilli_CardDescription,Should protect my crops from animals and bugs.,Should protect my crops from animals and bugs.
-Bp_PesticideChilli_UnlockConditionsDesc,More Herbology Needed,More Herbology Needed
+Bp_PesticideChilli_UnlockConditionsDesc,More Herbology Needed,Potrzebne bardziej rozwinięte zielarstwo
 Bp_PesticideChilli_BlueprintFinishedLog.LogText,I made some chilli pesticide.,I made some chilli pesticide.
 Bp_Planks_CardName,Wooden Planks,Wooden Planks
 Bp_Planks_CardDescription,Useful for more advanced construction.,Useful for more advanced construction.
-Bp_Planks_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_Planks_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_Planks_BlueprintFinishedLog.LogText,I built some wooden planks.,I built some wooden planks.
 Bp_Quinine_CardName,Cinchona Powder,Cinchona Powder
 Bp_Quinine_CardDescription,Good for treating Malaria.,Good for treating Malaria.
-Bp_Quinine_UnlockConditionsDesc,More Herbology Needed,More Herbology Needed
+Bp_Quinine_UnlockConditionsDesc,More Herbology Needed,Potrzebne bardziej rozwinięte zielarstwo
 Bp_Quinine_BlueprintFinishedLog.LogText,I extracted some Quinine from Cinchona bark.,I extracted some Quinine from Cinchona bark.
 Bp_QuinineSulfate_CardName,Quinine Sulfate,Quinine Sulfate
 Bp_QuinineSulfate_CardDescription,Great for treating malaria.,Great for treating malaria.
@@ -2413,7 +2413,7 @@ Bp_QuinineSulfate_UnlockConditionsDesc,Quinine Powder Needed,Quinine Powder Need
 Bp_QuinineSulfate_BlueprintFinishedLog.LogText,I made some Quinine Sulfate.,I made some Quinine Sulfate.
 Bp_Quiver_CardName,Quiver,Quiver
 Bp_Quiver_CardDescription,Can store my arrows.,Can store my arrows.
-Bp_Quiver_UnlockConditionsDesc,More Archery Needed,More Archery Needed
+Bp_Quiver_UnlockConditionsDesc,More Archery Needed,Potrzebne bardziej rozwinięte strzelectwo
 Bp_Quiver_BlueprintFinishedLog.LogText,I made myself a quiver.,I made myself a quiver.
 Bp_Raft_CardName,Raft,Raft
 Bp_Raft_CardDescription,My ticket out of this island. Should wait until I'm ready before starting this project.,My ticket out of this island. Should wait until I'm ready before starting this project.
@@ -2421,11 +2421,11 @@ Bp_Raft_UnlockConditionsDesc,Destiny Not Fullfilled Yet,Destiny Not Fullfilled Y
 Bp_Raft_BlueprintFinishedLog.LogText,I finally built a raft. Perhaps I'll be leaving the island soon.,I finally built a raft. Perhaps I'll be leaving the island soon.
 Bp_RaftFishTrap_CardName,Fish Trap,Fish Trap
 Bp_RaftFishTrap_CardDescription,A trap to catch fish with.,A trap to catch fish with.
-Bp_RaftFishTrap_UnlockConditionsDesc,Raft Needed,Raft Needed
+Bp_RaftFishTrap_UnlockConditionsDesc,Raft Needed,Potrzebna tratwa
 Bp_RaftFishTrap_BlueprintFinishedLog.LogText,I built a fish trap for my raft.,I built a fish trap for my raft.
 Bp_RaftShelter_CardName,Raft Shelter,Raft Shelter
 Bp_RaftShelter_CardDescription,Should protect me from the sun and weather.,Should protect me from the sun and weather.
-Bp_RaftShelter_UnlockConditionsDesc,Raft Needed,Raft Needed
+Bp_RaftShelter_UnlockConditionsDesc,Raft Needed,Potrzebna tratwa
 Bp_RaftShelter_BlueprintFinishedLog.LogText,I built a shelter for my raft.,I built a shelter for my raft.
 Bp_Raincatcher_CardName,Raincatcher,Raincatcher
 Bp_Raincatcher_CardDescription,An easy way to store water.,An easy way to store water.
@@ -2444,14 +2444,14 @@ Bp_RusticSpear_CardDescription,A basic spear. Simple but should get the job done
 Bp_RusticSpear_BlueprintFinishedLog.LogText,I made a rustic spear.,I made a rustic spear.
 Bp_Sack_CardName,Sack,Sack
 Bp_Sack_CardDescription,"A cloth sack, good for carrying stuff around.","A cloth sack, good for carrying stuff around."
-Bp_Sack_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_Sack_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_Sack_BlueprintFinishedLog.LogText,I made myself a cloth sack to carry stuff around.,I made myself a cloth sack to carry stuff around.
 Bp_Satchel_CardName,Satchel,Satchel
 Bp_Satchel_UnlockConditionsDesc,Cured Skin Needed,Cured Skin Needed
 Bp_Satchel_BlueprintFinishedLog.LogText,I made myself a satchel.,I made myself a satchel.
 Bp_Scarecrow_CardName,Scarecrow,Scarecrow
 Bp_Scarecrow_CardDescription,Should help keep seagulls away.,Should help keep seagulls away.
-Bp_Scarecrow_UnlockConditionsDesc,More Herbology Needed,More Herbology Needed
+Bp_Scarecrow_UnlockConditionsDesc,More Herbology Needed,Potrzebne bardziej rozwinięte zielarstwo
 Bp_Scarecrow_BlueprintFinishedLog.LogText,I built a scarecrow.,I built a scarecrow.
 Bp_ScrapAxe_CardName,Scrap Axe,Scrap Axe
 Bp_ScrapAxe_CardDescription,An axe made with scrap metal.,An axe made with scrap metal.
@@ -2472,69 +2472,69 @@ Bp_ScrapSpear_BlueprintFinishedLog.LogText,I made a spear with metal scrap.,I ma
 Bp_SeagullCharm_CardName,Seagull Charm,Seagull Charm
 Bp_SeagullCharm_CardDescription,A charm holding the spirit of a seagull. Should help me with fishing.,A charm holding the spirit of a seagull. Should help me with fishing.
 Bp_SeagullCharm_BlueprintFinishedLog.LogText,I made a seagull charm.,I made a seagull charm.
-Bp_SeashellNecklace_CardName,Seashell Necklace,Seashell Necklace
-Bp_SeashellNecklace_CardDescription,Perhaps it would be nice to wear one.,Perhaps it would be nice to wear one.
-Bp_SeashellNecklace_UnlockConditionsDesc,Pretty Seashells Needed,Pretty Seashells Needed
-Bp_SeashellNecklace_BlueprintFinishedLog.LogText,I made a seashell necklace.,I made a seashell necklace.
-Bp_SharkHeadpiece_CardName,Shark Headpiece,Shark Headpiece
-Bp_SharkHeadpiece_CardDescription,A headpiece containing the spirit of a shark. It will make me stronger in combat.,A headpiece containing the spirit of a shark. It will make me stronger in combat.
-Bp_SharkHeadpiece_BlueprintFinishedLog.LogText,I crafted a shark headpiece.,I crafted a shark headpiece.
+Bp_SeashellNecklace_CardName,Seashell Necklace,Naszyjnik z muszelek
+Bp_SeashellNecklace_CardDescription,Perhaps it would be nice to wear one.,Być może fajnie byłoby go nosić.
+Bp_SeashellNecklace_UnlockConditionsDesc,Pretty Seashells Needed,Potrzebne ładne muszelki
+Bp_SeashellNecklace_BlueprintFinishedLog.LogText,I made a seashell necklace.,Zrobiłem naszyjnik z muszelek.
+Bp_SharkHeadpiece_CardName,Shark Headpiece,Czapka z głowy rekina
+Bp_SharkHeadpiece_CardDescription,A headpiece containing the spirit of a shark. It will make me stronger in combat.,Nakrycie głowy zawierające ducha rekina. Wzmocni mnie w walce.
+Bp_SharkHeadpiece_BlueprintFinishedLog.LogText,I crafted a shark headpiece.,Zrobiłem czapkę z głowy rekina
 Bp_SharpenedStone_CardName,Sharpened Stone,Naostrzony kamień
-Bp_SharpenedStone_CardDescription,"A useful tool, could use it to craft spears out of long sticks or axes out of wood.","Przydatne narzędzie, które można wykorzystać do tworzenia włóczni z długich kijów lub toporów z drewna."
-Bp_SharpenedStone_BlueprintFinishedLog.LogText,I made a sharpened stone.,I made a sharpened stone.
-Bp_Shed_CardName,Shed,Shed
-Bp_Shed_CardDescription,A small shed that should protect me from the weather and serve as a storage space.,A small shed that should protect me from the weather and serve as a storage space.
-Bp_Shed_UnlockConditionsDesc,Basket Needed,Basket Needed
-Bp_Shed_BlueprintFinishedLog.LogText,I built a shed out of palm fronds.,I built a shed out of palm fronds.
-Bp_Shelf_CardName,Shelf,Shelf
-Bp_Shelf_CardDescription,A cheap way to store things inside your house.,A cheap way to store things inside your house.
-Bp_Shelf_UnlockConditionsDesc,Plank Needed,Plank Needed
-Bp_Shelf_BlueprintFinishedLog.LogText,I built a nice shelf.,I built a nice shelf.
-Bp_Shelter_CardName,Shelter,Shelter
-Bp_Shelter_CardDescription,More comfortable than sleeping on the ground. Provides some minor protection against the rain.,More comfortable than sleeping on the ground. Provides some minor protection against the rain.
-Bp_Shelter_UnlockConditionsDesc,Long Stick Needed,Long Stick Needed
-Bp_Shelter_BlueprintFinishedLog.LogText,I built a shelter.,I built a shelter.
-Bp_Shield_CardName,Shield,Shield
-Bp_Shield_CardDescription,"A defensive tool, ideal companion for the spear.","A defensive tool, ideal companion for the spear."
-Bp_Shield_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
-Bp_Shield_BlueprintFinishedLog.LogText,I made a wooden shield.,I made a wooden shield.
-Bp_Shirt_CardName,Shirt,Shirt
-Bp_Shirt_CardDescription,Should protect me a bit from bug bites and the sun.,Should protect me a bit from bug bites and the sun.
-Bp_Shirt_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
-Bp_Shirt_BlueprintFinishedLog.LogText,I made a shirt for myself.,I made a shirt for myself.
-Bp_Sling_CardName,Sling,Sling
-Bp_Sling_CardDescription,A simple hunting weapon.,A simple hunting weapon.
-Bp_Sling_UnlockConditionsDesc,More Rock Throwing Needed,More Rock Throwing Needed
-Bp_Sling_BlueprintFinishedLog.LogText,I crafted a sling for hunting.,I crafted a sling for hunting.
-Bp_SnareTrap_CardName,Snare Trap,Snare Trap
-Bp_SnareTrap_CardDescription,A trap to catch live partridges with. Should place it in the highlands.,A trap to catch live partridges with. Should place it in the highlands.
-Bp_SnareTrap_UnlockConditionsDesc,More Trapping Needed,More Trapping Needed
-Bp_SnareTrap_BlueprintFinishedLog.LogText,I built a snare trap.,I built a snare trap.
-Bp_Soap_CardName,Soap,Soap
-Bp_Soap_CardDescription,Perfect for keeping me and my wounds clean.,Perfect for keeping me and my wounds clean.
-Bp_Soap_UnlockConditionsDesc,Fat/Oil Needed,Fat/Oil Needed
-Bp_SolarStill_CardName,Solar Still,Solar Still
-Bp_SolarStill_UnlockConditionsDesc,Plastic Sheet Needed,Plastic Sheet Needed
-Bp_SolarStill_BlueprintFinishedLog.LogText,I built a solar still with a plastic sheet.,I built a solar still with a plastic sheet.
-Bp_Spindle_CardName,Spindle,Spindle
-Bp_Spindle_CardDescription,I can turn fibers into cord here.,I can turn fibers into cord here.
-Bp_Spindle_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
-Bp_Spindle_BlueprintFinishedLog.LogText,I crafted a nice wooden spindle.,I crafted a nice wooden spindle.
+Bp_SharpenedStone_CardDescription,"A useful tool, could use it to craft spears out of long sticks or axes out of wood.","Przydatne narzędzie, które można wykorzystać do tworzenia włóczni z kijów lub toporów z drewna."
+Bp_SharpenedStone_BlueprintFinishedLog.LogText,I made a sharpened stone.,Zrobiłem naostrzony kamień
+Bp_Shed_CardName,Shed,Szałas
+Bp_Shed_CardDescription,A small shed that should protect me from the weather and serve as a storage space.,"Mały szałas, który powinien chronić mnie przed warunkami pogodowymi i służyć jako miejsce do przechowywania."
+Bp_Shed_UnlockConditionsDesc,Basket Needed,Potrzebny kosz
+Bp_Shed_BlueprintFinishedLog.LogText,I built a shed out of palm fronds.,Zbudowałem szałas z liści palmowych.
+Bp_Shelf_CardName,Shelf,Półka
+Bp_Shelf_CardDescription,A cheap way to store things inside your house.,Tani sposób na przechowywanie rzeczy wewnątrz domu.
+Bp_Shelf_UnlockConditionsDesc,Plank Needed,Potrzebna deska
+Bp_Shelf_BlueprintFinishedLog.LogText,I built a nice shelf.,Zbudowałem ładną półkę.
+Bp_Shelter_CardName,Shelter,Schronienie
+Bp_Shelter_CardDescription,More comfortable than sleeping on the ground. Provides some minor protection against the rain.,Wygodniejsze niż spanie na ziemi. Zapewnia niewielką ochronę przed deszczem.
+Bp_Shelter_UnlockConditionsDesc,Long Stick Needed,Potrzebny kij
+Bp_Shelter_BlueprintFinishedLog.LogText,I built a shelter.,Zbudowałem schronienie.
+Bp_Shield_CardName,Shield,Tarcza
+Bp_Shield_CardDescription,"A defensive tool, ideal companion for the spear.","Narzędzie obronne, idealny towarzysz włóczni."
+Bp_Shield_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
+Bp_Shield_BlueprintFinishedLog.LogText,I made a wooden shield.,Zrobiłem drewnianą tarczę.
+Bp_Shirt_CardName,Shirt,Koszula
+Bp_Shirt_CardDescription,Should protect me a bit from bug bites and the sun.,Powinna chronić mnie trochę przed ukąszeniami owadów i słońcem.
+Bp_Shirt_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
+Bp_Shirt_BlueprintFinishedLog.LogText,I made a shirt for myself.,Zrobiłem koszulkę dla siebie.
+Bp_Sling_CardName,Sling,Proca
+Bp_Sling_CardDescription,A simple hunting weapon.,Prosta broń myśliwska.
+Bp_Sling_UnlockConditionsDesc,More Rock Throwing Needed,Potrzebne bardziej rozwinięte rzucanie kamieniami
+Bp_Sling_BlueprintFinishedLog.LogText,I crafted a sling for hunting.,Stworzyłem procę do polowań.
+Bp_SnareTrap_CardName,Snare Trap,Sidła
+Bp_SnareTrap_CardDescription,A trap to catch live partridges with. Should place it in the highlands.,Pułapka do łapania żywych kuropatw. Powinna być umieszczona na wyżynach.
+Bp_SnareTrap_UnlockConditionsDesc,More Trapping Needed,Potrzebne bardziej rozwinięte zastawianie płapek
+Bp_SnareTrap_BlueprintFinishedLog.LogText,I built a snare trap.,Zbudowałem sidła.
+Bp_Soap_CardName,Soap,Mydło
+Bp_Soap_CardDescription,Perfect for keeping me and my wounds clean.,Idealne do utrzymania mnie i moich ran w czystości.
+Bp_Soap_UnlockConditionsDesc,Fat/Oil Needed,Potrzebny tłuszcz/olej
+Bp_SolarStill_CardName,Solar Still,Bateria słoneczna
+Bp_SolarStill_UnlockConditionsDesc,Plastic Sheet Needed,Potrzebny plastikowy arkusz
+Bp_SolarStill_BlueprintFinishedLog.LogText,I built a solar still with a plastic sheet.,Zbudowałem baterię słoneczną z plastikowego arkusza.
+Bp_Spindle_CardName,Spindle,Wrzeciono
+Bp_Spindle_CardDescription,I can turn fibers into cord here.,Za pomocą niego mogę zamienić włókna w sznur.
+Bp_Spindle_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
+Bp_Spindle_BlueprintFinishedLog.LogText,I crafted a nice wooden spindle.,Zrobiłem ładne drewniane wrzeciono.
 Bp_Splint_CardName,Splint,Splint
 Bp_Splint_CardDescription,"Helps heal fractures, sprained ankles and wrists.","Helps heal fractures, sprained ankles and wrists."
 Bp_Splint_UnlockConditionsDesc,Long Stick Needed,Long Stick Needed
 Bp_Splint_BlueprintFinishedLog.LogText,I made a splint.,I made a splint.
 Bp_StoneAxe_CardName,Stone Axe,Kamienna siekiera
 Bp_StoneAxe_CardDescription,A simple stone axe.,Prosta kamienna siekiera.
-Bp_StoneAxe_UnlockConditionsDesc,Wood Needed,Wood Needed
-Bp_StoneAxe_BlueprintFinishedLog.LogText,I made a simple stone axe.,I made a simple stone axe.
+Bp_StoneAxe_UnlockConditionsDesc,Wood Needed,Potrzebne drewno
+Bp_StoneAxe_BlueprintFinishedLog.LogText,I made a simple stone axe.,Zrobiłem prosty kamienny topór.
 Bp_StoneHut_CardName,Stone Hut,Stone Hut
 Bp_StoneHut_CardDescription,A very resilient home. Resistant to storms!,A very resilient home. Resistant to storms!
-Bp_StoneHut_UnlockConditionsDesc,More Crafting Needed,More Crafting Needed
+Bp_StoneHut_UnlockConditionsDesc,More Crafting Needed,Potrzebne bardziej rozwinięte wytwarzanie
 Bp_StoneHut_BlueprintFinishedLog.LogText,I built a stone hut. I have a new home.,I built a stone hut. I have a new home.
 Bp_Stove_CardName,Stove,Stove
 Bp_Stove_CardDescription,A perfect rustic Kitchen with 4 slots to cook and the ability to smoke food.,A perfect rustic Kitchen with 4 slots to cook and the ability to smoke food.
-Bp_Stove_UnlockConditionsDesc,Kiln Needed,Kiln Needed
+Bp_Stove_UnlockConditionsDesc,Kiln Needed,Potrzebny piec do wypalania
 Bp_Stove_BlueprintFinishedLog.LogText,I built a clay stove.,I built a clay stove.
 Bp_StrawCape_CardName,Straw Cape,Straw Cape
 Bp_StrawCape_CardDescription,A rainproof cape to protect me from the weather.,A rainproof cape to protect me from the weather.
@@ -2542,15 +2542,15 @@ Bp_StrawCape_UnlockConditionsDesc,Rice Straw Needed,Rice Straw Needed
 Bp_StrawCape_BlueprintFinishedLog.LogText,I made a Straw Cape for myself.,I made a Straw Cape for myself.
 Bp_SupplyChest_CardName,Supply Chest,Supply Chest
 Bp_SupplyChest_CardDescription,Food and drink for the journey.,Food and drink for the journey.
-Bp_SupplyChest_UnlockConditionsDesc,Raft Needed,Raft Needed
+Bp_SupplyChest_UnlockConditionsDesc,Raft Needed,Potrzebna tratwa
 Bp_SupplyChest_BlueprintFinishedLog.LogText,I built a supply chest for the raft.,I built a supply chest for the raft.
 Bp_Table_CardName,Table,Table
 Bp_Table_CardDescription,Should help me with my crafts. Looks good too!,Should help me with my crafts. Looks good too!
-Bp_Table_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_Table_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_Table_BlueprintFinishedLog.LogText,I built myself a nice table.,I built myself a nice table.
 Bp_Torch_CardName,Torch,Torch
 Bp_Torch_CardDescription,A portable source of light.,A portable source of light.
-Bp_Torch_UnlockConditionsDesc,More Crafting Needed,More Crafting Needed
+Bp_Torch_UnlockConditionsDesc,More Crafting Needed,Potrzebne bardziej rozwinięte wytwarzanie
 Bp_Torch_BlueprintFinishedLog.LogText,I made a torch.,I made a torch.
 Bp_Tourniquet_CardName,Tourniquet,Tourniquet
 Bp_Tourniquet_CardDescription,"Stops blood loss, but do not wear it for too long!","Stops blood loss, but do not wear it for too long!"
@@ -2560,20 +2560,20 @@ Bp_TourniquetRustic_CardDescription,"Stops blood loss, but do not wear it for to
 Bp_TourniquetRustic_BlueprintFinishedLog.LogText,I made a tourniquet.,I made a tourniquet.
 Bp_TrappingPit_CardName,Trapping Pit,Trapping Pit
 Bp_TrappingPit_CardDescription,A big game trap.,A big game trap.
-Bp_TrappingPit_UnlockConditionsDesc,More Trapping Needed,More Trapping Needed
+Bp_TrappingPit_UnlockConditionsDesc,More Trapping Needed,Potrzebne bardziej rozwinięte zastawianie płapek
 Bp_TrappingPit_BlueprintFinishedLog.LogText,I built a trapping pit.,I built a trapping pit.
 Bp_Treenails_CardName,Treenails,Treenails
-Bp_Treenails_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_Treenails_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_Vitriol_CardName,Vitriol,Vitriol
 Bp_Vitriol_CardDescription,"Sulfuric acid, useful for making dynamite among other things.","Sulfuric acid, useful for making dynamite among other things."
-Bp_Vitriol_UnlockConditionsDesc,Brimstone Needed,Brimstone Needed
+Bp_Vitriol_UnlockConditionsDesc,Brimstone Needed,Potrzebna siarka
 Bp_WaterFilter_CardName,Water Filter,Water Filter
 Bp_WaterFilter_CardDescription,Purifies unsafe water.,Purifies unsafe water.
-Bp_WaterFilter_UnlockConditionsDesc,Stove Needed,Stove Needed
+Bp_WaterFilter_UnlockConditionsDesc,Stove Needed,Potrzebny piec
 Bp_WaterFilter_BlueprintFinishedLog.LogText,I made a water filter.,I made a water filter.
 Bp_WateringTrough_CardName,Watering Trough,Watering Trough
 Bp_WateringTrough_CardDescription,A water container for animals to drink from.,A water container for animals to drink from.
-Bp_WateringTrough_UnlockConditionsDesc,Goat Needed,Goat Needed
+Bp_WateringTrough_UnlockConditionsDesc,Goat Needed,Potrzebna koza
 Bp_WateringTrough_BlueprintFinishedLog.LogText,I made a watering trough.,I made a watering trough.
 Bp_WaterReservoir_CardName,Water Reservoir,Water Reservoir
 Bp_WaterReservoir_CardDescription,A large water container.,A large water container.
@@ -2583,24 +2583,24 @@ Bp_Waterskin_CardName,Waterskin,Waterskin
 Bp_Waterskin_UnlockConditionsDesc,Cured Skin Needed,Cured Skin Needed
 Bp_Waterskin_BlueprintFinishedLog.LogText,I made myself a waterskin.,I made myself a waterskin.
 Bp_Well_CardName,Well,Well
-Bp_Well_UnlockConditionsDesc,Shovel Needed,Shovel Needed
+Bp_Well_UnlockConditionsDesc,Shovel Needed,Potrzebna łopata
 Bp_Well_BlueprintFinishedLog.LogText,I dug up a well.,I dug up a well.
 Bp_Weston_CardName,Weston,Weston
 Bp_Weston_CardDescription,A friend to help me fight loneliness.,A friend to help me fight loneliness.
-Bp_Weston_UnlockConditionsDesc,More Loneliness Needed,More Loneliness Needed
+Bp_Weston_UnlockConditionsDesc,More Loneliness Needed,Potrzebna bardziej rozwinięta samotność
 Bp_Weston_BlueprintFinishedLog.LogText,I made myself a friend out of a coconut. I named it Weston.,I made myself a friend out of a coconut. I named it Weston.
 Bp_WoodCarvings_CardName,Wood Carvings,Wood Carvings
-Bp_WoodCarvings_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_WoodCarvings_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_WoodenShovel_CardName,Wooden Shovel,Wooden Shovel
 Bp_WoodenShovel_CardDescription,Great for digging.,Great for digging.
-Bp_WoodenShovel_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_WoodenShovel_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_WoodenShovel_BlueprintFinishedLog.LogText,I crafted a wooden shovel.,I crafted a wooden shovel.
 Bp_WoodShavings_CardName,Wood Shavings,Wood Shavings
 Bp_WoodShavings_CardDescription,Ideal for starting fires,Ideal for starting fires
-Bp_WoodShavings_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_WoodShavings_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_WovenBackpack_CardName,Woven Backpack,Woven Backpack
 Bp_WovenBackpack_CardDescription,I can store things inside.,I can store things inside.
-Bp_WovenBackpack_UnlockConditionsDesc,Basket Needed,Basket Needed
+Bp_WovenBackpack_UnlockConditionsDesc,Basket Needed,Potrzebny kosz
 Bp_WovenBackpack_BlueprintFinishedLog.LogText,I wove a backpack with palm fronds.,I wove a backpack with palm fronds.
 Bp_WovenBasket_CardName,Woven Basket,Woven Basket
 Bp_WovenBasket_CardDescription,A basket for transporting things.,A basket for transporting things.
@@ -2608,7 +2608,7 @@ Bp_WovenBasket_UnlockConditionsDesc,Woven Palm Needed,Woven Palm Needed
 Bp_WovenBasket_BlueprintFinishedLog.LogText,I wove a basket with palm fronds.,I wove a basket with palm fronds.
 Bp_WovenHat_CardName,Woven Hat,Woven Hat
 Bp_WovenHat_CardDescription,Should protect me a bit from the sun and the rain.,Should protect me a bit from the sun and the rain.
-Bp_WovenHat_UnlockConditionsDesc,Basket Needed,Basket Needed
+Bp_WovenHat_UnlockConditionsDesc,Basket Needed,Potrzebny kosz
 Bp_WovenHat_BlueprintFinishedLog.LogText,I wove a hat with palm fronds.,I wove a hat with palm fronds.
 EarsBlueprint_CardName,Ears,Ears
 InnerHeadBlueprint_CardName,Head (Inner),Head (Inner)
@@ -4110,7 +4110,7 @@ SeagullCharm_CardDescription,A charm holding the spirit of a seagull. Should hel
 SeashellNecklace_CardName,Seashell Necklace,Naszyjnik z muszelek
 SeashellNecklace_CardDescription,A fancy necklace made of pretty seashells. I like it.\n\n<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,Fantazyjny naszyjnik z ładnych muszelek. Podoba mi się.\n\n<b>ABY DZIAŁAŁ MUSI BYĆ WYPOSAŻONY W EKWIPUNKU</b>
 SeashellNecklace_DismantleActions[0].ActionName,Break,Rozerwij
-SharkHeadpiece_CardName,Shark Headpiece,Nakrycie głowy z rekinem
+SharkHeadpiece_CardName,Shark Headpiece,Czapka z głowy rekina
 SharkHeadpiece_CardDescription,A headpiece containing the spirit of a shark. It will make me stronger in combat.\n\n<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,Nakrycie głowy zawierające ducha rekina. Wzmocni mnie w walce.\n\n<b>ABY DZIAŁAŁO MUSI BYĆ WYPOSAŻONE W EKWIPUNKU</b>
 SharkHeadpiece_DismantleActions[0].ActionName,Dismantle,Rozłóż
 ShirtFiber_CardName,Shirt,Koszula
@@ -5370,7 +5370,7 @@ Sack_CardName,Sack,Sack
 Sack_CardDescription,I can store things inside.,I can store things inside.
 SackPlastic_CardName,Plastic Sack,Plastic Sack
 SackPlastic_CardDescription,I can store things inside.,I can store things inside.
-Satchel_CardName,Satchel,Saszetka
+Satchel_CardName,Satchel,Sakwa
 Satchel_CardDescription,I can store things inside. <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>,Mogę przechowywać rzeczy w środku.<b>ABY DZIAŁAŁA MUSI BYĆ WYPOSAŻONA W EKWIPUNKU</b>
 Satchel_DismantleActions[0].ActionName,Dismantle,Rozłóż
 SatchelHunter_CardName,Satchel,Sakwa
@@ -5622,7 +5622,7 @@ SpindleFiber_DismantleActions[0].ActionName,Get Cord,Get Cord
 SpindleFiber_DismantleActions[1].ActionName,Get Yarn,Get Yarn
 StoneAxe_CardName,Stone Axe,Kamienna siekiera
 StoneAxe_CardDescription,I can get wood with this.,I can get wood with this.
-StoneSharpened_CardName,Sharpened Stone,Sharpened Stone
+StoneSharpened_CardName,Sharpened Stone,Naostrzony kamień
 StoneSharpened_CardDescription,"A useful tool, could use it to craft spears out of long sticks or axes out of wood.","Przydatne narzędzie, które można wykorzystać do tworzenia włóczni z długich kijów lub toporów z drewna."
 TorchOff_CardName,Torch,Torch
 TorchOff_CardDescription,A portable source of light.,A portable source of light.
@@ -6173,11 +6173,11 @@ Conch_CardName,Conch,Ślimak
 Conch_CardDescription,I need to get the animal from inside.,Musze się dostać do zwierzęcia w środku.
 Conch_CardInteractions[0].ActionName,Break Conch,Rozłup muszlę
 ConchBroken_CardName,Crushed Conch,Pokruszona muszla
-ConchBroken_CardDescription,Can be used as temper or burned inside the Kiln to get  quicklime.,Może być używana do poprawy nastroju lub spalona w piecu w celu uzyskania wapna palonego.
+ConchBroken_CardDescription,Can be used as temper or burned inside the Kiln to get  quicklime.,Może być używana do temperowania lub spalona w piecu do wypalania w celu uzyskania wapna palonego.
 Copper_CardName,Copper,Miedź
 Copper_CardDescription,Ready to be cast in molds to make tools.,Gotowa do wlania w formy do produkcji narzędzi.
 CopperOre_CardName,Copper Ore,Ruda miedzi
-CopperOre_CardDescription,Should smelt it in a forge or more powerful kiln.,Powinna zostać wytopiona w kuźni lub piecu o większej mocy.
+CopperOre_CardDescription,Should smelt it in a forge or more powerful kiln.,Powinna zostać wytopiona w kuźni lub piecu do wypalania o większej mocy.
 Coral_CardName,Coral,Coral
 Coral_CardDescription,A pretty looking piece of Coral. Could look good on a shelf!,A pretty looking piece of Coral. Could look good on a shelf!
 CordFiber_CardName,Fiber Cord,Sznur włóknisty
@@ -6440,7 +6440,7 @@ StickLong_CardName,Long Stick,Long Stick
 StickLong_CardDescription,"Many uses, could serve as support for a shelter or get sharpened into a spear.","Many uses, could serve as support for a shelter or get sharpened into a spear."
 StickLong_CardInteractions[0].ActionName,Craft Rustic Spear,Wykonaj dzidę
 StickLong_DismantleActions[0].ActionName,Break Long Stick,Break Long Stick
-Sticks_CardName,Sticks,Kije
+Sticks_CardName,Sticks,Patyki
 Sticks_CardDescription,"Can be used as fuel or for crafting different things, such as a hand drill for example.","Can be used as fuel or for crafting different things, such as a hand drill for example."
 Sticks_CardInteractions[0].ActionName,Craft Hand Drill,Craft Hand Drill
 Sticks_CardInteractions[1].ActionName,Craft Tourniquet,Craft Tourniquet
@@ -6453,11 +6453,11 @@ StoneBurnt_CardName,Burnt Stone,Burnt Stone
 StoneBurnt_CardDescription,Could grind it to get quicklime.,Could grind it to get quicklime.
 StoneBurnt_CardInteractions[0].ActionName,Ground,Ground
 StoneHeavy_CardName,Heavy Stone,Ciężki kamień
-StoneHeavy_CardDescription,"A large heavy stone, ideal for traps.  Could also fire it in a kiln to make quicklime.","Duży, ciężki kamień, idealny do pułapek. Można go również wypalić w piecu, aby uzyskać wapno palone."
+StoneHeavy_CardDescription,"A large heavy stone, ideal for traps.  Could also fire it in a kiln to make quicklime.","Duży, ciężki kamień, idealny do pułapek. Można go również wypalić w piecu do wypalania, aby uzyskać wapno palone."
 StoneHeavy_CardInteractions[0].ActionName,Sharpen Stone,Naostrz kamień
 StoneHeavy_CardInteractions[0].ActionLog.LogText,I sharpened a stone to use it as a tool.,I sharpened a stone to use it as a tool.
 StoneHeavyBrimstone_CardName,Sulphurous Stone,Sulphurous Stone
-StoneHeavyBrimstone_CardDescription,"A large heavy stone, ideal for traps.  Could also fire it in a kiln to get Brimstone.","Duży, ciężki kamień, idealny do pułapek. Można go również wypalić w piecu, aby uzyskać siarkę."
+StoneHeavyBrimstone_CardDescription,"A large heavy stone, ideal for traps.  Could also fire it in a kiln to get Brimstone.","Duży, ciężki kamień, idealny do pułapek. Można go również wypalić w piecu do wypalania, aby uzyskać siarkę."
 StoneHeavyBrimstone_CardInteractions[0].ActionName,Sharpen Stone,Naostrz kamień
 StoneHeavyBrimstone_CardInteractions[0].ActionLog.LogText,I sharpened a stone to use it as a tool.,I sharpened a stone to use it as a tool.
 StoneHeavyBurnt_CardName,Burnt Heavy Stone,Burnt Heavy Stone
@@ -6512,7 +6512,7 @@ Weston_DismantleActions[1].ActionName,Talk,Talk
 Weston_DismantleActions[2].ActionName,Talk,Talk
 Weston_DismantleActions[3].ActionName,Talk,Talk
 Weston_DismantleActions[4].ActionName,Are you real?,Are you real?
-Wood_CardName,Wood,Wood
+Wood_CardName,Wood,Drewno
 Wood_CardDescription,Useful as firewood or for crafting.,Useful as firewood or for crafting.
 Wood_CardInteractions[0].ActionName,Cut Shavings,Cut Shavings
 Wood_CardInteractions[1].ActionName,Burn Hole,Burn Hole
@@ -8108,7 +8108,7 @@ SolarStill_CardDescription,I should fill it with palm fronds and put a water con
 SolarStill_CardInteractions[0].ActionName,Add leaves,Add leaves
 SolarStill_DismantleActions[0].ActionName,Dismantle,Dismantle
 SolarStill_InventorySlotsText,DRAG CONTAINER,DRAG CONTAINER
-SolarStill_CookingConditions.CookingPausedNotification,Needs more leaves.,Needs more leaves.
+SolarStill_CookingConditions.CookingPausedNotification,Needs more leaves.,Potrzebne więcej liści.
 SolarStill_CookingRecipes[0].ActionName,Continue Filling,Continue Filling
 SolarStill_CookingRecipes[1].ActionName,Start Filling,Start Filling
 TropicalAlmondTreeYoung_CardName,Young Almond Tree,Young Almond Tree
@@ -8120,7 +8120,7 @@ WaterFilter_CardDescription,Purifies unsafe water.,Purifies unsafe water.
 WaterFilter_CardInteractions[0].ActionName,Fill,Fill
 WaterFilter_CardInteractions[1].ActionName,Demolish,Demolish
 WaterFilter_InventorySlotsText,DRAG CONTAINER,DRAG CONTAINER
-WaterFilter_CookingConditions.CookingPausedNotification,Needs more water.,Needs more water.
+WaterFilter_CookingConditions.CookingPausedNotification,Needs more water.,Potrzebne więcej wody.
 WaterFilter_CookingRecipes[0].ActionName,Continue Filling,Continue Filling
 WaterFilter_CookingRecipes[1].ActionName,Start Filling,Start Filling
 WaterReservoir_CardName,Reservoir,Reservoir
@@ -8248,8 +8248,8 @@ Tab_Tools_Basic_TabName,Basic,Basic
 Tab_Tools_Fire_TabName,Fire,Fire
 Tab_Tools_Metal_TabName,Metal,Metal
 Tab_Tools_Misc_TabName,Miscellaneous,Miscellaneous
-Tab_Base_TabName,Base,Base
-Tab_Clay_TabName,Metal & Clay,Metal & Clay
+Tab_Base_TabName,Base,Podstawowe
+Tab_Clay_TabName,Metal & Clay,Metal i glina
 Tab_Cooking_TabName,Cooking,Gotowanie
 Tab_Farming_TabName,Farming,Rolnictwo
 Tab_Hunting_TabName,Hunting,Łowiectwo
@@ -8644,7 +8644,7 @@ GE_SeaSickness_OverrideDescription,"If you're not used to it, sailing the seas c
 GE_SeaWeather_OverrideTitle,Sea Weather,Sea Weather
 GE_Shark_OverrideTitle,Shark,Shark
 GE_Shark_OverrideDescription,A large fish that can potentially bite if you get unlucky. It can only be found at the island's bay or during raft voyages.\nIts meat is more nutritious than normal fish and can also be smoked. Its jaws make for a nice decoration too!,A large fish that can potentially bite if you get unlucky. It can only be found at the island's bay or during raft voyages.\nIts meat is more nutritious than normal fish and can also be smoked. Its jaws make for a nice decoration too!
-GE_Shed_OverrideDescription,"A small, relatively cheap shed made out of <b>Long Sticks and Woven Palm Fronds</b> that can offer protection from <b>Storms, Rain and the Sun</b>.\n\nIt does not have as much storage space as a Mud or Stone Hut and is less resistant to storms than these two structures, but can serve as a quick base or an outpost for farther away parts of the island.\n\nThe Shed can receive some upgrades to improve it, including storage expansions, doors and more.\nIts roof should be repaired whenever it gets damage or run the risk of collapsing.","Niewielka, stosunkowo tania szopka zbudowana z <b>długich kijów i splecionych liści palmowych</b>, zapewnia ochronę przed <b>burzami, deszczem i słońcem</b>.\n\nNie ma tak dużo miejsca do przechowywania jak chatka z gliny lub kamienia i jest mniej odporna na burze, ale może służyć jako szybka baza lub posterunek dla bardziej oddalonych części wyspy.\n\nSzopę można ulepszyć, dodając dodatkowe miejsce do przechowywania, drzwi i wiele innych.\nJej dach należy naprawić, gdy ulegnie uszkodzeniu lub istnieje ryzyko zawalenia."
+GE_Shed_OverrideDescription,"A small, relatively cheap shed made out of <b>Long Sticks and Woven Palm Fronds</b> that can offer protection from <b>Storms, Rain and the Sun</b>.\n\nIt does not have as much storage space as a Mud or Stone Hut and is less resistant to storms than these two structures, but can serve as a quick base or an outpost for farther away parts of the island.\n\nThe Shed can receive some upgrades to improve it, including storage expansions, doors and more.\nIts roof should be repaired whenever it gets damage or run the risk of collapsing.","Niewielki, stosunkowo tani szałas zbudowany z <b>kijów i splecionych liści palmowych</b>, zapewnia ochronę przed <b>burzami, deszczem i słońcem</b>.\n\nNie ma tak dużo miejsca do przechowywania jak chatka z gliny lub kamienia i jest mniej odporny na burze, ale może służyć jako szybka baza lub posterunek dla bardziej oddalonych części wyspy.\n\nSzałas można ulepszyć, dodając dodatkowe miejsce do przechowywania, drzwi i wiele innych.\nJego dach należy naprawić, gdy ulegnie uszkodzeniu lub istnieje ryzyko zawalenia."
 GE_Shelf_OverrideDescription,"Easy to build, a simple shelf that can serve as cheap storage space for indoor areas.\n\nIt can also display <b>Decorations</b> to increase your <b>Comfort</b> a bit for each piece placed on it.","Easy to build, a simple shelf that can serve as cheap storage space for indoor areas.\n\nIt can also display <b>Decorations</b> to increase your <b>Comfort</b> a bit for each piece placed on it."
 GE_Shelter_OverrideDescription,"This bed is relatively cheap to build and while uncomfortable, it is still better than sleeping on the ground.\n\nIt also offers minor protection against the <b>Rain and the Sun</b> and can be comined with a <b>Leaf Bed</b> for a better effect.","This bed is relatively cheap to build and while uncomfortable, it is still better than sleeping on the ground.\n\nIt also offers minor protection against the <b>Rain and the Sun</b> and can be comined with a <b>Leaf Bed</b> for a better effect."
 GE_ShelteredLeafBed_OverrideDescription,Combines the <b>Weather Protection</b> of a <b>Shelter</b> with the <b>Comfort</b> and <b>Bug Protection</b> of a <b>Leaf Bed</b>.\n\nTo craft one simply build a <b>Leaf Bed</b> and a <b>Shelter</b> and combine them together.,Combines the <b>Weather Protection</b> of a <b>Shelter</b> with the <b>Comfort</b> and <b>Bug Protection</b> of a <b>Leaf Bed</b>.\n\nTo craft one simply build a <b>Leaf Bed</b> and a <b>Shelter</b> and combine them together.
@@ -8677,7 +8677,7 @@ GE_SnakeGrass_OverrideDescription,"A very useful plant with <b>Bug Repelling</b>
 GE_SnareTrap_OverrideDescription,"A useful trap that can be built in areas with trees and is capable of catching <b>Partridges</b> alive.\n\nIt can also catch small animals like <b>Mice, Lizards, Crabs and Seagulls</b>.\n\nThese traps need <b>Bait</b> to work and must be <b>Reset</b> every time they are triggered.\nTry not to replace your bait unless it's really necessary, doing so will reset a trap's timer.","A useful trap that can be built in areas with trees and is capable of catching <b>Partridges</b> alive.\n\nIt can also catch small animals like <b>Mice, Lizards, Crabs and Seagulls</b>.\n\nThese traps need <b>Bait</b> to work and must be <b>Reset</b> every time they are triggered.\nTry not to replace your bait unless it's really necessary, doing so will reset a trap's timer."
 GE_Soap_OverrideDescription,"Soap can help clean your body and wounds much more efficiently, using less water and time. Before you can use it, soap needs to be wet.\n\nTo make it you need oil or fat, combined with lye (which is made by adding ash to water and then boiling it). The resulting mix should then be boiled in a fire.","Soap can help clean your body and wounds much more efficiently, using less water and time. Before you can use it, soap needs to be wet.\n\nTo make it you need oil or fat, combined with lye (which is made by adding ash to water and then boiling it). The resulting mix should then be boiled in a fire."
 GE_Sodium_OverrideDescription,If the sodium levels in your body get too high you will start getting <b>Nauseous and Dehydrated</b>.\n\nShows the level of sodium in your body. Will dehydrate you and make you nauseous when high.\n\nYour sodium levels can be increased by eating salty foods or by drinking <b>Sea water</b>.,If the sodium levels in your body get too high you will start getting <b>Nauseous and Dehydrated</b>.\n\nShows the level of sodium in your body. Will dehydrate you and make you nauseous when high.\n\nYour sodium levels can be increased by eating salty foods or by drinking <b>Sea water</b>.
-GE_SpearCopper_OverrideDescription,"When it comes to spears, there isn't much that can beat a sharp and solid <b>Metal Spearhead</b> tied to a <b>Long Stick</b> with strong <b>Rope and Fiber Cord.</b>\n\nTo make the spearhead you'll need to find <b>raw Copper</b>, smelt it on a <b>Forge</b> and let it cool into a <b>Mold</b>.\n\nOne of the advantages of a Spearhead made of Copper is that it is a lot more durable than other Spearheads, and will only become <b>dull instead of breaking</b>.\n\nWhen that happens, you simply need to <b>sharpen the head again with a Stone</b> to be able to re-use it.","Jeśli chodzi o włócznie, niewiele jest rzeczy, które mogłyby pokonać ostry i solidny <b>metalowy grot włóczni</b> przywiązany do <b>długiego kija</b> za pomocą mocnej <b>liny i sznura włóknistego.\n\nAby wykonać grot włóczni, musisz znaleźć <b>rudę miedzi</b>, przetopić ją w <b>kuźni</b> i pozostawić do ostygnięcia w <b>formie</b>.\n\nJedną z zalet grotu włóczni wykonanego z miedzi jest to, że jest on o wiele bardziej wytrzymały niż inne groty włóczni i <b>zamiast się łamać, ulega jedynie stępieniu</b>.\n\nKiedy tak się stanie, wystarczy ponownie <b>naostrzyć grot kamieniem</b>, aby móc go ponownie użyć."
+GE_SpearCopper_OverrideDescription,"When it comes to spears, there isn't much that can beat a sharp and solid <b>Metal Spearhead</b> tied to a <b>Long Stick</b> with strong <b>Rope and Fiber Cord.</b>\n\nTo make the spearhead you'll need to find <b>raw Copper</b>, smelt it on a <b>Forge</b> and let it cool into a <b>Mold</b>.\n\nOne of the advantages of a Spearhead made of Copper is that it is a lot more durable than other Spearheads, and will only become <b>dull instead of breaking</b>.\n\nWhen that happens, you simply need to <b>sharpen the head again with a Stone</b> to be able to re-use it.","Jeśli chodzi o włócznie, niewiele jest rzeczy, które mogłyby pokonać ostry i solidny <b>metalowy grot włóczni</b> przywiązany do <b>kija</b> za pomocą mocnej <b>liny i sznura włóknistego.\n\nAby wykonać grot włóczni, musisz znaleźć <b>rudę miedzi</b>, przetopić ją w <b>kuźni</b> i pozostawić do ostygnięcia w <b>formie</b>.\n\nJedną z zalet grotu włóczni wykonanego z miedzi jest to, że jest on o wiele bardziej wytrzymały niż inne groty włóczni i <b>zamiast się łamać, ulega jedynie stępieniu</b>.\n\nKiedy tak się stanie, wystarczy ponownie <b>naostrzyć grot kamieniem</b>, aby móc go ponownie użyć."
 GE_SpearFishing_OverrideDescription,"Fishing with a spear can be quite tricky, but there are ways to craft a specialized kind of spear that will <b>increase your chances</b> of successfully catching something.\n\nTake a <b>Long Stick</b> and split its end in four spikes using a <b>Cutting Tool</b>, and use <b>Cord Fiber</b> to keep the prongs apart.\n\nFour prongs is better than just one when trying to catch a fish with a spear.","Fishing with a spear can be quite tricky, but there are ways to craft a specialized kind of spear that will <b>increase your chances</b> of successfully catching something.\n\nTake a <b>Long Stick</b> and split its end in four spikes using a <b>Cutting Tool</b>, and use <b>Cord Fiber</b> to keep the prongs apart.\n\nFour prongs is better than just one when trying to catch a fish with a spear."
 GE_SpearFlint_OverrideDescription,"A spear made from a piece of <b>Flint</b> through the <b>Knapping</b> Skill.\n\nUse <b>Rope and Fiber Cord</b> to tie your <b>Flint Spearhead to a Long Stick</b>.\n\nMuch better than a rustic wooden spear, it can increase your chances of success when fighting animals.","A spear made from a piece of <b>Flint</b> through the <b>Knapping</b> Skill.\n\nUse <b>Rope and Fiber Cord</b> to tie your <b>Flint Spearhead to a Long Stick</b>.\n\nMuch better than a rustic wooden spear, it can increase your chances of success when fighting animals."
 GE_SpearObsidian_OverrideDescription,"This spear can be crafted from a piece of <b>Obsidian</b>, provided your <b>Knapping</b> skills are high enough.\n\nWhile not the most durable, this weapon is technically the best spear that can be crafted on the island.\nIts extremely sharp edges help it penetrate through the thickest of hides making it a great tool for fighting <b>Boars and Monitor Lizards</b>.","This spear can be crafted from a piece of <b>Obsidian</b>, provided your <b>Knapping</b> skills are high enough.\n\nWhile not the most durable, this weapon is technically the best spear that can be crafted on the island.\nIts extremely sharp edges help it penetrate through the thickest of hides making it a great tool for fighting <b>Boars and Monitor Lizards</b>."
@@ -8689,10 +8689,10 @@ GE_Stamina_OverrideDescription,"Stamina decreases as you engage in physical acti
 GE_StickLong_OverrideDescription,"A long stick can go a long way to help you survive!\n\nFound in <b>Jungles, mostly by cutting Small Trees with an Axe</b>.\n\nThey have many different uses, from crafting <b>Spears</b> to making <b>a Shelter or a Shed</b>.\n\nTruly a pillar of primitive technology!","A long stick can go a long way to help you survive!\n\nFound in <b>Jungles, mostly by cutting Small Trees with an Axe</b>.\n\nThey have many different uses, from crafting <b>Spears</b> to making <b>a Shelter or a Shed</b>.\n\nTruly a pillar of primitive technology!"
 GE_Sticks_OverrideDescription,"Sticks can be found almost  everywhere by <b>foraging</b>.\n\nThey can be carved with a <b>Cutting Tool</b> into a <b>Hand Drill</b>, an essential tool to <b>start a Fire</b>\n\nThey can also be used as <b>Fuel</b> for said fires, and are a common material to craft all sorts of <b>tools and structures</b>.","Sticks can be found almost  everywhere by <b>foraging</b>.\n\nThey can be carved with a <b>Cutting Tool</b> into a <b>Hand Drill</b>, an essential tool to <b>start a Fire</b>\n\nThey can also be used as <b>Fuel</b> for said fires, and are a common material to craft all sorts of <b>tools and structures</b>."
 GE_Stone_OverrideDescription,"A small chunk of limestone. \n\nIt can be turned into a <b>Sharpened Stone</b>, usually made by grinding it against a <b>Heavy Stone</b>.\nSame can be done by grinding it against a smaller stone, but that will take longer and be harsher on your hands.","A small chunk of limestone. \n\nIt can be turned into a <b>Sharpened Stone</b>, usually made by grinding it against a <b>Heavy Stone</b>.\nSame can be done by grinding it against a smaller stone, but that will take longer and be harsher on your hands."
-GE_StoneAxe_OverrideDescription,"An Axe is an essential tool for survival. If you find yourself in a situation where you don't have one at hand, you can craft a rudimentary one by <b>sharpening a Stone and lodging it into a piece of Wood.</b>\n\nBetter axes can be made out of <b>Flint or Scrap Metal</b>, or -if you have the necessary structures to work them- out of <b>Metals like Copper</b>\n\nAxes mainly serve to chop down vegetation: <b>Trees and Bushes</b> can be cut and turned into useful crafting materials like <b>Wood, Long Sticks or Leaves.</b>\n\nThey also make for a great <b>Hammering Tool.</b>","Siekiera jest niezbędnym narzędziem do przetrwania. Jeśli znajdziesz się w sytuacji, w której nie masz jej pod ręką, możesz stworzyć prymitywną siekierę, <b>ostrząc kamień i umieszczając go w kawałku drewna</b>.\n\nLepsze siekiery można wykonać z <b>krzemienia lub złomu</b>, lub - jeśli masz odpowiednie struktury do ich wykonania - <b>z metali, takich jak miedź</b>\n\nSiekiery służą głównie do ścinania roślinności: <b>drzewa i krzewy</b> można ściąć i przetworzyć na przydatne materiały rzemieślnicze, takie jak </b>drewno, długie kije lub liście</b>.\n\nSą również świetnym <b>narzędziem do kucia</b>."
+GE_StoneAxe_OverrideDescription,"An Axe is an essential tool for survival. If you find yourself in a situation where you don't have one at hand, you can craft a rudimentary one by <b>sharpening a Stone and lodging it into a piece of Wood.</b>\n\nBetter axes can be made out of <b>Flint or Scrap Metal</b>, or -if you have the necessary structures to work them- out of <b>Metals like Copper</b>\n\nAxes mainly serve to chop down vegetation: <b>Trees and Bushes</b> can be cut and turned into useful crafting materials like <b>Wood, Long Sticks or Leaves.</b>\n\nThey also make for a great <b>Hammering Tool.</b>","Siekiera jest niezbędnym narzędziem do przetrwania. Jeśli znajdziesz się w sytuacji, w której nie masz jej pod ręką, możesz stworzyć prymitywną siekierę, <b>ostrząc kamień i umieszczając go w kawałku drewna</b>.\n\nLepsze siekiery można wykonać z <b>krzemienia lub złomu</b>, lub - jeśli masz odpowiednie struktury do ich wykonania - <b>z metali, takich jak miedź</b>\n\nSiekiery służą głównie do ścinania roślinności: <b>drzewa i krzewy</b> można ściąć i przetworzyć na przydatne materiały rzemieślnicze, takie jak </b>drewno, kije lub liście</b>.\n\nSą również świetnym <b>narzędziem do kucia</b>."
 GE_StoneHeavy_OverrideDescription,Large chunks of <b>Limestone</b>. Their weight makes them ideal for <b>Deadfall Traps</b>.\n\nThey can also be used to <b>Sharpen</b> tools or other stones or burnt in <b>Kilns</b> to turn them into <b>Quicklime</b>. They also come in a yellowish brimstone-rich variety that can be burnt to release their <b>Brimstone</b>.,Large chunks of <b>Limestone</b>. Their weight makes them ideal for <b>Deadfall Traps</b>.\n\nThey can also be used to <b>Sharpen</b> tools or other stones or burnt in <b>Kilns</b> to turn them into <b>Quicklime</b>. They also come in a yellowish brimstone-rich variety that can be burnt to release their <b>Brimstone</b>.
 GE_StoneHut_OverrideDescription,"A house made of <b>Stones and Mortar</b>. It can offer protection from <b>Storms, Rain and the Sun</b>.\n\nThe Stone Hut can receive numerous upgrades to improve it, including storage expansions, doors, wall paint and more.\nIts sturdy nature makes it completely impervious to <b>Storms</b>.","A house made of <b>Stones and Mortar</b>. It can offer protection from <b>Storms, Rain and the Sun</b>.\n\nThe Stone Hut can receive numerous upgrades to improve it, including storage expansions, doors, wall paint and more.\nIts sturdy nature makes it completely impervious to <b>Storms</b>."
-GE_StoneSharpened_OverrideTitle,Sharpened Stone,Sharpened Stone
+GE_StoneSharpened_OverrideTitle,Sharpened Stone,Naostrzony kamień
 GE_StoneSharpened_OverrideDescription,"A <b>Sharpened Stone</b>, usually made by grinding <b>Stone</b> against a <b>Heavy Stone</b>.\nIt can also be made by grinding <b>Stone</b> against a smaller stone, but that will take longer and be harsher on your hands.\n\nSharpened stones can work as acceptable cutting tools and can be used to make <b>Stone Axes</b>. Unfortunately, they are not sharp enough for more complex tasks like those required for woodworking.","A <b>Sharpened Stone</b>, usually made by grinding <b>Stone</b> against a <b>Heavy Stone</b>.\nIt can also be made by grinding <b>Stone</b> against a smaller stone, but that will take longer and be harsher on your hands.\n\nSharpened stones can work as acceptable cutting tools and can be used to make <b>Stone Axes</b>. Unfortunately, they are not sharp enough for more complex tasks like those required for woodworking."
 GE_Stove_OverrideDescription,"A perfect rustic Kitchen made of Mud Bricks that can only be built indoors.\n\nIt has <b>4 cooking slots</b> (2 more than a Campfire) and the ability to <b>smoke food</b> to make it last longer.\n\nIt has a lower effect on temperature than Campfires, making it better as an indoor cooking station.","A perfect rustic Kitchen made of Mud Bricks that can only be built indoors.\n\nIt has <b>4 cooking slots</b> (2 more than a Campfire) and the ability to <b>smoke food</b> to make it last longer.\n\nIt has a lower effect on temperature than Campfires, making it better as an indoor cooking station."
 GE_Sugar_OverrideTitle,Sugar,Sugar
@@ -8703,7 +8703,7 @@ GE_Tanning_OverrideDescription,Your skin will gradually tan as you spend time ex
 GE_TidePool_OverrideDescription,"On <b>Rocky Beaches</b>, the water from the tides often gets trapped in Pools formed by the rocks.\n\nOn <b>High Tide</b>, the pool will be underwater and flooded, but once the tide lowers, some water will stay trapped along with a large quantity of <b>Prawns, Crabs and other things.</b>\n\nThis makes them a <b>decent renewable food source</b>.\n\nThe smell of the sea water can cause some discomfort though, so it's not recommended to setup camp near them.","On <b>Rocky Beaches</b>, the water from the tides often gets trapped in Pools formed by the rocks.\n\nOn <b>High Tide</b>, the pool will be underwater and flooded, but once the tide lowers, some water will stay trapped along with a large quantity of <b>Prawns, Crabs and other things.</b>\n\nThis makes them a <b>decent renewable food source</b>.\n\nThe smell of the sea water can cause some discomfort though, so it's not recommended to setup camp near them."
 GE_Torch_OverrideDescription,"For travelling at night or exploring dark caves, a <b>portable source of light</b> is a necessity.\n\nA rudimentary torch can be crafted with <b>Wood, Oil and Cloth.</b>","For travelling at night or exploring dark caves, a <b>portable source of light</b> is a necessity.\n\nA rudimentary torch can be crafted with <b>Wood, Oil and Cloth.</b>"
 GE_Tourniquet_OverrideTitle,Tourniquet,Tourniquet
-GE_Tourniquet_OverrideDescription,"A Tourniquet is a very effective way to stop <b>Blood Loss in the case of a serious Open Wound.</b>\n\nIn its most basic form, it's something you wrap around your limb and tighten so it can interrupt the blood flow.\n\nAs such it can be made simply with <b>Cord Fiber</b> and a <b>Stick</b>, but using <b>Cloth</b> instead of a simple cord should make for a more durable tourniquet.\n\nThe tourniquet should only be used <b>temporarily</b>, as interrupting the blood flow for too long can become damaging to the limb, even going as far as to cause <b>permanent Nerve Damage.</b>\n\nUse it to stop blood loss in an emergency, but make sure to <b>properly tend to your wound right after.</b>","Opaska uciskowa jest bardzo skutecznym sposobem na <b>zatamowanie utraty krwi w przypadku poważnej otwartej rany</b>.\n\nW najprostszej formie jest to coś, co owija się wokół kończyny i zaciska, aby przerwać przepływ krwi.\n\nMożna ją po prostu wykonać z <b>sznura włóknistego</b> i <b>kija</b>, ale użycie tkaniny zamiast prostego sznura powinno sprawić, że opaska uciskowa będzie trwalsza.\n\nOpaska uciskowa powinna być używana tylko <b>tymczasowo</b>, ponieważ zbyt długie przerwanie przepływu krwi może uszkodzić kończynę, a nawet spowodować <b>trwałe uszkodzenie nerwów</b>.\n\nUżyj jej, aby zatamować utratę krwi w nagłych wypadkach, ale pamiętaj, aby <b>odpowiednio opatrzyć ranę zaraz po jej założeniu</b>."
+GE_Tourniquet_OverrideDescription,"A Tourniquet is a very effective way to stop <b>Blood Loss in the case of a serious Open Wound.</b>\n\nIn its most basic form, it's something you wrap around your limb and tighten so it can interrupt the blood flow.\n\nAs such it can be made simply with <b>Cord Fiber</b> and a <b>Stick</b>, but using <b>Cloth</b> instead of a simple cord should make for a more durable tourniquet.\n\nThe tourniquet should only be used <b>temporarily</b>, as interrupting the blood flow for too long can become damaging to the limb, even going as far as to cause <b>permanent Nerve Damage.</b>\n\nUse it to stop blood loss in an emergency, but make sure to <b>properly tend to your wound right after.</b>","Opaska uciskowa jest bardzo skutecznym sposobem na <b>zatamowanie utraty krwi w przypadku poważnej otwartej rany</b>.\n\nW najprostszej formie jest to coś, co owija się wokół kończyny i zaciska, aby przerwać przepływ krwi.\n\nMożna ją po prostu wykonać z <b>sznura włóknistego</b> i <b>patyka</b>, ale użycie tkaniny zamiast prostego sznura powinno sprawić, że opaska uciskowa będzie trwalsza.\n\nOpaska uciskowa powinna być używana tylko <b>tymczasowo</b>, ponieważ zbyt długie przerwanie przepływu krwi może uszkodzić kończynę, a nawet spowodować <b>trwałe uszkodzenie nerwów</b>.\n\nUżyj jej, aby zatamować utratę krwi w nagłych wypadkach, ale pamiętaj, aby <b>odpowiednio opatrzyć ranę zaraz po jej założeniu</b>."
 GE_Treenail_OverrideDescription,Treenails are wooden pins used to hold planks together.\n\nThey are an essential component of many of the more complex pieces of <b>Furniture</b> and <b>Woodworking</b> crafts.,Treenails are wooden pins used to hold planks together.\n\nThey are an essential component of many of the more complex pieces of <b>Furniture</b> and <b>Woodworking</b> crafts.
 GE_Trunk_OverrideDescription,"Large and solid storage filled with useful supplies.\n<b>You won't find something like that in the wild.</b>\n\nStill, if you find yourself in possession of one during a survival situation, make sure to keep it around and use it to your advantage.\n\nPlacing things in solid containers is a great way to <b>protect them from animals and storms.</b>","Large and solid storage filled with useful supplies.\n<b>You won't find something like that in the wild.</b>\n\nStill, if you find yourself in possession of one during a survival situation, make sure to keep it around and use it to your advantage.\n\nPlacing things in solid containers is a great way to <b>protect them from animals and storms.</b>"
 GE_Urchin_OverrideDescription,"Urchins are spiny animals related to starfish. They can be found in the <b>Rocky Coasts</b> of the island as well as in <b>Tidepools</b>.\n\nIt is recommended to wear some sort of foot protection when foraging in the areas where they live as stepping on one can cause a <b>Painful</b> wound that is prone to <b>Infections</b> and will make <b>Walking</b> more difficult. If you do happen to accidentally step on one, make sure to remove the spines from the wound as soon as possible.","Urchins are spiny animals related to starfish. They can be found in the <b>Rocky Coasts</b> of the island as well as in <b>Tidepools</b>.\n\nIt is recommended to wear some sort of foot protection when foraging in the areas where they live as stepping on one can cause a <b>Painful</b> wound that is prone to <b>Infections</b> and will make <b>Walking</b> more difficult. If you do happen to accidentally step on one, make sure to remove the spines from the wound as soon as possible."
@@ -8723,7 +8723,7 @@ GE_Weston_OverrideDescription,"Surviving alone for days can weigh a lot on the s
 GE_Wetlands_OverrideTitle,Wetlands,Wetlands
 GE_Wetlands_OverrideDescription,"A damp and densely forested area deep inside the island.\n\nIn it you can find some natural water puddles that fill when it rains and many plants such as <b>Sago Palms, Spider Lilies, Bananas, Mushrooms and Ginger</b>.\n\nThe area has a very high <b>Bug Population</b> so make sure to bring some sort of <b>Bug Repellant</b> if this could be dangerous to you.","A damp and densely forested area deep inside the island.\n\nIn it you can find some natural water puddles that fill when it rains and many plants such as <b>Sago Palms, Spider Lilies, Bananas, Mushrooms and Ginger</b>.\n\nThe area has a very high <b>Bug Population</b> so make sure to bring some sort of <b>Bug Repellant</b> if this could be dangerous to you."
 GE_WildJujube_OverrideDescription,"A big bush that can be found in <b>Grasslands.</b>\n\n<b>Its Fruits are edible</b>, they are sweet and acidic.\n\nThe bush can be cut down with an Axe for <b>Leaves</b>, and the seeds can be planted and grown in <b>Crop Plots</b>","A big bush that can be found in <b>Grasslands.</b>\n\n<b>Its Fruits are edible</b>, they are sweet and acidic.\n\nThe bush can be cut down with an Axe for <b>Leaves</b>, and the seeds can be planted and grown in <b>Crop Plots</b>"
-GE_Wood_OverrideTitle,Wood,Wood
+GE_Wood_OverrideTitle,Wood,Drewno
 GE_Wood_OverrideDescription,"Wood can be found by exploring, specially on forested areas, or obtained directly from the environment if you have an <b>Axe</b> in your possession.\n\nWood can be used as <b>Fuel</b>, as part of many different blueprints and even as a sort of tinder if you have a knife sharp enough to cut <b>Shavings</b>.","Wood can be found by exploring, specially on forested areas, or obtained directly from the environment if you have an <b>Axe</b> in your possession.\n\nWood can be used as <b>Fuel</b>, as part of many different blueprints and even as a sort of tinder if you have a knife sharp enough to cut <b>Shavings</b>."
 GE_WoodCarving_OverrideTitle,Wood Carvings,Wood Carvings
 GE_WoodCarving_OverrideDescription,Wood Carvings can be made from <b>Wood</b> provided you have enough <b>Woodworking Skill</b>.\n\nCarving Sculptures is a great source of <b>Entertainment</b> and if your skill is high enough you can produce some nice <b>Decorations</b> to display on your shelves and increase your <b>Comfort</b>.,Wood Carvings can be made from <b>Wood</b> provided you have enough <b>Woodworking Skill</b>.\n\nCarving Sculptures is a great source of <b>Entertainment</b> and if your skill is high enough you can produce some nice <b>Decorations</b> to display on your shelves and increase your <b>Comfort</b>.
@@ -9450,7 +9450,7 @@ pg_Tools_Sections[0].Entries[0].Content,"Combine a <b>Stone and a Heavy stone</b
 pg_Tools_Sections[0].Entries[1].Title,<b>Stone Axe</b>,<b>Kamienna siekiera</b>
 pg_Tools_Sections[0].Entries[1].Content,Through the right blueprint one can combine a piece of <b>Wood</b> and a <b>Sharpened Stone</b> to create a rudimentary Stone Axe.,"Dzięki odpowiedniemu projektowi można połączyć kawałek <b>drewna</b> i <b>zaostrzony kamień</b>, aby wykonać prostą kamienną siekierę."
 pg_Tools_Sections[0].Entries[2].Title,<b>Rustic Spear</b>,<b>Dzida</b>
-pg_Tools_Sections[0].Entries[2].Content,A simple <b>Spear</b> can be crafted by combining a <b>Long Stick</b> with a <b>Cutting tool or a Campfire</b>.\nThe resulting weapon can be used for both <b>Spearfishing and Hunting</b>.,"Prostą <b>dzidę</b> można wykonać, łącząc <b>długi kij</b> z <b>narzędziem tnącym lub ogniskiem</b>.\nPowstałą broń można wykorzystać zarówno do <b>łowienia ryb podwodnych, jak i do polowań</b>."
+pg_Tools_Sections[0].Entries[2].Content,A simple <b>Spear</b> can be crafted by combining a <b>Long Stick</b> with a <b>Cutting tool or a Campfire</b>.\nThe resulting weapon can be used for both <b>Spearfishing and Hunting</b>.,"Prostą <b>dzidę</b> można wykonać, łącząc </b>kij</b> z <b>narzędziem tnącym lub ogniskiem</b>.\nPowstałą broń można wykorzystać zarówno do <b>łowienia ryb podwodnych, jak i do polowań</b>."
 pg_TutorialVideos_PageTitle,NEOMARE'S VIDEOS,NEOMARE'S VIDEOS
 pg_TutorialVideos_Sections[0].Entries[0].Content,Neomare is a youtuber who's made a lot of content about our game!\nHere's a few links to some of his ongoing runs in case you want to check them.,Neomare is a youtuber who's made a lot of content about our game!\nHere's a few links to some of his ongoing runs in case you want to check them.
 pg_Weaving_PageTitle,Weaving,Weaving
@@ -10822,17 +10822,17 @@ BugRepellentApplied_Statuses[0].GameName,Bug Repellent,Bug Repellent
 BugRepellentApplied_Statuses[1].GameName,Bug Repellent,Bug Repellent
 BugRepellentApplied_Statuses[2].GameName,Bug Repellent,Bug Repellent
 BugRepellentApplied_Statuses[3].GameName,Bug Repellent,Bug Repellent
-Burns_GameName,Burns,Burns
-Burns_Description,Caused by over-exposure to the sun or by coming in contact with fire.,Caused by over-exposure to the sun or by coming in contact with fire.
-Burns_Statuses[0].GameName,Minor Burn,Minor Burn
-Burns_Statuses[1].GameName,First Degree Burn,First Degree Burn
-Burns_Statuses[1].Description,Burns...,Burns...
-Burns_Statuses[2].GameName,Second Degree Burn,Second Degree Burn
-Burns_Statuses[2].Description,It burns,It burns
-Burns_Statuses[3].GameName,Second Degree Burn,Second Degree Burn
-Burns_Statuses[3].Description,Hurts so much!,Hurts so much!
-Burns_Statuses[4].GameName,Third Degree Burn,Third Degree Burn
-Burns_Statuses[4].Description,Arghhh!,Arghhh!
+Burns_GameName,Burns,Oparzenia
+Burns_Description,Caused by over-exposure to the sun or by coming in contact with fire.,Spowodowane nadmierną ekspozycją na słońce lub kontaktem z ogniem.
+Burns_Statuses[0].GameName,Minor Burn,Niewielkie oparzenie
+Burns_Statuses[1].GameName,First Degree Burn,Oparzenie pierwszego stopnia
+Burns_Statuses[1].Description,Burns...,Pali...
+Burns_Statuses[2].GameName,Second Degree Burn,Oparzenie drugiego stopnia
+Burns_Statuses[2].Description,It burns,To pali
+Burns_Statuses[3].GameName,Second Degree Burn,Oparzenie drugiego stopnia
+Burns_Statuses[3].Description,Hurts so much!,To bardzo boli!
+Burns_Statuses[4].GameName,Third Degree Burn,Oparzenie trzeciego stopnia
+Burns_Statuses[4].Description,Arghhh!,Aua!
 Caffeine_GameName,Caffeine,Kofeina
 Caffeine_Description,Keeps you awake but increases your stress and dehydration.,"Nie pozwala zasnąć, ale zwiększa stres i odwodnienie."
 Caffeine_Statuses[0].GameName,Caffeine,Kofeina
@@ -11730,12 +11730,12 @@ pg_HydrationBasics_Sections[0].Entries[2].PageLinks[0].LocalizedLinkText,Coconut
 pg_HydrationBasics_Sections[0].Entries[3].PageLinks[0].LocalizedLinkText,Advanced,Advanced
 pg_HydrationStorage_Sections[0].Entries[1].PageLinks[0].LocalizedLinkText,Clay,Clay
 pg_NutritionBasics_Sections[0].Entries[0].PageLinks[0].LocalizedLinkText,Tips,Tips
-pg_NutritionBasics_Sections[0].Entries[1].PageLinks[0].LocalizedLinkText,More Info,More Info
+pg_NutritionBasics_Sections[0].Entries[1].PageLinks[0].LocalizedLinkText,More Info,Więcej informacji
 pg_NutritionBasics_Sections[0].Entries[2].PageLinks[0].LocalizedLinkText,Cooking,Cooking
 pg_NutritionBasics_Sections[0].Entries[3].PageLinks[0].LocalizedLinkText,Preservation,Preservation
-pg_NutritionSecuringFood_Sections[0].Entries[0].PageLinks[0].LocalizedLinkText,More Info,More Info
-pg_NutritionSecuringFood_Sections[0].Entries[1].PageLinks[0].LocalizedLinkText,More Info,More Info
-pg_NutritionSecuringFood_Sections[0].Entries[2].PageLinks[0].LocalizedLinkText,More Info,More Info
+pg_NutritionSecuringFood_Sections[0].Entries[0].PageLinks[0].LocalizedLinkText,More Info,Więcej informacji
+pg_NutritionSecuringFood_Sections[0].Entries[1].PageLinks[0].LocalizedLinkText,More Info,Więcej informacji
+pg_NutritionSecuringFood_Sections[0].Entries[2].PageLinks[0].LocalizedLinkText,More Info,Więcej informacji
 pg_TutorialVideos_Sections[0].Entries[1].WebLinks[0].LocalizedLinkText,Mermaid,Mermaid
 pg_TutorialVideos_Sections[0].Entries[1].WebLinks[1].LocalizedLinkText,No Rain,No Rain
 pg_TutorialVideos_Sections[0].Entries[2].WebLinks[0].LocalizedLinkText,Hard Mode,Hard Mode
@@ -11770,7 +11770,7 @@ Forge_CookingRecipes[9].ActionName,Smelt Large Tool,Smelt Large Tool
 Forge_CookingRecipes[7].ActionName,Decoration,Decoration
 GasCookerOn_CookingRecipes[70].ActionName,Egg Fried Rice,Egg Fried Rice
 KilnAdvanced_CookingRecipes[19].ActionName*,Smelt Large Tool,Smelt Large Tool
-KilnAdvanced_CookingRecipes[19].CannotCookText*,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[19].CannotCookText*,More temperature required!,Wymagana wyższa temperatura!
 Stove_CookingRecipes[85].ActionName,Egg Fried Rice,Egg Fried Rice
 PotteryWheel_CardName,Pottery Wheel,Pottery Wheel
 PotteryWheel_CardDescription,Should help me work with Clay.,Should help me work with Clay.
@@ -11785,7 +11785,7 @@ Bp_CopperJar_UnlockConditionsDesc,Copper Sheet Needed,Copper Sheet Needed
 Bp_CopperJar_BlueprintFinishedLog.LogText,I made myself a copper jar.,I made myself a copper jar.
 Bp_CopperNecklace_CardName,Copper Necklace,Copper Necklace
 Bp_CopperNecklace_CardDescription,This is one fancy necklace,This is one fancy necklace
-Bp_CopperNecklace_UnlockConditionsDesc,More Metalworking Needed,More Metalworking Needed
+Bp_CopperNecklace_UnlockConditionsDesc,More Metalworking Needed,Potrzebna bardziej rozwinięta obróbka metali
 Bp_CopperNecklace_BlueprintFinishedLog.LogText,I made a copper necklace.,I made a copper necklace.
 Bp_CopperNeedles_CardName,Copper Needles,Copper Needles
 Bp_CopperNeedles_CardDescription,Useful and durable.,Useful and durable.
@@ -11793,31 +11793,31 @@ Bp_CopperNeedles_UnlockConditionsDesc,Copper Sheet Needed,Copper Sheet Needed
 Bp_CopperNeedles_BlueprintFinishedLog.LogText,I made some copper needles.,I made some copper needles.
 Bp_EatingUtensilsCopper_CardName,Copper Eating Utensils,Copper Eating Utensils
 Bp_EatingUtensilsCopper_CardDescription,Makes eating a nicer and fancier experience.,Makes eating a nicer and fancier experience.
-Bp_EatingUtensilsCopper_UnlockConditionsDesc,More Metalworking Needed,More Metalworking Needed
+Bp_EatingUtensilsCopper_UnlockConditionsDesc,More Metalworking Needed,Potrzebna bardziej rozwinięta obróbka metali
 Bp_EatingUtensilsCopper_BlueprintFinishedLog.LogText,I made copper eating utensils.,I made copper eating utensils.
 Bp_WoodenNeedles_CardName,Wooden Needles,Wooden Needles
 Bp_WoodenNeedles_CardDescription,Better than bone ones.,Better than bone ones.
-Bp_WoodenNeedles_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_WoodenNeedles_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_WoodenNeedles_BlueprintFinishedLog.LogText,I made some wooden needles.,I made some wooden needles.
 Bp_BowDrill_CardName,Bow Drill,Bow Drill
 Bp_BowDrill_CardDescription,A faster way to make fire.,A faster way to make fire.
-Bp_BowDrill_UnlockConditionsDesc,More Crafting Needed,More Crafting Needed
+Bp_BowDrill_UnlockConditionsDesc,More Crafting Needed,Potrzebne bardziej rozwinięte wytwarzanie
 Bp_BowDrill_BlueprintFinishedLog.LogText,I made a bow drill.,I made a bow drill.
 Bp_CopperSheet_CardName,Copper Sheet,Copper Sheet
 Bp_CopperSheet_CardDescription,"A thin copper sheet, useful for many crafts.","A thin copper sheet, useful for many crafts."
-Bp_CopperSheet_UnlockConditionsDesc,More Metalworking Needed,More Metalworking Needed
+Bp_CopperSheet_UnlockConditionsDesc,More Metalworking Needed,Potrzebna bardziej rozwinięta obróbka metali
 Bp_CopperSheet_BlueprintFinishedLog.LogText,I made a copper sheet.,I made a copper sheet.
 Bp_EatingUtensilsWooden_CardName,Wooden Eating Utensils,Wooden Eating Utensils
 Bp_EatingUtensilsWooden_CardDescription,Makes eating a nicer experience.,Makes eating a nicer experience.
-Bp_EatingUtensilsWooden_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_EatingUtensilsWooden_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_EatingUtensilsWooden_BlueprintFinishedLog.LogText,I made wooden eating utensils.,I made wooden eating utensils.
 Bp_MoldDecoration_CardName,Decoration Mold,Decoration Mold
 Bp_MoldDecoration_CardDescription,A mold for a copper decoration.,A mold for a copper decoration.
-Bp_MoldDecoration_UnlockConditionsDesc,More Metalworking Needed,More Metalworking Needed
+Bp_MoldDecoration_UnlockConditionsDesc,More Metalworking Needed,Potrzebna bardziej rozwinięta obróbka metali
 Bp_MoldDecoration_BlueprintFinishedLog.LogText,I made a mold for an axe.,I made a mold for an axe.
 Bp_PotteryWheel_CardName,Pottery Wheel,Pottery Wheel
 Bp_PotteryWheel_CardDescription,Should help me work with Clay.,Should help me work with Clay.
-Bp_PotteryWheel_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_PotteryWheel_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_PotteryWheel_BlueprintFinishedLog.LogText,I built a pottery wheel.,I built a pottery wheel.
 Event_SkillMetalworking1_CardName,Metalworking Improved!,Metalworking Improved!
 Event_SkillMetalworking1_CardDescription,I'm starting to get better at metalworking.,I'm starting to get better at metalworking.
@@ -11906,9 +11906,9 @@ SailBroken_Raft_UsageDurability.OnZero.ActionLog.LogText,The sail got destroyed.
 SailBroken_Raft_UsageDurability.OnFull.ActionDescription,The Sail has been repaired!,The Sail has been repaired!
 SailBroken_Raft_CardInteractions[0].ActionName,Repair Sail,Repair Sail
 GpTag_Needle_TabName,Needle,Needle
-GE_Skill_Metalworking_OverrideTitle,Metalworking,Metalworking
+GE_Skill_Metalworking_OverrideTitle,Metalworking,Obróbka metali
 GE_Skill_Metalworking_OverrideDescription,"Metalworking allows you to craft useful tools out of <b>Copper</b>.\n\nThe greater your skill the more complex and advanced your crafts can be.\nAt its lower levels you should be able to craft <b>Knives, Axes and Spears</b>, but later <b>Shovels, Needles, Decorations, Eating Utensils, Bottles</b> and other useful items of increasing complexity will also become available.\n\nMetalworking can be trained by <b>smelting copper, creating metal crafts and maintaining your copper tools</b>.","Metalworking allows you to craft useful tools out of <b>Copper</b>.\n\nThe greater your skill the more complex and advanced your crafts can be.\nAt its lower levels you should be able to craft <b>Knives, Axes and Spears</b>, but later <b>Shovels, Needles, Decorations, Eating Utensils, Bottles</b> and other useful items of increasing complexity will also become available.\n\nMetalworking can be trained by <b>smelting copper, creating metal crafts and maintaining your copper tools</b>."
-Obj_SkillMetalworking_ObjectiveDescription,Metalworking,Metalworking
+Obj_SkillMetalworking_ObjectiveDescription,Metalworking,Obróbka metali
 Obj_SkillMetalworking_OnCompleteActions[0].ActionName,Determination,Determination
 Foodplace_GameName,Foodplace,Foodplace
 Foodplace_Description,Shows how good your eating place is. Gives you a bonus to eating.,Shows how good your eating place is. Gives you a bonus to eating.
@@ -11918,8 +11918,8 @@ SaturationReptile_GameName,Saturation Reptile,Nasycenie gadami
 SaturationReptile_Description,Shows how tired you are of eating reptiles. Lowers your morale and gets you nauseous if it gets too high.,"Pokazuje, jak bardzo jesteś zmęczony jedzeniem gadów. Obniża morale i powoduje mdłości, jeśli jest zbyt wysokie."
 SaturationReptile_Statuses[0].GameName,I'm so sick of eating Reptiles...,Mam już dość jedzenia gadów...
 SaturationReptile_Statuses[1].GameName,I'm a bit tired of eating Reptiles...,Jestem trochę zmęczony jedzeniem gadów...
-Skill_Metalworking_GameName,Metalworking,Metalworking
-Skill_Metalworking_Description,Shows how good you are at working with metal. Unlocks new recipes as it gets higher.,Shows how good you are at working with metal. Unlocks new recipes as it gets higher.
+Skill_Metalworking_GameName,Metalworking,Obróbka metali
+Skill_Metalworking_Description,Shows how good you are at working with metal. Unlocks new recipes as it gets higher.,"Pokazuje, jak dobry jesteś w pracy z metalem. Odblokowuje nowe schematy wraz ze wzrostem poziomu."
 PotteryBonus_GameName,Pottery Bonus,Pottery Bonus
 PotteryBonus_Statuses[0].GameName,Workplace,Workplace
 PotteryBonus_Statuses[0].Description,Minor Effect,Minor Effect
@@ -11930,13 +11930,13 @@ tag_CopperSmall_InGameName,Small Copper Object,Mały miedziany przedmioty
 tag_ThreadedNeedle_InGameName,Threaded Needle,Threaded Needle
 tag_Valuable_InGameName,Valuable,Valuable
 KilnAdvanced_CookingRecipes[17].ActionName*,Smelt Knife,Smelt Knife
-KilnAdvanced_CookingRecipes[17].CannotCookText*,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[17].CannotCookText*,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[18].ActionName*,Smelt Shovel Head,Smelt Shovel Head
-KilnAdvanced_CookingRecipes[18].CannotCookText*,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[18].CannotCookText*,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[19].ActionName**,Smelt Spear Head,Smelt Spear Head
-KilnAdvanced_CookingRecipes[19].CannotCookText**,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[19].CannotCookText**,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[23].ActionName,Decoration,Decoration
-KilnAdvanced_CookingRecipes[23].CannotCookText,More temperature required!,More temperature required!
+KilnAdvanced_CookingRecipes[23].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 tag_DecorationAdv_InGameName,Decoration Advanced,Decoration Advanced
 GE_NerveDamage_OverrideTitle,Nerve Damage,Nerve Damage
 GE_NerveDamage_OverrideDescription,Leaving a Tourniquet on for too long can cause dangerous nerve damage.\nNerve damage will cause pain and add different <b>time penalties</b> depending on the limb that got hurt.\n\nNerve damage should slowly heal on its own as long as you don't have a <b>Tourniquet</b> equipped.,Leaving a Tourniquet on for too long can cause dangerous nerve damage.\nNerve damage will cause pain and add different <b>time penalties</b> depending on the limb that got hurt.\n\nNerve damage should slowly heal on its own as long as you don't have a <b>Tourniquet</b> equipped.
@@ -12070,22 +12070,22 @@ CageTrapPlacedTriggeredSeagull_DismantleActions[1].ActionName,Pick Up,Podnieś
 CageTrapPlacedTriggeredSeagull_InventorySlotsText,PLACE BAIT HERE,PLACE BAIT HERE
 Bp_FriedPuffballs_CardName,Fried Puffballs,Fried Puffballs
 Bp_FriedPuffballs_CardDescription,Pretty good!,Pretty good!
-Bp_FriedPuffballs_UnlockConditionsDesc,Puffballs Needed,Puffballs Needed
+Bp_FriedPuffballs_UnlockConditionsDesc,Puffballs Needed,Potrzebne purchawki
 Bp_LeatherGloves_CardName,Leather Gloves,Leather Gloves
 Bp_LeatherGloves_CardDescription,Perfect for protecting my hands.,Perfect for protecting my hands.
 Bp_LeatherGloves_UnlockConditionsDesc,Cured Skin Needed,Cured Skin Needed
 Bp_LeatherGloves_BlueprintFinishedLog.LogText,I made myself some leather gloves.,I made myself some leather gloves.
 Bp_BoarFeeder_CardName,Boar Feeder,Boar Feeder
 Bp_BoarFeeder_CardDescription,A device to feed boars with minimal work.,A device to feed boars with minimal work.
-Bp_BoarFeeder_UnlockConditionsDesc,Boar Needed,Boar Needed
+Bp_BoarFeeder_UnlockConditionsDesc,Boar Needed,Potrzebny dzik
 Bp_BoarFeeder_BlueprintFinishedLog.LogText,I built a a feeding Trough.,I built a a feeding Trough.
 Bp_CageTrap_CardName,Cage Trap,Cage Trap
 Bp_CageTrap_CardDescription,Perfect for catching small and medium sized animals live.,Perfect for catching small and medium sized animals live.
-Bp_CageTrap_UnlockConditionsDesc,More Trapping Needed,More Trapping Needed
+Bp_CageTrap_UnlockConditionsDesc,More Trapping Needed,Potrzebne bardziej rozwinięte zastawianie płapek
 Bp_CageTrap_BlueprintFinishedLog.LogText,I built a cage trap.,I built a cage trap.
 Bp_Travois_CardName,Travois,Travois
 Bp_Travois_CardDescription,A device for carrying heavy things.,A device for carrying heavy things.
-Bp_Travois_UnlockConditionsDesc,More Crafting Needed,More Crafting Needed
+Bp_Travois_UnlockConditionsDesc,More Crafting Needed,Potrzebne bardziej rozwinięte wytwarzanie
 Bp_Travois_BlueprintFinishedLog.LogText,I built a travois.,I built a travois.
 Event_DogFriendAnger_CardName,Ouch!!!!,Ouch!!!!
 Event_DogFriendAnger_CardDescription,Your dog just bit you! It's probably all the stress!,Your dog just bit you! It's probably all the stress!
@@ -12402,19 +12402,19 @@ TableDismantled_CardDescription,Should help me with my crafts. Looks good too!,S
 TableDismantled_DismantleActions[0].ActionName,Place,Place
 Bp_FishSalted_CardName,Salted Fish Meat,Salted Fish Meat
 Bp_FishSalted_CardDescription,Salt-cured to prevent spoilage.,Salt-cured to prevent spoilage.
-Bp_FishSalted_UnlockConditionsDesc,Salt needed.,Salt needed.
+Bp_FishSalted_UnlockConditionsDesc,Salt needed.,Potrzebna sól
 Bp_MeatSalted_CardName,Salted Meat,Salted Meat
 Bp_MeatSalted_CardDescription,Salt-cured to prevent spoilage.,Salt-cured to prevent spoilage.
-Bp_MeatSalted_UnlockConditionsDesc,Salt needed.,Salt needed.
+Bp_MeatSalted_UnlockConditionsDesc,Salt needed.,Potrzebna sól
 Bp_FeedBoar_CardName,Boar Feed,Boar Feed
 Bp_FeedBoar_CardDescription,"Boar food, perfect for the Boar Feeder.","Boar food, perfect for the Boar Feeder."
 Bp_FluteBone_CardName,Bone Flute,Bone Flute
 Bp_FluteBone_CardDescription,A simple wind Instrument.,A simple wind Instrument.
-Bp_FluteBone_UnlockConditionsDesc,More Crafting Needed,More Crafting Needed
+Bp_FluteBone_UnlockConditionsDesc,More Crafting Needed,Potrzebne bardziej rozwinięte wytwarzanie
 Bp_FluteBone_BlueprintFinishedLog.LogText,I built a Bone Flute!,I built a Bone Flute!
 Bp_FluteWooden_CardName,Wooden Flute,Wooden Flute
 Bp_FluteWooden_CardDescription,A simple wind Instrument.,A simple wind Instrument.
-Bp_FluteWooden_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_FluteWooden_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_FluteWooden_BlueprintFinishedLog.LogText,I built a Wooden Flute!,I built a Wooden Flute!
 Bp_SaltBed_CardName,Salt Bed,Salt Bed
 Bp_SaltBed_CardDescription,Ideal for extracting Salt from Seawater.,Ideal for extracting Salt from Seawater.
@@ -12559,7 +12559,7 @@ Event_FluteTunes1_DismantleActions[1].ActionDescription,Hopeful and Uplifting.,H
 Event_FluteTunes1_DismantleActions[2].ActionName,Sad Tune,Sad Tune
 Event_FluteTunes1_DismantleActions[2].ActionDescription,Melancholic and Accepting.,Melancholic and Accepting.
 Event_FluteTunes1_DismantleActions[3].ActionName,Next Page,Next Page
-Event_FluteTunes1_DismantleActions[3].ActionDescription,More Songs,More Songs
+Event_FluteTunes1_DismantleActions[3].ActionDescription,More Songs,Więcej utworów
 Event_FluteTunes2_CardName,Page 2,Page 2
 Event_FluteTunes2_CardDescription,A selection of tunes.,A selection of tunes.
 Event_FluteTunes2_DismantleActions[0].ActionName,Lonely Tune,Lonely Tune
@@ -12569,7 +12569,7 @@ Event_FluteTunes2_DismantleActions[1].ActionDescription,Deep and Positive,Deep a
 Event_FluteTunes2_DismantleActions[2].ActionName,Advanced Tune,Advanced Tune
 Event_FluteTunes2_DismantleActions[2].ActionDescription,Complex and Rewarding.,Complex and Rewarding.
 Event_FluteTunes2_DismantleActions[3].ActionName,Next Page,Next Page
-Event_FluteTunes2_DismantleActions[3].ActionDescription,More Songs,More Songs
+Event_FluteTunes2_DismantleActions[3].ActionDescription,More Songs,Więcej utworów
 Event_FluteTunes3_CardName,Page 3,Page 3
 Event_FluteTunes3_CardDescription,A selection of tunes.,A selection of tunes.
 Event_FluteTunes3_DismantleActions[0].ActionName,Sea Tune,Sea Tune
@@ -12707,9 +12707,9 @@ Tune_Sad_GameName,Tune - Sad,Tune - Sad
 Tune_Sea_GameName,Tune - Sea,Tune - Sea
 Tune_Simple_GameName,Tune - Simple,Tune - Simple
 Tune_Weston_GameName,Tune - Weston,Tune - Weston
-Skill_WindInstruments_GameName,Wind Instruments,Wind Instruments
-Skill_WindInstruments_Description,Shows how good you are at playing Wind Instruments. Unlocks new Melodies as it gets higher.,Shows how good you are at playing Wind Instruments. Unlocks new Melodies as it gets higher.
-Skill_WindInstruments_NotEnoughText,Not enough skill.,Not enough skill.
+Skill_WindInstruments_GameName,Wind Instruments,Instrumenty dęte
+Skill_WindInstruments_Description,Shows how good you are at playing Wind Instruments. Unlocks new Melodies as it gets higher.,"Pokazuje, jak dobry jesteś w grze na instrumentach dętych. Odblokowuje nowe melodie wraz ze wzrostem poziomu."
+Skill_WindInstruments_NotEnoughText,Not enough skill.,Niewystarczające umiejętności.
 BoarRaidCounter_GameName*,Boar Raid Counter,Boar Raid Counter
 BoarRaidCounter_Statuses[0].GameName*,Random Rate,Random Rate
 BoarRaidCounter_Statuses[1].GameName*,Final Rate,Final Rate
@@ -12757,23 +12757,23 @@ GasCookerOn_CookingRecipes[7].ActionName*,Boiling Salt,Boiling Salt
 GasCookerOn_CookingRecipes[7].CannotCookText*,Not enough salt water...,Not enough salt water...
 Bp_FiberArmor_CardName,Fiber Armor,Fiber Armor
 Bp_FiberArmor_CardDescription,"Should offer protection to my torso, arms and legs. ","Should offer protection to my torso, arms and legs. "
-Bp_FiberArmor_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_FiberArmor_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_FiberArmor_BlueprintFinishedLog.LogText,I made myself some fiber armor.,I made myself some fiber armor.
 Bp_FiberBracers_CardName,Fiber Bracers,Fiber Bracers
 Bp_FiberBracers_CardDescription,Should offer protection for my Arms,Should offer protection for my Arms
-Bp_FiberBracers_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_FiberBracers_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_FiberBracers_BlueprintFinishedLog.LogText,I made myself some fiber bracers.,I made myself some fiber bracers.
 Bp_FiberCuirass_CardName,Fiber Cuirass,Fiber Cuirass
 Bp_FiberCuirass_CardDescription,Should offer protection for my torso.,Should offer protection for my torso.
-Bp_FiberCuirass_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_FiberCuirass_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_FiberCuirass_BlueprintFinishedLog.LogText,I made myself a fiber cuirass,I made myself a fiber cuirass
 Bp_FiberHelmet_CardName,Fiber Helmet,Fiber Helmet
 Bp_FiberHelmet_CardDescription,Should offer protection for my Head,Should offer protection for my Head
-Bp_FiberHelmet_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_FiberHelmet_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_FiberHelmet_BlueprintFinishedLog.LogText,I made myself a fiber Helmet.,I made myself a fiber Helmet.
 Bp_JacketClothDisabled_CardName,Cloth Jacket,Cloth Jacket
 Bp_JacketClothDisabled_CardDescription,Should protect me a bit from bug bites and the sun.,Should protect me a bit from bug bites and the sun.
-Bp_JacketClothDisabled_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_JacketClothDisabled_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_JacketClothDisabled_BlueprintFinishedLog.LogText,I made a cloth Jacket for myself.,I made a cloth Jacket for myself.
 Bp_LeatherBracers_CardName,Leather Bracers,Leather Bracers
 Bp_LeatherBracers_CardDescription,Perfect for protecting my arms.,Perfect for protecting my arms.
@@ -12781,35 +12781,35 @@ Bp_LeatherBracers_UnlockConditionsDesc,Cured Skin Needed,Cured Skin Needed
 Bp_LeatherBracers_BlueprintFinishedLog.LogText,I made myself some leather bracers.,I made myself some leather bracers.
 Bp_LeatherHelmet_CardName,Leather Helmet,Leather Helmet
 Bp_LeatherHelmet_CardDescription,"A bit hot, but should offer protection for my Head","A bit hot, but should offer protection for my Head"
-Bp_LeatherHelmet_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_LeatherHelmet_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_LeatherHelmet_BlueprintFinishedLog.LogText,I made myself a leather Helmet.,I made myself a leather Helmet.
 Bp_LeatherJacketDisabled_CardName,Leather Jacket,Leather Jacket
 Bp_LeatherJacketDisabled_CardDescription,"A bit hot, but should offer protection to my torso and arms","A bit hot, but should offer protection to my torso and arms"
-Bp_LeatherJacketDisabled_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_LeatherJacketDisabled_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_LeatherJacketDisabled_BlueprintFinishedLog.LogText,I made myself a leather jacket.,I made myself a leather jacket.
 Bp_LeatherVest_CardName,Leather Vest,Leather Vest
 Bp_LeatherVest_CardDescription,"A bit hot, but should offer protection for my torso","A bit hot, but should offer protection for my torso"
-Bp_LeatherVest_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_LeatherVest_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_LeatherVest_BlueprintFinishedLog.LogText,I made myself a leather vest,I made myself a leather vest
 Bp_PantsClothDisabled_CardName,Cloth Pants,Cloth Pants
 Bp_PantsClothDisabled_CardDescription,Should protect me a bit from bug bites and the sun.,Should protect me a bit from bug bites and the sun.
-Bp_PantsClothDisabled_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
+Bp_PantsClothDisabled_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_PantsClothDisabled_BlueprintFinishedLog.LogText,I made Cloth Pants for myself.,I made Cloth Pants for myself.
 Bp_ArrowBone_CardName,Bone Arrows.,Bone Arrows.
 Bp_ArrowBone_CardDescription,Well balanced arrows with bone arrowheads.,Well balanced arrows with bone arrowheads.
-Bp_ArrowBone_UnlockConditionsDesc,More Archery Needed,More Archery Needed
+Bp_ArrowBone_UnlockConditionsDesc,More Archery Needed,Potrzebne bardziej rozwinięte krawiectwo
 Bp_ArrowBone_BlueprintFinishedLog.LogText,I crafted some bone arrows.,I crafted some bone arrows.
 Bp_ArrowFlint_CardName,Flint Arrows.,Flint Arrows.
 Bp_ArrowFlint_CardDescription,Well balanced arrows with flint arrowheads.,Well balanced arrows with flint arrowheads.
-Bp_ArrowFlint_UnlockConditionsDesc,More Archery/Knapping Needed,More Archery/Knapping Needed
+Bp_ArrowFlint_UnlockConditionsDesc,More Archery/Knapping Needed,Potrzebne bardziej rozwinięte strzelectwo/kamieniarstwo
 Bp_ArrowFlint_BlueprintFinishedLog.LogText,I crafted some flint  arrows.,I crafted some flint  arrows.
 Bp_BowComposite_CardName,Composite bow,Composite bow
 Bp_BowComposite_CardDescription,A proper bow. A great tool for hunting.,A proper bow. A great tool for hunting.
-Bp_BowComposite_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_BowComposite_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_BowComposite_BlueprintFinishedLog.LogText,I crafted a composite bow,I crafted a composite bow
 Bp_ClubSerrated_CardName,Serrated Club,Serrated Club
 Bp_ClubSerrated_CardDescription,Serrated Club,Serrated Club
-Bp_ClubSerrated_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
+Bp_ClubSerrated_UnlockConditionsDesc,More Woodworking Needed,Potrzebne bardziej rozwinięte stolarstwo
 Bp_ClubSerrated_BlueprintFinishedLog.LogText,I crafted a composite bow,I crafted a composite bow
 Combat_ BTBoar_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Unfortunately, you didn't manage to harm it."
 Combat_ BTBoar_Head.MinorWounds[0].CombatLog.LogText,"You were able to hurt it, but only superficially.","You were able to hurt it, but only superficially."
@@ -13682,16 +13682,16 @@ DMG_Hydrodynamic_Name,Hydrodynamic,Hydrodynamic
 DMG_Piercing_Name,Piercing,Piercing
 DMG_Spit_Name,Spit,Spit
 GE_Skill_Tracking_OverrideDescription,This skill can help you track down escaping animals. \n\nTo increase it you should just train by trying to track down escaping animals.,This skill can help you track down escaping animals. \n\nTo increase it you should just train by trying to track down escaping animals.
-Obj_SkillPWindInstruments_ObjectiveDescription,Wind Instruments,Wind Instruments
+Obj_SkillPWindInstruments_ObjectiveDescription,Wind Instruments,Instrumenty dęte
 Obj_SkillPWindInstruments_OnCompleteActions[0].ActionName,Determination,Determination
-Obj_SkillTracking_ObjectiveDescription,Tracking,Tracking
+Obj_SkillTracking_ObjectiveDescription,Tracking,Tropienie
 Obj_SkillTracking_OnCompleteActions[0].ActionName,Determination,Determination
 Skill_ClubFighting_GameName,ClubFighting,ClubFighting
 Skill_ClubFighting_Description,Shows how good you are at using clubs. Increases your success chances when hunting with this weapon.,Shows how good you are at using clubs. Increases your success chances when hunting with this weapon.
 Skill_KnifeFighting_GameName,Knife Fighting,Knife Fighting
 Skill_KnifeFighting_Description,Shows how good you are at using knives. Increases your success chances when hunting with this weapon.,Shows how good you are at using knives. Increases your success chances when hunting with this weapon.
-Skill_Tracking_GameName,Tracking,Tracking
-Skill_Tracking_Description,Shows how good you are at tracking animals. Increases your chances of finding escaping animals.,Shows how good you are at tracking animals. Increases your chances of finding escaping animals.
+Skill_Tracking_GameName,Tracking,Tropienie
+Skill_Tracking_Description,Shows how good you are at tracking animals. Increases your chances of finding escaping animals.,"Pokazuje, jak dobry jesteś w tropieniu zwierząt. Zwiększa szanse na znalezienie uciekających zwierząt."
 CombatBloodBoar_GameName,BoarBlood,BoarBlood
 CombatBloodBoar_Description,BoarBlood,BoarBlood
 CombatBloodCobra_GameName,CobraBlood,CobraBlood
