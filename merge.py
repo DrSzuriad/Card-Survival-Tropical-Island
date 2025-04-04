@@ -13,7 +13,7 @@ def merge_csv(input_file_1, input_file_2, output_file):
     df_merged['COLUMN_3'] = df_merged['COLUMN_3'].fillna(df_merged['COLUMN_2'])
     
     # Zapisanie połączonych danych do nowego pliku CSV
-    df_merged.to_csv(output_file, index=False, encoding="utf-8")
+    df_merged.to_csv(output_file, header=False, index=False, encoding="utf-8")
     print(f"Plik został zapisany jako: {output_file}")
 
 # Przykładowe użycie
