@@ -1280,13 +1280,13 @@ GasCookerOn_CookingRecipes[13].ActionName,Candied Ginger,Candied Ginger
 GasCookerOn_CookingRecipes[14].ActionName,Charred Remains,Charred Remains
 GasCookerOn_CookingRecipes[14].CustomCookingText,Burnt in {0},Burnt in {0}
 GasCookerOn_CookingRecipes[14].CustomNotification,{0} is burnt...,{0} is burnt...
-GasCookerOn_CookingRecipes[15].ActionName,Drunken Crab,Drunken Crab
+GasCookerOn_CookingRecipes[15].ActionName,Drunken Crab,Pijany krab
 GasCookerOn_CookingRecipes[16].ActionName,Coconut Fish,Coconut Fish
 GasCookerOn_CookingRecipes[17].ActionName,Coconut Meat,Miąższ kokosowy
 GasCookerOn_CookingRecipes[18].ActionName,Coffee,Coffee
 GasCookerOn_CookingRecipes[19].ActionName,Conch Meat,Mięso ślimaka
 GasCookerOn_CookingRecipes[20].ActionName,Cook Jerrycan,Cook Jerrycan
-GasCookerOn_CookingRecipes[21].ActionName,Crab,Crab
+GasCookerOn_CookingRecipes[21].ActionName,Crab,Krab
 GasCookerOn_CookingRecipes[22].ActionName,Dry Mud,Dry Mud
 GasCookerOn_CookingRecipes[23].ActionName,Egg,Egg
 GasCookerOn_CookingRecipes[24].ActionName,Fire Clay Bowl,Fire Clay Bowl
@@ -1486,13 +1486,13 @@ Stove_CookingRecipes[16].ActionName,Butter Baked Oysters,Butter Baked Oysters
 Stove_CookingRecipes[17].ActionName,Candied Ginger,Candied Ginger
 Stove_CookingRecipes[18].ActionName,Charred Remains,Charred Remains
 Stove_CookingRecipes[18].CustomCookingText,Burned in {0},Burned in {0}
-Stove_CookingRecipes[19].ActionName,Drunken Crab,Drunken Crab
+Stove_CookingRecipes[19].ActionName,Drunken Crab,Pijany krab
 Stove_CookingRecipes[20].ActionName,Coconut Fish,Coconut Fish
 Stove_CookingRecipes[21].ActionName,Coconut Meat,Miąższ kokosowy
 Stove_CookingRecipes[22].ActionName,Coffee,Coffee
 Stove_CookingRecipes[23].ActionName,Conch Meat,Mięso ślimaka
 Stove_CookingRecipes[24].ActionName,Cook Jerrycan,Cook Jerrycan
-Stove_CookingRecipes[25].ActionName,Crab,Crab
+Stove_CookingRecipes[25].ActionName,Crab,Krab
 Stove_CookingRecipes[26].ActionName,Egg,Egg
 Stove_CookingRecipes[27].ActionName,Fish N Chips,Fish N Chips
 Stove_CookingRecipes[28].ActionName,Fish Omelette,Fish Omelette
@@ -1820,7 +1820,7 @@ Smoker_DismantleActions[1].ActionName,Extinguish Fire,Extinguish Fire
 Smoker_DismantleActions[2].ActionName,Remove Smoker,Remove Smoker
 Smoker_CookingRecipes[0].ActionName,Conch Meat,Mięso ślimaka
 Smoker_CookingRecipes[1].ActionName,Soft Conch Meat,Miękkie mięso ślimaka
-Smoker_CookingRecipes[2].ActionName,Crab,Crab
+Smoker_CookingRecipes[2].ActionName,Crab,Krab
 Smoker_CookingRecipes[3].ActionName,Boar,Dzik
 Smoker_CookingRecipes[4].ActionName,Boar Smoked,Wędzony dzik
 Smoker_CookingRecipes[5].ActionName,Egg,Jajko
@@ -4772,28 +4772,28 @@ ConchMeatSoft_DismantleActions[0].ActionName,Eat,Zjedz
 ConchMeatSoftCooked_CardName,Cooked Soft Conch Meat,Ugotowane miękkie mięso ślimaka
 ConchMeatSoftCooked_CardDescription,Tasty mollusk meat.,Tasty mollusk meat.
 ConchMeatSoftCooked_DismantleActions[0].ActionName,Eat,Zjedz
-Crab_CardName,Crab,Crab
-Crab_CardDescription,"Edible, would taste better cooked.","Edible, would taste better cooked."
-Crab_DismantleActions[0].ActionName,Eat Crab,Eat Crab
-CrabCooked_CardName,Cooked Crab,Cooked Crab
-CrabCooked_CardDescription,"Very tasty, just wish it had a bit more meat.","Very tasty, just wish it had a bit more meat."
-CrabCooked_DismantleActions[0].ActionName,Eat Crab,Eat Crab
-Egg_CardName,Egg,Egg
-Egg_CardDescription,"Edible, would taste better cooked.","Edible, would taste better cooked."
+Crab_CardName,Crab,Krab
+Crab_CardDescription,"Edible, would taste better cooked.","Jadalny, smakowałby lepiej ugotowany."
+Crab_DismantleActions[0].ActionName,Eat Crab,Zjedz kraba
+CrabCooked_CardName,Cooked Crab,Ugotowany krab
+CrabCooked_CardDescription,"Very tasty, just wish it had a bit more meat.","Bardzo smaczny, szkoda tylko, że nie ma trochę więcej mięsa."
+CrabCooked_DismantleActions[0].ActionName,Eat Crab,Zjedz kraba
+Egg_CardName,Egg,Jajko
+Egg_CardDescription,"Edible, would taste better cooked.","Jadalne, smakowałoby lepiej ugotowane."
 Egg_DismantleActions[0].ActionName,Eat,Zjedz
-EggBoiled_CardName,Boiled Egg,Boiled Egg
-EggBoiled_CardDescription,Boiled and tasty.,Boiled and tasty.
+EggBoiled_CardName,Boiled Egg,Ugotowane jajko
+EggBoiled_CardDescription,Boiled and tasty.,Gotowane i smaczne.
 EggBoiled_DismantleActions[0].ActionName,Eat,Zjedz
-EggCooked_CardName,Roasted Egg,Roasted Egg
-EggCooked_CardDescription,A tasty egg.,A tasty egg.
+EggCooked_CardName,Roasted Egg,Usmażone jajko
+EggCooked_CardDescription,A tasty egg.,Smaczne jajko.
 EggCooked_DismantleActions[0].ActionName,Eat,Zjedz
 EggPartridgeFertilized_CardName,Fertilized Egg,Fertilized Egg
-EggPartridgeFertilized_CardDescription,"Edible, would taste better cooked.","Edible, would taste better cooked."
+EggPartridgeFertilized_CardDescription,"Edible, would taste better cooked.","Jadalne, smakowałoby lepiej ugotowane."
 EggPartridgeFertilized_DismantleActions[0].ActionName,Eat,Zjedz
-Fat_CardName,Fat,Fat
-Fat_CardDescription,A chunk of fat.,A chunk of fat.
-Fat_UsageDurability.OnZero.ActionDescription,Fat used up!,Fat used up!
-Fat_Progress.OnZero.ActionDescription,Fat used up!,Fat used up!
+Fat_CardName,Fat,Tłuszcz
+Fat_CardDescription,A chunk of fat.,Kawałek tłuszczu.
+Fat_UsageDurability.OnZero.ActionDescription,Fat used up!,Tłuszcz zużyty!
+Fat_Progress.OnZero.ActionDescription,Fat used up!,Tłuszcz zużyty!
 Fat_CardInteractions[0].ActionName,Soak,Soak
 Fat_DismantleActions[0].ActionName,Eat,Zjedz
 FeedBird_CardName,Bird Feed,Bird Feed
@@ -6145,11 +6145,11 @@ ClothSmall_CardInteractions[0].ActionName,Make Ash Dressing,Make Ash Dressing
 ClothVeryLarge_CardName,Very Large Cloth,Very Large Cloth
 ClothVeryLarge_CardDescription,A very large piece of cloth. I could turn it into a sail if I tied it to a mast,A very large piece of cloth. I could turn it into a sail if I tied it to a mast
 ClothVeryLarge_DismantleActions[0].ActionName,Rip Cloth,Rip Cloth
-Coconut_CardName,Coconut,Coconut
-Coconut_CardDescription,I should make a hole with a knife or sharpened stone so I can drink from it.,I should make a hole with a knife or sharpened stone so I can drink from it.
-Coconut_CardInteractions[0].ActionName,Perforate Coconut,Perforate Coconut
-Coconut_CardInteractions[1].ActionName,Crack Coconut open,Crack Coconut open
-Coconut_CardInteractions[1].ActionDescription,(will spill water),(will spill water)
+Coconut_CardName,Coconut,Kokos
+Coconut_CardDescription,I should make a hole with a knife or sharpened stone so I can drink from it.,"Powinienem zrobić dziurę nożem lub zaostrzonym kamieniem, abym mógł się z niego napić."
+Coconut_CardInteractions[0].ActionName,Perforate Coconut,Perforowany kokos
+Coconut_CardInteractions[1].ActionName,Crack Coconut open,Otwórz kokos
+Coconut_CardInteractions[1].ActionDescription,(will spill water),(rozleje się woda)
 CoconutHalf_CardName,Coconut Half,Połowa kokosa
 CoconutHalf_CardDescription,It's filled with coconut meat.,Jest wypełniony miąższem kokosowym.
 CoconutHalf_DismantleActions[0].ActionName,Remove Meat,Usuń miąższ
@@ -6167,7 +6167,7 @@ CoconutPerforated_CardInteractions[0].ActionName,Crack Coconut open,Otwórz koko
 CoconutPerforated_DismantleActions[0].ActionName,Collect Rain,Zbieraj deszcz
 CoconutRotten_CardName,Rotten Coconut,Zgniły kokos
 CoconutRotten_CardDescription,This has gone bad.,To się źle skończyło.
-CoconutRotten_CardInteractions[0].ActionName,Crack open,Crack open
+CoconutRotten_CardInteractions[0].ActionName,Crack open,Otwórz
 Conch_CardName,Conch,Ślimak
 Conch_CardDescription,I need to get the animal from inside.,Musze się dostać do zwierzęcia w środku.
 Conch_CardInteractions[0].ActionName,Break Conch,Rozłup muszlę
@@ -7316,7 +7316,7 @@ Outskirts_CardName,Jungle Outskirts,Obrzeża dżungli
 Outskirts_CardDescription,"I could look for resources here, specially wood. If there's a way inland, it's probably here too.","I could look for resources here, specially wood. If there's a way inland, it's probably here too."
 Outskirts_CardInteractions[0].ActionName,Cut Wood,Cut Wood
 Outskirts_CardInteractions[1].ActionName,Cut Wood,Cut Wood
-Outskirts_DismantleActions[0].ActionName,Explore,Explore
+Outskirts_DismantleActions[0].ActionName,Explore,Przeszukaj
 Outskirts_ExplorationResults[0].Action.ActionName,Beach,Plaża
 Rocks_CardName,Rocks,Skały
 Rocks_CardDescription,A rocky area below the cliffs of the island. Could probably get stones and crabs from here.,A rocky area below the cliffs of the island. Could probably get stones and crabs from here.
@@ -7498,218 +7498,218 @@ Wetlands_CardInteractions[1].ActionName,Cut Wood,Cut Wood
 Wetlands_DismantleActions[0].ActionName,Explore,Explore
 Wetlands_ExplorationResults[0].Action.ActionName,Puddle1,Puddle1
 Wetlands_ExplorationResults[1].Action.ActionName,Puddle2,Puddle2
-Wetlands_ExplorationResults[2].Action.ActionName,Dark Cave,Dark Cave
-Wetlands_ExplorationResults[3].Action.ActionName,Cliffs,Cliffs
+Wetlands_ExplorationResults[2].Action.ActionName,Dark Cave,Mroczna jaskinia
+Wetlands_ExplorationResults[3].Action.ActionName,Cliffs,Klify
 Wetlands_ExplorationResults[4].Action.ActionName,Jungle,Dżungla
 Wetlands_ExplorationResults[5].Action.ActionName,Deep Jungle,Głębia dżungli
-Wetlands_ExplorationResults[6].Action.ActionName,Explored,Explored
+Wetlands_ExplorationResults[6].Action.ActionName,Explored,Zwiedzono
 Path_AcidLakeToVolcano_CardName,Volcano,Wulkan
-Path_AcidLakeToVolcano_CardDescription,Move to the Volcano.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Volcano.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_AcidLakeToVolcano_DismantleActions[0].ActionName,Go,Go
-Path_AcidLakeToVolcano_DismantleActions[0].FadeMessage,Travelling to the Volcano...,Travelling to the Volcano...
+Path_AcidLakeToVolcano_CardDescription,Move to the Volcano.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się do wulkanu.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_AcidLakeToVolcano_DismantleActions[0].ActionName,Go,Idź
+Path_AcidLakeToVolcano_DismantleActions[0].FadeMessage,Travelling to the Volcano...,Podróż do wulkanu...
 Path_BayToBeach_CardName,Beach,Plaża
-Path_BayToBeach_CardDescription,Continue walking along the coast.\n\n<b>(only cards on my hand row will be carried)</b>,Continue walking along the coast.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_BayToBeach_DismantleActions[0].ActionName,Go,Go
-Path_BayToBeach_DismantleActions[0].FadeMessage,Travelling to the Beach...,Travelling to the Beach...
-Path_BayToJungle_CardName,Jungle Path,Jungle Path
-Path_BayToJungle_CardDescription,Walk into the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,Walk into the jungle.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_BayToJungle_DismantleActions[0].ActionName,Go,Go
-Path_BayToJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Travelling to the Jungle...
+Path_BayToBeach_CardDescription,Continue walking along the coast.\n\n<b>(only cards on my hand row will be carried)</b>,Kontynuuj spacer wzdłuż wybrzeża.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_BayToBeach_DismantleActions[0].ActionName,Go,Idź
+Path_BayToBeach_DismantleActions[0].FadeMessage,Travelling to the Beach...,Podróż na plażę...
+Path_BayToJungle_CardName,Jungle Path,Ścieżka w dżungli
+Path_BayToJungle_CardDescription,Walk into the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się do dżungli.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_BayToJungle_DismantleActions[0].ActionName,Go,Idź
+Path_BayToJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Podróż do dżungli...
 Path_BayToMangroves_CardName,Mangrove Forest,Las namorzynowy
-Path_BayToMangroves_CardDescription,Enter the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>,Enter the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>
-Path_BayToMangroves_DismantleActions[0].ActionName,Go,Go
-Path_BayToMangroves_DismantleActions[0].FadeMessage,Travelling to the Mangroves...,Travelling to the Mangroves...
+Path_BayToMangroves_CardDescription,Enter the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na namorzyny. Zachowaj ostrożność!<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_BayToMangroves_DismantleActions[0].ActionName,Go,Idź
+Path_BayToMangroves_DismantleActions[0].FadeMessage,Travelling to the Mangroves...,Podróż na namorzyny...
 Path_BeachToBay_CardName,Bay,Zatoka
-Path_BeachToBay_CardDescription,The beach continues into the bay.\n\n<b>(only cards on my hand row will be carried)</b>,The beach continues into the bay.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_BeachToBay_DismantleActions[0].ActionName,Go,Go
-Path_BeachToBay_DismantleActions[0].FadeMessage,Travelling to the Bay...,Travelling to the Bay...
+Path_BeachToBay_CardDescription,The beach continues into the bay.\n\n<b>(only cards on my hand row will be carried)</b>,Plaża ciągnie się aż do zatoki.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_BeachToBay_DismantleActions[0].ActionName,Go,Idź
+Path_BeachToBay_DismantleActions[0].FadeMessage,Travelling to the Bay...,Podróż do zatoki...
 Path_BeachToOutskirts_CardName,Jungle Outskirts,Obrzeża dżungli
-Path_BeachToOutskirts_CardDescription,Move to the outskirts of the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the outskirts of the jungle.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_BeachToOutskirts_DismantleActions[0].ActionName,Go,Go
-Path_BeachToOutskirts_DismantleActions[0].FadeMessage,Travelling to the Outskirts...,Travelling to the Outskirts...
+Path_BeachToOutskirts_CardDescription,Move to the outskirts of the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na obrzeża dżungli.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_BeachToOutskirts_DismantleActions[0].ActionName,Go,Idź
+Path_BeachToOutskirts_DismantleActions[0].FadeMessage,Travelling to the Outskirts...,Podróż na obrzeża...
 Path_BeachToRocks_CardName,Rocks,Skały
-Path_BeachToRocks_CardDescription,A rocky area below the cliffs of the island. Could probably get <b>stones</b> and <b>crabs</b> from here.\n\n<b>(only cards on my hand row will be carried)</b>,A rocky area below the cliffs of the island. Could probably get <b>stones</b> and <b>crabs</b> from here.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_BeachToRocks_DismantleActions[0].ActionName,Go,Go
-Path_BeachToRocks_DismantleActions[0].FadeMessage,Travelling to the Rocks...,Travelling to the Rocks...
+Path_BeachToRocks_CardDescription,A rocky area below the cliffs of the island. Could probably get <b>stones</b> and <b>crabs</b> from here.\n\n<b>(only cards on my hand row will be carried)</b>,Skalisty obszar pod klifami. Prawdopodobnie można tu zdobyć <b>kamienie</b> i <b>kraby</b>.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_BeachToRocks_DismantleActions[0].ActionName,Go,Idź
+Path_BeachToRocks_DismantleActions[0].FadeMessage,Travelling to the Rocks...,Podróż do skał...
 Path_CoveToJungleHighlands_CardName,Jungle Highlands,Dżunglowe wyżyny
-Path_CoveToJungleHighlands_CardDescription,Climbing these cliffs should take me to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Climbing these cliffs should take me to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_CoveToJungleHighlands_DismantleActions[0].ActionName,Climb Up,Climb Up
-Path_CoveToJungleHighlands_DismantleActions[0].FadeMessage,Travelling to the Highlands,Travelling to the Highlands
+Path_CoveToJungleHighlands_CardDescription,Climbing these cliffs should take me to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Wspinaczka na te klify powinna zaprowadzić mnie na dżunglowe wyżyny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_CoveToJungleHighlands_DismantleActions[0].ActionName,Climb Up,Wpinaj się
+Path_CoveToJungleHighlands_DismantleActions[0].FadeMessage,Travelling to the Highlands,Podróż na wyżyny...
 Path_CoveToJungleHighlands_DismantleActions[1].ActionName,Train Climbing,Trenuj wspinaczkę
 Path_DeepJungleToJungleHighlands_CardName,Jungle Highlands,Dżunglowe wyżyny
-Path_DeepJungleToJungleHighlands_CardDescription,Move to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_DeepJungleToJungleHighlands_DismantleActions[0].ActionName,Go,Go
-Path_DeepJungleToJungleHighlands_DismantleActions[0].FadeMessage,Travelling to the Jungle Highlands...,Travelling to the Jungle Highlands...
+Path_DeepJungleToJungleHighlands_CardDescription,Move to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na dżunglowe wyżyny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_DeepJungleToJungleHighlands_DismantleActions[0].ActionName,Go,Idź
+Path_DeepJungleToJungleHighlands_DismantleActions[0].FadeMessage,Travelling to the Jungle Highlands...,Podróż na dżunglowe wyżyny...
 Path_DeepJungleToValley_CardName,Secret Valley,Sekretna dolina
-Path_DeepJungleToValley_CardDescription,Move to the Secret Valley.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Secret Valley.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_DeepJungleToValley_DismantleActions[0].ActionName,Go,Go
-Path_DeepJungleToValley_DismantleActions[0].FadeMessage,Travelling to the Secret Valley...,Travelling to the Secret Valley...
+Path_DeepJungleToValley_CardDescription,Move to the Secret Valley.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się do sekretnej doliny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_DeepJungleToValley_DismantleActions[0].ActionName,Go,Idź
+Path_DeepJungleToValley_DismantleActions[0].FadeMessage,Travelling to the Secret Valley...,Podróż do sekretnej doliny...
 Path_DeepJungleToWetlands_CardName,Wetlands,Mokradła
-Path_DeepJungleToWetlands_CardDescription,Move to the Jungle Wetlands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Jungle Wetlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_DeepJungleToWetlands_DismantleActions[0].ActionName,Go,Go
-Path_DeepJungleToWetlands_DismantleActions[0].FadeMessage,Travelling to the Wetlands...,Travelling to the Wetlands...
+Path_DeepJungleToWetlands_CardDescription,Move to the Jungle Wetlands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na dżunglowe mokradła.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_DeepJungleToWetlands_DismantleActions[0].ActionName,Go,Idź
+Path_DeepJungleToWetlands_DismantleActions[0].FadeMessage,Travelling to the Wetlands...,Podróż na mokradła...
 Path_DesolateBeachToGrasslandsE_CardName,Eastern Grasslands,Wschodnie równiny
-Path_DesolateBeachToGrasslandsE_CardDescription,Move to the Eastern grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Eastern grasslands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_DesolateBeachToGrasslandsE_DismantleActions[0].ActionName,Go,Go
-Path_DesolateBeachToGrasslandsE_DismantleActions[0].FadeMessage,Travelling to the Eastern Grasslands...,Travelling to the Eastern Grasslands...
+Path_DesolateBeachToGrasslandsE_CardDescription,Move to the Eastern grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na wschodnie równiny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_DesolateBeachToGrasslandsE_DismantleActions[0].ActionName,Go,Idź
+Path_DesolateBeachToGrasslandsE_DismantleActions[0].FadeMessage,Travelling to the Eastern Grasslands...,Podróż na wschodnie równiny...
 Path_DesolateBeachToMangroves_CardName,Mangrove Forest,Las namorzynowy
-Path_DesolateBeachToMangroves_CardDescription,Move to the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>
-Path_DesolateBeachToMangroves_DismantleActions[0].ActionName,Go,Go
-Path_DesolateBeachToMangroves_DismantleActions[0].FadeMessage,Travelling to the Mangroves...,Travelling to the Mangroves...
+Path_DesolateBeachToMangroves_CardDescription,Move to the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na namorzyny. Zachowaj ostrożność!<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_DesolateBeachToMangroves_DismantleActions[0].ActionName,Go,Idź
+Path_DesolateBeachToMangroves_DismantleActions[0].FadeMessage,Travelling to the Mangroves...,Podróż na namorzyny...
 Path_DesolateBeachToVolcano_CardName,Volcano,Wulkan
-Path_DesolateBeachToVolcano_CardDescription,Move to the Volcano.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Volcano.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_DesolateBeachToVolcano_DismantleActions[0].ActionName,Go,Go
-Path_DesolateBeachToVolcano_DismantleActions[0].FadeMessage,Travelling to the Volcano...,Travelling to the Volcano...
+Path_DesolateBeachToVolcano_CardDescription,Move to the Volcano.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się do wulkanu.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_DesolateBeachToVolcano_DismantleActions[0].ActionName,Go,Idź
+Path_DesolateBeachToVolcano_DismantleActions[0].FadeMessage,Travelling to the Volcano...,Podróż do wulkanu...
 Path_GrasslandsEToDesolateBeach_CardName,Desolate Beach,Opustoszała plaża
-Path_GrasslandsEToDesolateBeach_CardDescription,This will get me to the desolate beach.\n\n<b>(only cards on my hand row will be carried)</b>,This will get me to the desolate beach.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_GrasslandsEToDesolateBeach_DismantleActions[0].ActionName,Go,Go
-Path_GrasslandsEToDesolateBeach_DismantleActions[0].FadeMessage,Travelling to the Desolate Beach...,Travelling to the Desolate Beach...
+Path_GrasslandsEToDesolateBeach_CardDescription,This will get me to the desolate beach.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na opustoszałą plażę.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_GrasslandsEToDesolateBeach_DismantleActions[0].ActionName,Go,Idź
+Path_GrasslandsEToDesolateBeach_DismantleActions[0].FadeMessage,Travelling to the Desolate Beach...,Podróż na opustoszałą plażę...
 Path_GrasslandsEToGrasslandsW_CardName,Western Grasslands,Zachodnie równiny
-Path_GrasslandsEToGrasslandsW_CardDescription,Move to the Western Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Western Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_GrasslandsEToGrasslandsW_DismantleActions[0].ActionName,Go,Go
-Path_GrasslandsEToGrasslandsW_DismantleActions[0].FadeMessage,Travelling to the Grasslands...,Travelling to the Grasslands...
+Path_GrasslandsEToGrasslandsW_CardDescription,Move to the Western Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na zachodnie równiny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_GrasslandsEToGrasslandsW_DismantleActions[0].ActionName,Go,Idź
+Path_GrasslandsEToGrasslandsW_DismantleActions[0].FadeMessage,Travelling to the Grasslands...,Podróż na równiny...
 Path_GrasslandsEToHighlandsE_CardName,Eastern Highlands,Wschodnie wyżyny
-Path_GrasslandsEToHighlandsE_CardDescription,Move to the Eastern Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Eastern Highlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_GrasslandsEToHighlandsE_DismantleActions[0].ActionName,Go,Go
-Path_GrasslandsEToHighlandsE_DismantleActions[0].FadeMessage,Travelling to the Highlands...,Travelling to the Highlands...
+Path_GrasslandsEToHighlandsE_CardDescription,Move to the Eastern Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na wschodnie wyżyny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_GrasslandsEToHighlandsE_DismantleActions[0].ActionName,Go,Idź
+Path_GrasslandsEToHighlandsE_DismantleActions[0].FadeMessage,Travelling to the Highlands...,Podróż na wyżyny...
 Path_GrasslandsWToGrasslandsE_CardName,Eastern Grasslands,Wschodnie równiny
-Path_GrasslandsWToGrasslandsE_CardDescription,Move to the Eastern Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Eastern Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_GrasslandsWToGrasslandsE_DismantleActions[0].ActionName,Go,Go
-Path_GrasslandsWToGrasslandsE_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Travelling to the Jungle...
+Path_GrasslandsWToGrasslandsE_CardDescription,Move to the Eastern Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na wschodnie równiny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_GrasslandsWToGrasslandsE_DismantleActions[0].ActionName,Go,Idź
+Path_GrasslandsWToGrasslandsE_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Podróż do dżungli...
 Path_GrasslandsWToHighlandsW_CardName,Western Highlands,Zachodnie wyżyny
-Path_GrasslandsWToHighlandsW_CardDescription,Move to the Western Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Western Highlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_GrasslandsWToHighlandsW_DismantleActions[0].ActionName,Go,Go
-Path_GrasslandsWToHighlandsW_DismantleActions[0].FadeMessage,Travelling to the Highlands...,Travelling to the Highlands...
-Path_GrasslandsWToJungle_CardName,Jungle Path,Jungle Path
-Path_GrasslandsWToJungle_CardDescription,This should take me to the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,This should take me to the jungle.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_GrasslandsWToJungle_DismantleActions[0].ActionName,Go,Go
-Path_GrasslandsWToJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Travelling to the Jungle...
+Path_GrasslandsWToHighlandsW_CardDescription,Move to the Western Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na zachodnie wyżyny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_GrasslandsWToHighlandsW_DismantleActions[0].ActionName,Go,Idź
+Path_GrasslandsWToHighlandsW_DismantleActions[0].FadeMessage,Travelling to the Highlands...,Podróż na wyżyny...
+Path_GrasslandsWToJungle_CardName,Jungle Path,Ścieżka w dżungli
+Path_GrasslandsWToJungle_CardDescription,This should take me to the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się do dżungli.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_GrasslandsWToJungle_DismantleActions[0].ActionName,Go,Idź
+Path_GrasslandsWToJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Podróż do dżungli...
 Path_GrasslandsWToMangroves_CardName,Mangrove Forest,Las namorzynowy
-Path_GrasslandsWToMangroves_CardDescription,Move to the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>
-Path_GrasslandsWToMangroves_DismantleActions[0].ActionName,Go,Go
-Path_GrasslandsWToMangroves_DismantleActions[0].FadeMessage,Travelling to the Mangroves...,Travelling to the Mangroves...
+Path_GrasslandsWToMangroves_CardDescription,Move to the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na namorzyny. Zachowaj ostrożność!<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_GrasslandsWToMangroves_DismantleActions[0].ActionName,Go,Idź
+Path_GrasslandsWToMangroves_DismantleActions[0].FadeMessage,Travelling to the Mangroves...,Podróż na namorzyny...
 Path_HighlandsEToGrasslandsE_CardName,Eastern Grasslands,Wschodnie równiny
-Path_HighlandsEToGrasslandsE_CardDescription,Move to the Eastern Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Eastern Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_HighlandsEToGrasslandsE_DismantleActions[0].ActionName,Go,Go
-Path_HighlandsEToGrasslandsE_DismantleActions[0].FadeMessage,Travelling to the Grasslands...,Travelling to the Grasslands...
+Path_HighlandsEToGrasslandsE_CardDescription,Move to the Eastern Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na wschodnie równiny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_HighlandsEToGrasslandsE_DismantleActions[0].ActionName,Go,Idź
+Path_HighlandsEToGrasslandsE_DismantleActions[0].FadeMessage,Travelling to the Grasslands...,Podróż na równiny...
 Path_HighlandsEToHighlandsW_CardName,Western Highlands,Zachodnie wyżyny
-Path_HighlandsEToHighlandsW_CardDescription,Move to the Western Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Western Highlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_HighlandsEToHighlandsW_DismantleActions[0].ActionName,Go,Go
-Path_HighlandsEToHighlandsW_DismantleActions[0].FadeMessage,Travelling to the Western Highlands...,Travelling to the Western Highlands...
+Path_HighlandsEToHighlandsW_CardDescription,Move to the Western Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na zachodnie wyżyny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_HighlandsEToHighlandsW_DismantleActions[0].ActionName,Go,Idź
+Path_HighlandsEToHighlandsW_DismantleActions[0].FadeMessage,Travelling to the Western Highlands...,Podróż na zachodnie wyżyny...
 Path_HighlandsEToVolcano_CardName,Volcano,Wulkan
-Path_HighlandsEToVolcano_CardDescription,Move to the Volcano.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Volcano.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_HighlandsEToVolcano_DismantleActions[0].ActionName,Go,Go
-Path_HighlandsEToVolcano_DismantleActions[0].FadeMessage,Travelling to the Volcano...,Travelling to the Volcano...
+Path_HighlandsEToVolcano_CardDescription,Move to the Volcano.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się do wulkanu.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_HighlandsEToVolcano_DismantleActions[0].ActionName,Go,Idź
+Path_HighlandsEToVolcano_DismantleActions[0].FadeMessage,Travelling to the Volcano...,Podróż do wulkanu...
 Path_HighlandsWToGrasslandsW_CardName,Western Grasslands,Zachodnie równiny
-Path_HighlandsWToGrasslandsW_CardDescription,Move to the Western Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Western Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_HighlandsWToGrasslandsW_DismantleActions[0].ActionName,Go,Go
-Path_HighlandsWToGrasslandsW_DismantleActions[0].FadeMessage,Travelling to the Grasslands...,Travelling to the Grasslands...
+Path_HighlandsWToGrasslandsW_CardDescription,Move to the Western Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na zachodnie równiny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_HighlandsWToGrasslandsW_DismantleActions[0].ActionName,Go,Idź
+Path_HighlandsWToGrasslandsW_DismantleActions[0].FadeMessage,Travelling to the Grasslands...,Podróż na równiny...
 Path_HighlandsWToHighlandsE_CardName,Eastern Highlands,Wschodnie wyżyny
-Path_HighlandsWToHighlandsE_CardDescription,Move to the Eastern Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Eastern Highlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_HighlandsWToHighlandsE_DismantleActions[0].ActionName,Go,Go
-Path_HighlandsWToHighlandsE_DismantleActions[0].FadeMessage,Travelling to the Eastern Highlands...,Travelling to the Eastern Highlands...
+Path_HighlandsWToHighlandsE_CardDescription,Move to the Eastern Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na wschodnie wyżyny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_HighlandsWToHighlandsE_DismantleActions[0].ActionName,Go,Idź
+Path_HighlandsWToHighlandsE_DismantleActions[0].FadeMessage,Travelling to the Eastern Highlands...,Podróż na wschodnie wyżyny...
 Path_HighlandsWToJungleHighlands_CardName,Jungle Highlands,Dżunglowe wyżyny
-Path_HighlandsWToJungleHighlands_CardDescription,Move to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_HighlandsWToJungleHighlands_DismantleActions[0].ActionName,Go,Go
-Path_HighlandsWToJungleHighlands_DismantleActions[0].FadeMessage,Travelling to the Jungle Highlands...,Travelling to the Jungle Highlands...
+Path_HighlandsWToJungleHighlands_CardDescription,Move to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na dżunglowe wyżyny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_HighlandsWToJungleHighlands_DismantleActions[0].ActionName,Go,Idź
+Path_HighlandsWToJungleHighlands_DismantleActions[0].FadeMessage,Travelling to the Jungle Highlands...,Podróż na dżunglowe wyżyny...
 Path_JungleHighlandsToCove_CardName,Secret Cove,Sekretna zatoka
-Path_JungleHighlandsToCove_CardDescription,Can climb down to the Secret Cove from here.\n\n<b>(only cards on my hand row will be carried)</b>,Can climb down to the Secret Cove from here.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_JungleHighlandsToCove_DismantleActions[0].ActionName,Climb Down,Climb Down
-Path_JungleHighlandsToCove_DismantleActions[0].FadeMessage,Climbing down...,Climbing down...
+Path_JungleHighlandsToCove_CardDescription,Can climb down to the Secret Cove from here.\n\n<b>(only cards on my hand row will be carried)</b>,Z tego miejsca można zejść do sekretnej zatoki.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_JungleHighlandsToCove_DismantleActions[0].ActionName,Climb Down,Zejdź w dół
+Path_JungleHighlandsToCove_DismantleActions[0].FadeMessage,Climbing down...,Schodzenie w dół...
 Path_JungleHighlandsToDeepJungle_CardName,Deep Jungle,Głębia dżungli
-Path_JungleHighlandsToDeepJungle_CardDescription,This should take me deeper into the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,This should take me deeper into the jungle.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_JungleHighlandsToDeepJungle_DismantleActions[0].ActionName,Go,Go
-Path_JungleHighlandsToDeepJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Travelling to the Jungle...
+Path_JungleHighlandsToDeepJungle_CardDescription,This should take me deeper into the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się w głąb dżungli.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_JungleHighlandsToDeepJungle_DismantleActions[0].ActionName,Go,Idź
+Path_JungleHighlandsToDeepJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Podróż do dżungli...
 Path_JungleHighlandsToHighlandsW_CardName,Western Highlands,Zachodnie wyżyny
-Path_JungleHighlandsToHighlandsW_CardDescription,This should take me to the island highlands.\n\n<b>(only cards on my hand row will be carried)</b>,This should take me to the island highlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_JungleHighlandsToHighlandsW_DismantleActions[0].ActionName,Go,Go
-Path_JungleHighlandsToHighlandsW_DismantleActions[0].FadeMessage,Travelling to the Highlands...,Travelling to the Highlands...
-Path_JungleHighlandsToValley_CardName,Valley Cliffs,Valley Cliffs
-Path_JungleHighlandsToValley_CardDescription,Can climb down to the Valley from here.\n\n<b>(only cards on my hand row will be carried)</b>,Can climb down to the Valley from here.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_JungleHighlandsToValley_DismantleActions[0].ActionName,Climb Down,Climb Down
-Path_JungleHighlandsToValley_DismantleActions[0].FadeMessage,Traveling to the Jungle..,Traveling to the Jungle..
-Path_JungleHighlandsToWetlands_CardName,Wetlands Cliff,Wetlands Cliff
-Path_JungleHighlandsToWetlands_CardDescription,Can climb down to the wetlands from here.\n\n<b>(only cards on my hand row will be carried)</b>,Can climb down to the wetlands from here.\n\n<b>(only cards on my hand row will be carried)</b>
+Path_JungleHighlandsToHighlandsW_CardDescription,This should take me to the island highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na wyżyny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_JungleHighlandsToHighlandsW_DismantleActions[0].ActionName,Go,Idź
+Path_JungleHighlandsToHighlandsW_DismantleActions[0].FadeMessage,Travelling to the Highlands...,Podróż na wyżyny...
+Path_JungleHighlandsToValley_CardName,Valley Cliffs,Dolina klifów
+Path_JungleHighlandsToValley_CardDescription,Can climb down to the Valley from here.\n\n<b>(only cards on my hand row will be carried)</b>,Z tego miejsca można zejść do doliny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_JungleHighlandsToValley_DismantleActions[0].ActionName,Climb Down,Zejdź w dół
+Path_JungleHighlandsToValley_DismantleActions[0].FadeMessage,Traveling to the Jungle..,Podróż do doliny...
+Path_JungleHighlandsToWetlands_CardName,Wetlands Cliff,Klif na mokradłach
+Path_JungleHighlandsToWetlands_CardDescription,Can climb down to the wetlands from here.\n\n<b>(only cards on my hand row will be carried)</b>,Z tego miejsca można zejść do mokradeł.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
 Path_JungleHighlandsToWetlands_DismantleActions[0].ActionName,Climb,Wpinaj się
-Path_JungleHighlandsToWetlands_DismantleActions[0].FadeMessage,Climbing down...,Climbing down...
+Path_JungleHighlandsToWetlands_DismantleActions[0].FadeMessage,Climbing down...,Schodzenie w dół...
 Path_JungleToBay_CardName,Bay,Zatoka
-Path_JungleToBay_CardDescription,The jungle opens into the Bay.\n\n<b>(only cards on my hand row will be carried)</b>,The jungle opens into the Bay.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_JungleToBay_DismantleActions[0].ActionName,Go,Go
-Path_JungleToBay_DismantleActions[0].FadeMessage,Travelling to the Bay...,Travelling to the Bay...
-Path_JungleToGrasslandsW_CardName,Western Grasslands,Western Grasslands
-Path_JungleToGrasslandsW_CardDescription,Move to the Western Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Western Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_JungleToGrasslandsW_DismantleActions[0].ActionName,Go,Go
-Path_JungleToGrasslandsW_DismantleActions[0].FadeMessage,Travelling to the Grasslands...,Travelling to the Grasslands...
+Path_JungleToBay_CardDescription,The jungle opens into the Bay.\n\n<b>(only cards on my hand row will be carried)</b>,Dżungla przechodzi w zatokę.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_JungleToBay_DismantleActions[0].ActionName,Go,Idź
+Path_JungleToBay_DismantleActions[0].FadeMessage,Travelling to the Bay...,Podróż do zatoki...
+Path_JungleToGrasslandsW_CardName,Western Grasslands,Zachodnie równiny
+Path_JungleToGrasslandsW_CardDescription,Move to the Western Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na zachodnie równiny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_JungleToGrasslandsW_DismantleActions[0].ActionName,Go,Idź
+Path_JungleToGrasslandsW_DismantleActions[0].FadeMessage,Travelling to the Grasslands...,Podróż na równiny...
 Path_JungleToOutskirts_CardName,Jungle Outskirts,Obrzeża dżungli
-Path_JungleToOutskirts_CardDescription,Move to the outskirts of the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the outskirts of the jungle.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_JungleToOutskirts_DismantleActions[0].ActionName,Go,Go
-Path_JungleToOutskirts_DismantleActions[0].FadeMessage,Travelling to the Outskirts...,Travelling to the Outskirts...
+Path_JungleToOutskirts_CardDescription,Move to the outskirts of the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na obrzeża dżungli.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_JungleToOutskirts_DismantleActions[0].ActionName,Go,Idź
+Path_JungleToOutskirts_DismantleActions[0].FadeMessage,Travelling to the Outskirts...,Podróż na obrzeża...
 Path_JungleToWetlands_CardName,Wetlands,Mokradła
-Path_JungleToWetlands_CardDescription,Move to the Jungle Wetlands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Jungle Wetlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_JungleToWetlands_DismantleActions[0].ActionName,Go,Go
-Path_JungleToWetlands_DismantleActions[0].FadeMessage,Travelling to the Wetlands...,Travelling to the Wetlands...
+Path_JungleToWetlands_CardDescription,Move to the Jungle Wetlands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na dżunglowe mokradła.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_JungleToWetlands_DismantleActions[0].ActionName,Go,Idź
+Path_JungleToWetlands_DismantleActions[0].FadeMessage,Travelling to the Wetlands...,Podróż na mokradła...
 Path_MangrovesToBay_CardName,Bay,Zatoka
-Path_MangrovesToBay_CardDescription,This will get me to the bay.\n\n<b>(only cards on my hand row will be carried)</b>,This will get me to the bay.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_MangrovesToBay_DismantleActions[0].ActionName,Go,Go
-Path_MangrovesToBay_DismantleActions[0].FadeMessage,Travelling to the Bay...,Travelling to the Bay...
+Path_MangrovesToBay_CardDescription,This will get me to the bay.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się do zatoki.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_MangrovesToBay_DismantleActions[0].ActionName,Go,Idź
+Path_MangrovesToBay_DismantleActions[0].FadeMessage,Travelling to the Bay...,Podróż do zatoki...
 Path_MangrovesToDesolateBeach_CardName,Desolate Beach,Opustoszała plaża
-Path_MangrovesToDesolateBeach_CardDescription,This will get me to the desolate beach.\n\n<b>(only cards on my hand row will be carried)</b>,This will get me to the desolate beach.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_MangrovesToDesolateBeach_DismantleActions[0].ActionName,Go,Go
-Path_MangrovesToDesolateBeach_DismantleActions[0].FadeMessage,Travelling to the Desolate Beach...,Travelling to the Desolate Beach...
-Path_MangrovesToGrasslandsW_CardName,Grasslands,Grasslands
-Path_MangrovesToGrasslandsW_CardDescription,Move to the Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_MangrovesToGrasslandsW_DismantleActions[0].ActionName,Go,Go
-Path_MangrovesToGrasslandsW_DismantleActions[0].FadeMessage,Travelling to the Grasslands...,Travelling to the Grasslands...
+Path_MangrovesToDesolateBeach_CardDescription,This will get me to the desolate beach.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na opustoszałą plażę.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_MangrovesToDesolateBeach_DismantleActions[0].ActionName,Go,Idź
+Path_MangrovesToDesolateBeach_DismantleActions[0].FadeMessage,Travelling to the Desolate Beach...,Podróż na opustoszałą plażę...
+Path_MangrovesToGrasslandsW_CardName,Grasslands,Równiny
+Path_MangrovesToGrasslandsW_CardDescription,Move to the Grasslands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na równiny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_MangrovesToGrasslandsW_DismantleActions[0].ActionName,Go,Idź
+Path_MangrovesToGrasslandsW_DismantleActions[0].FadeMessage,Travelling to the Grasslands...,Podróż na równiny...
 Path_OutskirtsToBeach_CardName,Beach,Plaża
-Path_OutskirtsToBeach_CardDescription,This will get me back to the beach.\n\n<b>(only cards on my hand row will be carried)</b>,This will get me back to the beach.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_OutskirtsToBeach_DismantleActions[0].ActionName,Go,Go
-Path_OutskirtsToBeach_DismantleActions[0].FadeMessage,Travelling to the Beach...,Travelling to the Beach...
-Path_OutskirtsToJungle_CardName,Jungle Path,Jungle Path
-Path_OutskirtsToJungle_CardDescription,This should take me deeper into the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,This should take me deeper into the jungle.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_OutskirtsToJungle_DismantleActions[0].ActionName,Go,Go
-Path_OutskirtsToJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Travelling to the Jungle...
+Path_OutskirtsToBeach_CardDescription,This will get me back to the beach.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się z powrotem do zatoki.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_OutskirtsToBeach_DismantleActions[0].ActionName,Go,Idź
+Path_OutskirtsToBeach_DismantleActions[0].FadeMessage,Travelling to the Beach...,Podróż na plażę...
+Path_OutskirtsToJungle_CardName,Jungle Path,Ścieżka w dżungli
+Path_OutskirtsToJungle_CardDescription,This should take me deeper into the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się w głąb dżungli.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_OutskirtsToJungle_DismantleActions[0].ActionName,Go,Idź
+Path_OutskirtsToJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Podróż do dżungli...
 Path_RocksToBeach_CardName,Beach,Plaża
-Path_RocksToBeach_CardDescription,This will get me back to the beach.\n\n<b>(only cards on my hand row will be carried)</b>,This will get me back to the beach.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_RocksToBeach_DismantleActions[0].ActionName,Go,Go
-Path_RocksToBeach_DismantleActions[0].FadeMessage,Travelling to the Beach...,Travelling to the Beach...
+Path_RocksToBeach_CardDescription,This will get me back to the beach.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się z powrotem do zatoki.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_RocksToBeach_DismantleActions[0].ActionName,Go,Idź
+Path_RocksToBeach_DismantleActions[0].FadeMessage,Travelling to the Beach...,Podróż na plażę...
 Path_ValleyToDeepJungle_CardName,Deep Jungle,Głębia dżungli
-Path_ValleyToDeepJungle_CardDescription,This should take me to the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,This should take me to the jungle.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_ValleyToDeepJungle_DismantleActions[0].ActionName,Go,Go
-Path_ValleyToDeepJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Travelling to the Jungle...
+Path_ValleyToDeepJungle_CardDescription,This should take me to the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się do dżungli.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_ValleyToDeepJungle_DismantleActions[0].ActionName,Go,Idź
+Path_ValleyToDeepJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Podróż do dżungli...
 Path_ValleyToJungleHighlands_CardName,Jungle Highlands,Dżunglowe wyżyny
-Path_ValleyToJungleHighlands_CardDescription,Climbing these cliffs should take me to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Climbing these cliffs should take me to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_ValleyToJungleHighlands_DismantleActions[0].ActionName,Climb Up,Climb Up
-Path_ValleyToJungleHighlands_DismantleActions[0].FadeMessage,Travelling to the Highlands,Travelling to the Highlands
+Path_ValleyToJungleHighlands_CardDescription,Climbing these cliffs should take me to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Wspinaczka na te klify powinna zaprowadzić mnie na dżunglowe wyżyny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_ValleyToJungleHighlands_DismantleActions[0].ActionName,Climb Up,Wpinaj się
+Path_ValleyToJungleHighlands_DismantleActions[0].FadeMessage,Travelling to the Highlands,Podróż na wyżyny...
 Path_ValleyToJungleHighlands_DismantleActions[1].ActionName,Train Climbing,Trenuj wspinaczkę
-Path_VolcanoToAcidLake_CardName,Acid Lake,Acid Lake
-Path_VolcanoToAcidLake_CardDescription,Move to the Acid Lake.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Acid Lake.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_VolcanoToAcidLake_DismantleActions[0].ActionName,Go,Go
-Path_VolcanoToAcidLake_DismantleActions[0].FadeMessage,Travelling to the Acid Lake...,Travelling to the Acid Lake...
+Path_VolcanoToAcidLake_CardName,Acid Lake,Jezioro kwasowe
+Path_VolcanoToAcidLake_CardDescription,Move to the Acid Lake.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się nad jezioro kwasowe.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_VolcanoToAcidLake_DismantleActions[0].ActionName,Go,Idź
+Path_VolcanoToAcidLake_DismantleActions[0].FadeMessage,Travelling to the Acid Lake...,Podróż nad jezioro kwasowe...
 Path_VolcanoToDesolateBeach_CardName,Desolate Beach,Opustoszała plaża
-Path_VolcanoToDesolateBeach_CardDescription,Move to the Desolate Beach.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Desolate Beach.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_VolcanoToDesolateBeach_DismantleActions[0].ActionName,Go,Go
-Path_VolcanoToDesolateBeach_DismantleActions[0].FadeMessage,Travelling to the Desolate Beach...,Travelling to the Desolate Beach...
+Path_VolcanoToDesolateBeach_CardDescription,Move to the Desolate Beach.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na opustoszałą plażę.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_VolcanoToDesolateBeach_DismantleActions[0].ActionName,Go,Idź
+Path_VolcanoToDesolateBeach_DismantleActions[0].FadeMessage,Travelling to the Desolate Beach...,Podróż na opustoszałą plażę...
 Path_VolcanoToHighlandsE_CardName,Eastern Highlands,Wschodnie wyżyny
-Path_VolcanoToHighlandsE_CardDescription,Move to the Eastern Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Move to the Eastern Highlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_VolcanoToHighlandsE_DismantleActions[0].ActionName,Go,Go
-Path_VolcanoToHighlandsE_DismantleActions[0].FadeMessage,Travelling to the Eastern Highlands...,Travelling to the Eastern Highlands...
+Path_VolcanoToHighlandsE_CardDescription,Move to the Eastern Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na wschodnie wyżyny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_VolcanoToHighlandsE_DismantleActions[0].ActionName,Go,Idź
+Path_VolcanoToHighlandsE_DismantleActions[0].FadeMessage,Travelling to the Eastern Highlands...,Podróż na wschodnie wyżyny...
 Path_WetlandsToDeepJungle_CardName,Deep Jungle,Głębia dżungli
-Path_WetlandsToDeepJungle_CardDescription,This should take deeper into the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,This should take deeper into the jungle.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_WetlandsToDeepJungle_DismantleActions[0].ActionName,Go,Go
-Path_WetlandsToDeepJungle_DismantleActions[0].FadeMessage,Travelling to the Deep Jungle...,Travelling to the Deep Jungle...
-Path_WetlandsToJungle_CardName,Jungle Path,Jungle Path
-Path_WetlandsToJungle_CardDescription,This should take me to the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,This should take me to the jungle.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_WetlandsToJungle_DismantleActions[0].ActionName,Go,Go
-Path_WetlandsToJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Travelling to the Jungle...
+Path_WetlandsToDeepJungle_CardDescription,This should take deeper into the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się w głąb dżungli.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_WetlandsToDeepJungle_DismantleActions[0].ActionName,Go,Idź
+Path_WetlandsToDeepJungle_DismantleActions[0].FadeMessage,Travelling to the Deep Jungle...,Podróż w głąb dżungli...
+Path_WetlandsToJungle_CardName,Jungle Path,Ścieżka w dżungli
+Path_WetlandsToJungle_CardDescription,This should take me to the jungle.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się do dżungli.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_WetlandsToJungle_DismantleActions[0].ActionName,Go,Idź
+Path_WetlandsToJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Podróż do dżungli...
 Path_WetlandsToJungleHighlands_CardName,Jungle Highlands,Dżunglowe wyżyny
-Path_WetlandsToJungleHighlands_CardDescription,Climbing these cliffs should take me to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Climbing these cliffs should take me to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>
-Path_WetlandsToJungleHighlands_DismantleActions[0].ActionName,Climb Up,Climb Up
-Path_WetlandsToJungleHighlands_DismantleActions[0].FadeMessage,Travelling to the Highlands,Travelling to the Highlands
+Path_WetlandsToJungleHighlands_CardDescription,Climbing these cliffs should take me to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Wspinaczka na te klify powinna zaprowadzić mnie na dżunglowe wyżyny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_WetlandsToJungleHighlands_DismantleActions[0].ActionName,Climb Up,Wpinaj się
+Path_WetlandsToJungleHighlands_DismantleActions[0].FadeMessage,Travelling to the Highlands,Podróż na wyżyny...
 Path_WetlandsToJungleHighlands_DismantleActions[1].ActionName,Train Climbing,Trenuj wspinaczkę
-AlembicUndeployed_CardName,Alembic,Alembic
-AlembicUndeployed_CardDescription,Can place it on a campfire to distill water.,Can place it on a campfire to distill water.
-ControlPanelOff_CardName,Control Panel,Control Panel
-ControlPanelOff_CardDescription,"My plane's control panel. The engines are not running, but I could charge my radio here if they were.","My plane's control panel. The engines are not running, but I could charge my radio here if they were."
+AlembicUndeployed_CardName,Alembic,Alembik
+AlembicUndeployed_CardDescription,Can place it on a campfire to distill water.,Można go umieścić na ognisku w celu destylacji wody.
+ControlPanelOff_CardName,Control Panel,Panel kontrolny
+ControlPanelOff_CardDescription,"My plane's control panel. The engines are not running, but I could charge my radio here if they were.","Panel kontrolny mojego samolotu. Silniki nie działają, ale mógłbym naładować tutaj radio, gdyby działały."
 ControlPanelOff_DismantleActions[0].ActionName,Start Engine,Start Engine
 ControlPanelOff_DismantleActions[1].ActionName,Check Radio Compartment,Check Radio Compartment
 ControlPanelOn_CardName,Control Panel,Control Panel
@@ -8263,42 +8263,42 @@ GpTag_CandleStuff_TabName,Candle Material,Candle Material
 GpTag_Chilli_TabName,Chillies,Chillies
 GpTag_Containers_TabName,Containers,Containers
 GpTag_Cutter_TabName,Cutting Tool,Narzędzie tnące
-GpTag_CutterAdv_TabName,Sharp Knife,Sharp Knife
-GpTag_Egg_TabName,Egg,Egg
-GpTag_FeedBird_TabName,Basic Bird Feed,Basic Bird Feed
-GpTag_FeedGoat_TabName,Goat Feed,Goat Feed
-GpTag_Fertilizer_TabName,Fertilizer,Fertilizer
+GpTag_CutterAdv_TabName,Sharp Knife,Ostry nóż
+GpTag_Egg_TabName,Egg,Jajko
+GpTag_FeedBird_TabName,Basic Bird Feed,Podstawowa karma dla ptaków
+GpTag_FeedGoat_TabName,Goat Feed,Pasza dla kóz
+GpTag_Fertilizer_TabName,Fertilizer,Nawóz
 GpTag_Filler_TabName,Filler,Filler
-GpTag_Fish_TabName,Fish,Fish
-GpTag_FishCooked_TabName,Cooked Fish,Cooked Fish
-GpTag_Ginger_TabName,Ginger,Ginger
-GpTag_Hammer_TabName,Hammering Tool,Hammering Tool
+GpTag_Fish_TabName,Fish,Ryba
+GpTag_FishCooked_TabName,Cooked Fish,Ugotowana ryba
+GpTag_Ginger_TabName,Ginger,Imbir
+GpTag_Hammer_TabName,Hammering Tool,Narzędzie do wbijania
 GpTag_Hide_TabName,Hide,Hide
-GpTag_Leather_TabName,Leather,Leather
-GpTag_Leaves_TabName,Leaves,Leaves
-GpTag_MammalMeat_TabName,Mammal Meat,Mammal Meat
+GpTag_Leather_TabName,Leather,Skóra
+GpTag_Leaves_TabName,Leaves,Liście
+GpTag_MammalMeat_TabName,Mammal Meat,Mięso ssaka
 GpTag_Medicine_TabName,Medicine,Medicine
-GpTag_MilkBase_TabName,Water,Water
-GpTag_Oil_TabName,Oil,Oil
-GpTag_OilFat_TabName,Oil / Fat,Oil / Fat
-GpTag_Poop_TabName,Manure,Manure
+GpTag_MilkBase_TabName,Water,Woda
+GpTag_Oil_TabName,Oil,Olej
+GpTag_OilFat_TabName,Oil / Fat,Olej/Tłuszcz
+GpTag_Poop_TabName,Manure,Obornik
 GpTag_RennetLike_TabName,Rennet / Vinegar,Rennet / Vinegar
 GpTag_SaladGreens_TabName,Salad Greens,Salad Greens
 GpTag_SaladToppings_TabName,Salad Toppings,Salad Toppings
 GpTag_Scraps_TabName,Scraps,Scraps
 GpTag_Seafood_TabName,Cooked Seafood,Cooked Seafood
-GpTag_Shovel_TabName,Shovel,Shovel
+GpTag_Shovel_TabName,Shovel,Łopata
 GpTag_SideFood_TabName,Sides,Sides
-GpTag_Soap_TabName,Soap,Soap
+GpTag_Soap_TabName,Soap,Mydło
 GpTag_Soil_TabName,Soil,Soil
 GpTag_Sweetener_TabName,Sweetener,Sweetener
-GpTag_SweetWater_TabName,Sweet Water,Sweet Water
+GpTag_SweetWater_TabName,Sweet Water,Słodka woda
 GpTag_Temper_TabName,Temper,Temper
-GpTag_Vase_TabName,Vase,Vase
-GpTag_Water_TabName,Water Fresh,Water Fresh
+GpTag_Vase_TabName,Vase,Waza
+GpTag_Water_TabName,Water Fresh,Świeża woda
 GpTag_WaterAny_TabName,Water,Podlej
 GpTag_WaterCooking_TabName,Water,Podlej
-GpTag_WaxFat_TabName,Wax / Fat,Wax / Fat
+GpTag_WaxFat_TabName,Wax / Fat,Wosk/Tłuszcz
 PkTab0_All_TabName,All,Wszystko
 PkTab1_Conditions_TabName,Conditions,Warunki
 PkTab2_Traits_TabName,Traits,Cechy
