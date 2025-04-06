@@ -8,9 +8,6 @@ def split_csv(input_file, output_file):
     # Poprawa nagłówków, jeśli pierwsza kolumna zawiera błędny nagłówek
     df.columns = ["KEY", "COLUMN_2", "COLUMN_3"]
     
-    # Tworzenie folderów, jeśli nie istnieją
-    os.makedirs('en', exist_ok=True)
-    
     df_1 = df[["KEY", "COLUMN_2"]]
     df_1.to_csv(output_file, header=False, index=False, encoding="utf-8")
     print(f"Plik 1 został zapisany jako: {output_file}")
