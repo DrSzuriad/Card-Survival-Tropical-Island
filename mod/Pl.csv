@@ -1212,10 +1212,10 @@ Fire_CookingRecipes[68].ActionName,Yam Jam,Dżem z batata
 FireExtinguished_CardName,Fire,Fire
 FireExtinguished_CardDescription,I should be able to light it with some lit tinder.,Powinno dać się je rozpalić przy pomocy żarzącej się podpałki.
 FireExtinguished_CardInteractions[0].ActionName,Feed Coconut,Feed Coconut
-FireExtinguished_CardInteractions[1].ActionName,Feed Firewood,Feed Firewood
-FireExtinguished_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
+FireExtinguished_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
+FireExtinguished_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
 FireExtinguished_CardInteractions[3].ActionName,Feed Charcoal,Feed Charcoal
-FireExtinguished_CardInteractions[4].ActionName,Feed Leaves,Feed Leaves
+FireExtinguished_CardInteractions[4].ActionName,Feed Leaves,Dorzuć liści
 FireExtinguished_CardInteractions[5].ActionName,Feed Embers,Feed Embers
 FireExtinguished_CardInteractions[6].ActionName,Feed Husk,Feed Husk
 FireExtinguished_CardInteractions[7].ActionName,Light Fire,Light Fire
@@ -1225,12 +1225,12 @@ Forge_CardName,Forge,Forge
 Forge_CardDescription,A specialized structure for smelting metals.,A specialized structure for smelting metals.
 Forge_SpoilageTime.CardStatName,Temperature,Temperature
 Forge_CardInteractions[0].ActionName,Feed Coconut,Feed Coconut
-Forge_CardInteractions[1].ActionName,Feed Firewood,Feed Firewood
-Forge_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
+Forge_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
+Forge_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
 Forge_CardInteractions[3].ActionName,Feed Charcoal,Feed Charcoal
 Forge_CardInteractions[4].ActionName,Feed Embers,Feed Embers
 Forge_CardInteractions[5].ActionName,Light Tinder,Light Tinder
-Forge_CardInteractions[6].ActionName,Feed Leaves,Feed Leaves
+Forge_CardInteractions[6].ActionName,Feed Leaves,Dorzuć liści
 Forge_CardInteractions[7].ActionName,Increase Temperature,Increase Temperature
 Forge_CookingConditions.CookingPausedNotification,Not Hot Enough,Not Hot Enough
 Forge_CookingRecipes[0].ActionName,Smelt Copper,Smelt Copper
@@ -1247,11 +1247,11 @@ ForgeExtinguished_CardName,Forge,Forge
 ForgeExtinguished_CardDescription,A specialized structure for smelting metals. Should be able to relight it with some lit tinder.,A specialized structure for smelting metals. Should be able to relight it with some lit tinder.
 ForgeExtinguished_SpoilageTime.CardStatName,Temperature,Temperature
 ForgeExtinguished_CardInteractions[0].ActionName,Feed Coconut,Feed Coconut
-ForgeExtinguished_CardInteractions[1].ActionName,Feed Firewood,Feed Firewood
-ForgeExtinguished_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
+ForgeExtinguished_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
+ForgeExtinguished_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
 ForgeExtinguished_CardInteractions[3].ActionName,Light Fire,Light Fire
 ForgeExtinguished_CardInteractions[4].ActionName,Feed Charcoal,Feed Charcoal
-ForgeExtinguished_CardInteractions[5].ActionName,Feed Leaves,Feed Leaves
+ForgeExtinguished_CardInteractions[5].ActionName,Feed Leaves,Dorzuć liści
 ForgeExtinguished_CardInteractions[6].ActionName,Feed Tinder,Feed Tinder
 ForgeExtinguished_DismantleActions[0].ActionName,Demolish,Demolish
 GasCookerEmpty_CardName,Campfire,Campfire
@@ -1330,20 +1330,20 @@ GasCookerOn_CookingRecipes[61].ActionName,Snake,Snake
 GasCookerOn_CookingRecipes[62].ActionName,Soft Conch Meat,Miękkie mięso ślimaka
 GasCookerOn_CookingRecipes[63].ActionName,Stone,Kamień
 GasCookerOn_CookingRecipes[64].ActionName,Threadfin,Threadfin
-GasCookerOn_CookingRecipes[65].ActionName,Tropical Almonds,Tropical Almonds
+GasCookerOn_CookingRecipes[65].ActionName,Tropical Almonds,Migdały tropikalne
 GasCookerOn_CookingRecipes[66].ActionName,Urchin,Urchin
 GasCookerOn_CookingRecipes[67].ActionName,Yam Curry,Yam Curry
 GasCookerOn_CookingRecipes[68].ActionName,Yam Jam,Yam Jam
-Kiln_CardName,Kiln,Kiln
-Kiln_CardDescription,Can fire clay in here once it has reached a high enough temperature.,Can fire clay in here once it has reached a high enough temperature.
+Kiln_CardName,Kiln,Piec do wypalania
+Kiln_CardDescription,Can fire clay in here once it has reached a high enough temperature.,"Można wypalać glinę, gdy piec osiągnie wystarczająco wysoką temperaturę."
 Kiln_SpoilageTime.CardStatName,Temperature,Temperature
 Kiln_CardInteractions[0].ActionName,Feed Coconut,Feed Coconut
-Kiln_CardInteractions[1].ActionName,Feed Firewood,Feed Firewood
-Kiln_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
+Kiln_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
+Kiln_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
 Kiln_CardInteractions[3].ActionName,Feed Charcoal,Feed Charcoal
 Kiln_CardInteractions[4].ActionName,Feed Embers,Feed Embers
 Kiln_CardInteractions[5].ActionName,Light Tinder,Light Tinder
-Kiln_CardInteractions[6].ActionName,Feed Leaves,Feed Leaves
+Kiln_CardInteractions[6].ActionName,Feed Leaves,Dorzuć liści
 Kiln_CardInteractions[7].ActionName,Increase Temperature,Increase Temperature
 Kiln_CookingConditions.CookingPausedNotification,Not Hot Enough,Not Hot Enough
 Kiln_CookingRecipes[0].ActionName,Alembic,Alembic
@@ -1378,16 +1378,16 @@ Kiln_CookingRecipes[16].ActionName,Make Quicklime,Make Quicklime
 Kiln_CookingRecipes[16].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 Kiln_CookingRecipes[17].ActionName,Make Vitriol,Make Vitriol
 Kiln_CookingRecipes[17].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
-KilnAdvanced_CardName,Advanced Kiln,Advanced Kiln
-KilnAdvanced_CardDescription,Can fire clay in here once it has reached a high enough temperature.,Can fire clay in here once it has reached a high enough temperature.
+KilnAdvanced_CardName,Advanced Kiln,Duży piec do wypalania
+KilnAdvanced_CardDescription,Can fire clay in here once it has reached a high enough temperature.,"Można wypalać glinę, gdy piec osiągnie wystarczająco wysoką temperaturę."
 KilnAdvanced_SpoilageTime.CardStatName,Temperature,Temperature
 KilnAdvanced_CardInteractions[0].ActionName,Feed Coconut,Feed Coconut
-KilnAdvanced_CardInteractions[1].ActionName,Feed Firewood,Feed Firewood
-KilnAdvanced_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
+KilnAdvanced_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
+KilnAdvanced_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
 KilnAdvanced_CardInteractions[3].ActionName,Feed Charcoal,Feed Charcoal
 KilnAdvanced_CardInteractions[4].ActionName,Feed Embers,Feed Embers
 KilnAdvanced_CardInteractions[5].ActionName,Light Tinder,Light Tinder
-KilnAdvanced_CardInteractions[6].ActionName,Feed Leaves,Feed Leaves
+KilnAdvanced_CardInteractions[6].ActionName,Feed Leaves,Dorzuć liści
 KilnAdvanced_CardInteractions[7].ActionName,Increase Temperature,Increase Temperature
 KilnAdvanced_CookingConditions.CookingPausedNotification,Not Hot Enough,Not Hot Enough
 KilnAdvanced_CookingRecipes[0].ActionName,Alembic,Alembic
@@ -1428,36 +1428,36 @@ KilnAdvanced_CookingRecipes[18].ActionName,Smelt Small Tool,Smelt Small Tool
 KilnAdvanced_CookingRecipes[18].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
 KilnAdvanced_CookingRecipes[19].ActionName,Smelt Copper,Smelt Copper
 KilnAdvanced_CookingRecipes[19].CannotCookText,More temperature required!,Wymagana wyższa temperatura!
-KilnAdvancedExtinguished_CardName,Advanced Kiln,Advanced Kiln
+KilnAdvancedExtinguished_CardName,Advanced Kiln,Duży piec do wypalania
 KilnAdvancedExtinguished_CardDescription,I should be able to relight it with some lit tinder.,Powinno dać się je ponownie rozpalić przy pomocy żarzącej się podpałki.
 KilnAdvancedExtinguished_SpoilageTime.CardStatName,Temperature,Temperature
 KilnAdvancedExtinguished_CardInteractions[0].ActionName,Feed Coconut,Feed Coconut
-KilnAdvancedExtinguished_CardInteractions[1].ActionName,Feed Firewood,Feed Firewood
-KilnAdvancedExtinguished_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
+KilnAdvancedExtinguished_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
+KilnAdvancedExtinguished_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
 KilnAdvancedExtinguished_CardInteractions[3].ActionName,Feed Charcoal,Feed Charcoal
-KilnAdvancedExtinguished_CardInteractions[4].ActionName,Feed Leaves,Feed Leaves
+KilnAdvancedExtinguished_CardInteractions[4].ActionName,Feed Leaves,Dorzuć liści
 KilnAdvancedExtinguished_CardInteractions[5].ActionName,Light Fire,Light Fire
 KilnAdvancedExtinguished_CardInteractions[6].ActionName,Feed Tinder,Feed Tinder
 KilnAdvancedExtinguished_DismantleActions[0].ActionName,Demolish,Demolish
-KilnExtinguished_CardName,Kiln,Kiln
+KilnExtinguished_CardName,Kiln,Piec do wypalania
 KilnExtinguished_CardDescription,I should be able to relight it with some lit tinder.,Powinno dać się je ponownie rozpalić przy pomocy żarzącej się podpałki.
 KilnExtinguished_SpoilageTime.CardStatName,Temperature,Temperature
 KilnExtinguished_CardInteractions[0].ActionName,Feed Coconut,Feed Coconut
-KilnExtinguished_CardInteractions[1].ActionName,Feed Firewood,Feed Firewood
-KilnExtinguished_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
+KilnExtinguished_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
+KilnExtinguished_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
 KilnExtinguished_CardInteractions[3].ActionName,Feed Charcoal,Feed Charcoal
-KilnExtinguished_CardInteractions[4].ActionName,Feed Leaves,Feed Leaves
+KilnExtinguished_CardInteractions[4].ActionName,Feed Leaves,Dorzuć liści
 KilnExtinguished_CardInteractions[5].ActionName,Light Fire,Light Fire
 KilnExtinguished_CardInteractions[6].ActionName,Feed Tinder,Feed Tinder
 KilnExtinguished_DismantleActions[0].ActionName,Demolish,Demolish
 Stove_CardName,Stove,Stove
 Stove_CardDescription,I can cook and smoke food here.,I can cook and smoke food here.
 Stove_CardInteractions[0].ActionName,Feed Coconut,Feed Coconut
-Stove_CardInteractions[1].ActionName,Feed Firewood,Feed Firewood
-Stove_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
+Stove_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
+Stove_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
 Stove_CardInteractions[3].ActionName,Feed Charcoal,Feed Charcoal
 Stove_CardInteractions[4].ActionName,Light Tinder,Light Tinder
-Stove_CardInteractions[5].ActionName,Feed Leaves,Feed Leaves
+Stove_CardInteractions[5].ActionName,Feed Leaves,Dorzuć liści
 Stove_DismantleActions[0].ActionName,Take Embers,Take Embers
 Stove_DismantleActions[0].RequiredReceivingDurabilities.FailMessage,Charcoal not ready yet.,Charcoal not ready yet.
 Stove_DismantleActions[1].ActionName,Extinguish Fire,Extinguish Fire
@@ -1473,7 +1473,7 @@ Stove_CookingRecipes[6].ActionName,Boiling Glue,Boiling Glue
 Stove_CookingRecipes[7].ActionName,Boiling Jasmine Mix,Boiling Jasmine Mix
 Stove_CookingRecipes[8].ActionName,Boiling Rice,Boiling Rice
 Stove_CookingRecipes[9].ActionName,Boiling Salt,Boiling Salt
-Stove_CookingRecipes[9].CannotCookText,Not enough salt water...,Not enough salt water...
+Stove_CookingRecipes[9].CannotCookText,Not enough salt water...,Za mało słonej wody...
 Stove_CookingRecipes[10].ActionName,Boiling Sap,Boiling Sap
 Stove_CookingRecipes[10].CannotCookText,Not enough sap...,Not enough sap...
 Stove_CookingRecipes[11].ActionName,Boiling Water,Boiling Water
@@ -1549,7 +1549,7 @@ Stove_CookingRecipes[72].ActionName,Soft Conch Meat,Miękkie mięso ślimaka
 Stove_CookingRecipes[73].ActionName,Threadfin,Threadfin
 Stove_CookingRecipes[74].ActionName,Threadfin Smoked,Threadfin Smoked
 Stove_CookingRecipes[74].CustomCookingText,Smoked in {0},Smoked in {0}
-Stove_CookingRecipes[75].ActionName,Tropical Almonds,Tropical Almonds
+Stove_CookingRecipes[75].ActionName,Tropical Almonds,Migdały tropikalne
 Stove_CookingRecipes[76].ActionName,Urchin,Urchin
 Stove_CookingRecipes[77].ActionName,Yam Curry,Yam Curry
 Stove_CookingRecipes[78].ActionName,Yam Jam,Yam Jam
@@ -1564,10 +1564,10 @@ Stove_CookingRecipes[82].CustomCookingText,Drying...,Drying...
 StoveExtinguished_CardName,Stove,Stove
 StoveExtinguished_CardDescription,I should be able to light it with some lit tinder.,Powinno dać się je rozpalić przy pomocy żarzącej się podpałki.
 StoveExtinguished_CardInteractions[0].ActionName,Feed Coconut,Feed Coconut
-StoveExtinguished_CardInteractions[1].ActionName,Feed Firewood,Feed Firewood
-StoveExtinguished_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
+StoveExtinguished_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
+StoveExtinguished_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
 StoveExtinguished_CardInteractions[3].ActionName,Feed Charcoal,Feed Charcoal
-StoveExtinguished_CardInteractions[4].ActionName,Feed Leaves,Feed Leaves
+StoveExtinguished_CardInteractions[4].ActionName,Feed Leaves,Dorzuć liści
 StoveExtinguished_CardInteractions[5].ActionName,Light Fire,Light Fire
 StoveExtinguished_CardInteractions[6].ActionName,Demolish,Demolish
 StoveExtinguished_DismantleActions[0].ActionName,Take Charcoal and Ash,Take Charcoal and Ash
@@ -1731,7 +1731,7 @@ LoomEmpty_CardInteractions[2].ActionName,Unweave Cloth,Unweave Cloth
 LoomEmpty_CardInteractions[3].ActionName,Unweave Cloth,Unweave Cloth
 LoomEmpty_DismantleActions[0].ActionName,Disassemble Loom,Disassemble Loom
 MudPile_CardName,Mud Pile,Kupa błota
-MudPile_CardDescription,"Could mix it with temper to make a brick. Sand, crushed seashells or ash should work.","Można go zmieszać z temperą, aby uzyskać cegłę. Piasek, pokruszone muszelki lub popiół powinny zadziałać."
+MudPile_CardDescription,"Could mix it with temper to make a brick. Sand, crushed seashells or ash should work.","Można ją połączyć z domieszką wzmacniającą, aby uzyskać cegłę. Piasek, pokruszone muszelki lub popiół powinny zadziałać."
 MudPile_SpoilageTime.OnZero.ActionDescription,Mud dried up!,Błoto wyschło!
 MudPile_CardInteractions[0].ActionName,Make a Mud Brick,Wykonaj gliniana cegła
 MudPile_CardInteractions[1].ActionName,Make Clay,Zrób glinę
@@ -1791,7 +1791,7 @@ SeatPlaced_DismantleActions[1].FadeMessage,Resting...,Resting...
 SeatPlaced_DismantleActions[2].ActionName,Pick Up,Podnieś
 Smoker_CardName,Smoker,Smoker
 Smoker_CardDescription,I can cook and smoke food here.,I can cook and smoke food here.
-Smoker_CardInteractions[0].ActionName,Feed Firewood,Feed Firewood
+Smoker_CardInteractions[0].ActionName,Feed Firewood,Dorzuć drewna
 Smoker_CardInteractions[1].ActionName,Feed Charcoal,Feed Charcoal
 Smoker_CardInteractions[2].ActionName,Feed Sticks,Feed Sticks
 Smoker_CardInteractions[3].ActionName,Take Embers,Take Embers
@@ -1845,7 +1845,7 @@ Smoker_CookingRecipes[23].ActionName,Boiling Clay Vase,Boiling Clay Vase
 Smoker_CookingRecipes[24].ActionName,Boiling Sago Slime,Boiling Sago Slime
 SmokerExtinguished_CardName,Smoker,Smoker
 SmokerExtinguished_CardDescription,I should be able to relight it with some lit tinder.,Powinno dać się je ponownie rozpalić przy pomocy żarzącej się podpałki.
-SmokerExtinguished_CardInteractions[0].ActionName,Feed Firewood,Feed Firewood
+SmokerExtinguished_CardInteractions[0].ActionName,Feed Firewood,Dorzuć drewna
 SmokerExtinguished_CardInteractions[1].ActionName,Feed Charcoal,Feed Charcoal
 SmokerExtinguished_CardInteractions[2].ActionName,Feed Sticks,Feed Sticks
 SmokerExtinguished_CardInteractions[3].ActionName,Feed Tinder,Feed Tinder
@@ -1855,7 +1855,7 @@ SmokerExtinguished_CardInteractions[6].ActionName,Feed Palm Fronds to the Fire,F
 SmokerExtinguished_DismantleActions[0].ActionName,Remove Smoker,Remove Smoker
 SmokerExtinguishedPlastic_CardName,Smoker,Smoker
 SmokerExtinguishedPlastic_CardDescription,I should be able to relight it with some lit tinder.,Powinno dać się je ponownie rozpalić przy pomocy żarzącej się podpałki.
-SmokerExtinguishedPlastic_CardInteractions[0].ActionName,Feed Firewood,Feed Firewood
+SmokerExtinguishedPlastic_CardInteractions[0].ActionName,Feed Firewood,Dorzuć drewna
 SmokerExtinguishedPlastic_CardInteractions[1].ActionName,Feed Charcoal,Feed Charcoal
 SmokerExtinguishedPlastic_CardInteractions[2].ActionName,Feed Sticks,Feed Sticks
 SmokerExtinguishedPlastic_CardInteractions[3].ActionName,Feed Tinder,Feed Tinder
@@ -1876,7 +1876,7 @@ SmokerNoFirePlastic_CardDescription,I should place this on a campfire,I should p
 SmokerNoFirePlastic_DismantleActions[0].ActionName,Remove Plastic Sheet,Remove Plastic Sheet
 SmokerPlastic_CardName,Smoker,Smoker
 SmokerPlastic_CardDescription,I can cook and smoke food here.,I can cook and smoke food here.
-SmokerPlastic_CardInteractions[0].ActionName,Feed Firewood,Feed Firewood
+SmokerPlastic_CardInteractions[0].ActionName,Feed Firewood,Dorzuć drewna
 SmokerPlastic_CardInteractions[1].ActionName,Feed Charcoal,Feed Charcoal
 SmokerPlastic_CardInteractions[2].ActionName,Feed Kindling,Feed Kindling
 SmokerPlastic_CardInteractions[3].ActionName,Take Embers,Take Embers
@@ -1913,7 +1913,7 @@ SmokerPlastic_CookingRecipes[10].ActionName,Bonefish,Bonefish
 SmokerPlastic_CookingRecipes[11].ActionName,Bonefish Smoked,Bonefish Smoked
 SmokerPlastic_CookingRecipes[12].ActionName,Parrotfish,Parrotfish
 SmokerPlastic_CookingRecipes[13].ActionName,Parrotfish Smoked,Parrotfish Smoked
-SmokerPlastic_CookingRecipes[14].ActionName,Tropical Almonds,Tropical Almonds
+SmokerPlastic_CookingRecipes[14].ActionName,Tropical Almonds,Migdały tropikalne
 SmokerPlastic_CookingRecipes[15].ActionName,Stone,Kamień
 SmokerPlastic_CookingRecipes[16].ActionName,Charred Remains,Zwęglone resztki
 SmokerPlastic_CookingRecipes[17].ActionName,Boiling Coconut Bowl,Boiling Coconut Bowl
@@ -2639,7 +2639,7 @@ Event_BoarArcheryFailure_CardName,It Escaped!,It Escaped!
 Event_BoarArcheryFailure_CardDescription,"Darn, wasn't able to get it!","Darn, wasn't able to get it!"
 Event_BoarArcheryFailure_DismantleActions[0].ActionName,Continue,Continue
 Event_BoarFight_CardName,I see a Boar!,I see a Boar!
-Event_BoarFight_CardDescription,Should I attack it or leave it alone?,Should I attack it or leave it alone?
+Event_BoarFight_CardDescription,Should I attack it or leave it alone?,Mam go zaatakować czy zostawić w spokoju?
 Event_BoarFight_DismantleActions[0].ActionName,Attack with Spear!,Attack with Spear!
 Event_BoarFight_DismantleActions[1].ActionName,Attack with Bow!,Attack with Bow!
 Event_BoarFight_DismantleActions[2].ActionName,Attack with Gun!,Attack with Gun!
@@ -2672,33 +2672,33 @@ Event_BoarTrailRecent_CardName,Recent Trail,Recent Trail
 Event_BoarTrailRecent_CardDescription,A big animal has been here recently.,A big animal has been here recently.
 Event_BoarTrailRecent_DismantleActions[0].ActionName,Follow Trail,Follow Trail
 Event_BoarTrailRecent_DismantleActions[1].ActionName,Ignore,Ignore
-Event_CobraFight_CardName,Spitting Cobra!,Spitting Cobra!
-Event_CobraFight_CardDescription,Should I attack it or leave it alone?,Should I attack it or leave it alone?
-Event_CobraFight_DismantleActions[0].ActionName,Attack with Spear!,Attack with Spear!
-Event_CobraFight_DismantleActions[1].ActionName,Attack with Bow!,Attack with Bow!
-Event_CobraFight_DismantleActions[2].ActionName,Attack with Gun!,Attack with Gun!
-Event_CobraFight_DismantleActions[3].ActionName,Attack with Sling!,Attack with Sling!
-Event_CobraFight_DismantleActions[4].ActionName,Retreat,Retreat
-Event_CobraFightBadFailure_CardName,It got me...,It got me...
-Event_CobraFightBadFailure_CardDescription,The Cobra spat on my eyes and escaped...,The Cobra spat on my eyes and escaped...
-Event_CobraFightBadFailure_DismantleActions[0].ActionName,Continue,Continue
-Event_CobraFightBadFailure_DismantleActions[0].ActionLog.LogText,I tried to hunt a spitting cobra... but it spat on me.,I tried to hunt a spitting cobra... but it spat on me.
-Event_CobraFightFailedRetreat_CardName,The Cobra Spat!,The Cobra Spat!
-Event_CobraFightFailedRetreat_CardDescription,It spat on my eyes before I could escape!,It spat on my eyes before I could escape!
-Event_CobraFightFailedRetreat_DismantleActions[0].ActionName,Continue,Continue
-Event_CobraFightFailedRetreat_DismantleActions[0].ActionLog.LogText,I tried to escape from a spitting cobra... but it spat on me.,I tried to escape from a spitting cobra... but it spat on me.
-Event_CobraFightFailure_CardName,It Escaped!,It Escaped!
-Event_CobraFightFailure_CardDescription,"Darn, wasn't able to get it!","Darn, wasn't able to get it!"
-Event_CobraFightFailure_DismantleActions[0].ActionName,Continue,Continue
-Event_CobraFightFailure_DismantleActions[0].ActionLog.LogText,I tried to hunt a cobra... but it escaped.,I tried to hunt a cobra... but it escaped.
-Event_CobraFightMixedSuccess_CardName,Mixed Success,Mixed Success
-Event_CobraFightMixedSuccess_CardDescription,"I got the cobra, but it spat on my eyes.","I got the cobra, but it spat on my eyes."
-Event_CobraFightMixedSuccess_DismantleActions[0].ActionName,Continue,Continue
-Event_CobraFightMixedSuccess_DismantleActions[0].ActionLog.LogText,"I killed a spitting cobra, but it spat on me...","I killed a spitting cobra, but it spat on me..."
-Event_CobraFightSuccess_CardName,Success!,Success!
-Event_CobraFightSuccess_CardDescription,The cobra is mine.,The cobra is mine.
-Event_CobraFightSuccess_DismantleActions[0].ActionName,Continue,Continue
-Event_CobraFightSuccess_DismantleActions[0].ActionLog.LogText,I killed a spitting cobra.,I killed a spitting cobra.
+Event_CobraFight_CardName,Spitting Cobra!,Plująca kobra!
+Event_CobraFight_CardDescription,Should I attack it or leave it alone?,Mam ją zaatakować czy zostawić w spokoju?
+Event_CobraFight_DismantleActions[0].ActionName,Attack with Spear!,Uderz włócznią!
+Event_CobraFight_DismantleActions[1].ActionName,Attack with Bow!,Strzel z łuku!
+Event_CobraFight_DismantleActions[2].ActionName,Attack with Gun!,Strzel z pistoletu!
+Event_CobraFight_DismantleActions[3].ActionName,Attack with Sling!,Strzel z procy!
+Event_CobraFight_DismantleActions[4].ActionName,Retreat,Wycofaj się
+Event_CobraFightBadFailure_CardName,It got me...,Dopadła mnie...
+Event_CobraFightBadFailure_CardDescription,The Cobra spat on my eyes and escaped...,Kobra napluła mi w oczy i uciekła...
+Event_CobraFightBadFailure_DismantleActions[0].ActionName,Continue,Kontynuuj
+Event_CobraFightBadFailure_DismantleActions[0].ActionLog.LogText,I tried to hunt a spitting cobra... but it spat on me.,Próbowałem upolować plującą kobrę... ale mnie opluła.
+Event_CobraFightFailedRetreat_CardName,The Cobra Spat!,Kobra pluje!
+Event_CobraFightFailedRetreat_CardDescription,It spat on my eyes before I could escape!,"Plunęła mi w oczy, zanim zdążyłem uciec!"
+Event_CobraFightFailedRetreat_DismantleActions[0].ActionName,Continue,Kontynuuj
+Event_CobraFightFailedRetreat_DismantleActions[0].ActionLog.LogText,I tried to escape from a spitting cobra... but it spat on me.,Próbowałem uciec przed plującą kobrę... ale mnie opluła.
+Event_CobraFightFailure_CardName,It Escaped!,Uciekła!
+Event_CobraFightFailure_CardDescription,"Darn, wasn't able to get it!","Cholera, nie udało mi się jej zabić!"
+Event_CobraFightFailure_DismantleActions[0].ActionName,Continue,Kontynuuj
+Event_CobraFightFailure_DismantleActions[0].ActionLog.LogText,I tried to hunt a cobra... but it escaped.,Próbowałem upolować kobrę... ale uciekła.
+Event_CobraFightMixedSuccess_CardName,Mixed Success,Częściowy sukces
+Event_CobraFightMixedSuccess_CardDescription,"I got the cobra, but it spat on my eyes.","Mam kobrę, ale napluła mi w oczy."
+Event_CobraFightMixedSuccess_DismantleActions[0].ActionName,Continue,Kontynuuj
+Event_CobraFightMixedSuccess_DismantleActions[0].ActionLog.LogText,"I killed a spitting cobra, but it spat on me...","Upolowałem plującą kobrę, ale mnie opluła..."
+Event_CobraFightSuccess_CardName,Success!,Sukces!
+Event_CobraFightSuccess_CardDescription,The cobra is mine.,Kobra jest moja.
+Event_CobraFightSuccess_DismantleActions[0].ActionName,Continue,Kontynuuj
+Event_CobraFightSuccess_DismantleActions[0].ActionLog.LogText,I killed a spitting cobra.,Zabiłem plującą kobrę.
 Event_DroneFight_CardName,Attack Drone!,Attack Drone!
 Event_DroneFight_CardDescription,It's coming for me!,It's coming for me!
 Event_DroneFightBadFailure_CardName,It got me...,It got me...
@@ -3359,7 +3359,7 @@ Event_CoveExplored_CardName,Area Explored,Obszar przeszukany
 Event_CoveExplored_CardDescription,I think I found all landmarks in this area.,"Myślę, że znalazłem wszystkie punkty orientacyjne w tej okolicy."
 Event_CoveExplored_DismantleActions[0].ActionName,Continue,Continue
 Event_CoveExplored_DismantleActions[0].ActionLog.LogText,I finished exploring the beach.,I finished exploring the beach.
-Event_CoveFound_CardName,Secret Cove,Sekretna zatoka
+Event_CoveFound_CardName,Secret Cove,Sekretna zatoczka
 Event_CoveFound_CardDescription,There's a cove among in the cliffs. I would like to check it.,There's a cove among in the cliffs. I would like to check it.
 Event_CoveFound_DismantleActions[0].ActionName,Continue,Continue
 Event_DeathContentment_CardName,Death,Death
@@ -3406,14 +3406,14 @@ Event_DrumMenu_DismantleActions[1].ActionName,Flowing Rythm,Flowing Rythm
 Event_DrumMenu_DismantleActions[1].ActionDescription,Lose yourself into the drum,Lose yourself into the drum
 Event_DrumMenu_DismantleActions[2].ActionName,Intense Rythm,Intense Rythm
 Event_DrumMenu_DismantleActions[2].ActionDescription,Become the drum!,Become the drum!
-Event_FaintDizzy_CardName,You Pass Out,You Pass Out
-Event_FaintDizzy_CardDescription,"You start feeling dizzy and before you know it, you're falling to the ground.\nYou loose conciousness...","You start feeling dizzy and before you know it, you're falling to the ground.\nYou loose conciousness..."
-Event_FaintDizzy_DismantleActions[0].ActionName,Continue,Continue
-Event_FaintDizzy_DismantleActions[0].ActionLog.LogText,I was feeling dizzy and suddenly passed out.,I was feeling dizzy and suddenly passed out.
-Event_FaintExhaustion_CardName,You Pass Out,You Pass Out
-Event_FaintExhaustion_CardDescription,You collapse on the floor exhausted.,You collapse on the floor exhausted.
-Event_FaintExhaustion_DismantleActions[0].ActionName,Continue,Continue
-Event_FaintExhaustion_DismantleActions[0].ActionLog.LogText,I was so exhausted I collapsed on the ground.,I was so exhausted I collapsed on the ground.
+Event_FaintDizzy_CardName,You Pass Out,Zemdlałeś
+Event_FaintDizzy_CardDescription,"You start feeling dizzy and before you know it, you're falling to the ground.\nYou loose conciousness...","Zaczynasz odczuwać zawroty głowy i zanim się zorientujesz, upadasz na ziemię... Tracisz przytomność..."
+Event_FaintDizzy_DismantleActions[0].ActionName,Continue,Kontynuuj
+Event_FaintDizzy_DismantleActions[0].ActionLog.LogText,I was feeling dizzy and suddenly passed out.,Miałem zawroty głowy i nagle zemdlałem.
+Event_FaintExhaustion_CardName,You Pass Out,Zemdlałeś
+Event_FaintExhaustion_CardDescription,You collapse on the floor exhausted.,Padasz na na ziemię wyczerpany.
+Event_FaintExhaustion_DismantleActions[0].ActionName,Continue,Kontynuuj
+Event_FaintExhaustion_DismantleActions[0].ActionLog.LogText,I was so exhausted I collapsed on the ground.,"Byłem tak wyczerpany, że upadłem na ziemię."
 Event_FallAbrasion_CardName,Fall!,Spadłeś!
 Event_FallAbrasion_CardDescription,You fell and got yourself some ugly scrapes...,Spadłeś i nabawiłeś się paskudnych zadrapań...
 Event_FallAbrasion_DismantleActions[0].ActionName,Nice,Nie wyszło
@@ -4007,7 +4007,7 @@ Imp_HomeSign_DismantleActions[0].ActionName,Accept your new Life,Accept your new
 Imp_HomeSign_DismantleActions[0].ActionDescription,Warning: This will end the game.,Warning: This will end the game.
 Imp_HomeSign_DismantleActions[0].ActionLog.LogText,I decided to spend the rest of my days in the Island.,I decided to spend the rest of my days in the Island.
 Imp_HomeSign_BlueprintFinishedLog.LogText,I crafted a beautiful Home Sign.,I crafted a beautiful Home Sign.
-Imp_Irrigation_CardName,Irrigation System,Irrigation System
+Imp_Irrigation_CardName,Irrigation System,System nawadniania
 Imp_Irrigation_CardDescription,Water plants automatically from reservoirs. Must be activated from a water reservoir.,Water plants automatically from reservoirs. Must be activated from a water reservoir.
 Imp_MudHutExpansion_CardName,Mud Hut Expansion,Mud Hut Expansion
 Imp_MudHutExpansion_CardDescription,More room to store my stuff!,More room to store my stuff!
@@ -4156,8 +4156,8 @@ ClayBowlUnfired_CardInteractions[0].ActionName,Craft Vase,Craft Vase
 ClayBowlUnfired_DismantleActions[0].ActionName,Scrap,Scrap
 ClayFirePitUnfired_CardName,Unfired Clay Fire Pit,Unfired Clay Fire Pit
 ClayFirePitUnfired_CardDescription,It needs to be fired in a kiln.,It needs to be fired in a kiln.
-ClayJar_CardName,Clay Jar,Clay Jar
-ClayJar_CardDescription,A small sealed container.,A small sealed container.
+ClayJar_CardName,Clay Jar,Gliniany słoik
+ClayJar_CardDescription,A small sealed container.,Mały szczelny pojemnik.
 ClayJar_CardInteractions[0].ActionName,Add Flowers,Add Flowers
 ClayJar_DismantleActions[0].ActionName,Collect Rain,Zbieraj deszcz
 ClayJarJasmine_CardName,Jasmine Flowers,Jasmine Flowers
@@ -4169,15 +4169,15 @@ ClayJarUnfired_CardName,Unfired Clay Jar,Unfired Clay Jar
 ClayJarUnfired_CardDescription,It needs to be fired in a kiln.,It needs to be fired in a kiln.
 ClayPotCoolerUnfired_CardName,Unfired Clay Pot Cooler,Unfired Clay Pot Cooler
 ClayPotCoolerUnfired_CardDescription,It needs to be fired in a kiln.,It needs to be fired in a kiln.
-ClayVase_CardName,Clay Vase,Clay Vase
+ClayVase_CardName,Clay Vase,Gliniana waza
 ClayVase_CardDescription,I can fill it with water.,I can fill it with water.
 ClayVase_DismantleActions[0].ActionName,Collect Rain,Zbieraj deszcz
-ClayVaseUnfinished_CardName,Unfinished Clay Vase,Unfinished Clay Vase
+ClayVaseUnfinished_CardName,Unfinished Clay Vase,Niedokończona gliniana waza
 ClayVaseUnfinished_CardDescription,Should add more clay to finish it.,Should add more clay to finish it.
 ClayVaseUnfinished_CardInteractions[0].ActionName,Finish Vase,Finish Vase
 ClayVaseUnfinished_DismantleActions[0].ActionName,Scrap,Scrap
-ClayVaseUnfired_CardName,Unfired Clay Vase,Unfired Clay Vase
-ClayVaseUnfired_CardDescription,It needs to be fired in a kiln.,It needs to be fired in a kiln.
+ClayVaseUnfired_CardName,Unfired Clay Vase,Niewypalona gliniana waza
+ClayVaseUnfired_CardDescription,It needs to be fired in a kiln.,Musi być wypalano w piecu.
 CoconutFlask_CardName,Coconut Flask,Coconut Flask
 CoconutFlask_CardDescription,I could fill it with water.,I could fill it with water.
 CoconutFlask_CardInteractions[0].ActionName,Fill from Water Ration,Fill from Water Ration
@@ -4206,8 +4206,8 @@ CookingPot_CardDescription,A cooking pot for preparing more advanced meals.,A co
 CookingPot_DismantleActions[0].ActionName,Collect Rain,Zbieraj deszcz
 CookingPotUnfired_CardName,Unfired Cooking Pot,Unfired Cooking Pot
 CookingPotUnfired_CardDescription,It needs to be fired in a kiln.,It needs to be fired in a kiln.
-GlazedVase_CardName,Glazed Vase,Glazed Vase
-GlazedVase_CardDescription,A sealed container strong enough to hold acids.,A sealed container strong enough to hold acids.
+GlazedVase_CardName,Glazed Vase,Szkliwiona waza
+GlazedVase_CardDescription,A sealed container strong enough to hold acids.,"Szczelny pojemnik wystarczająco wytrzymały, aby przechowywać kwasy."
 GlazedVase_DismantleActions[0].ActionName,Collect Rain,Zbieraj deszcz
 GlazedVaseUnfired_CardName,Unfired Glazed Vase,Unfired Glazed Vase
 GlazedVaseUnfired_CardDescription,It needs to be fired in a kiln.,It needs to be fired in a kiln.
@@ -4829,10 +4829,10 @@ FishSlicesCooked_DismantleActions[0].ActionName,Eat Slices,Eat Slices
 FoodRation_CardName,Food Ration,Food Ration
 FoodRation_CardDescription,Should keep me going for some time.,Should keep me going for some time.
 FoodRation_DismantleActions[0].ActionName,Eat,Zjedz
-GastricPellet_CardName,Gastric Pellet,Gastric Pellet
-GastricPellet_CardDescription,"A disgusting ball of hair, bones and god knows what...","A disgusting ball of hair, bones and god knows what..."
+GastricPellet_CardName,Gastric Pellet,Wypluwka
+GastricPellet_CardDescription,"A disgusting ball of hair, bones and god knows what...","Obrzydliwa kula włosów, kości i bóg wie czego..."
 GastricPellet_DismantleActions[0].ActionName,Harvest,Zbierz
-GastricPellet_DismantleActions[0].ActionDescription,Yuck...,Yuck...
+GastricPellet_DismantleActions[0].ActionDescription,Yuck...,Fuj...
 Ginger_CardName,Ginger,Imbir
 Ginger_CardDescription,Can be ground and prepared into a brew that should boost my immune system and help with stomach problems.,"Można go zmielić i przygotować napar, który powinien wzmocnić mój układ odpornościowy i pomóc w problemach żołądkowych."
 Ginger_Progress.OnFull.ActionDescription,Ginger dried up!,Imbir wysuszony!
@@ -4935,7 +4935,7 @@ KavaRootDried_DismantleActions[0].ActionName,Eat Root,Eat Root
 KavaRootGround_CardName,Ground Kava Root,Zmielony korzeń kavy
 KavaRootGround_CardDescription,Can be mixed with water for a soothing brew that should improve my mood as well as help against pain and fever.,"Może być mieszany z wodą w celu uzyskania kojącego naparu, który powinien poprawić mój nastrój, a także pomóc w walce z bólem i gorączką."
 KavaRootGround_CardInteractions[0].ActionName,Soak,Namocz
-KavaRootGround_DismantleActions[0].ActionName,Eat Ground Root,Eat Ground Root
+KavaRootGround_DismantleActions[0].ActionName,Eat Ground Root,Zjedz zmielony korzeń
 KingThreadfin_CardName,King Threadfin,King Threadfin
 KingThreadfin_CardDescription,"This is one large fish, I should cut it first.","This is one large fish, I should cut it first."
 KingThreadfin_CardInteractions[0].ActionName,Cut Meat,Cut Meat
@@ -5271,17 +5271,17 @@ ThreadfinSmoked_CardName,Smoked Threadfin,Smoked Threadfin
 ThreadfinSmoked_CardDescription,Tasty and nutritious. Should last longer than if it were just cooked.,Tasty and nutritious. Should last longer than if it were just cooked.
 ThreadfinSmoked_CardInteractions[0].ActionName,Make Bait,Make Bait
 ThreadfinSmoked_DismantleActions[0].ActionName,Eat,Zjedz
-TropicalAlmondKernels_CardName,Tropical Almond Kernels,Tropical Almond Kernels
-TropicalAlmondKernels_CardDescription,"Tasty, could try roasting them too.","Tasty, could try roasting them too."
+TropicalAlmondKernels_CardName,Tropical Almond Kernels,Ziarna migdałów tropikalnych
+TropicalAlmondKernels_CardDescription,"Tasty, could try roasting them too.","Smaczne, można też spróbować je upiec."
 TropicalAlmondKernels_DismantleActions[0].ActionName,Eat,Zjedz
-TropicalAlmondsRoasted_CardName,Roasted Tropical Almond,Roasted Tropical Almond
-TropicalAlmondsRoasted_CardDescription,Tasty.,Tasty.
+TropicalAlmondsRoasted_CardName,Roasted Tropical Almond,Prażone migdały tropikalne
+TropicalAlmondsRoasted_CardDescription,Tasty.,Smaczne.
 TropicalAlmondsRoasted_DismantleActions[0].ActionName,Eat,Zjedz
-UrchinMeat_CardName,Urchin Meat,Urchin Meat
-UrchinMeat_CardDescription,"Slimy, would taste better cooked.","Slimy, would taste better cooked."
+UrchinMeat_CardName,Urchin Meat,Mięso jeżowca
+UrchinMeat_CardDescription,"Slimy, would taste better cooked.","Oślizgłe, smakowałoby lepiej ugotowane."
 UrchinMeat_DismantleActions[0].ActionName,Eat,Zjedz
-UrchinMeatCooked_CardName,Cooked Urchin,Cooked Urchin
-UrchinMeatCooked_CardDescription,Very tasty.,Very tasty.
+UrchinMeatCooked_CardName,Cooked Urchin,Gotowany jeżowiec
+UrchinMeatCooked_CardDescription,Very tasty.,Bardzo smaczny
 UrchinMeatCooked_DismantleActions[0].ActionName,Eat,Zjedz
 VictoryPillsTV_CardName,Victory Pills,Victory Pills
 VictoryPillsTV_CardDescription,"If I eat them, I'll wake up back in civilization.","If I eat them, I'll wake up back in civilization."
@@ -5649,8 +5649,8 @@ W_Abrasion_CardInteractions[6].ActionName,Apply Honey,Apply Honey
 W_Abrasion_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
 W_Abrasion_CookingRecipes[0].ActionName,Dressing,Dressing
 W_Abrasion_CookingRecipes[0].CustomCookingText,Protecting Wound,Protecting Wound
-W_ArmFractureL_CardName,Arm Fracture,Arm Fracture
-W_ArmFractureL_CardDescription,It hurts so much.,It hurts so much.
+W_ArmFractureL_CardName,Arm Fracture,Złamana ręka
+W_ArmFractureL_CardDescription,It hurts so much.,To bardzo boli.
 W_ArmFractureL_SpoilageTime.OnFull.ActionName,Fracture,Fracture
 W_ArmFractureL_SpoilageTime.OnFull.ActionDescription,My wound is much better now!,My wound is much better now!
 W_ArmFractureL_SpoilageTime.OnFull.ActionLog.LogText,My fracture healed.,My fracture healed.
@@ -5659,9 +5659,9 @@ W_ArmFractureL_Progress.OnFull.ActionDescription,I think I had the tourniquet fo
 W_ArmFractureL_CardInteractions[0].ActionName,Apply,Apply
 W_ArmFractureL_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
 W_ArmFractureL_CookingRecipes[0].ActionName,Splint,Splint
-W_ArmFractureL_CookingRecipes[0].CustomCookingText,Constraining Movement,Constraining Movement
-W_ArmFractureR_CardName,Arm Fracture,Arm Fracture
-W_ArmFractureR_CardDescription,It hurts so much.,It hurts so much.
+W_ArmFractureL_CookingRecipes[0].CustomCookingText,Constraining Movement,Ogranicza ruch
+W_ArmFractureR_CardName,Arm Fracture,Złamana ręka
+W_ArmFractureR_CardDescription,It hurts so much.,To bardzo boli.
 W_ArmFractureR_SpoilageTime.OnFull.ActionName,Fracture,Fracture
 W_ArmFractureR_SpoilageTime.OnFull.ActionDescription,My wound is much better now!,My wound is much better now!
 W_ArmFractureR_SpoilageTime.OnFull.ActionLog.LogText,My fracture healed.,My fracture healed.
@@ -5670,7 +5670,7 @@ W_ArmFractureR_Progress.OnFull.ActionDescription,I think I had the tourniquet fo
 W_ArmFractureR_CardInteractions[0].ActionName,Apply,Apply
 W_ArmFractureR_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
 W_ArmFractureR_CookingRecipes[0].ActionName,Splint,Splint
-W_ArmFractureR_CookingRecipes[0].CustomCookingText,Constraining Movement,Constraining Movement
+W_ArmFractureR_CookingRecipes[0].CustomCookingText,Constraining Movement,Ogranicza ruch
 W_ArmLacerationL_CardName,Arm Laceration,Arm Laceration
 W_ArmLacerationL_CardDescription,A deep bleeding cut. It hurts so much.,A deep bleeding cut. It hurts so much.
 W_ArmLacerationL_SpoilageTime.OnFull.ActionName,Laceration,Laceration
@@ -5751,7 +5751,7 @@ W_ArmSprainedL_Progress.OnFull.ActionDescription,I think I had the tourniquet fo
 W_ArmSprainedL_CardInteractions[0].ActionName,Apply,Apply
 W_ArmSprainedL_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
 W_ArmSprainedL_CookingRecipes[0].ActionName,Splint,Splint
-W_ArmSprainedL_CookingRecipes[0].CustomCookingText,Constraining Movement,Constraining Movement
+W_ArmSprainedL_CookingRecipes[0].CustomCookingText,Constraining Movement,Ogranicza ruch
 W_ArmSprainedR_CardName,Sprained Wrist,Sprained Wrist
 W_ArmSprainedR_CardDescription,It hurts.,It hurts.
 W_ArmSprainedR_SpoilageTime.OnFull.ActionName,Sprain,Sprain
@@ -5762,15 +5762,15 @@ W_ArmSprainedR_Progress.OnFull.ActionDescription,I think I had the tourniquet fo
 W_ArmSprainedR_CardInteractions[0].ActionName,Apply,Apply
 W_ArmSprainedR_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
 W_ArmSprainedR_CookingRecipes[0].ActionName,Splint,Splint
-W_ArmSprainedR_CookingRecipes[0].CustomCookingText,Constraining Movement,Constraining Movement
-W_CobraSpit_CardName,Cobra Spit,Cobra Spit
-W_CobraSpit_CardDescription,"Hurts like hell, should wash it with water as soon as possible!","Hurts like hell, should wash it with water as soon as possible!"
+W_ArmSprainedR_CookingRecipes[0].CustomCookingText,Constraining Movement,Ogranicza ruch
+W_CobraSpit_CardName,Cobra Spit,Oplucie kobry
+W_CobraSpit_CardDescription,"Hurts like hell, should wash it with water as soon as possible!","Boli jak diabli, należy jak najszybciej przemyć wodą!"
 W_CobraSpit_SpoilageTime.OnFull.ActionName,Abrasion,Abrasion
 W_CobraSpit_SpoilageTime.OnFull.ActionDescription,Wound healed!,Wound healed!
 W_CobraSpit_SpoilageTime.OnFull.ActionLog.LogText,My abrasion healed.,My abrasion healed.
 W_CobraSpit_FuelCapacity.OnZero.ActionName,Eyes Clear,Eyes Clear
-W_CobraSpit_FuelCapacity.OnZero.ActionDescription,My eyes are clear of poison...,My eyes are clear of poison...
-W_CobraSpit_FuelCapacity.OnZero.ActionLog.LogText,My eyes are clear clear of poison.,My eyes are clear clear of poison.
+W_CobraSpit_FuelCapacity.OnZero.ActionDescription,My eyes are clear of poison...,Moje oczy są czyste od trucizny...
+W_CobraSpit_FuelCapacity.OnZero.ActionLog.LogText,My eyes are clear clear of poison.,Moje oczy są czyste od trucizny.
 W_CobraSpit_CardInteractions[0].ActionName,Clean (seawater),Clean (seawater)
 W_CobraSpit_CardInteractions[1].ActionName,Clean (water),Clean (water)
 W_CobraSpit_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
@@ -5784,8 +5784,8 @@ W_HunterMark_SpoilageTime.OnFull.ActionLog.LogText,My abrasion healed.,My abrasi
 W_HunterMark_FuelCapacity.OnZero.ActionName,Mark Banished,Mark Banished
 W_HunterMark_FuelCapacity.OnZero.ActionDescription,The mark seems to have vanished...,The mark seems to have vanished...
 W_HunterMark_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_LegFractureL_CardName,Leg Fracture,Leg Fracture
-W_LegFractureL_CardDescription,It hurts so much.,It hurts so much.
+W_LegFractureL_CardName,Leg Fracture,Złamana noga
+W_LegFractureL_CardDescription,It hurts so much.,To bardzo boli.
 W_LegFractureL_SpoilageTime.OnFull.ActionName,Fracture,Fracture
 W_LegFractureL_SpoilageTime.OnFull.ActionDescription,My wound is much better now!,My wound is much better now!
 W_LegFractureL_SpoilageTime.OnFull.ActionLog.LogText,My fracture healed.,My fracture healed.
@@ -5794,9 +5794,9 @@ W_LegFractureL_Progress.OnFull.ActionDescription,I think I had the tourniquet fo
 W_LegFractureL_CardInteractions[0].ActionName,Apply,Apply
 W_LegFractureL_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
 W_LegFractureL_CookingRecipes[0].ActionName,Splint,Splint
-W_LegFractureL_CookingRecipes[0].CustomCookingText,Constraining Movement,Constraining Movement
-W_LegFractureR_CardName,Leg Fracture,Leg Fracture
-W_LegFractureR_CardDescription,It hurts so much.,It hurts so much.
+W_LegFractureL_CookingRecipes[0].CustomCookingText,Constraining Movement,Ogranicza ruch
+W_LegFractureR_CardName,Leg Fracture,Złamana noga
+W_LegFractureR_CardDescription,It hurts so much.,To bardzo boli.
 W_LegFractureR_SpoilageTime.OnFull.ActionName,Fracture,Fracture
 W_LegFractureR_SpoilageTime.OnFull.ActionDescription,My wound is much better now!,My wound is much better now!
 W_LegFractureR_SpoilageTime.OnFull.ActionLog.LogText,My fracture healed.,My fracture healed.
@@ -5805,7 +5805,7 @@ W_LegFractureR_Progress.OnFull.ActionDescription,I think I had the tourniquet fo
 W_LegFractureR_CardInteractions[0].ActionName,Apply,Apply
 W_LegFractureR_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
 W_LegFractureR_CookingRecipes[0].ActionName,Splint,Splint
-W_LegFractureR_CookingRecipes[0].CustomCookingText,Constraining Movement,Constraining Movement
+W_LegFractureR_CookingRecipes[0].CustomCookingText,Constraining Movement,Ogranicza ruch
 W_LegLacerationL_CardName,Leg Laceration,Leg Laceration
 W_LegLacerationL_CardDescription,A deep bleeding cut. It hurts so much.,A deep bleeding cut. It hurts so much.
 W_LegLacerationL_SpoilageTime.OnFull.ActionName,Laceration,Laceration
@@ -5886,7 +5886,7 @@ W_LegSprainedL_Progress.OnFull.ActionDescription,I think I had the tourniquet fo
 W_LegSprainedL_CardInteractions[0].ActionName,Apply,Apply
 W_LegSprainedL_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
 W_LegSprainedL_CookingRecipes[0].ActionName,Splint,Splint
-W_LegSprainedL_CookingRecipes[0].CustomCookingText,Constraining Movement,Constraining Movement
+W_LegSprainedL_CookingRecipes[0].CustomCookingText,Constraining Movement,Ogranicza ruch
 W_LegSprainedR_CardName,Sprained Ankle,Sprained Ankle
 W_LegSprainedR_CardDescription,It hurts.,It hurts.
 W_LegSprainedR_SpoilageTime.OnFull.ActionName,Sprain,Sprain
@@ -5897,7 +5897,7 @@ W_LegSprainedR_Progress.OnFull.ActionDescription,I think I had the tourniquet fo
 W_LegSprainedR_CardInteractions[0].ActionName,Apply,Apply
 W_LegSprainedR_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
 W_LegSprainedR_CookingRecipes[0].ActionName,Splint,Splint
-W_LegSprainedR_CookingRecipes[0].CustomCookingText,Constraining Movement,Constraining Movement
+W_LegSprainedR_CookingRecipes[0].CustomCookingText,Constraining Movement,Ogranicza ruch
 W_MacaqueBite_CardName,Macaque Bite,Macaque Bite
 W_MacaqueBite_CardDescription,It hurts!,It hurts!
 W_MacaqueBite_SpoilageTime.OnFull.ActionName,Abrasion,Abrasion
@@ -6127,7 +6127,7 @@ Charcoal_CardInteractions[0].ActionName,Crush,Crush
 Charcoal_DismantleActions[0].ActionName,Eat,Zjedz
 Clay_CardName,Clay,Glina
 Clay_CardDescription,A lump of Clay.,Bryła gliny.
-Clay_CardInteractions[0].ActionName,Craft Bowl,Craft Bowl
+Clay_CardInteractions[0].ActionName,Craft Bowl,Zrób miskę
 Cloth_CardName,Cloth,Cloth
 Cloth_CardDescription,"A piece of cloth, I could make myself clothes with it. Or make it larger by combining it with more cloth on a loom.","A piece of cloth, I could make myself clothes with it. Or make it larger by combining it with more cloth on a loom."
 Cloth_CardInteractions[0].ActionName,Craft Tourniquet,Craft Tourniquet
@@ -6172,7 +6172,7 @@ Conch_CardName,Conch,Ślimak
 Conch_CardDescription,I need to get the animal from inside.,Musze się dostać do zwierzęcia w środku.
 Conch_CardInteractions[0].ActionName,Break Conch,Rozłup muszlę
 ConchBroken_CardName,Crushed Conch,Pokruszona muszla
-ConchBroken_CardDescription,Can be used as temper or burned inside the Kiln to get  quicklime.,Może być używana do temperowania lub spalona w piecu do wypalania w celu uzyskania wapna palonego.
+ConchBroken_CardDescription,Can be used as temper or burned inside the Kiln to get  quicklime.,Może być używana do wzmacniania gliny lub spalona w piecu do wypalania w celu uzyskania wapna palonego.
 Copper_CardName,Copper,Miedź
 Copper_CardDescription,Ready to be cast in molds to make tools.,Gotowa do wlania w formy do produkcji narzędzi.
 CopperOre_CardName,Copper Ore,Ruda miedzi
@@ -6195,9 +6195,9 @@ Drum_DismantleActions[2].ActionName,Intense Rhythm,Intense Rhythm
 Drum_DismantleActions[2].ActionDescription,Let the drum guide you!,Let the drum guide you!
 Drum_DismantleActions[3].ActionName,Drum Trance,Drum Trance
 Drum_DismantleActions[3].ActionDescription,Become the drum!,Become the drum!
-Embers_CardName,Embers,Embers
-Embers_CardDescription,Hot! Hot! Could light tinder with it.,Hot! Hot! Could light tinder with it.
-Embers_CardInteractions[0].ActionName,Light Tinder,Light Tinder
+Embers_CardName,Embers,Żar
+Embers_CardDescription,Hot! Hot! Could light tinder with it.,Gorący! Gorący! Można nim podpalić podpałkę.
+Embers_CardInteractions[0].ActionName,Light Tinder,Podpal podpałkę
 Feathers_CardName,Feathers,Pióra
 Feathers_CardDescription,A pile of feathers.,Stos piór.
 Fertilizer_CardName,Fertilizer,Nawóz
@@ -6256,7 +6256,7 @@ LeafletSurvivalTrunk_CardDescription,A small leaflet containing survival tips.,A
 LeafletSurvivalTrunk_DismantleActions[0].ActionName,Read,Read
 LeavesDry_CardName,Dry Leaves,Suche liście
 LeavesDry_CardDescription,"Useful as tinder, just need to start a fire on it.","Przydatne jako podpałka, wystarczy na nich rozpalić ogień."
-LeavesDry_CardInteractions[0].ActionName,Light with Hand Drill,Light with Hand Drill
+LeavesDry_CardInteractions[0].ActionName,Light with Hand Drill,Zapal w świdrze ogniowym
 LeavesDry_CardInteractions[1].ActionName,Light Tinder,Light Tinder
 LeavesDry_CardInteractions[2].ActionName,Light Tinder,Light Tinder
 LeavesFresh_CardName,Fresh Leaves,Świeże liście
@@ -6308,7 +6308,7 @@ MudBrick_CardDescription,Could build things with this. Maybe a Kiln for pottery?
 MudBrick_CardInteractions[0].ActionName,Break,Rozłup
 Nest_CardName,Nest,Nest
 Nest_CardDescription,"Useful as tinder, just need to start a fire on it.","Useful as tinder, just need to start a fire on it."
-Nest_CardInteractions[0].ActionName,Light with Hand Drill,Light with Hand Drill
+Nest_CardInteractions[0].ActionName,Light with Hand Drill,Zapal w świdrze ogniowym
 Nest_CardInteractions[1].ActionName,Light Tinder,Light Tinder
 Nest_CardInteractions[2].ActionName,Light Tinder,Light Tinder
 NipaFruit_CardName,Nipa Fruit,Nipa Fruit
@@ -6335,7 +6335,7 @@ PalmFronds_CardDescription,Useful for crafts and roofing.,Przydatny w wytwarzani
 PalmFronds_CardInteractions[0].ActionName,Weave,Zapleć
 Papers_CardName,Papers,Papers
 Papers_CardDescription,A random assortment of papers. Could be used as tinder.,A random assortment of papers. Could be used as tinder.
-Papers_CardInteractions[0].ActionName,Light with Hand Drill,Light with Hand Drill
+Papers_CardInteractions[0].ActionName,Light with Hand Drill,Zapal w świdrze ogniowym
 Papers_CardInteractions[1].ActionName,Light Tinder,Light Tinder
 Papers_CardInteractions[2].ActionName,Light Tinder,Light Tinder
 Passport_CardName,Passport,Passport
@@ -6386,7 +6386,7 @@ Saltpeter_CardName,Saltpeter,Saltpeter
 Saltpeter_CardDescription,Useful as fertilizer. Can also combine it with Vitriol to make Aqua Fortis on an Alembic. Essential for making Dynamite!,Useful as fertilizer. Can also combine it with Vitriol to make Aqua Fortis on an Alembic. Essential for making Dynamite!
 Saltpeter_CardInteractions[0].ActionName,Soak,Soak
 Sand_CardName,Sand,Piasek
-Sand_CardDescription,Could use it to temper clay or mud.,Można go używać do temperowania gliny lub błota.
+Sand_CardDescription,Could use it to temper clay or mud.,Można go używać do wzmocnienia gliny lub błota.
 SandCastle_CardName,Sand Castle,Zamek z piasku
 SandCastle_CardDescription,A nice sand castle. I'm proud of myself.,Ładny zamek z piasku. Jestem z siebie dumny.
 SandCastle_CardInteractions[0].ActionName,Repair,Napraw
@@ -6483,9 +6483,9 @@ TinderLit_CardName,Lit Tinder,Podpalona podpałka
 TinderLit_CardDescription,Should place it in a campfire to light it.,"Należy umieścić ją w ognisku, aby je rozpalić."
 Treenail_CardName,Treenail,Kołek
 Treenail_CardDescription,Used for complex furniture or construction.,Używany do złożonych mebli lub konstrukcji.
-TropicalAlmonds_CardName,Tropical Almonds,Tropical Almonds
-TropicalAlmonds_CardDescription,I need something to crack them open.,I need something to crack them open.
-TropicalAlmonds_CardInteractions[0].ActionName,Crack Almond open,Crack Almond open
+TropicalAlmonds_CardName,Tropical Almonds,Migdały tropikalne
+TropicalAlmonds_CardDescription,I need something to crack them open.,"Potrzebuję czegoś, żeby je otworzyć."
+TropicalAlmonds_CardInteractions[0].ActionName,Crack Almond open,Rozłup migdały
 Tusk_CardName,Boar Tusk,Boar Tusk
 TV_Leaflet_CardName,Victory Leaflet,Victory Leaflet
 TV_Leaflet_CardDescription,A small leaflet to congratulate you for your victory.,A small leaflet to congratulate you for your victory.
@@ -6537,7 +6537,7 @@ WoodCarving_Woman_CardName,Woman Figure,Woman Figure
 WoodCarving_Woman_CardDescription,A little wooden woman.,A little wooden woman.
 WoodShavings_CardName,Wood Shavings,Wood Shavings
 WoodShavings_CardDescription,"Perfect Tinder, just need to start a fire on it.","Perfect Tinder, just need to start a fire on it."
-WoodShavings_CardInteractions[0].ActionName,Light with Hand Drill,Light with Hand Drill
+WoodShavings_CardInteractions[0].ActionName,Light with Hand Drill,Zapal w świdrze ogniowym
 WoodShavings_CardInteractions[1].ActionName,Light Tinder,Light Tinder
 WoodShavings_CardInteractions[2].ActionName,Light Tinder,Light Tinder
 WoodTied_CardName,Tied Wood,Tied Wood
@@ -6548,7 +6548,7 @@ WoundDressing_CardDescription,"Sterile wound dressing, should help protect wound
 YarnFiber_CardName,Yarn,Włóczka
 YarnFiber_CardDescription,Could combine it with more yarn to braid it into a rope or turn it into cloth with a loom.,"Można ją połączyć z większą ilością włóczki, aby spleść ją w linę lub przekształcić w tkaninę za pomocą krosna."
 YarnFiber_CardInteractions[0].ActionName,Make rope,Zrób linę
-YarnFiber_DismantleActions[0].ActionName,Divide into cords,Divide into cords
+YarnFiber_DismantleActions[0].ActionName,Divide into cords,Podziel na sznur
 LQ_AquaFortis_CardName,Aqua Fortis,Aqua Fortis
 LQ_AquaFortis_SpoilageTime.OnZero.ActionName,Expire,Expire
 LQ_AshWater_CardName,Ash Water,Ash Water
@@ -6644,7 +6644,7 @@ LQ_SoapMix_CardDescription,Should boil it to make soap.,Should boil it to make s
 LQ_SpiderLily_CardName,Spider Lily Tea,Napar z lilii pajęczej
 LQ_SpiderLily_CardDescription,It has antibiotic properties.,Ma właściwości antybiotyczne.
 LQ_SpiderLily_DismantleActions[0].ActionName,Drink,Pij
-LQ_SugarWater_CardName,Sugar Water,Słodzona woda
+LQ_SugarWater_CardName,Sugar Water,Woda z cukrem
 LQ_SugarWater_CardDescription,Can feed this to bees or let it fermet into sugar wine.,Można nią karmić pszczoły lub pozwolić fermentować w wino cukrowe.
 LQ_SugarWater_SpoilageTime.OnZero.ActionDescription,Sugar Water has Fermented!,Sugar Water has Fermented!
 LQ_SugarWater_SpoilageTime.OnFull.ActionDescription,Honey Water has Fermented!,Honey Water has Fermented!
@@ -6836,7 +6836,7 @@ NarrowTunnelExit_CardName,Low Chamber,Low Chamber
 NarrowTunnelExit_CardDescription,Back into the low chamber.,Back into the low chamber.
 NarrowTunnelExit_DismantleActions[0].ActionName,Enter,Enter
 NarrowTunnelExit_DismantleActions[0].FadeMessage,Entering the narrow tunnel...,Entering the narrow tunnel...
-Path_BirdRockToCove_CardName,Secret Cove,Sekretna zatoka
+Path_BirdRockToCove_CardName,Secret Cove,Sekretna zatoczka
 Path_BirdRockToCove_CardDescription,A small hidden beach.,A small hidden beach.
 Path_BirdRockToCove_DismantleActions[0].ActionName,Swim,Swim
 Path_BirdRockToCove_DismantleActions[0].FadeMessage,Swimming to the Cove,Swimming to the Cove
@@ -7186,7 +7186,7 @@ BirdRock_ExplorationResults[3].Action.ActionName,Desolate Beach,Opustoszała pla
 BirdRock_ExplorationResults[4].Action.ActionName,Tide Pool 3,Tide Pool 3
 BirdRock_ExplorationResults[5].Action.ActionName,Shipwreck Found,Shipwreck Found
 BirdRock_ExplorationResults[6].Action.ActionName,Explored,Explored
-Cove_CardName,Secret Cove,Sekretna zatoka
+Cove_CardName,Secret Cove,Sekretna zatoczka
 Cove_CardDescription,A small sheltered beach.,A small sheltered beach.
 Cove_DismantleActions[0].ActionName,Explore,Explore
 Cove_ExplorationResults[0].Action.ActionName,Jungle Highlands,Dżunglowe wyżyny
@@ -7216,7 +7216,7 @@ Env_Atoll_CardName,Atoll,Atoll
 Env_Bay_CardName,Bay,Zatoka
 Env_Beach_CardName,Beach,Plaża
 Env_BirdRock_CardName,Bird Rock,Ptasia skała
-Env_Cove_CardName,Secret Cove,Sekretna zatoka
+Env_Cove_CardName,Secret Cove,Sekretna zatoczka
 Env_DeepJungle_CardName,Jungle,Dżungla
 Env_DeepJungle_CardDescription,"A thick jungle, it should somewhat protect me from the rain.","A thick jungle, it should somewhat protect me from the rain."
 Env_DesolateBeach_CardName,Desolate Beach,Opustoszała plaża
@@ -7516,7 +7516,7 @@ Path_BayToJungle_CardDescription,Walk into the jungle.\n\n<b>(only cards on my h
 Path_BayToJungle_DismantleActions[0].ActionName,Go,Idź
 Path_BayToJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Podróż do dżungli...
 Path_BayToMangroves_CardName,Mangrove Forest,Las namorzynowy
-Path_BayToMangroves_CardDescription,Enter the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na namorzyny. Zachowaj ostrożność!<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_BayToMangroves_CardDescription,Enter the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na namorzyny. Zachowaj ostrożność!\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
 Path_BayToMangroves_DismantleActions[0].ActionName,Go,Idź
 Path_BayToMangroves_DismantleActions[0].FadeMessage,Travelling to the Mangroves...,Podróż na namorzyny...
 Path_BeachToBay_CardName,Bay,Zatoka
@@ -7553,7 +7553,7 @@ Path_DesolateBeachToGrasslandsE_CardDescription,Move to the Eastern grasslands.\
 Path_DesolateBeachToGrasslandsE_DismantleActions[0].ActionName,Go,Idź
 Path_DesolateBeachToGrasslandsE_DismantleActions[0].FadeMessage,Travelling to the Eastern Grasslands...,Podróż na wschodnie równiny...
 Path_DesolateBeachToMangroves_CardName,Mangrove Forest,Las namorzynowy
-Path_DesolateBeachToMangroves_CardDescription,Move to the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na namorzyny. Zachowaj ostrożność!<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_DesolateBeachToMangroves_CardDescription,Move to the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na namorzyny. Zachowaj ostrożność!\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
 Path_DesolateBeachToMangroves_DismantleActions[0].ActionName,Go,Idź
 Path_DesolateBeachToMangroves_DismantleActions[0].FadeMessage,Travelling to the Mangroves...,Podróż na namorzyny...
 Path_DesolateBeachToVolcano_CardName,Volcano,Wulkan
@@ -7585,7 +7585,7 @@ Path_GrasslandsWToJungle_CardDescription,This should take me to the jungle.\n\n<
 Path_GrasslandsWToJungle_DismantleActions[0].ActionName,Go,Idź
 Path_GrasslandsWToJungle_DismantleActions[0].FadeMessage,Travelling to the Jungle...,Podróż do dżungli...
 Path_GrasslandsWToMangroves_CardName,Mangrove Forest,Las namorzynowy
-Path_GrasslandsWToMangroves_CardDescription,Move to the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na namorzyny. Zachowaj ostrożność!<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_GrasslandsWToMangroves_CardDescription,Move to the Mangroves. Proceed with caution!\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na namorzyny. Zachowaj ostrożność!\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
 Path_GrasslandsWToMangroves_DismantleActions[0].ActionName,Go,Idź
 Path_GrasslandsWToMangroves_DismantleActions[0].FadeMessage,Travelling to the Mangroves...,Podróż na namorzyny...
 Path_HighlandsEToGrasslandsE_CardName,Eastern Grasslands,Wschodnie równiny
@@ -7612,8 +7612,8 @@ Path_HighlandsWToJungleHighlands_CardName,Jungle Highlands,Dżunglowe wyżyny
 Path_HighlandsWToJungleHighlands_CardDescription,Move to the Jungle Highlands.\n\n<b>(only cards on my hand row will be carried)</b>,Przenieś się na dżunglowe wyżyny.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
 Path_HighlandsWToJungleHighlands_DismantleActions[0].ActionName,Go,Idź
 Path_HighlandsWToJungleHighlands_DismantleActions[0].FadeMessage,Travelling to the Jungle Highlands...,Podróż na dżunglowe wyżyny...
-Path_JungleHighlandsToCove_CardName,Secret Cove,Sekretna zatoka
-Path_JungleHighlandsToCove_CardDescription,Can climb down to the Secret Cove from here.\n\n<b>(only cards on my hand row will be carried)</b>,Z tego miejsca można zejść do sekretnej zatoki.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
+Path_JungleHighlandsToCove_CardName,Secret Cove,Sekretna zatoczka
+Path_JungleHighlandsToCove_CardDescription,Can climb down to the Secret Cove from here.\n\n<b>(only cards on my hand row will be carried)</b>,Z tego miejsca można zejść do sekretnej zatoczki.\n\n<b>(tylko karty znajdujące się w rękach zostaną przeniesione)</b>
 Path_JungleHighlandsToCove_DismantleActions[0].ActionName,Climb Down,Zejdź w dół
 Path_JungleHighlandsToCove_DismantleActions[0].FadeMessage,Climbing down...,Schodzenie w dół...
 Path_JungleHighlandsToDeepJungle_CardName,Deep Jungle,Głębia dżungli
@@ -7886,7 +7886,7 @@ PalmTreeSapStation_CardInteractions[0].ActionName,Cut Down,Cut Down
 PalmTreeSapStation_CardInteractions[1].ActionName,Cut Down,Cut Down
 PalmTreeSapStation_DismantleActions[0].ActionName,Climb,Wpinaj się
 PalmTreeSapStation_DismantleActions[1].ActionName,Train Climbing,Trenuj wspinaczkę
-PalmTreeSapStation_InventorySlotsText,Clay Vase,Clay Vase
+PalmTreeSapStation_InventorySlotsText,Clay Vase,Gliniana waza
 PalmTreeSapStation_CookingRecipes[0].ActionName,Sap,Sap
 PalmTreeSapStation_CookingRecipes[1].ActionName,Maintain,Maintain
 PalmTreeSapStationEmpty_CardName,Empty Sap Station,Empty Sap Station
@@ -7935,15 +7935,15 @@ SpiderLily_CardName,Spider Lily,Lilie pajęcze
 SpiderLily_CardDescription,"I could harvest its leaves, they have antibiotic properties.","Mógłbym zbierać jej liście, mają właściwości antybiotyczne."
 SpiderLily_DismantleActions[0].ActionName,Harvest Leaves,Zbierz liście
 SpiderLily_DismantleActions[0].ActionLog.LogText,I harvested some spider lily leaves.,Zebrałem trochę liści lilii pajęczej.
-TropicalAlmondTree_CardName,Tropical Almond Tree,Tropical Almond Tree
-TropicalAlmondTree_CardDescription,I could get tropical almonds from here.,I could get tropical almonds from here.
-TropicalAlmondTree_FuelCapacity.CardStatName,Almond Growth,Almond Growth
-TropicalAlmondTree_FuelCapacity.OnFull.ActionDescription,Tree has Almonds again!,Tree has Almonds again!
-TropicalAlmondTree_DismantleActions[0].ActionName,Collect Tropical Almonds,Collect Tropical Almonds
-TropicalAlmondTreeCleared_CardName,Cleared Tropical Almond Tree,Cleared Tropical Almond Tree
-TropicalAlmondTreeCleared_CardDescription,Almonds will grow back here eventually.,Almonds will grow back here eventually.
-TropicalAlmondTreeCleared_FuelCapacity.CardStatName,Almond Growth,Almond Growth
-TropicalAlmondTreeCleared_FuelCapacity.OnFull.ActionDescription,Tree has Almonds again!,Tree has Almonds again!
+TropicalAlmondTree_CardName,Tropical Almond Tree,Tropikalne drzewo migdałowe
+TropicalAlmondTree_CardDescription,I could get tropical almonds from here.,Mógłbym stąd zdobyć tropikalne migdały.
+TropicalAlmondTree_FuelCapacity.CardStatName,Almond Growth,Urosły migdały
+TropicalAlmondTree_FuelCapacity.OnFull.ActionDescription,Tree has Almonds again!,Drzewo znów ma migdały!
+TropicalAlmondTree_DismantleActions[0].ActionName,Collect Tropical Almonds,Zbierz migdały tropikalne
+TropicalAlmondTreeCleared_CardName,Cleared Tropical Almond Tree,Ogołocone tropikalne drzewo migdałowe
+TropicalAlmondTreeCleared_CardDescription,Almonds will grow back here eventually.,Migdały kiedyś tu odrosną.
+TropicalAlmondTreeCleared_FuelCapacity.CardStatName,Almond Growth,Urosły migdały
+TropicalAlmondTreeCleared_FuelCapacity.OnFull.ActionDescription,Tree has Almonds again!,Drzewo znów ma migdały!
 TropicalAlmondTreeCleared_Progress.CardStatName,Cutting Progress,Cutting Progress
 TropicalAlmondTreeCleared_Progress.OnZero.ActionDescription,Tree Down!,Tree Down!
 TropicalAlmondTreeCleared_CardInteractions[0].ActionName,Cut Down Tree,Cut Down Tree
@@ -8122,12 +8122,12 @@ WaterFilter_InventorySlotsText,DRAG CONTAINER,DRAG CONTAINER
 WaterFilter_CookingConditions.CookingPausedNotification,Needs more water.,Potrzebne więcej wody.
 WaterFilter_CookingRecipes[0].ActionName,Continue Filling,Continue Filling
 WaterFilter_CookingRecipes[1].ActionName,Start Filling,Start Filling
-WaterReservoir_CardName,Reservoir,Reservoir
+WaterReservoir_CardName,Reservoir,Zbiornik
 WaterReservoir_CardDescription,A large water container.,A large water container.
 WaterReservoir_FuelCapacity.CardStatName,Mosquito Protection,Mosquito Protection
 WaterReservoir_CardInteractions[0].ActionName,Mosquito Protection,Mosquito Protection
 WaterReservoir_DismantleActions[0].ActionName,Start Irrigating,Start Irrigating
-WaterReservoirFull_CardName,Reservoir,Reservoir
+WaterReservoirFull_CardName,Reservoir,Zbiornik
 WaterReservoirFull_CardDescription,A large water container.,A large water container.
 WaterReservoirFull_FuelCapacity.CardStatName,Mosquito Protection,Mosquito Protection
 WaterReservoirFull_SpecialDurability1.OnZero.ActionName,Replace,Replace
@@ -8323,30 +8323,30 @@ Protection_TabName,Protection,Ochrona
 Saturation_TabName,Saturation,Nasycenie
 Skills_TabName,Skills,Umiejętności
 Template_TabName,Template,Szablon
-GE_AcidLake_OverrideTitle,Acid Lake,Acid Lake
-GE_AcidLake_OverrideDescription,A lake of acid water in the <b>Volcanic region</b> of the island. The air is quite toxic there but there are multiple brimstone vents as well as large amounts of <b>Vitriol</b>.\nMake sure you come equipped with a gas mask if you decide to visit the place.,A lake of acid water in the <b>Volcanic region</b> of the island. The air is quite toxic there but there are multiple brimstone vents as well as large amounts of <b>Vitriol</b>.\nMake sure you come equipped with a gas mask if you decide to visit the place.
-GE_AirToxicity_OverrideTitle,Air Toxicity,Air Toxicity
-GE_AirToxicity_OverrideDescription,"Air Toxicity will slowly damage your lungs, reducing your stamina capacity and causing you pain. Try to reduce the time you spend in areas with air toxicity or wear gas masks to reduce or negate the damage. ","Air Toxicity will slowly damage your lungs, reducing your stamina capacity and causing you pain. Try to reduce the time you spend in areas with air toxicity or wear gas masks to reduce or negate the damage. "
-GE_Alcohol_OverrideTitle,Alcohol,Alcohol
-GE_Alcohol_OverrideDescription,"Alcohol can be created by fermenting <b>Nipa Sap, Honey Water or Sugar Water</b>. \n\nIt can be drank to increase your <b>Morale and Courage</b>, numb your <b>Pain</b> and reduce your <b>Stress</b>.\n\nDo not drink too much though as alcohol can <b>Dehydrate</b> you and make you <b>Nauseous</b> too.","Alcohol can be created by fermenting <b>Nipa Sap, Honey Water or Sugar Water</b>. \n\nIt can be drank to increase your <b>Morale and Courage</b>, numb your <b>Pain</b> and reduce your <b>Stress</b>.\n\nDo not drink too much though as alcohol can <b>Dehydrate</b> you and make you <b>Nauseous</b> too."
-GE_Alembic_OverrideTitle,Alembic,Alembic
-GE_Alembic_OverrideDescription,"A useful device for extracting different substances via the controlled application of heat through the process of distilling.\n\nTurns any water <b>Drinkable</b> (including seawater) and can make <b>Aqua Fortis</b>: an essential ingredient for Dynamite.\nTo use it place an empty container inside, then fill the alembic with undrinkable water or <b>Dissolved Niter</b> and light it on. The resulting liquid will drip in the container over time.","A useful device for extracting different substances via the controlled application of heat through the process of distilling.\n\nTurns any water <b>Drinkable</b> (including seawater) and can make <b>Aqua Fortis</b>: an essential ingredient for Dynamite.\nTo use it place an empty container inside, then fill the alembic with undrinkable water or <b>Dissolved Niter</b> and light it on. The resulting liquid will drip in the container over time."
+GE_AcidLake_OverrideTitle,Acid Lake,Jezioro kwasowe
+GE_AcidLake_OverrideDescription,A lake of acid water in the <b>Volcanic region</b> of the island. The air is quite toxic there but there are multiple brimstone vents as well as large amounts of <b>Vitriol</b>.\nMake sure you come equipped with a gas mask if you decide to visit the place.,"Jezioro kwasowe w <b>regionie wulkanicznym</b> wyspy. Powietrze jest tam dość toksyczne, ale jest tam wiele otworów z siarką, a także duże ilości <b>Witrolu</b>.\nUpewnij się, że jesteś wyposażony w maskę gazową, jeśli zdecydujesz się odwiedzić to miejsce."
+GE_AirToxicity_OverrideTitle,Air Toxicity,Toksyczne powietrze
+GE_AirToxicity_OverrideDescription,"Air Toxicity will slowly damage your lungs, reducing your stamina capacity and causing you pain. Try to reduce the time you spend in areas with air toxicity or wear gas masks to reduce or negate the damage. ","Toksyczne powietrze powoli uszkodzi twoje płuca, zmniejszając twoją wytrzymałość i powodując ból. Staraj się ograniczać czas spędzany w obszarach z toksycznością powietrza lub noś maski gazowe, aby zmniejszyć lub zniwelować uszkodzenia."
+GE_Alcohol_OverrideTitle,Alcohol,Alkochol
+GE_Alcohol_OverrideDescription,"Alcohol can be created by fermenting <b>Nipa Sap, Honey Water or Sugar Water</b>. \n\nIt can be drank to increase your <b>Morale and Courage</b>, numb your <b>Pain</b> and reduce your <b>Stress</b>.\n\nDo not drink too much though as alcohol can <b>Dehydrate</b> you and make you <b>Nauseous</b> too.","Alkohol można uzyskać poprzez fermentację <b>soku z nipy, wody z miodem lub cukrem</b>.\n\nMożna go pić, aby podnieść swoje <b>samopoczucie i odwagę</b>, uśmierzyć <b>ból</b> i zmniejszyć <b>stres</b>.\n\nNie pij jednak zbyt dużo, ponieważ alkohol może <b>odwodnić organizm</b> i wywołać <b>nudności</b>."
+GE_Alembic_OverrideTitle,Alembic,Alembik
+GE_Alembic_OverrideDescription,"A useful device for extracting different substances via the controlled application of heat through the process of distilling.\n\nTurns any water <b>Drinkable</b> (including seawater) and can make <b>Aqua Fortis</b>: an essential ingredient for Dynamite.\nTo use it place an empty container inside, then fill the alembic with undrinkable water or <b>Dissolved Niter</b> and light it on. The resulting liquid will drip in the container over time.","Przydatne urządzenie do ekstrakcji różnych substancji poprzez kontrolowane zastosowanie ciepła w procesie destylacji.\n\nZmienia każdą wodę w <b>wodę pitną</b> (w tym wodę morską) i może wytwarzać <b>kwas azotowy</b>: niezbędny składnik dynamitu.\nAby go użyć, umieść pusty pojemnik w środku, a następnie napełnij alembik niezdatną do picia wodą lub <b>rozpuszczonym saletrą</b> i zapal go. Po pewnym powstały płyn zacznie kapać do pojemnika."
 GE_AloeVera_OverrideTitle,Aloe Vera,Aloes
-GE_AloeVera_OverrideDescription,"The gel-filled leaves of this succulent can be used to alleviate muscle and back pain, help heal damage to the hands and feet, treat burns and sunburns, and aid with bug bites.\n\nTo use this plant more efficiently you should first extract its gel, although this can only be done if you have a high enough herbology skill.\n\nAloe Vera plants are usually found in open, dry places like the coasts of the island or its highlands.","The gel-filled leaves of this succulent can be used to alleviate muscle and back pain, help heal damage to the hands and feet, treat burns and sunburns, and aid with bug bites.\n\nTo use this plant more efficiently you should first extract its gel, although this can only be done if you have a high enough herbology skill.\n\nAloe Vera plants are usually found in open, dry places like the coasts of the island or its highlands."
+GE_AloeVera_OverrideDescription,"The gel-filled leaves of this succulent can be used to alleviate muscle and back pain, help heal damage to the hands and feet, treat burns and sunburns, and aid with bug bites.\n\nTo use this plant more efficiently you should first extract its gel, although this can only be done if you have a high enough herbology skill.\n\nAloe Vera plants are usually found in open, dry places like the coasts of the island or its highlands.","Wypełnione żelem liście tego sukulenta mogą być stosowane w celu łagodzenia bólów mięśni i pleców, wspomagania leczenia ran dłoni i stóp, leczenia oparzeń, w tym słonecznych, a także ukąszeń owadów.\n\nAby skuteczniej wykorzystać tę roślinę, należy najpierw wyekstrahować z niej żel, co jednak jest możliwe jedynie wówczas, gdy posiada się wystarczająco duże umiejętności zielarskie.\n\nRośliny aloesu zwykle znajdują się na otwartych, suchych miejscach, takich jak wybrzeża wyspy lub jej wyżyny."
 GE_AloeVeraGel_OverrideTitle,Aloe Vera Gel,Żel aloesowy
-GE_AloeVeraGel_OverrideDescription,"The gel extracted from Aloe Vera's leaves cannot only be used to alleviate muscle and back pain, help heal damage to the hands and feet, treat burns and sunburns, and aid with bug bites but also applied to wounds to clean them and speed up their healing.\n\nIt  can also be eaten as an emergency source of hydration although this should be done with care as it also acts as a laxative.\n\nAloe Gel can also be used to make Bug Repellent (in combination with ground Snakegrass) and the stronger Brimstone Gel wound disinfectant.","Żel wydobyty z liści aloesu może być stosowany nie tylko do łagodzenia bólu mięśni i pleców, wspomagania gojenia się uszkodzeń dłoni i stóp, leczenia oparzeń (również słonecznych) oraz ukąszeń owadów, ale także do oczyszczania ran i przyspieszania ich gojenia. Można go również spożywać jako awaryjne źródło wody, jednak należy zachować ostrożność, ponieważ działa również jako środek przeczyszczający. Żel aloesowy można również wykorzystać do przygotowania środka odstraszającego owady (w połączeniu ze zmielonym skrzypem) oraz silniejszego środka dezynfekującego rany – żelu siarkowego."
-GE_AlteredMindState_OverrideTitle,Mind State,Mind State
-GE_AlteredMindState_OverrideDescription,"When your <b>Mental Structure</b> gets too low you will start getting altered mind states. This can also be done on purpose through <b>Trance, Meditation or Mind Altering Drugs</b> like <b>Magic Mushrooms</b>.\n\nIf your mind state gets too altered you will take longer to do most actions and be at risk of triggering strong <b>Spiritual</b> events.","When your <b>Mental Structure</b> gets too low you will start getting altered mind states. This can also be done on purpose through <b>Trance, Meditation or Mind Altering Drugs</b> like <b>Magic Mushrooms</b>.\n\nIf your mind state gets too altered you will take longer to do most actions and be at risk of triggering strong <b>Spiritual</b> events."
-GE_Analgesia_OverrideDescription,Some plants like <b>Kava</b> have analgesic properties that can relieve your pain and lower your fever. \n\nTheir sedative effects can also reduce <b>Stress</b> and increase <b>Morale</b>.,Some plants like <b>Kava</b> have analgesic properties that can relieve your pain and lower your fever. \n\nTheir sedative effects can also reduce <b>Stress</b> and increase <b>Morale</b>.
-GE_Antibiotics_OverrideDescription,"Antibiotics have the power to considerably boost your immune system, helping kill all sorts of <b>Bacteria and Parasites</b>.\n\nThis makes them quite essential for suvival, specially if one is not immunized against the diseases of the Island.","Antibiotics have the power to considerably boost your immune system, helping kill all sorts of <b>Bacteria and Parasites</b>.\n\nThis makes them quite essential for suvival, specially if one is not immunized against the diseases of the Island."
-GE_Appetite_OverrideDescription,"Your appetite is what determines the rate at which you get hungry. \n\nIt can be increased by <b>Overeating</b> regularly, and decreased by spending long periods of time <b>Hungry</b>.\n\nFever, pain, nausea and depression can all temporarily lower your appetite; excercise, wounds and malnourishment can temporarily increase it.","Your appetite is what determines the rate at which you get hungry. \n\nIt can be increased by <b>Overeating</b> regularly, and decreased by spending long periods of time <b>Hungry</b>.\n\nFever, pain, nausea and depression can all temporarily lower your appetite; excercise, wounds and malnourishment can temporarily increase it."
-GE_Armor_OverrideDescription,The amount and thickness of the clothes you are wearing can protect you against wounds from both <b>Animals and the Environment</b>.\n\nConsidering wearing more and thicker clothes if you are about to do something that could get you hurt.,The amount and thickness of the clothes you are wearing can protect you against wounds from both <b>Animals and the Environment</b>.\n\nConsidering wearing more and thicker clothes if you are about to do something that could get you hurt.
-GE_ArrowSimple_OverrideDescription,"Basic, simple arrows made with sharpened <b>Sticks and Feathers</b>. \n\nThey have to be equipped on your hand row or quiver in order for you to be able to use a bow.","Basic, simple arrows made with sharpened <b>Sticks and Feathers</b>. \n\nThey have to be equipped on your hand row or quiver in order for you to be able to use a bow."
-GE_Ash_OverrideDescription,"Ash can be used as temper for clay or mud, to make wound dressings by combining it with small cloth and to make lye, a crucial ingredient for making soap.\nTo get ash you can crush charcoal or extract it from an extinguished fire.","Ash can be used as temper for clay or mud, to make wound dressings by combining it with small cloth and to make lye, a crucial ingredient for making soap.\nTo get ash you can crush charcoal or extract it from an extinguished fire."
-GE_AssortedMushrooms_OverrideDescription,"An assortment of different mushrooms. Some good, some bad. \nDangerous to eat if your <b>Herbology</b> is not high enough but otherwise good enough.\n","An assortment of different mushrooms. Some good, some bad. \nDangerous to eat if your <b>Herbology</b> is not high enough but otherwise good enough.\n"
-GE_AxeCopper_OverrideDescription,A durable and sharp axe made with copper. It can be rebuilt after breaking once its axe head is <b>re-sharpened</b>.\nYou should be able to cut <b>trees</b> much faster and work on more complex <b>woodcrafts</b> with it.,A durable and sharp axe made with copper. It can be rebuilt after breaking once its axe head is <b>re-sharpened</b>.\nYou should be able to cut <b>trees</b> much faster and work on more complex <b>woodcrafts</b> with it.
-GE_AxeFlint_OverrideDescription,"As sharp as a copper one, this axe can be crafted from a large slab of flint if your <b>Knapping</b> skill is hight enough.\n\nA flint axe can be used to work wood and to cut <b>Trees</b> much faster than with a simple stone axe.","As sharp as a copper one, this axe can be crafted from a large slab of flint if your <b>Knapping</b> skill is hight enough.\n\nA flint axe can be used to work wood and to cut <b>Trees</b> much faster than with a simple stone axe."
-GE_AxeScrap_OverrideDescription,"A Strong, Sharp axe made of scrap metal.\nYou should be able to cut <b>trees</b> much faster and work on more complex <b>woodcrafts</b> with it.","A Strong, Sharp axe made of scrap metal.\nYou should be able to cut <b>trees</b> much faster and work on more complex <b>woodcrafts</b> with it."
+GE_AloeVeraGel_OverrideDescription,"The gel extracted from Aloe Vera's leaves cannot only be used to alleviate muscle and back pain, help heal damage to the hands and feet, treat burns and sunburns, and aid with bug bites but also applied to wounds to clean them and speed up their healing.\n\nIt  can also be eaten as an emergency source of hydration although this should be done with care as it also acts as a laxative.\n\nAloe Gel can also be used to make Bug Repellent (in combination with ground Snakegrass) and the stronger Brimstone Gel wound disinfectant.","Żel wydobyty z liści aloesu może być stosowany nie tylko do łagodzenia bólu mięśni i pleców, wspomagania gojenia się uszkodzeń dłoni i stóp, leczenia oparzeń (również słonecznych) oraz ukąszeń owadów, ale także do oczyszczania ran i przyspieszania ich gojenia. Można go również spożywać jako awaryjne źródło wody, jednak należy zachować ostrożność, ponieważ działa również jako środek przeczyszczający.\n\nŻel aloesowy można również wykorzystać do przygotowania środka odstraszającego owady (w połączeniu ze zmielonym skrzypem) oraz silniejszego środka dezynfekującego rany – żelu siarkowego."
+GE_AlteredMindState_OverrideTitle,Mind State,Stan umysłu
+GE_AlteredMindState_OverrideDescription,"When your <b>Mental Structure</b> gets too low you will start getting altered mind states. This can also be done on purpose through <b>Trance, Meditation or Mind Altering Drugs</b> like <b>Magic Mushrooms</b>.\n\nIf your mind state gets too altered you will take longer to do most actions and be at risk of triggering strong <b>Spiritual</b> events.","Gdy twoja <b>struktura umysłowa</b> stanie się zbyt słaba, zaczniesz mieć inne stany umysłu. Można to również zrobić celowo poprzez <b>trans, medytację lub środki zmieniające postrzeganie</b>, takie jak <b>grzyby halucynogenne</b>.\n\nJeśli twój stan umysłu stanie się zbyt zmieniony, będziesz potrzebował więcej czasu na wykonanie większości czynności i będziesz narażony na ryzyko wywołania silnych <b>wydarzeń duchowych</b>."
+GE_Analgesia_OverrideDescription,Some plants like <b>Kava</b> have analgesic properties that can relieve your pain and lower your fever. \n\nTheir sedative effects can also reduce <b>Stress</b> and increase <b>Morale</b>.,"Niektóre rośliny, np. <b>kava</b>, mają właściwości przeciwbólowe, które mogą uśmierzyć ból i obniżyć gorączkę. \n\nIch działanie uspokajające może również redukować <b>stres</b> i poprawiać <b>samopoczucie</b>."
+GE_Antibiotics_OverrideDescription,"Antibiotics have the power to considerably boost your immune system, helping kill all sorts of <b>Bacteria and Parasites</b>.\n\nThis makes them quite essential for suvival, specially if one is not immunized against the diseases of the Island.","Antybiotyki mają zdolność znacznego wzmocnienia układu odpornościowego, pomagając zabić wszelkiego rodzaju <b>bakterie i pasożyty</b>.\n\nDlatego są one niezbędne do przetrwania, szczególnie jeśli ktoś nie jest zaszczepiony przeciwko chorobom występującym na wyspie."
+GE_Appetite_OverrideDescription,"Your appetite is what determines the rate at which you get hungry. \n\nIt can be increased by <b>Overeating</b> regularly, and decreased by spending long periods of time <b>Hungry</b>.\n\nFever, pain, nausea and depression can all temporarily lower your appetite; excercise, wounds and malnourishment can temporarily increase it.","Twój apetyt decyduje o tym, jak szybko poczujesz głód. \n\nApetyt może się zwiększyć poprzez regularne <b>przejadanie się</b> i zmniejszyć poprzez długotrwałe uczucie <b>głodu</b>.\n\nGorączka, ból, nudności i depresja mogą czasowo obniżyć apetyt; ćwiczenia, rany i niedożywienie mogą czasowo go zwiększyć."
+GE_Armor_OverrideDescription,The amount and thickness of the clothes you are wearing can protect you against wounds from both <b>Animals and the Environment</b>.\n\nConsidering wearing more and thicker clothes if you are about to do something that could get you hurt.,"Ilość i grubość ubrań, które nosisz, może zapewnić ci ochronę przed ranami wywołanymi przez <b>zwierzęta i środowisko</b>.\n\nRozważ założenie większej ilości grubszych ubrań, jeśli zamierzasz zrobić coś, co może cię zranić."
+GE_ArrowSimple_OverrideDescription,"Basic, simple arrows made with sharpened <b>Sticks and Feathers</b>. \n\nThey have to be equipped on your hand row or quiver in order for you to be able to use a bow.","Podstawowe, proste strzały wykonane z zaostrzonych patyków i piór. \n\nAby móc używać łuku, musisz mieć je na wyposażeniu ekwipunku lub w kołczanie."
+GE_Ash_OverrideDescription,"Ash can be used as temper for clay or mud, to make wound dressings by combining it with small cloth and to make lye, a crucial ingredient for making soap.\nTo get ash you can crush charcoal or extract it from an extinguished fire.","Popiół można wykorzystać do wzmacniania gliny lub błota, do robienia opatrunków na rany po nałożeniu go na kawałek materiału oraz do produkcji ługu, który jest niezbędnym składnikiem do wyrobu mydła.\nAby uzyskać popiół, można rozkruszyć węgiel drzewny lub wyciągnąć go z wygasłego ognia."
+GE_AssortedMushrooms_OverrideDescription,"An assortment of different mushrooms. Some good, some bad. \nDangerous to eat if your <b>Herbology</b> is not high enough but otherwise good enough.\n","Nieposortowane różne grzyby. Niektóre nadające się do zjedzenia, niektóre trujące.\nNiebezpieczne do spożycia, jeśli twoje <b>zielarstwo</b> nie jest wystarczająco dobre.\n"
+GE_AxeCopper_OverrideDescription,A durable and sharp axe made with copper. It can be rebuilt after breaking once its axe head is <b>re-sharpened</b>.\nYou should be able to cut <b>trees</b> much faster and work on more complex <b>woodcrafts</b> with it.,"Trwała i ostra siekiera wykonana z miedzi. Można ją naprawić po złamaniu, gdy głowica topora zostanie ponownie naostrzona.\nPowinieneś być w stanie ścinać drzewa znacznie szybciej i pracować nad bardziej złożonymi pracami stolarskimi."
+GE_AxeFlint_OverrideDescription,"As sharp as a copper one, this axe can be crafted from a large slab of flint if your <b>Knapping</b> skill is hight enough.\n\nA flint axe can be used to work wood and to cut <b>Trees</b> much faster than with a simple stone axe.","Tak samo ostra jak miedziana siekiera, można go wykonać z dużego kawałka krzemienia, jeśli twoja umiejętność kamieniarstwa jest wystarczająco wysoka.\n\nKrzemienną siekierę można wykorzystać do obróbki drewna i ścinania drzew znacznie szybciej niż zwykłą kamienną siekierą."
+GE_AxeScrap_OverrideDescription,"A Strong, Sharp axe made of scrap metal.\nYou should be able to cut <b>trees</b> much faster and work on more complex <b>woodcrafts</b> with it.","Mocna, ostra siekiera wykonana ze złomu.\nDzięki niej będziesz mógł ścinać <b>drzewa</b> o wiele szybciej i wykonywać bardziej skomplikowane <b>prace stolarskie</b>."
 GE_BackpackBasket_OverrideDescription,A simple basket made of rope and <b>Woven Palm Fronds</b>.\n\nCan be used to carry additional items without getting encumbered and is equippable on your back slot.,A simple basket made of rope and <b>Woven Palm Fronds</b>.\n\nCan be used to carry additional items without getting encumbered and is equippable on your back slot.
 GE_BackpackLeather_OverrideDescription,A large backpack made of <b>Leather and Cord</b>. \n\nCan carry a large amount of things and be equipped on your back slot.,A large backpack made of <b>Leather and Cord</b>. \n\nCan carry a large amount of things and be equipped on your back slot.
 GE_BackPain_OverrideDescription,A painful ailment caused by sleeping on <b>Bad Beds or on the Floor</b>.\nBuild better <b>Beds</b> in order to prevent it.\n\n<b>Aloe Vera</b> can alleviate the pain and help your back heal faster.,A painful ailment caused by sleeping on <b>Bad Beds or on the Floor</b>.\nBuild better <b>Beds</b> in order to prevent it.\n\n<b>Aloe Vera</b> can alleviate the pain and help your back heal faster.
@@ -8387,7 +8387,7 @@ GE_Bonefish_OverrideDescription,"A fish large enough to offer two portions. It c
 GE_Bonemeal_OverrideDescription,Created by grinding <b>Bone Splinters</b>.\n\nIt can be used as a cheap <b>Fertilizer</b> for crops.,Created by grinding <b>Bone Splinters</b>.\n\nIt can be used as a cheap <b>Fertilizer</b> for crops.
 GE_BoneNeedle_OverrideDescription,A bone needle is an essential tool for crafting items with cloth and leather. It can be crafted with bird bones or  bone splinters.\nNeedles can also be used to sew lacerations shut by threading them with a cord.,A bone needle is an essential tool for crafting items with cloth and leather. It can be crafted with bird bones or  bone splinters.\nNeedles can also be used to sew lacerations shut by threading them with a cord.
 GE_Bones_OverrideTitle,Bones,Bones
-GE_Bones_OverrideDescription,"Bones can be harvested from the carcasses of animals or sometimes found in the gastric pellets of monitor lizards.\n\nLarge bones can be used for certain crafts or broken into <b>Splinters</b>, which can later be further crushed into <b>Bonemeal</b> fertilizer or used for smaller items. \n<b>Hooks and Needles</b> can be crafted from bird bones or splinters and used for tailoring and fishing respectively. ","Bones can be harvested from the carcasses of animals or sometimes found in the gastric pellets of monitor lizards.\n\nLarge bones can be used for certain crafts or broken into <b>Splinters</b>, which can later be further crushed into <b>Bonemeal</b> fertilizer or used for smaller items. \n<b>Hooks and Needles</b> can be crafted from bird bones or splinters and used for tailoring and fishing respectively. "
+GE_Bones_OverrideDescription,"Bones can be harvested from the carcasses of animals or sometimes found in the gastric pellets of monitor lizards.\n\nLarge bones can be used for certain crafts or broken into <b>Splinters</b>, which can later be further crushed into <b>Bonemeal</b> fertilizer or used for smaller items. \n<b>Hooks and Needles</b> can be crafted from bird bones or splinters and used for tailoring and fishing respectively. ","Kości mogą być zbierane z tusz zwierząt lub czasami znajdowane w wypluwek waranów.\n\nDuże kości mogą być używane do wykonania niektórych przedmiotów lub połamane na <b>odłamki</b>, które mogą być później kruszone na <b>mączkę kostną</b> lub używane do produkcji mniejszych przedmiotów.\n<b>Haczyki i igły</b> mogą być wytwarzane z kości ptaków lub odłamków i używane odpowiednio do krawiectwa i rybołówstwa. "
 GE_Bookshelf_OverrideDescription,"A useful piece of furniture that increases your <b>Comfort</b>, offers a good amount of storage space and gives you plenty of room for displaying <b>Decorations</b>. Every decoration placed on its shelves will increase your total <b>Comfort</b>.\n\nIt requires enough <b>Woodworking Skill</b> to build, as well as <b>Planks and Treenails</b>.","A useful piece of furniture that increases your <b>Comfort</b>, offers a good amount of storage space and gives you plenty of room for displaying <b>Decorations</b>. Every decoration placed on its shelves will increase your total <b>Comfort</b>.\n\nIt requires enough <b>Woodworking Skill</b> to build, as well as <b>Planks and Treenails</b>."
 GE_Brimstone_OverrideDescription,"Brimstone can be harvested from the toxic <b>Vents</b> that can be found in the volcanic area of the island or extracted from brimstone rich stones by firing them on kilns.\n\nBrimstone has multiple uses, including making a <b>Healing Gel</b>, a strong <b>Pesticide</b> and even <b>Dynamite</b> among other things.","Brimstone can be harvested from the toxic <b>Vents</b> that can be found in the volcanic area of the island or extracted from brimstone rich stones by firing them on kilns.\n\nBrimstone has multiple uses, including making a <b>Healing Gel</b>, a strong <b>Pesticide</b> and even <b>Dynamite</b> among other things."
 GE_BrimstoneGel_OverrideDescription,A relatively strong disinfectant that is more effective and longer lasting than Aloe Vera gel.,A relatively strong disinfectant that is more effective and longer lasting than Aloe Vera gel.
@@ -8437,10 +8437,10 @@ GE_Clay_OverrideDescription,Clay can be made by crushing <b>Dirt</b> and then ad
 GE_ClayBowl_OverrideDescription,"Clay bowls can be used for preparing numerous meals and as cheap water containers. They are the perfect replacement for <b>Coconut Bowls</b> if you find yourself in an area without <b>Palm Trees</b>.\n\nClay Bowls can be made quite easily by combining <b>Clay</b> and a tempering agent like <b>Ash, Fiber or Sand</b>.\nBeing very simple pieces they can be fired on a normal <b>Campfire</b>, not requiring an actual <b>Kiln</b> to be finished.","Clay bowls can be used for preparing numerous meals and as cheap water containers. They are the perfect replacement for <b>Coconut Bowls</b> if you find yourself in an area without <b>Palm Trees</b>.\n\nClay Bowls can be made quite easily by combining <b>Clay</b> and a tempering agent like <b>Ash, Fiber or Sand</b>.\nBeing very simple pieces they can be fired on a normal <b>Campfire</b>, not requiring an actual <b>Kiln</b> to be finished."
 GE_ClayFirePit_OverrideTitle,Clay Fire Pit,Clay Fire Pit
 GE_ClayFirePit_OverrideDescription,A portable <b>Campfire</b> provided you can carry its weight. \n\nIt should allow you to keep a fire on a <b>Raft</b> without burning it down.,A portable <b>Campfire</b> provided you can carry its weight. \n\nIt should allow you to keep a fire on a <b>Raft</b> without burning it down.
-GE_ClayJar_OverrideDescription,"Clay Jars are small liquid containers that are relatively air tight.\n\nTheir lids will <b>stop evaporation or slow down spoilage</b>, making it an ideal container for storing medicine.\nThey are also a useful tool for rationing liquids as they only have capacity for half a water portion.","Clay Jars are small liquid containers that are relatively air tight.\n\nTheir lids will <b>stop evaporation or slow down spoilage</b>, making it an ideal container for storing medicine.\nThey are also a useful tool for rationing liquids as they only have capacity for half a water portion."
+GE_ClayJar_OverrideDescription,"Clay Jars are small liquid containers that are relatively air tight.\n\nTheir lids will <b>stop evaporation or slow down spoilage</b>, making it an ideal container for storing medicine.\nThey are also a useful tool for rationing liquids as they only have capacity for half a water portion.","Gliniane słoiki to małe pojemniki na płyny, które są stosunkowo szczelne.\n\nIch pokrywki <b>zatrzymują parowanie lub spowalniają psucie się</b>, co czyni je idealnym pojemnikiem do przechowywania leków. Są one również przydatnym narzędziem do racjonowania płynów, ponieważ mają pojemność tylko połowy porcji wody."
 GE_ClayPotCooler_OverrideDescription,"By using the process of evaporation this two-stage ceramic device can keep foods colder and thus fresher longer.\nMake sure to wet the device regularly, as it needs <b>Water</b> to work.\n\nTo make it you'll need <b>Clay, Sand and a Large Cloth</b>.","By using the process of evaporation this two-stage ceramic device can keep foods colder and thus fresher longer.\nMake sure to wet the device regularly, as it needs <b>Water</b> to work.\n\nTo make it you'll need <b>Clay, Sand and a Large Cloth</b>."
-GE_ClayVase_OverrideTitle,Clay Vase,Clay Vase
-GE_ClayVase_OverrideDescription,A large vase capable of holding <b>4 portions</b> of water.\n\nIts design limits its content's exposed surface making liquids inside evaporate slower.\n\nIt can be made with <b>Clay and Temper</b> and fired in any <b>Kiln</b>.,A large vase capable of holding <b>4 portions</b> of water.\n\nIts design limits its content's exposed surface making liquids inside evaporate slower.\n\nIt can be made with <b>Clay and Temper</b> and fired in any <b>Kiln</b>.
+GE_ClayVase_OverrideTitle,Clay Vase,Gliniana waza
+GE_ClayVase_OverrideDescription,A large vase capable of holding <b>4 portions</b> of water.\n\nIts design limits its content's exposed surface making liquids inside evaporate slower.\n\nIt can be made with <b>Clay and Temper</b> and fired in any <b>Kiln</b>.,"Duża waza zdolna pomieścić <b>cztery porcje wody</b>. Jej konstrukcja ogranicza odsłoniętą powierzchnię zawartości, dzięki czemu płyny wewnątrz parują wolniej. Można ją wykonać z <b>gliny i wzmocnienia</b>, a następnie wypalić w <b>piecu do wypalania</b>."
 GE_Cloth_OverrideDescription,"Cloth can be made by weaving cords on a <b>Loom</b> and can be used for numerous clothing and utility items.\nIt comes in 4 different sizes: Small, Normal, Large and Very Large. Each size can be ripped into smaller piece or enlarged on a <b>Loom</b>.\n\nCloth can also be improvised into <b>Bandages</b> as well as <b>Hand and Foot Wrappings</b>, which can help protect you from damage in those areas.\nLarge Clothes can also be turned into <b>Improvised Gas Masks</b> that can offer some protection against the toxic fumes of a volcano.\n","Cloth can be made by weaving cords on a <b>Loom</b> and can be used for numerous clothing and utility items.\nIt comes in 4 different sizes: Small, Normal, Large and Very Large. Each size can be ripped into smaller piece or enlarged on a <b>Loom</b>.\n\nCloth can also be improvised into <b>Bandages</b> as well as <b>Hand and Foot Wrappings</b>, which can help protect you from damage in those areas.\nLarge Clothes can also be turned into <b>Improvised Gas Masks</b> that can offer some protection against the toxic fumes of a volcano.\n"
 GE_Cobra_OverrideTitle,Spitting Cobra,Spitting Cobra
 GE_Cobra_OverrideDescription,"These reptiles can be found on the <b>Grasslands and Highlands</b> of the island.\n\nWhile not particularly dangerous, their painful spit can cause permanent eye damage if it's not quickly washed off with abundant <b>Water</b>.","These reptiles can be found on the <b>Grasslands and Highlands</b> of the island.\n\nWhile not particularly dangerous, their painful spit can cause permanent eye damage if it's not quickly washed off with abundant <b>Water</b>."
@@ -8466,7 +8466,7 @@ GE_Crab_OverrideDescription,"These crustaceans can be found in the shores of the
 GE_DeadfallTrap_OverrideDescription,"The simplest of all traps made of a <b>Heavy Stone</b> and some <b>Sticks</b>.\n\nIt can catch small animals like <b>Mice, Lizards, Crabs, Partridges and Seagulls</b>.\n\nThese traps need <b>Bait</b> to work and must be <b>Reset</b> every time they are triggered.\nTry not to replace your bait unless it's really necessary, doing so will reset a trap's timer.","The simplest of all traps made of a <b>Heavy Stone</b> and some <b>Sticks</b>.\n\nIt can catch small animals like <b>Mice, Lizards, Crabs, Partridges and Seagulls</b>.\n\nThese traps need <b>Bait</b> to work and must be <b>Reset</b> every time they are triggered.\nTry not to replace your bait unless it's really necessary, doing so will reset a trap's timer."
 GE_DeepJungle_OverrideTitle,Deep Jungle,Głębia dżungli
 GE_DeepJungle_OverrideDescription,"The Deep jungle is a lush forest near the Island's valley, surrounded by the <b>Wetlands and the Jungle Highlands</b>.\n\nThis area is rich in plants and animals of all types, in it you can find <b>Bananas, Yam, Weevil Lilly, Partridges, Boars and Beehives</b>.","The Deep jungle is a lush forest near the Island's valley, surrounded by the <b>Wetlands and the Jungle Highlands</b>.\n\nThis area is rich in plants and animals of all types, in it you can find <b>Bananas, Yam, Weevil Lilly, Partridges, Boars and Beehives</b>."
-GE_Derealization_OverrideTitle,Derealization,Derealization
+GE_Derealization_OverrideTitle,Derealization,Odrealnienie
 GE_Derealization_OverrideDescription,"This is a state characterised by the loss of belief in reality, which appears as a distant, grey and fake story.\nDerealization can be triggered by experiencing periods of <b>Depression</b> while your <b>Mental Structure</b> is too low as well as by some traumatic events.\n\nThis state will give you <b>Courage</b>, decrease your <b>Morale</b> and alter your <b>Mind State</b>. Additionally, if your mind state changes too much you might also end up getting <b>Spiritual/psychotic</b> events.\n\n\nTo get out of a manic state you need to increase your <b>Mental Structure</b> and/or lower your <b>Morale</b>.","Jest to stan charakteryzujący się utratą wiary w rzeczywistość, która pojawia się jako odległa, szara i fałszywa historia.\nDerealizacja może być wywołana przez doświadczanie okresów <b>depresji</b>, gdy twoja <b>struktura umysłowa</b> jest zbyt słaba, a także przez niektóre traumatyczne wydarzenia.\n\nTen stan doda ci <b>odwagi</b>, obniży twoje <b>samopoczucie</b> i zmieni twój <b>stan umysłu</b>. Ponadto, jeśli twój stan umysłu zmieni się zbyt mocno, możesz również skończyć na wydarzeniach <b>duchowych/psychotycznych</b>.\n\n\nAby wyjść ze stanu maniakalnego, musisz wzmocnić swoją <b>strukturę umysłową</b> i/lub obniżyć swoje <b>samopoczucie</b>."
 GE_DesolateBeach_OverrideTitle,Desolate Beach,Opustoszała plaża
 GE_DesolateBeach_OverrideDescription,"A desolate shore on the eastern side. It has access to the <b>Mangroves, the Eastern Grasslands and the Volcano</b>.\n\nOn it you can find <b>Tide Pools, Flint and even some Obsidian</b>, the lack of Palm Trees and almost any vegetation however makes it a inhospitable place.","A desolate shore on the eastern side. It has access to the <b>Mangroves, the Eastern Grasslands and the Volcano</b>.\n\nOn it you can find <b>Tide Pools, Flint and even some Obsidian</b>, the lack of Palm Trees and almost any vegetation however makes it a inhospitable place."
@@ -8511,8 +8511,8 @@ GE_Flint_OverrideDescription,"Flint is a hard sedimentary rock made of microscop
 GE_Forge_OverrideDescription,"Forges are structures designed to smelt metals. They have a higher max temperature than Kilns and are faster to reach it.\n\nTo get Copper just place <b>Copper Ore</b> inside and wait for the right temperature to be reached, the metal will start smelting then.\n<b>Molds</b> filled with Copper can also be placed inside to cast the metal into shape.","Forges are structures designed to smelt metals. They have a higher max temperature than Kilns and are faster to reach it.\n\nTo get Copper just place <b>Copper Ore</b> inside and wait for the right temperature to be reached, the metal will start smelting then.\n<b>Molds</b> filled with Copper can also be placed inside to cast the metal into shape."
 GE_Ginger_OverrideTitle,Ginger,Ginger
 GE_Ginger_OverrideDescription,"This plant has an edible root with many health benefits.\n\nBy grinding it and soaking it in boiling water one can brew an energizing ginger tea that can help settle the stomach, reducing <b>Nausea and diarrhoea</b>, increase your <b>Appetite</b> and lower your level of <b>Saturation</b> in other types of food.","This plant has an edible root with many health benefits.\n\nBy grinding it and soaking it in boiling water one can brew an energizing ginger tea that can help settle the stomach, reducing <b>Nausea and diarrhoea</b>, increase your <b>Appetite</b> and lower your level of <b>Saturation</b> in other types of food."
-GE_GlazedVase_OverrideTitle,Glazed Vase,Glazed Vase
-GE_GlazedVase_OverrideDescription,"A <b>Sealed</b> and relatively large vase capable of holding <b>3 portions</b> of any liquid, including acids like <b>Vitriol</b>.\n\nIt can be made with <b>Clay, Temper and Salt</b> and fired in any <b>Kiln</b>.","A <b>Sealed</b> and relatively large vase capable of holding <b>3 portions</b> of any liquid, including acids like <b>Vitriol</b>.\n\nIt can be made with <b>Clay, Temper and Salt</b> and fired in any <b>Kiln</b>."
+GE_GlazedVase_OverrideTitle,Glazed Vase,Szkliwiona waza
+GE_GlazedVase_OverrideDescription,"A <b>Sealed</b> and relatively large vase capable of holding <b>3 portions</b> of any liquid, including acids like <b>Vitriol</b>.\n\nIt can be made with <b>Clay, Temper and Salt</b> and fired in any <b>Kiln</b>.","<b>Szczelna</b> i stosunkowo duża waza zdolna pomieścić <b>trzy porcje</b> dowolnego płynu, w tym kwasów takich jak <b>witriol</b>.\n\nMoże być wykonana z <b>gliny, wzmocnienia i soli</b> a następnie wypalona w <b>piecu do wypalania</b>."
 GE_Glue_OverrideDescription,A natural adhesive made by cutting and boiling leather in a cooking pot along with slaked lime (soaked quicklime).\nIt dries after a while but can be reheated to become fluid again.,A natural adhesive made by cutting and boiling leather in a cooking pot along with slaked lime (soaked quicklime).\nIt dries after a while but can be reheated to become fluid again.
 GE_Goat_OverrideTitle,Goat,Goat
 GE_Goat_OverrideDescription,"These animals can be seen frequenting the island's <b>Grasslands and Highlands</b>.\n\nThey can be hunted for their meat and leather or captured live through the use of <b>Trapping Pits</b>.\nCaptured goats can then be released on enclosures and if a members of both sexes are present, bred and used for milk.\n","These animals can be seen frequenting the island's <b>Grasslands and Highlands</b>.\n\nThey can be hunted for their meat and leather or captured live through the use of <b>Trapping Pits</b>.\nCaptured goats can then be released on enclosures and if a members of both sexes are present, bred and used for milk.\n"
@@ -8523,8 +8523,8 @@ GE_HookBone_OverrideDescription,"A hook carved out of the bones of a <b>Bird</b>
 GE_HuntersProximity_OverrideTitle,Hunter,Hunter
 GE_HuntersProximity_OverrideDescription,"Perhaps a paranoid delusion, perhaps an evil spirit. This entity will sometimes appear when you are in an <b>Altered Mental State</b> and will stay with you until you face it and defeat it.\n\nThe hunter will constantly move towards you, so if you are not ready to fight him, consider switching <b>Locations</b> or moving around the island to gain <b>Distance</b> on him.","Perhaps a paranoid delusion, perhaps an evil spirit. This entity will sometimes appear when you are in an <b>Altered Mental State</b> and will stay with you until you face it and defeat it.\n\nThe hunter will constantly move towards you, so if you are not ready to fight him, consider switching <b>Locations</b> or moving around the island to gain <b>Distance</b> on him."
 GE_ImmuneSystem_OverrideDescription,Your immune system is in charge of getting rid of the Bacteria and Parasites infecting your body. Its strength determines its effectivity and is modified by both your morale and your body weight.\n\nConsider drinking spider lily or ginger tea to boost it if you think you might have caught something bad.,Your immune system is in charge of getting rid of the Bacteria and Parasites infecting your body. Its strength determines its effectivity and is modified by both your morale and your body weight.\n\nConsider drinking spider lily or ginger tea to boost it if you think you might have caught something bad.
-GE_Imp_Irrigation_OverrideTitle,Irrigation System,Irrigation System
-GE_Imp_Irrigation_OverrideDescription,"An irrigation system can be built with the use of a <b>Shovel</b> provided one has mastered the <b>Herbology</b> skill.\n\nThis improvement will automatically water any <b>Crop Plots</b> in the environment by using water from your local <b>Reservoir</b>. The water flow can be stopped at any moment from these reservoirs, or even increased by activating more than one at once.","An irrigation system can be built with the use of a <b>Shovel</b> provided one has mastered the <b>Herbology</b> skill.\n\nThis improvement will automatically water any <b>Crop Plots</b> in the environment by using water from your local <b>Reservoir</b>. The water flow can be stopped at any moment from these reservoirs, or even increased by activating more than one at once."
+GE_Imp_Irrigation_OverrideTitle,Irrigation System,System nawadniania
+GE_Imp_Irrigation_OverrideDescription,"An irrigation system can be built with the use of a <b>Shovel</b> provided one has mastered the <b>Herbology</b> skill.\n\nThis improvement will automatically water any <b>Crop Plots</b> in the environment by using water from your local <b>Reservoir</b>. The water flow can be stopped at any moment from these reservoirs, or even increased by activating more than one at once.","System nawadniania można zbudować za pomocą <b>łopaty</b>, pod warunkiem, że postać opanowała umiejętność <b>zielarstwa</b>. Ulepszenie to automatycznie nawadnia wszystkie <b>pola uprawne</b> w otoczeniu, wykorzystując wodę z lokalnego <b>zbiornika</b>. Przepływ wody z tych zbiorników można zatrzymać w dowolnym momencie, a nawet zwiększyć, aktywując więcej niż jeden zbiornik jednocześnie."
 GE_Imp_MudHutExpansion_OverrideTitle,House Expansions,House Expansions
 GE_Imp_MudHutExpansion_OverrideDescription,House structures can be expanded provided your <b>Crafting</b> skill is high enough.\n\nThese improvements usually require the same type of building materials your house was originally built of and will grant you <b>Additional Room</b> to store your things.,House structures can be expanded provided your <b>Crafting</b> skill is high enough.\n\nThese improvements usually require the same type of building materials your house was originally built of and will grant you <b>Additional Room</b> to store your things.
 GE_Imp_StitchedHideFloor_OverrideDescription,"Adding a layer of hide to the floor can make it feel more <b>Comfortable</b> to the feet as well as easier to <b>Clean</b>.\n\nAll you need is enough <b>Cured Hide, Cords</b> to cover it and enough <b>Needles</b> to stitch it all together.","Adding a layer of hide to the floor can make it feel more <b>Comfortable</b> to the feet as well as easier to <b>Clean</b>.\n\nAll you need is enough <b>Cured Hide, Cords</b> to cover it and enough <b>Needles</b> to stitch it all together."
@@ -8709,7 +8709,7 @@ GE_Urchin_OverrideDescription,"Urchins are spiny animals related to starfish. Th
 GE_Volcano_OverrideDescription,"Volcanos can sometimes be found on tropical islands, usually in their <b>Highlands region.</b>\n\nThe slopes of an active Volcano can be a dangerous place, especially when <b>Toxic Fumes</b> seep through the ground. A <b>Gas Mask</b> is recommended to explore such areas.\n\nIf you can explore them, many volcanos have <b>Acid Lakes</b> that can harbor useful resources like <b>Brimstone and Vitriol.</b>","Volcanos can sometimes be found on tropical islands, usually in their <b>Highlands region.</b>\n\nThe slopes of an active Volcano can be a dangerous place, especially when <b>Toxic Fumes</b> seep through the ground. A <b>Gas Mask</b> is recommended to explore such areas.\n\nIf you can explore them, many volcanos have <b>Acid Lakes</b> that can harbor useful resources like <b>Brimstone and Vitriol.</b>"
 GE_WaterFilter_OverrideDescription,"A water filtration device can be crafted out of <b>Mud Bricks</b> and filled with <b>Charcoal</b> to purify <b>Unsafe Water</b>\n\nOnce you build the Filter, place <b>Empty Water Containers</b> inside and fill the top with <b>Unsafe Water</b>.\n\nOver time, clean drinkable water will drip down into the containers.","A water filtration device can be crafted out of <b>Mud Bricks</b> and filled with <b>Charcoal</b> to purify <b>Unsafe Water</b>\n\nOnce you build the Filter, place <b>Empty Water Containers</b> inside and fill the top with <b>Unsafe Water</b>.\n\nOver time, clean drinkable water will drip down into the containers."
 GE_WateringTrough_OverrideDescription,"Making sure your <b>tamed animals stay hydrated</b> is important.\n\nMaking a Watering Trough out of <b>Mud Bricks and Clay</b> is the best way to ensure they get to drink their fill.\n\nA trough will also catch <b>Rain Water,</b> so it doesn't always need to be manually refilled.","Making sure your <b>tamed animals stay hydrated</b> is important.\n\nMaking a Watering Trough out of <b>Mud Bricks and Clay</b> is the best way to ensure they get to drink their fill.\n\nA trough will also catch <b>Rain Water,</b> so it doesn't always need to be manually refilled."
-GE_WaterReservoir_OverrideDescription,A large <b>Mud Brick</b> structure lined with <b>Clay</b>. It can store a large amount of water and fill up on its own when it rains.\n\nIt can also be used to automatically irrigate <b>Crops</b> if it's built in an area that has the <b>Irrigation Improvement</b>.,A large <b>Mud Brick</b> structure lined with <b>Clay</b>. It can store a large amount of water and fill up on its own when it rains.\n\nIt can also be used to automatically irrigate <b>Crops</b> if it's built in an area that has the <b>Irrigation Improvement</b>.
+GE_WaterReservoir_OverrideDescription,A large <b>Mud Brick</b> structure lined with <b>Clay</b>. It can store a large amount of water and fill up on its own when it rains.\n\nIt can also be used to automatically irrigate <b>Crops</b> if it's built in an area that has the <b>Irrigation Improvement</b>.,"Duża konstrukcja z <b>cegły</b> wyłożona <b>gliną</b>. Może przechowywać duże ilości wody i napełniać się samoczynnie, gdy pada deszcz. Może być również używana do automatycznego nawadniania <b>upraw</b>, jeśli zostanie zbudowana na obszarze z <b>ulepszeniem nawadniania</b>."
 GE_Waterskin_OverrideDescription,"A portable, airtight container that can be carried around on a <b>Shoulder Equipment Slot</b> and is capable of storing 3 <b>Water</b> portions.\n\nIt can be made with <b>Cured Skin, Fat, Cord and Needles</b>.","A portable, airtight container that can be carried around on a <b>Shoulder Equipment Slot</b> and is capable of storing 3 <b>Water</b> portions.\n\nIt can be made with <b>Cured Skin, Fat, Cord and Needles</b>."
 GE_Weather_OverrideTitle,Weather,Weather
 GE_Weather_OverrideDescription,"Understanding the island's weather is crucial to survival.\nClear days have a higher <b>Temperature and Sun Strength</b>, while cloudy ones have the opposite.\n\n<b>Rain</b> is your main source of water so it's important to collect as much water as possible whenever it rains. <b>Coconut Shells</b> and other <b>Containers</b> should all be filled to their max capacity whenever possible.\n\nThe island has 3 <b>Seasons</b>, each lasting 30 days. The first is a <b>Balanced</b> one, with rainy and clear days. The second is a <b>Wet</b> one, with constant rains and dangerous <b>Storms</b> which can cause damage to coastal areas. The third is a <b>Dry</b> one with higher temperatures and little to no rain. After that the cycle repeats.","Zrozumienie pogody na wyspie jest kluczowe dla przetrwania.\nPodczas bezchmurnych dni jest <b>wyższa temperatura i słońce mocniej świeci</b>, podczas gdy w pochmurne dni mają jest odwrotnie.\n\n<b>Deszcz</b> jest twoim głównym źródłem wody, dlatego ważne jest, aby zbierać jak najwięcej wody, gdy tylko pada. <b>Skorupki kokosów</b> i inne <b>pojemniki</b> powinny być wypełnione do maksymalnej pojemności, gdy tylko jest to możliwe.\n\nWyspa ma 3 <b>pory roku</b>, każda trwająca 30 dni. Pierwsza jest <b>zrównoważona</b>, z deszczowymi i bezchmurnymi dniami. Druga jest <b>deszczowa</b>, z ciągłymi opadami deszczu i niebezpiecznymi <b>burzami</b>, które mogą powodować szkody w obszarach przybrzeżnych. Trzecia jest <b>sucha</b>, z wyższymi temperaturami i niewielkimi opadami deszczu lub ich brakiem. Następnie cykl się powtarza."
@@ -8806,7 +8806,7 @@ journal_ToDoList4_Sections[0].Entries[2].Title,Make a Clay Vase,Make a Clay Vase
 journal_ToDoList4_Sections[0].Entries[2].Content,To store water more reliably.,To store water more reliably.
 journal_ToDoList66_PageTitle,JOURNAL - ADVANCED COOKING,JOURNAL - ADVANCED COOKING
 journal_ToDoList66_Sections[0].Entries[0].Title,Prepare Coconut Milk with Fish,Prepare Coconut Milk with Fish
-journal_ToDoList66_Sections[0].Entries[0].Content,I need something tastier and more ellaborate. I'm tired of eating the same food every day.,I need something tastier and more ellaborate. I'm tired of eating the same food every day.
+journal_ToDoList66_Sections[0].Entries[0].Content,I need something tastier and more ellaborate. I'm tired of eating the same food every day.,Potrzebuję czegoś smaczniejszego i bardziej wyszukanego. Jestem zmęczony codziennym jedzeniem tego samego.
 journal_ToDoList66_Sections[0].Entries[1].Title,Cook a Sago Cake,Cook a Sago Cake
 journal_ToDoList66_Sections[0].Entries[1].Content,I would like to try cooking something more advanced.,I would like to try cooking something more advanced.
 journal_ToDoList66_Sections[0].Entries[2].Title,Smoke Meat,Smoke Meat
@@ -8874,7 +8874,7 @@ journalDefault_Exploration2_Sections[0].Entries[0].Title,Explore the Island,Pozn
 journalDefault_Exploration2_Sections[1].Entries[0].Title,Deep Jungle,Głębia dżungli
 journalDefault_Exploration2_Sections[1].Entries[1].Title,Secret Valley,Sekretna dolina
 journalDefault_Exploration2_Sections[1].Entries[2].Title,Jungle Highlands,Dżunglowe wyżyny
-journalDefault_Exploration2_Sections[2].Entries[0].Title,Secret Cove,Sekretna zatoka
+journalDefault_Exploration2_Sections[2].Entries[0].Title,Secret Cove,Sekretna zatoczka
 journalDefault_Exploration2_Sections[2].Entries[1].Title,Eastern Highlands,Wschodnie wyżyny
 journalDefault_Exploration2_Sections[2].Entries[2].Title,Eastern Grasslands,Wschodnie równiny
 journalDefault_Exploration2_Sections[3].Entries[0].Title,Desolate Beach,Opustoszała plaża
@@ -8954,7 +8954,7 @@ journalFarmer5_Animals_Sections[0].Entries[2].Content,"To get milk, leather and 
 journalFarmer5_Crops_PageTitle,CROPS,CROPS
 journalFarmer5_Crops_Sections[0].Entries[0].Title,Make some Pesticide,Make some Pesticide
 journalFarmer5_Crops_Sections[0].Entries[0].Content,To provide protection for your crops.,To provide protection for your crops.
-journalFarmer5_Crops_Sections[0].Entries[1].Title,Build an Irrigation System,Build an Irrigation System
+journalFarmer5_Crops_Sections[0].Entries[1].Title,Build an Irrigation System,System nawadniania
 journalFarmer5_Crops_Sections[0].Entries[1].Content,To make it easier to water your crop plots.,To make it easier to water your crop plots.
 journalFarmer5_Crops_Sections[0].Entries[2].Title,Plant all the crops in the island,Plant all the crops in the island
 journalFarmer5_Crops_Sections[0].Entries[2].Content,To make sure you have all your needs covered.,To make sure you have all your needs covered.
@@ -8991,7 +8991,7 @@ journalFarmer6_CropList2_Sections[1].Entries[1].Title,Lemongrass,Trawa cytrynowa
 journalFarmer6_CropList2_Sections[1].Entries[2].Title,Palm Tree,Palm Tree
 journalFarmer6_CropList2_Sections[2].Entries[0].Title,Chilly,Chilly
 journalFarmer6_CropList2_Sections[2].Entries[1].Title,Coffee,Coffee
-journalFarmer6_CropList2_Sections[2].Entries[2].Title,Tropical Almonds,Tropical Almonds
+journalFarmer6_CropList2_Sections[2].Entries[2].Title,Tropical Almonds,Migdały tropikalne
 journalFarmer6_CropList2_Sections[3].Entries[0].Title,Nippa Palm,Nippa Palm
 journalFarmer6_CropList2_Sections[3].Entries[1].Title,China Rose,China Rose
 journalFarmer6_CropList2_Sections[3].Entries[2].Title,Rice,Rice
@@ -9508,42 +9508,42 @@ ObjD6_SkillsCombat_ObjectiveDescription,Master Hunting,Master Hunting
 ObjD6_SkillsCombat_OnCompleteActions[0].ActionName,Determination,Determination
 ObjD6_SkillsFishing_ObjectiveDescription,Master Fishing,Master Fishing
 ObjD6_SkillsFishing_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_AcidLake_ObjectiveDescription,Explore the Acid Lake,Explore the Acid Lake
-ObjExplore_Bay_ObjectiveDescription,Explore the Bay,Explore the Bay
+ObjExplore_AcidLake_ObjectiveDescription,Explore the Acid Lake,Przeszukano jezioro kwasowe
+ObjExplore_Bay_ObjectiveDescription,Explore the Bay,Przeszukano zatokę
 ObjExplore_Bay_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_Beach_ObjectiveDescription,Explore the Beach,Explore the Beach
+ObjExplore_Beach_ObjectiveDescription,Explore the Beach,Przeszukano plażę
 ObjExplore_Beach_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_BirdRock_ObjectiveDescription,Explore the Bird Rock,Explore the Bird Rock
+ObjExplore_BirdRock_ObjectiveDescription,Explore the Bird Rock,Przeszukano ptasią skałę
 ObjExplore_BirdRock_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_Cove_ObjectiveDescription,Explore the Cove,Explore the Cove
+ObjExplore_Cove_ObjectiveDescription,Explore the Cove,Przeszukano zatoczkę
 ObjExplore_Cove_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_DeepJungle_ObjectiveDescription,Explore the Deep Jungle,Explore the Deep Jungle
+ObjExplore_DeepJungle_ObjectiveDescription,Explore the Deep Jungle,Przeszukano głębię dżungli.
 ObjExplore_DeepJungle_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_DesolateBeach_ObjectiveDescription,Explore the Desolate Beach,Explore the Desolate Beach
+ObjExplore_DesolateBeach_ObjectiveDescription,Explore the Desolate Beach,Przeszukano opustoszałą plażę
 ObjExplore_DesolateBeach_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_GrasslandsE_ObjectiveDescription,Explore the Eastern Grasslands,Explore the Eastern Grasslands
+ObjExplore_GrasslandsE_ObjectiveDescription,Explore the Eastern Grasslands,Przeszukano wschodnie równiny
 ObjExplore_GrasslandsE_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_GrasslandsW_ObjectiveDescription,Explore the Western Grasslands,Explore the Western Grasslands
+ObjExplore_GrasslandsW_ObjectiveDescription,Explore the Western Grasslands,Przeszukano zachodnie równiny
 ObjExplore_GrasslandsW_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_HighlandJungle_ObjectiveDescription,Explore the Jungle Highlands,Explore the Jungle Highlands
+ObjExplore_HighlandJungle_ObjectiveDescription,Explore the Jungle Highlands,Przeszukano dżunglowe wyżyny.
 ObjExplore_HighlandJungle_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_HighlandsE_ObjectiveDescription,Explore the Eastern Highlands,Explore the Eastern Highlands
+ObjExplore_HighlandsE_ObjectiveDescription,Explore the Eastern Highlands,Przeszukano wschodnie wyżyny
 ObjExplore_HighlandsE_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_HighlandsW_ObjectiveDescription,Explore the Western Highlands,Explore the Western Highlands
+ObjExplore_HighlandsW_ObjectiveDescription,Explore the Western Highlands,Przeszukano zachodnie wyżyny
 ObjExplore_HighlandsW_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_Jungle_ObjectiveDescription,Explore the Jungle,Explore the Jungle
+ObjExplore_Jungle_ObjectiveDescription,Explore the Jungle,Przeszukano dżunglę.
 ObjExplore_Jungle_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_Mangroves_ObjectiveDescription,Explore the Mangroves,Explore the Mangroves
+ObjExplore_Mangroves_ObjectiveDescription,Explore the Mangroves,Przeszukano namorzyny.
 ObjExplore_Mangroves_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_Outskirts_ObjectiveDescription,Explore the Outskirts,Explore the Outskirts
+ObjExplore_Outskirts_ObjectiveDescription,Explore the Outskirts,Przeszukano obrzeża
 ObjExplore_Outskirts_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_Rocks_ObjectiveDescription,Explore the Rocks,Explore the Rocks
+ObjExplore_Rocks_ObjectiveDescription,Explore the Rocks,Przeszukano skały
 ObjExplore_Rocks_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_SecretValley_ObjectiveDescription,Explore the Secret Valley,Explore the Secret Valley
+ObjExplore_SecretValley_ObjectiveDescription,Explore the Secret Valley,Przeszukano sekretną dolinę.
 ObjExplore_SecretValley_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_Volcano_ObjectiveDescription,Explore the Volcano,Explore the Volcano
+ObjExplore_Volcano_ObjectiveDescription,Explore the Volcano,Przeszukano wulkan
 ObjExplore_Volcano_OnCompleteActions[0].ActionName,Determination,Determination
-ObjExplore_Wetlands_ObjectiveDescription,Explore the Wetlands,Explore the Wetlands
+ObjExplore_Wetlands_ObjectiveDescription,Explore the Wetlands,Przeszukano mokradła
 ObjExplore_Wetlands_OnCompleteActions[0].ActionName,Determination,Determination
 ObjF1_BoilRice_ObjectiveDescription,Boil Rice,Boil Rice
 ObjF1_BoilRice_OnCompleteActions[0].ActionName,Courage,Courage
@@ -9579,7 +9579,7 @@ ObjF5_Animals_ObjectiveDescription,Complete Animal Tasks,Complete Animal Tasks
 ObjF5_Animals_OnCompleteActions[0].ActionName,Courage,Courage
 ObjF5_BeeSkep_ObjectiveDescription,Build a Bee Skep,Build a Bee Skep
 ObjF5_BeeSkep_OnCompleteActions[0].ActionName,Courage,Courage
-ObjF5_BuildIrrigationSystem_ObjectiveDescription,Build an Irrigation System,Build an Irrigation System
+ObjF5_BuildIrrigationSystem_ObjectiveDescription,Build an Irrigation System,System nawadniania
 ObjF5_BuildIrrigationSystem_OnCompleteActions[0].ActionName,Courage,Courage
 ObjF5_Crops_ObjectiveDescription,Complete Crop Tasks,Complete Crop Tasks
 ObjF5_Crops_OnCompleteActions[0].ActionName,Courage,Courage
@@ -10246,7 +10246,7 @@ Wakefulness_Statuses[0].Description,I'm getting sleepy (click on clock or bed to
 Wakefulness_Statuses[1].GameName,Falling Asleep,Zasypiający
 Wakefulness_Statuses[1].Description,I need to sleep (click on clock or bed to sleep),"Muszę spać (kliknij zegar lub łóżko, aby zasnąć)"
 Wakefulness_Statuses[2].GameName,Fell Asleep,Śpiący
-Wakefulness_Statuses[2].Description,zzz....,zzz....
+Wakefulness_Statuses[2].Description,zzz....,zzz...
 WatcherInsight_GameName,Watcher's Insight,Watcher's Insight
 WatcherInsight_Statuses[0].GameName,Watcher's Glare,Watcher's Glare
 WatcherInsight_Statuses[1].GameName,Structural Repairs,Structural Repairs
@@ -10765,7 +10765,7 @@ Blood_Statuses[1].Description,I feel dizzy...,Kręci mi się w głowie...
 Blood_Statuses[2].GameName,Low Blood Pressure,Niskie ciśnienie krwi
 Blood_Statuses[2].Description,I think I'm going to faint...,Chyba zaraz zemdleję...
 Blood_Statuses[3].GameName,Dead of Blood Loss,Śmiertelna utrata krwi
-Blood_Statuses[3].Description,You bled out....,Wykrwawiłeś się....
+Blood_Statuses[3].Description,You bled out....,Wykrwawiłeś się...
 Blood_NotEnoughText,It's to dark for this action...,"Jest zbyt ciemno, aby to zrobić..."
 BloodLoss_GameName,Blood Loss,Utrata krwi
 BloodLoss_Description,"Caused by bleeding wounds, use Tourniquets and Dressings to lower it.","Spowodowane przez krwawiące rany, użyj opasek uciskowych i opatrunków, aby ją zmniejszyć."
@@ -11188,7 +11188,7 @@ Quinine_Statuses[3].GameName,Quinine Overdose,Przedawkowanie chininy
 RainCounter_GameName,Rain Counter,Rain Counter
 RainExposure_GameName,Rain Exposure,Rain Exposure
 RainExposure_Description,How exposed you are to the rain.,How exposed you are to the rain.
-RainExposure_Statuses[0].GameName,Light Rain,Light Rain
+RainExposure_Statuses[0].GameName,Light Rain,Mżawka
 RainExposure_Statuses[0].Description,It's raining a bit...,It's raining a bit...
 RainExposure_Statuses[1].GameName,Medium Rain,Medium Rain
 RainExposure_Statuses[1].Description,It's raining!,It's raining!
@@ -11205,12 +11205,12 @@ RainProtection_Statuses[2].GameName,Heavy Protection,Duża ochrona
 RainProtection_Statuses[3].GameName,Max Protection,Maksymalna ochrona
 RainValue_GameName,Rain Value,Rain Value
 RainValue_Description,How strong the rain is.,How strong the rain is.
-RainValue_Statuses[0].GameName,Light Rain,Light Rain
-RainValue_Statuses[1].GameName,Light Rain,Light Rain
-RainValue_Statuses[2].GameName,Light  Rain,Light  Rain
-RainValue_Statuses[3].GameName,Moderate Rain,Moderate Rain
-RainValue_Statuses[4].GameName,Strong Rain,Strong Rain
-RainValue_Statuses[5].GameName,No Rain,No Rain
+RainValue_Statuses[0].GameName,Light Rain,Mżawka
+RainValue_Statuses[1].GameName,Light Rain,Mżawka
+RainValue_Statuses[2].GameName,Light  Rain,Mżawka
+RainValue_Statuses[3].GameName,Moderate Rain,Deszcz
+RainValue_Statuses[4].GameName,Strong Rain,Ulewa
+RainValue_Statuses[5].GameName,No Rain,Brak deszczu
 RiceEffect_GameName,Rice Effect,Efekt ryżu
 RiceEffect_Description,Helps stabilize your stomach.,Pomaga ustabilizować pracę żołądka.
 RiceEffect_Statuses[0].GameName,Minor Rice Effect,Niewielki efekt ryżu
@@ -11518,16 +11518,16 @@ tag_OuterTorso_InGameName,Torso (Outer),Torso (Outer)
 tag_Tourniquet_InGameName,Tourniquet,Tourniquet
 eTag_CollarTV_InGameName,TV Collar,TV Collar
 eTag_WAbrasion_InGameName,Abrasion,Abrasion
-eTag_WArmFractureL_InGameName,Arm Fracture,Arm Fracture
-eTag_WArmFractureR_InGameName,Arm Fracture,Arm Fracture
+eTag_WArmFractureL_InGameName,Arm Fracture,Złamana ręka
+eTag_WArmFractureR_InGameName,Arm Fracture,Złamana ręka
 eTag_WArmLacerationL_InGameName,Arm Laceration,Arm Laceration
 eTag_WArmLacerationR_InGameName,Arm Laceration,Arm Laceration
 eTag_WArmSprainedL_InGameName,Sprained Ankle,Sprained Ankle
 eTag_WArmSprainedR_InGameName,Sprained Ankle,Sprained Ankle
 eTag_WBite_InGameName,Bite,Bite
 eTag_WCobraSpit_InGameName,Spit,Spit
-eTag_WLegFractureL_InGameName,Leg Fracture,Leg Fracture
-eTag_WLegFractureR_InGameName,Leg Fracture,Leg Fracture
+eTag_WLegFractureL_InGameName,Leg Fracture,Złamana noga
+eTag_WLegFractureR_InGameName,Leg Fracture,Złamana noga
 eTag_WLegLacerationL_InGameName,Leg Laceration,Leg Laceration
 eTag_WLegLacerationR_InGameName,Leg Laceration,Leg Laceration
 eTag_WLegSprainedL_InGameName,Sprained Ankle,Sprained Ankle
@@ -11669,12 +11669,12 @@ TimeSkipOptions_Actions[3].FadeMessage,Sleeping...,Spanie...
 LANGUAGE,Language,Język
 LANGUAGE_CHANGE_CONFIRM,Changing the language requires a restart (your progress will be saved if you're in a run). Do you wish to proceed?,"Zmiana języka wymaga ponownego uruchomienia (postępy zostaną zapisane, jeśli jesteś w trakcie gry). Czy chcesz kontynuować?"
 NEW_GAME,NEW GAME,NOWA GRA
-THANKS_RETROMATION,Retromation \n<size=75\n%>For being an all around great guy & for showing our game to the world.</size>,Retromation \n<size=75\n%>For being an all around great guy & for showing our game to the world.</size>
-THANKS_THENEOMARE,The Neomare \n<size=75\n%>For being another great guy & showing his constant support both in his Youtube channel & the forums.</size>,The Neomare \n<size=75\n%>For being another great guy & showing his constant support both in his Youtube channel & the forums.</size>
-THANKS_TIMMEKEMMIT,"Matthew Kemmit aka ""Doc""\n<size=75%>For sharing your knowledge and ideas with us!</size>","Matthew Kemmit aka ""Doc""\n<size=75%>For sharing your knowledge and ideas with us!</size>"
-THANKS_FAMILIES,"Our Families\n<size=75%>For their trust, patience & love.</size>","Our Families\n<size=75%>For their trust, patience & love.</size>"
+THANKS_RETROMATION,Retromation \n<size=75\n%>For being an all around great guy & for showing our game to the world.</size>,Retromation\n<size=75\n%>Za bycie wspaniałym facetem i pokazanie naszej gry światu.</size>
+THANKS_THENEOMARE,The Neomare \n<size=75\n%>For being another great guy & showing his constant support both in his Youtube channel & the forums.</size>,"Neomare\n<size=75\n%>Za bycie kolejnym świetnym facetem i okazywanie ciągłego wsparcia zarówno na swoim kanale Youtube, jak i na forach.</size>"
+THANKS_TIMMEKEMMIT,"Matthew Kemmit aka ""Doc""\n<size=75%>For sharing your knowledge and ideas with us!</size>","Matthew Kemmit aka ""Doc""\n<size=75%>Za dzielenie się z nami swoją wiedzą i pomysłami!</size>"
+THANKS_FAMILIES,"Our Families\n<size=75%>For their trust, patience & love.</size>","Naszym Rodzinom\n<size=75%>za ich zaufanie, cierpliwość i miłość.</size>"
 TAKE_OUT_ITEMS,Take out all items,Wyjmij wszystko
-Baby_DismantleActions[2].ActionName,Play,Play
+Baby_DismantleActions[2].ActionName,Play,Graj
 GE_Structure_OverrideTitle,Mental Structure,Struktura umysłowa
 GE_Structure_OverrideDescription,"This represents how predictable and stable your worldview feels.\n\nSomeone with a high mental structure feels confident in their predictions, they feel they understand the world and how it works. Their minds and behaviours are stable.\n\nSomeone with a low mental structure feels things are chaotic and unpredictable, something which can lead to <b>stress</b> and anxiety, but also to the degree of open-mindedness required to reach altered states of conciousness.","Reprezentuje to, jak przewidywalny i stabilny jest Twój światopogląd. Osoba o wysokiej strukturze umysłowej czuje się pewnie w swoich przewidywaniach, czuje, że rozumie świat i jego działanie. Jej umysł i zachowanie są stabilne.\n\nKtoś o niskiej strukturze mentalnej czuje, że rzeczy są chaotyczne i nieprzewidywalne, co może prowadzić do stresu i niepokoju, ale także do stopnia otwartości umysłu wymaganego do osiągnięcia odmiennych stanów świadomości."
 Pregnancy_Description,"Gives you nausea at its earlier stages, then increases your appetite and finally gives you a penalty to movement.","Powoduje mdłości na wcześniejszych etapach, następnie zwiększa apetyt, a na koniec daje karę do poruszania się."
@@ -11754,7 +11754,7 @@ Ach_VictoryMermaid_ObjectiveDescription*,Win a game with the Mermaid,Win a game 
 GpTag_Drinkable_TabName,Drinkable,Drinkable
 CARD_SURVIVAL_TITLE,CARD SURVIVAL,CARD SURVIVAL
 TROPICAL_ISLAND_SUBTITLE,Tropical Island,Tropikalna wyspa
-OUR_CHINESE_VOLUNTEERS,Our chinese translation volunteers:,Our chinese translation volunteers:
+OUR_CHINESE_VOLUNTEERS,Our chinese translation volunteers:,Nasi wolontariusze chińscy tłumacze:
 EDIT_CHARACTER,Edit Character,Edytuj postać
 DEMO_GET_FULL_GAME,Get the full <b>GAME</b>,Get the full <b>GAME</b>
 THE_FIRST_DAYS,The First Days,The First Days
@@ -12654,7 +12654,7 @@ Bookshelf_DismantleActions[1].ActionName,Take apart and Pick Up,Take apart and P
 Feathermeal_CardName*,Feathermeal,Feathermeal
 Feathermeal_CardDescription*,Useful as fertilizer.,Useful as fertilizer.
 Feathers_CardInteractions[0].ActionName,Ground,Ground
-Feathers_CardInteractions[1].ActionName,Light with Hand Drill,Light with Hand Drill
+Feathers_CardInteractions[1].ActionName,Light with Hand Drill,Zapal w świdrze ogniowym
 Feathers_CardInteractions[2].ActionName,Light with Bow Drill,Light with Bow Drill
 Feathers_CardInteractions[3].ActionName,Light Tinder,Light Tinder
 FluteBone_CardName,Bone Flute,Bone Flute
@@ -12747,13 +12747,13 @@ ENCOUNTER_AND,... and {0},... i {0}
 ENCOUNTER_BUT,... but {0},... ale {0}
 ENCOUNTER_WEAPON_AND_PROJECTILE,{0} and {1},{0} and {1}
 Campfire_CookingRecipes[8].ActionName*,Boiling Salt,Boiling Salt
-Campfire_CookingRecipes[8].CannotCookText*,Not enough salt water...,Not enough salt water...
+Campfire_CookingRecipes[8].CannotCookText*,Not enough salt water...,Za mało słonej wody...
 ClayFirePit_CookingRecipes[7].ActionName*,Boiling Salt,Boiling Salt
-ClayFirePit_CookingRecipes[7].CannotCookText*,Not enough salt water...,Not enough salt water...
+ClayFirePit_CookingRecipes[7].CannotCookText*,Not enough salt water...,Za mało słonej wody...
 Fire_CookingRecipes[8].ActionName*,Boiling Salt,Boiling Salt
-Fire_CookingRecipes[8].CannotCookText*,Not enough salt water...,Not enough salt water...
+Fire_CookingRecipes[8].CannotCookText*,Not enough salt water...,Za mało słonej wody...
 GasCookerOn_CookingRecipes[7].ActionName*,Boiling Salt,Boiling Salt
-GasCookerOn_CookingRecipes[7].CannotCookText*,Not enough salt water...,Not enough salt water...
+GasCookerOn_CookingRecipes[7].CannotCookText*,Not enough salt water...,Za mało słonej wody...
 Bp_FiberArmor_CardName,Fiber Armor,Sznurowa zbroja
 Bp_FiberArmor_CardDescription,"Should offer protection to my torso, arms and legs. ","Powinna zapewnić ochronę tułowia, ramion i nóg. "
 Bp_FiberArmor_UnlockConditionsDesc,More Tailoring Needed,Potrzebne bardziej rozwinięte krawiectwo
@@ -12905,34 +12905,34 @@ Combat_ BTHunterSpirit_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately,
 Combat_ BTHunterSpirit_RLeg.MinorWounds[0].CombatLog.LogText,"You were able to hurt it, but only superficially.","You were able to hurt it, but only superficially."
 Combat_ BTHunterSpirit_RLeg.MediumWounds[0].CombatLog.LogText,You managed to hurt one of its legs.,You managed to hurt one of its legs.
 Combat_ BTHunterSpirit_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of its legs!,You seriously damaged one of its legs!
-Combat_ BTMacaque_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Unfortunately, you didn't manage to harm it."
-Combat_ BTMacaque_Head.MinorWounds[0].CombatLog.LogText,"You were able to hurt it, but only superficially.","You were able to hurt it, but only superficially."
-Combat_ BTMacaque_Head.MediumWounds[0].CombatLog.LogText,"You hit it hard on the head, it's looking a bit dazzled.","You hit it hard on the head, it's looking a bit dazzled."
-Combat_ BTMacaque_Head.MediumWounds[1].CombatLog.LogText,You hit it right in the middle of the face. It screams in pain!,You hit it right in the middle of the face. It screams in pain!
-Combat_ BTMacaque_Head.MediumWounds[2].CombatLog.LogText,You pierced it right in the middle of the face. It screams in pain!,You pierced it right in the middle of the face. It screams in pain!
-Combat_ BTMacaque_Head.SeriousWounds[0].CombatLog.LogText,"You think you cracked its skull, it's looking quite dazzled.","You think you cracked its skull, it's looking quite dazzled."
-Combat_ BTMacaque_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of its eyes!,You pierced one of its eyes!
-Combat_ BTMacaque_Head.SeriousWounds[2].CombatLog.LogText,"You pierced its brain, the Macaque is dead!","You pierced its brain, the Macaque is dead!"
-Combat_ BTMacaque_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Unfortunately, you didn't manage to harm it."
-Combat_ BTMacaque_Torso.MinorWounds[0].CombatLog.LogText,"You were able to hurt it, but only superficially.","You were able to hurt it, but only superficially."
-Combat_ BTMacaque_Torso.MediumWounds[0].CombatLog.LogText,You opened a wound on its torso.,You opened a wound on its torso.
-Combat_ BTMacaque_Torso.SeriousWounds[0].CombatLog.LogText,You opened a deep wound on its torso. It's bleeding profusely!,You opened a deep wound on its torso. It's bleeding profusely!
-Combat_ BTMacaque_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Unfortunately, you didn't manage to harm it."
-Combat_ BTMacaque_LArm.MinorWounds[0].CombatLog.LogText,You were able to graze one of its arms.,You were able to graze one of its arms.
-Combat_ BTMacaque_LArm.MediumWounds[0].CombatLog.LogText,You managed to hurt one of its arms.,You managed to hurt one of its arms.
-Combat_ BTMacaque_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of its arms!,You seriously damaged one of its arms!
-Combat_ BTMacaque_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Unfortunately, you didn't manage to harm it."
-Combat_ BTMacaque_RArm.MinorWounds[0].CombatLog.LogText,You were able to graze one of its arms.,You were able to graze one of its arms.
-Combat_ BTMacaque_RArm.MediumWounds[0].CombatLog.LogText,You managed to hurt one of its arms.,You managed to hurt one of its arms.
-Combat_ BTMacaque_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of its arms!,You seriously damaged one of its arms!
-Combat_ BTMacaque_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Unfortunately, you didn't manage to harm it."
-Combat_ BTMacaque_LLeg.MinorWounds[0].CombatLog.LogText,You were able to graze one of its legs.,You were able to graze one of its legs.
-Combat_ BTMacaque_LLeg.MediumWounds[0].CombatLog.LogText,You managed to hurt one of its legs.,You managed to hurt one of its legs.
-Combat_ BTMacaque_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of its legs!,You seriously damaged one of its legs!
-Combat_ BTMacaque_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Unfortunately, you didn't manage to harm it."
-Combat_ BTMacaque_RLeg.MinorWounds[0].CombatLog.LogText,You were able to graze one of its legs.,You were able to graze one of its legs.
-Combat_ BTMacaque_RLeg.MediumWounds[0].CombatLog.LogText,You managed to hurt one of its legs.,You managed to hurt one of its legs.
-Combat_ BTMacaque_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of its legs!,You seriously damaged one of its legs!
+Combat_ BTMacaque_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Niestety, nie udało ci się go zranić."
+Combat_ BTMacaque_Head.MinorWounds[0].CombatLog.LogText,"You were able to hurt it, but only superficially.","Udało ci się go zranić, ale tylko powierzchownie."
+Combat_ BTMacaque_Head.MediumWounds[0].CombatLog.LogText,"You hit it hard on the head, it's looking a bit dazzled.","Uderzyłeś go mocno w głowę, wygląda na nieco oszołomionego."
+Combat_ BTMacaque_Head.MediumWounds[1].CombatLog.LogText,You hit it right in the middle of the face. It screams in pain!,Uderzasz go w sam środek twarzy. Wrzeszczy z bólu!
+Combat_ BTMacaque_Head.MediumWounds[2].CombatLog.LogText,You pierced it right in the middle of the face. It screams in pain!,Dźgnąłeś go w sam środek twarzy. Wrzeszczy z bólu!
+Combat_ BTMacaque_Head.SeriousWounds[0].CombatLog.LogText,"You think you cracked its skull, it's looking quite dazzled.","Chyba roztrzaskałeś mu czaszkę, wygląda na oszołomionego."
+Combat_ BTMacaque_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of its eyes!,Przebiłeś jedno z jego oczu!
+Combat_ BTMacaque_Head.SeriousWounds[2].CombatLog.LogText,"You pierced its brain, the Macaque is dead!","Przebiłeś jego mózg, makak nie żyje!"
+Combat_ BTMacaque_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Niestety, nie udało ci się go zranić."
+Combat_ BTMacaque_Torso.MinorWounds[0].CombatLog.LogText,"You were able to hurt it, but only superficially.","Udało ci się go zranić, ale tylko powierzchownie."
+Combat_ BTMacaque_Torso.MediumWounds[0].CombatLog.LogText,You opened a wound on its torso.,Otworzyłeś ranę na jego torsie.
+Combat_ BTMacaque_Torso.SeriousWounds[0].CombatLog.LogText,You opened a deep wound on its torso. It's bleeding profusely!,Otworzyłeś głęboką ranę na jego torsie. Obficie krwawi!
+Combat_ BTMacaque_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Niestety, nie udało ci się go zranić."
+Combat_ BTMacaque_LArm.MinorWounds[0].CombatLog.LogText,You were able to graze one of its arms.,Udało ci się zadrasnąć jedną z jego rąk.
+Combat_ BTMacaque_LArm.MediumWounds[0].CombatLog.LogText,You managed to hurt one of its arms.,Udało ci się zranić jedną z jego rąk.
+Combat_ BTMacaque_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of its arms!,Poważnie uszkodziłeś jedną z jego rąk!
+Combat_ BTMacaque_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Niestety, nie udało ci się go zranić."
+Combat_ BTMacaque_RArm.MinorWounds[0].CombatLog.LogText,You were able to graze one of its arms.,Udało ci się zranić jedną z jego rąk.
+Combat_ BTMacaque_RArm.MediumWounds[0].CombatLog.LogText,You managed to hurt one of its arms.,Udało ci się zranić jedną z jego rąk.
+Combat_ BTMacaque_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of its arms!,Poważnie uszkodziłeś jedną z jego rąk!
+Combat_ BTMacaque_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Niestety, nie udało ci się go zranić."
+Combat_ BTMacaque_LLeg.MinorWounds[0].CombatLog.LogText,You were able to graze one of its legs.,Udało ci się zadrasnąć jedną z jego nóg.
+Combat_ BTMacaque_LLeg.MediumWounds[0].CombatLog.LogText,You managed to hurt one of its legs.,Udało ci się zranić jedną z jego nóg.
+Combat_ BTMacaque_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of its legs!,Poważnie uszkodziłeś jedną z jego nóg!
+Combat_ BTMacaque_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Niestety, nie udało ci się go zranić."
+Combat_ BTMacaque_RLeg.MinorWounds[0].CombatLog.LogText,You were able to graze one of its legs.,Udało ci się zadrasnąć jedną z jego nóg.
+Combat_ BTMacaque_RLeg.MediumWounds[0].CombatLog.LogText,You managed to hurt one of its legs.,Udało ci się zranić jedną z jego nóg.
+Combat_ BTMacaque_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of its legs!,Poważnie uszkodziłeś jedną z jego nóg!
 Combat_ BTMonitorLizard_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it.","Unfortunately, you didn't manage to harm it."
 Combat_ BTMonitorLizard_Head.MinorWounds[0].CombatLog.LogText,"You were able to hurt it, but only superficially.","You were able to hurt it, but only superficially."
 Combat_ BTMonitorLizard_Head.MediumWounds[0].CombatLog.LogText,"You hit it hard on the head, it's looking a bit dazzled.","You hit it hard on the head, it's looking a bit dazzled."
@@ -13073,8 +13073,8 @@ Combat_EncounterBoar_EnemyActions[1].ActionLog.LogText,It turns around and tries
 Combat_EncounterBoar_EnemyActions[2].ActionLog.LogText,It turns around and tries to escape...,Odwraca się i próbuje uciec...
 Combat_EncounterBoar_EnemyGettingCloseLog.LogText,The Boar charges at you!,Dzik szarżuje na ciebie!
 Combat_EncounterBoar_PlayerWinEffects.ResultLog.LogText,The Boar collapses to the ground.,Dzik upada na ziemię.
-Combat_EncounterBoar_EnemyWinEffects.ResultLog.LogText,The Boar disappears into the foliage....,Dzik znika w listowiu....
-Combat_EncounterBoar_TieEffects.ResultLog.LogText,The Boar disappears into the foliage....,Dzik znika w listowiu....
+Combat_EncounterBoar_EnemyWinEffects.ResultLog.LogText,The Boar disappears into the foliage....,Dzik znika w listowiu...
+Combat_EncounterBoar_TieEffects.ResultLog.LogText,The Boar disappears into the foliage....,Dzik znika w listowiu...
 Combat_EncounterCobra_EncounterTitle,Cobra Encounter,Cobra Encounter
 Combat_EncounterCobra_EnemyName,The Cobra,The Cobra
 Combat_EncounterCobra_EnemyActions[0].ActionLog.LogText,The Cobra emits a loud hiss and spits at you!,The Cobra emits a loud hiss and spits at you!
@@ -13203,7 +13203,7 @@ Combat_EncounterMacaque_EnemyActions[2].ActionLog.LogText,It turns around and tr
 Combat_EncounterMacaque_EnemyGettingCloseLog.LogText,The Macaque charges at you!,Makak szarżuje na ciebie!
 Combat_EncounterMacaque_PlayerWinEffects.ResultLog.LogText,The Macaque collapses on the floor.,Makak upada na ziemię.
 Combat_EncounterMacaque_EnemyWinEffects.ResultLog.LogText,Macaque runs away,Makak ucieka
-Combat_EncounterMacaque_TieEffects.ResultLog.LogText,The Macaque disappears into the foliage....,Makak znika w listowiu....
+Combat_EncounterMacaque_TieEffects.ResultLog.LogText,The Macaque disappears into the foliage....,Makak znika w listowiu...
 Combat_EncounterMonitorLizard_EncounterTitle,Monitor Lizard Encounter,Monitor Lizard Encounter
 Combat_EncounterMonitorLizard_EnemyName,The Monitor Lizard,The Monitor Lizard
 Combat_EncounterMonitorLizard_EnemyActions[0].ActionLog.LogText,It tenses its body and lunges at you with its open maws!,It tenses its body and lunges at you with its open maws!
@@ -13256,23 +13256,23 @@ Combat_EncounterMonitorLizard_EnemyGettingCloseLog.LogText,The Lizard charges at
 Combat_EncounterMonitorLizard_PlayerWinEffects.ResultLog.LogText,The Monitor Lizard collapses to the ground.,The Monitor Lizard collapses to the ground.
 Combat_EncounterMonitorLizard_EnemyWinEffects.ResultLog.LogText,The Monitor Lizard disappears into the foliage...,The Monitor Lizard disappears into the foliage...
 Combat_EncounterMonitorLizard_TieEffects.ResultLog.LogText,The Monitor Lizard disappears into the foliage...,The Monitor Lizard disappears into the foliage...
-Combat_EncounterPartridge_EncounterTitle,Partridge Encounter,Partridge Encounter
-Combat_EncounterPartridge_EnemyName,The Partridge,The Partridge
-Combat_EncounterPartridge_EnemyActions[0].ActionLog.LogText,The Partridge notices you...,The Partridge notices you...
-Combat_EncounterPartridge_EnemyActions[1].ActionLog.LogText,It flaps its wings in panic and tries to run away...,It flaps its wings in panic and tries to run away...
-Combat_EncounterPartridge_EnemyActions[2].ActionLog.LogText,It flaps its wings in panic and tries to run away...,It flaps its wings in panic and tries to run away...
-Combat_EncounterPartridge_OverrideEscapeActionName,Retreat,Retreat
-Combat_EncounterPartridge_OverrideEscapeActionLog.LogText,you continue on your way.,you continue on your way.
-Combat_EncounterPartridge_PlayerWinEffects.ResultLog.LogText,The Partridge lies dead on the ground.,The Partridge lies dead on the ground.
-Combat_EncounterPartridge_EnemyWinEffects.ResultLog.LogText,The Partridge dissapears into the foliage...,The Partridge dissapears into the foliage...
-Combat_EncounterPartridge_TieEffects.ResultLog.LogText,The Partridge dissapears into the foliage...,The Partridge dissapears into the foliage...
+Combat_EncounterPartridge_EncounterTitle,Partridge Encounter,Spotkanie z kuropatwą
+Combat_EncounterPartridge_EnemyName,The Partridge,Kuropatwa
+Combat_EncounterPartridge_EnemyActions[0].ActionLog.LogText,The Partridge notices you...,Kuropatwa cię zauważyła...
+Combat_EncounterPartridge_EnemyActions[1].ActionLog.LogText,It flaps its wings in panic and tries to run away...,W panice macha skrzydłami i próbuje uciec...
+Combat_EncounterPartridge_EnemyActions[2].ActionLog.LogText,It flaps its wings in panic and tries to run away...,W panice macha skrzydłami i próbuje uciec...
+Combat_EncounterPartridge_OverrideEscapeActionName,Retreat,Wycofaj się
+Combat_EncounterPartridge_OverrideEscapeActionLog.LogText,you continue on your way.,kontynuuj swoją podróż.
+Combat_EncounterPartridge_PlayerWinEffects.ResultLog.LogText,The Partridge lies dead on the ground.,Kuropatwa leży martwa na ziemi.
+Combat_EncounterPartridge_EnemyWinEffects.ResultLog.LogText,The Partridge dissapears into the foliage...,Kuropatwa znika w listowiu...
+Combat_EncounterPartridge_TieEffects.ResultLog.LogText,The Partridge dissapears into the foliage...,Kuropatwa znika w listowiu...
 Combat_EncounterSeagull_EncounterTitle,Seagull Encounter,Spotkanie z mewą
 Combat_EncounterSeagull_EnemyName,Seagull,Mewa
 Combat_EncounterSeagull_EnemyActions[0].ActionLog.LogText,The Seagull notices you...,Mewa cię zauważyła...
 Combat_EncounterSeagull_EnemyActions[1].ActionLog.LogText,It starts flapping its wings and tries to escape...,Zaczyna trzepotać skrzydłami i próbuje uciec...
 Combat_EncounterSeagull_EnemyActions[2].ActionLog.LogText,It starts flapping its wings and tries to escape...,Zaczyna trzepotać skrzydłami i próbuje uciec...
 Combat_EncounterSeagull_OverrideEscapeActionName,Retreat,Wycofaj się
-Combat_EncounterSeagull_OverrideEscapeActionLog.LogText,you continue on your way.,kontynuuj swoją podróż
+Combat_EncounterSeagull_OverrideEscapeActionLog.LogText,you continue on your way.,kontynuuj swoją podróż.
 Combat_EncounterSeagull_PlayerWinEffects.ResultLog.LogText,The seagull is dead.,Mewa jest martwa.
 Combat_EncounterSeagull_EnemyWinEffects.ResultLog.LogText,The Seagull flies out of your reach...,Mewa odlatuje poza twój zasięg...
 Combat_EncounterSeagull_TieEffects.ResultLog.LogText,The Seagull flies out of your reach...,Mewa odlatuje poza twój zasięg...
@@ -13349,20 +13349,20 @@ Combat_EventBoar_3_TrackSucess_CardName,Success,Sukces
 Combat_EventBoar_3_TrackSucess_CardDescription,You find the Boar's dead body. It's all yours now.,Znajdujesz martwe ciało dzika. Teraz należy do ciebie.
 Combat_EventBoar_3_TrackSucess_DismantleActions[0].ActionName,Continue,Kontynuuj
 Combat_EventBoar_3_TrackSucess_DismantleActions[0].ActionDescription,It was worth it!,Było warto!
-Combat_EventCobra_1_Explore_CardName,I see a Cobra!,I see a Cobra!
-Combat_EventCobra_1_Explore_DismantleActions[0].ActionName,Continue,Continue
-Combat_EventCobra_2_Track_CardName,Tracking the Cobra,Tracking the Cobra
-Combat_EventCobra_2_Track_CardDescription,The Cobra managed to escape but you could track it down.,The Cobra managed to escape but you could track it down.
-Combat_EventCobra_2_Track_DismantleActions[0].ActionName,Give Up,Give Up
-Combat_EventCobra_2_Track_DismantleActions[0].ActionDescription,It's not worth it.,It's not worth it.
-Combat_EventCobra_2_Track_DismantleActions[1].ActionName,Go After it,Go After it
-Combat_EventCobra_3_TrackFail_CardName,Fail,Fail
-Combat_EventCobra_3_TrackFail_CardDescription,You can't find it anywhere. You seem to have lost its trail.,You can't find it anywhere. You seem to have lost its trail.
-Combat_EventCobra_3_TrackFail_DismantleActions[0].ActionName,Continue,Continue
-Combat_EventCobra_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time.,Maybe next time.
-Combat_EventCobra_3_TrackSuccess_CardName,Success,Success
-Combat_EventCobra_3_TrackSuccess_CardDescription,You find the Cobra's dead body. It's all yours now.,You find the Cobra's dead body. It's all yours now.
-Combat_EventCobra_3_TrackSuccess_DismantleActions[0].ActionName,Continue,Continue
+Combat_EventCobra_1_Explore_CardName,I see a Cobra!,Widzę kobrę!
+Combat_EventCobra_1_Explore_DismantleActions[0].ActionName,Continue,Kontynuuj
+Combat_EventCobra_2_Track_CardName,Tracking the Cobra,Śledzenie kobry
+Combat_EventCobra_2_Track_CardDescription,The Cobra managed to escape but you could track it down.,"Kobra zdołała uciec, ale udało się ją wytropić."
+Combat_EventCobra_2_Track_DismantleActions[0].ActionName,Give Up,Zrezygnuj
+Combat_EventCobra_2_Track_DismantleActions[0].ActionDescription,It's not worth it.,Nie warto.
+Combat_EventCobra_2_Track_DismantleActions[1].ActionName,Go After it,Idź za nią
+Combat_EventCobra_3_TrackFail_CardName,Fail,Niepowodzenie
+Combat_EventCobra_3_TrackFail_CardDescription,You can't find it anywhere. You seem to have lost its trail.,"Nie możesz jej nigdzie znaleźć. Wygląda na to, że zgubiłeś jej ślad."
+Combat_EventCobra_3_TrackFail_DismantleActions[0].ActionName,Continue,Kontynuuj
+Combat_EventCobra_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time.,Może następnym razem.
+Combat_EventCobra_3_TrackSuccess_CardName,Success,Sukces
+Combat_EventCobra_3_TrackSuccess_CardDescription,You find the Cobra's dead body. It's all yours now.,Znajdujesz martwe ciało kobry. Teraz należy do ciebie.
+Combat_EventCobra_3_TrackSuccess_DismantleActions[0].ActionName,Continue,Kontynuuj
 Combat_EventDrone_1_Explore_CardName,I see a Drone!,I see a Drone!
 Combat_EventDrone_1_Explore_DismantleActions[0].ActionName,Continue,Continue
 Combat_EventDrone_2_Track_CardName,Tracking the Drone,Tracking the Drone
@@ -13836,21 +13836,21 @@ StonePreciseLowDamage_CardInteractions[0].ActionLog.LogText,I sharpened a stone 
 StonePreciseLowDamage_DismantleActions[0].ActionName,Practice Rock Throwing,Practice Rock Throwing
 WOUNDED,YOU GOT WOUNDED!,ZOSTAŁEŚ ZRANIONY!
 INVERT_SCROLL,Invert Horizontal Scroll,Odwróć poziome przesuwanie kółkiem
-CampfireExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
-ClayFirePit_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
-ClayFirePitExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
-Fire_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
-FireExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
-Forge_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
-ForgeExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
-Kiln_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
-KilnAdvanced_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
-KilnAdvancedExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
-KilnExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
+CampfireExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
+ClayFirePit_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
+ClayFirePitExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
+Fire_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
+FireExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
+Forge_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
+ForgeExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
+Kiln_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
+KilnAdvanced_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
+KilnAdvancedExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
+KilnExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
 SaltBed_DismantleActions[3].ActionName,Demolish,Demolish
-Stove_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
+Stove_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
 Stove_CookingRecipes[35].ActionName*,Fire Clay Bowl,Fire Clay Bowl
-StoveExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Feed Fuel
+StoveExtinguished_CardInteractions[3].ActionName*,Feed Fuel,Dorzuć do ognia
 Combat_EncounterHunter_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
 Combat_EncounterHunter_EnemyActions[0].PlayerWounds.MinorWounds[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
 Combat_EncounterHunter_EnemyActions[0].PlayerWounds.MediumWounds[0].WoundLog.LogText,Its hand left a mark on your skin. You can feel it.,Its hand left a mark on your skin. You can feel it.
@@ -13864,7 +13864,7 @@ Combat_EncounterHunter_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.Al
 Combat_EncounterHunter_EnemyWinEffects.ResultLog.AlternateLogTexts[0],The Hunter dissappears into the darkness... it will be coming back.,The Hunter dissappears into the darkness... it will be coming back.
 Combat_EncounterHunter_TieEffects.ResultLog.AlternateLogTexts[0],The Hunter dissappears into the darkness... it will be coming back.,The Hunter dissappears into the darkness... it will be coming back.
 Shield_UsageDurability.OnZero.ActionDescription,The shield breaks!,The shield breaks!
-FineDirt_DismantleActions[0].ActionName,Mix with Water,Mix with Water
+FineDirt_DismantleActions[0].ActionName,Mix with Water,Zmniejszaj z wodą
 RaftShelter_DismantleActions[0].StatInterruptions[6].Notification,I can't sleep in the middle of a storm!,I can't sleep in the middle of a storm!
 RaftShelter_DismantleActions[1].StatInterruptions[6].Notification,I can't sleep in the middle of a storm!,I can't sleep in the middle of a storm!
 DMG_Spiritual_Name,Spiritual,Spiritual
@@ -14026,7 +14026,7 @@ GuideManager_AllTips[10],You can burn Snakegrass on a campfire to get some cheap
 GuideManager_AllTips[11],"Citronella Oil, crafted by grinding Lemongrass and boiling it in oil, is an essential ingredient for Bug Repellant Candles.","Citronella Oil, crafted by grinding Lemongrass and boiling it in oil, is an essential ingredient for Bug Repellant Candles."
 GuideManager_AllTips[12],"Clay Bowls can be fired on a normal campfire, there's no need to build a kiln for them.","Clay Bowls can be fired on a normal campfire, there's no need to build a kiln for them."
 GuideManager_AllTips[13],"If you're not immunized, make sure to have dry Cinchona tree bark at hand to treat Malaria.","If you're not immunized, make sure to have dry Cinchona tree bark at hand to treat Malaria."
-EncounterWindow_StatEnforcedPlayerActions[0].LogMessage.LogText,Fear overwhelms you!\n<b>You disentangle yourself from the fight as best you can and run for dear life!</b>,Fear overwhelms you!\n<b>You disentangle yourself from the fight as best you can and run for dear life!</b>
+EncounterWindow_StatEnforcedPlayerActions[0].LogMessage.LogText,Fear overwhelms you!\n<b>You disentangle yourself from the fight as best you can and run for dear life!</b>,Ogarnia cię strach!\n<b>Wyplątujesz się z walki najlepiej jak potrafisz i uciekasz ile sił w nogach!</b>
 EncounterWindow_StatEnforcedPlayerActions[0].Action.ActionName,Demoralized Escape,Paniczna ucieczka
 EncounterWindow_StatEnforcedPlayerActions[0].Action.ActionSuccessLog.LogText,you manage to escape!,udało ci się uciec!
 EncounterWindow_StatEnforcedPlayerActions[0].Action.ActionFailureLog.LogText,you manage to escape!,udało ci się uciec!
