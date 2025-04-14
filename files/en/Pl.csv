@@ -1,4 +1,4 @@
-﻿ACTION_HAPPENING,I can't do two things at once...
+ACTION_HAPPENING,I can't do two things at once...
 ADD_TO_BLUEPRINT,Add {0} to {1}
 BY_AUTHOR,By {0}
 AVAILABLE,Available
@@ -2517,7 +2517,7 @@ Bp_SolarStill_CardName,Solar Still
 Bp_SolarStill_UnlockConditionsDesc,Plastic Sheet Needed
 Bp_SolarStill_BlueprintFinishedLog.LogText,I built a solar still with a plastic sheet.
 Bp_Spindle_CardName,Spindle
-Bp_Spindle_CardDescription,I can turn fibers into cord here.
+Bp_Spindle_CardDescription,I can turn fibers into cord here. 
 Bp_Spindle_UnlockConditionsDesc,More Tailoring Needed
 Bp_Spindle_BlueprintFinishedLog.LogText,I crafted a nice wooden spindle.
 Bp_Splint_CardName,Splint
@@ -3067,7 +3067,7 @@ Event_CaptainSpecial1b_CardDescription,You know what? I was pretty darn happy no
 Event_CaptainSpecial1b_DismantleActions[0].ActionName,That's very... nice of you...
 Event_CaptainSpecial1c_CardName,Captain
 Event_CaptainSpecial1c_CardDescription,You know you are not going to make it don't you?\n\nThere's no way you are getting out of this island alive.\nI speak from experience!
-Event_CaptainSpecial1c_DismantleActions[0].ActionName,Speak for yourself...
+Event_CaptainSpecial1c_DismantleActions[0].ActionName,Speak for yourself...	
 Event_CaptainSpecial1d_CardName,Captain
 Event_CaptainSpecial1d_CardDescription,Everything you are doing here is pretty pointless. \n\nSooner or later you are going to have an accident or get sick and you'll get too weak to do anything.
 Event_CaptainSpecial1d_DismantleActions[0].ActionName,...
@@ -3679,7 +3679,7 @@ Event_SecretValleyExplored_CardDescription,I think I found all landmarks in this
 Event_SecretValleyExplored_DismantleActions[0].ActionName,Continue
 Event_SecretValleyExplored_DismantleActions[0].ActionLog.LogText,I finished exploring the secret valley.
 Event_ShipEscape_CardName,VICTORY!
-Event_ShipEscape_CardDescription,CONGRATULATIONS!\nA ship has rescued you!
+Event_ShipEscape_CardDescription,CONGRATULATIONS!\nA ship has rescued you! 
 Event_ShipEscape_DismantleActions[0].ActionName,Return to civilization
 Event_ShipEscape_DismantleActions[0].ActionLog.LogText,This is the end of my adventure.
 Event_ShipMissed_CardName,Ship Missed
@@ -3702,7 +3702,7 @@ Event_SkeletonSeen_CardDescription,There's a skeleton here. Someone's remains...
 Event_SkeletonSeen_DismantleActions[0].ActionName,Continue
 Event_SkeletonSeen_DismantleActions[0].ActionLog.LogText,I found a skeleton inside the cave... hope I don't end up like him.
 Event_SkillArchery1_CardName,Archery Improved!
-Event_SkillArchery1_CardDescription,I'm starting to get better at shooting with the bow.
+Event_SkillArchery1_CardDescription,I'm starting to get better at shooting with the bow. 
 Event_SkillArchery1_DismantleActions[0].ActionName,Nice!
 Event_SkillArchery1_DismantleActions[0].ActionLog.LogText,I'm getting better with the bow.
 Event_SkillArchery2_CardName,Archery Improved!
@@ -3718,7 +3718,7 @@ Event_SkillArchery4_CardDescription,I have become a master at shooting with the 
 Event_SkillArchery4_DismantleActions[0].ActionName,Nice!
 Event_SkillArchery4_DismantleActions[0].ActionLog.LogText,I'm getting better with the bow.
 Event_SkillCooking1_CardName,Cooking Improved!
-Event_SkillCooking1_CardDescription,I'm starting to get better at cooking.
+Event_SkillCooking1_CardDescription,I'm starting to get better at cooking. 
 Event_SkillCooking1_DismantleActions[0].ActionName,Nice!
 Event_SkillCooking1_DismantleActions[0].ActionLog.LogText,I'm getting better at cooking.
 Event_SkillCooking2_CardName,Cooking Improved!
@@ -3734,11 +3734,11 @@ Event_SkillCooking4_CardDescription,I have become a master at cooking!
 Event_SkillCooking4_DismantleActions[0].ActionName,Nice!
 Event_SkillCooking4_DismantleActions[0].ActionLog.LogText,I'm getting better at cooking.
 Event_SkillCrafting1_CardName,Crafting Improved!
-Event_SkillCrafting1_CardDescription,I'm starting to get better at crafting.
+Event_SkillCrafting1_CardDescription,I'm starting to get better at crafting. 
 Event_SkillCrafting1_DismantleActions[0].ActionName,Nice!
 Event_SkillCrafting1_DismantleActions[0].ActionLog.LogText,I'm getting better at crafting.
 Event_SkillCrafting2_CardName,Crafting Improved!
-Event_SkillCrafting2_CardDescription,I'm getting good at crafting.
+Event_SkillCrafting2_CardDescription,I'm getting good at crafting. 
 Event_SkillCrafting2_DismantleActions[0].ActionName,Nice!
 Event_SkillCrafting2_DismantleActions[0].ActionLog.LogText,I'm getting better at crafting.
 Event_SkillCrafting3_CardName,Crafting Improved!
@@ -3750,7 +3750,7 @@ Event_SkillCrafting4_CardDescription,I've become a master at crafting!
 Event_SkillCrafting4_DismantleActions[0].ActionName,Nice!
 Event_SkillCrafting4_DismantleActions[0].ActionLog.LogText,I'm getting better at crafting.
 Event_SkillFishing1_CardName,Fishing Improved!
-Event_SkillFishing1_CardDescription,I'm starting to get better at fishing.
+Event_SkillFishing1_CardDescription,I'm starting to get better at fishing. 
 Event_SkillFishing1_DismantleActions[0].ActionName,Nice!
 Event_SkillFishing1_DismantleActions[0].ActionLog.LogText,I'm getting better at fishing.
 Event_SkillFishing2_CardName,Fishing Improved!
@@ -3766,7 +3766,7 @@ Event_SkillFishing4_CardDescription,I think I have become a master at fishing!!
 Event_SkillFishing4_DismantleActions[0].ActionName,Nice!
 Event_SkillFishing4_DismantleActions[0].ActionLog.LogText,I'm getting better at fishing.
 Event_SkillHerbology1_CardName,Herbology Improved!
-Event_SkillHerbology1_CardDescription,I'm starting to get better with plants.
+Event_SkillHerbology1_CardDescription,I'm starting to get better with plants. 
 Event_SkillHerbology1_DismantleActions[0].ActionName,Nice!
 Event_SkillHerbology1_DismantleActions[0].ActionLog.LogText,I'm learning more about plants.
 Event_SkillHerbology2_CardName,Herbology Improved!
@@ -3797,11 +3797,11 @@ Event_SkillInsight4_CardDescription,"Your mind's eye sees reality as a structure
 Event_SkillInsight4_DismantleActions[0].ActionName,Continue
 Event_SkillInsight4_DismantleActions[0].ActionLog.LogText,My insights on reality are getting deeper.
 Event_SkillKnapping1_CardName,Knapping Improved!
-Event_SkillKnapping1_CardDescription,I'm starting to get better at knapping.
+Event_SkillKnapping1_CardDescription,I'm starting to get better at knapping. 
 Event_SkillKnapping1_DismantleActions[0].ActionName,Nice!
 Event_SkillKnapping1_DismantleActions[0].ActionLog.LogText,I'm getting better at knapping.
 Event_SkillKnapping2_CardName,Knapping Improved!
-Event_SkillKnapping2_CardDescription,I'm getting good at knapping.
+Event_SkillKnapping2_CardDescription,I'm getting good at knapping. 
 Event_SkillKnapping2_DismantleActions[0].ActionName,Nice!
 Event_SkillKnapping2_DismantleActions[0].ActionLog.LogText,I'm getting better at knapping.
 Event_SkillKnapping3_CardName,Knapping Improved!
@@ -3813,7 +3813,7 @@ Event_SkillKnapping4_CardDescription,I've become a master at knapping.
 Event_SkillKnapping4_DismantleActions[0].ActionName,Nice!
 Event_SkillKnapping4_DismantleActions[0].ActionLog.LogText,I'm getting better at knapping.
 Event_SkillPercussion1_CardName,Percussion Improved!
-Event_SkillPercussion1_CardDescription,I'm starting to get better with drums.
+Event_SkillPercussion1_CardDescription,I'm starting to get better with drums. 
 Event_SkillPercussion1_DismantleActions[0].ActionName,Nice!
 Event_SkillPercussion1_DismantleActions[0].ActionLog.LogText,I'm getting better with drums.
 Event_SkillPercussion2_CardName,Percussion Improved!
@@ -3829,7 +3829,7 @@ Event_SkillPercussion4_CardDescription,I think I have become a master with drums
 Event_SkillPercussion4_DismantleActions[0].ActionName,Nice!
 Event_SkillPercussion4_DismantleActions[0].ActionLog.LogText,I'm getting better with drums.
 Event_SkillSpearFighting1_CardName,Spear Fighting Improved!
-Event_SkillSpearFighting1_CardDescription,I'm starting to get better at using the Spear.
+Event_SkillSpearFighting1_CardDescription,I'm starting to get better at using the Spear. 
 Event_SkillSpearFighting1_DismantleActions[0].ActionName,Nice!
 Event_SkillSpearFighting1_DismantleActions[0].ActionLog.LogText,I'm getting better with the spear.
 Event_SkillSpearFighting2_CardName,Spear Fighting Improved!
@@ -3845,7 +3845,7 @@ Event_SkillSpearFighting4_CardDescription,I think I have become a master at spea
 Event_SkillSpearFighting4_DismantleActions[0].ActionName,Nice!
 Event_SkillSpearFighting4_DismantleActions[0].ActionLog.LogText,I'm getting better with the spear.
 Event_SkillSpearFishing1_CardName,Spear Fishing Improved!
-Event_SkillSpearFishing1_CardDescription,I'm starting to get better at fishing with the Spear.
+Event_SkillSpearFishing1_CardDescription,I'm starting to get better at fishing with the Spear. 
 Event_SkillSpearFishing1_DismantleActions[0].ActionName,Nice!
 Event_SkillSpearFishing1_DismantleActions[0].ActionLog.LogText,I'm getting better at fishing with a spear.
 Event_SkillSpearFishing2_CardName,Spear Fishing Improved!
@@ -3861,11 +3861,11 @@ Event_SkillSpearFishing4_CardDescription,I think I have become a master at spear
 Event_SkillSpearFishing4_DismantleActions[0].ActionName,Nice!
 Event_SkillSpearFishing4_DismantleActions[0].ActionLog.LogText,I'm getting better at fishing with a spear.
 Event_SkillTailoring1_CardName,Tailoring Improved!
-Event_SkillTailoring1_CardDescription,I'm starting to become a tailor.
+Event_SkillTailoring1_CardDescription,I'm starting to become a tailor. 
 Event_SkillTailoring1_DismantleActions[0].ActionName,Nice!
 Event_SkillTailoring1_DismantleActions[0].ActionLog.LogText,I'm getting better at tailoring.
 Event_SkillTailoring2_CardName,Tailoring Improved!
-Event_SkillTailoring2_CardDescription,I'm becoming a good tailor.
+Event_SkillTailoring2_CardDescription,I'm becoming a good tailor. 
 Event_SkillTailoring2_DismantleActions[0].ActionName,Nice!
 Event_SkillTailoring2_DismantleActions[0].ActionLog.LogText,I'm getting better at tailoring.
 Event_SkillTailoring3_CardName,Tailoring Improved!
@@ -3873,15 +3873,15 @@ Event_SkillTailoring3_CardDescription,I'm becoming a very good tailor.
 Event_SkillTailoring3_DismantleActions[0].ActionName,Nice!
 Event_SkillTailoring3_DismantleActions[0].ActionLog.LogText,I'm getting better at tailoring.
 Event_SkillTailoring4_CardName,Tailoring Improved!
-Event_SkillTailoring4_CardDescription,I'm becoming a master tailor.
+Event_SkillTailoring4_CardDescription,I'm becoming a master tailor. 
 Event_SkillTailoring4_DismantleActions[0].ActionName,Nice!
 Event_SkillTailoring4_DismantleActions[0].ActionLog.LogText,I'm getting better at tailoring.
 Event_SkillTrapping1_CardName,Trapping Improved!
-Event_SkillTrapping1_CardDescription,I'm starting to become a trapper
+Event_SkillTrapping1_CardDescription,I'm starting to become a trapper 
 Event_SkillTrapping1_DismantleActions[0].ActionName,Nice!
 Event_SkillTrapping1_DismantleActions[0].ActionLog.LogText,I'm getting better at making traps.
 Event_SkillTrapping2_CardName,Trapping Improved!
-Event_SkillTrapping2_CardDescription,I'm becoming a good trapper.
+Event_SkillTrapping2_CardDescription,I'm becoming a good trapper. 
 Event_SkillTrapping2_DismantleActions[0].ActionName,Nice!
 Event_SkillTrapping2_DismantleActions[0].ActionLog.LogText,I'm getting better at making traps.
 Event_SkillTrapping3_CardName,Trapping Improved!
@@ -3889,15 +3889,15 @@ Event_SkillTrapping3_CardDescription,I'm becoming a very good trapper.
 Event_SkillTrapping3_DismantleActions[0].ActionName,Nice!
 Event_SkillTrapping3_DismantleActions[0].ActionLog.LogText,I'm getting better at making traps.
 Event_SkillTrapping4_CardName,Trapping Improved!
-Event_SkillTrapping4_CardDescription,I'm becoming a master trapper.
+Event_SkillTrapping4_CardDescription,I'm becoming a master trapper. 
 Event_SkillTrapping4_DismantleActions[0].ActionName,Nice!
 Event_SkillTrapping4_DismantleActions[0].ActionLog.LogText,I'm getting better at making traps.
 Event_SkillWoodworking1_CardName,Woodworking Improved!
-Event_SkillWoodworking1_CardDescription,I'm starting to get better at woodworking.
+Event_SkillWoodworking1_CardDescription,I'm starting to get better at woodworking. 
 Event_SkillWoodworking1_DismantleActions[0].ActionName,Nice!
 Event_SkillWoodworking1_DismantleActions[0].ActionLog.LogText,I'm getting better at woodworking.
 Event_SkillWoodworking2_CardName,Woodworking Improved!
-Event_SkillWoodworking2_CardDescription,I'm getting good at woodworking.
+Event_SkillWoodworking2_CardDescription,I'm getting good at woodworking. 
 Event_SkillWoodworking2_DismantleActions[0].ActionName,Nice!
 Event_SkillWoodworking2_DismantleActions[0].ActionLog.LogText,I'm getting better at woodworking.
 Event_SkillWoodworking3_CardName,Woodworking Improved!
@@ -4125,7 +4125,7 @@ Socks_CardName,Socks
 Socks_CardDescription,Minor protection for my feet.\n\n<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>
 Socks_DismantleActions[0].ActionName,Rip off cloth
 Splint_CardName,Splint
-Splint_CardDescription,Can help heal fractures and sprained ligaments faster.
+Splint_CardDescription,Can help heal fractures and sprained ligaments faster. 
 StrawCape_CardName,Straw Cape
 StrawCape_CardDescription,A rainproof cape to protect me from the weather. <b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>
 StrawCape_DismantleActions[0].ActionName,Dismantle
@@ -4208,7 +4208,7 @@ CookingPot_DismantleActions[0].ActionName,Collect Rain
 CookingPotUnfired_CardName,Unfired Cooking Pot
 CookingPotUnfired_CardDescription,It needs to be fired in a kiln.
 GlazedVase_CardName,Glazed Vase
-GlazedVase_CardDescription,A sealed container strong enough to hold acids.
+GlazedVase_CardDescription,A sealed container strong enough to hold acids. 
 GlazedVase_DismantleActions[0].ActionName,Collect Rain
 GlazedVaseUnfired_CardName,Unfired Glazed Vase
 GlazedVaseUnfired_CardDescription,It needs to be fired in a kiln.
@@ -4605,7 +4605,7 @@ YamCurry_DismantleActions[0].ActionLog.LogText,I ate yam curry.
 YamCurryUncooked_CardName,Uncooked Yam Curry
 YamCurryUncooked_CardDescription,I need to cook it now.
 YamJam_CardName,Yam Jam
-YamJam_CardDescription,A chunk of Yam Jam.
+YamJam_CardDescription,A chunk of Yam Jam. 
 YamJam_UsageDurability.OnZero.ActionDescription,Jam used up!
 YamJam_DismantleActions[0].ActionName,Eat
 YamJamCooked_CardName,Cooked Yam Jam
@@ -4659,7 +4659,7 @@ Bees_SpoilageTime.OnZero.ActionDescription,The bees escaped!
 Bees_CardInteractions[0].ActionName,Smoke
 Beeswax_CardName,Beeswax
 Beeswax_CardDescription,A bit of wax.
-Beeswax_CardInteractions[0].ActionName,Make Block
+Beeswax_CardInteractions[0].ActionName,Make Block 
 BeeswaxBlock_CardName,Beeswax Block
 BeeswaxBlock_CardDescription,Could make candles with this.
 BirdMeat_CardName,Bird Meat
@@ -4716,7 +4716,7 @@ Bugs_CardName,Bugs
 Bugs_CardDescription,Could use them as bait.
 Bugs_DismantleActions[0].ActionName,Eat
 Butter_CardName,Butter
-Butter_CardDescription,A bar of butter.
+Butter_CardDescription,A bar of butter. 
 Butter_UsageDurability.OnZero.ActionDescription,Butter used up!
 Butter_DismantleActions[0].ActionName,Eat
 CharredRemains_CardName,Charred Remains
@@ -4792,7 +4792,7 @@ EggPartridgeFertilized_CardName,Fertilized Egg
 EggPartridgeFertilized_CardDescription,"Edible, would taste better cooked."
 EggPartridgeFertilized_DismantleActions[0].ActionName,Eat
 Fat_CardName,Fat
-Fat_CardDescription,A chunk of fat.
+Fat_CardDescription,A chunk of fat. 
 Fat_UsageDurability.OnZero.ActionDescription,Fat used up!
 Fat_Progress.OnZero.ActionDescription,Fat used up!
 Fat_CardInteractions[0].ActionName,Soak
@@ -5300,7 +5300,7 @@ WeevilLilyLeaves_CardDescription,I could make bandages with this
 WeevilLilyLeaves_DismantleActions[0].ActionName,Make bandage
 Yam_CardName,Yam
 Yam_CardDescription,"I should peel it, cut it and boil it before eating it."
-Yam_CardInteractions[0].ActionName,Peel & Cut
+Yam_CardInteractions[0].ActionName,Peel & Cut 
 YamBoiled_CardName,Boiled Yam
 YamBoiled_CardDescription,Ready to eat.
 YamBoiled_DismantleActions[0].ActionName,Eat
@@ -5611,13 +5611,13 @@ SpearScrap_UsageDurability.OnZero.ActionName,The Spear Breaks
 SpearScrap_DismantleActions[0].ActionName,Train
 SpearScrap_DismantleActions[1].ActionName,Dismantle
 Spindle_CardName,Spindle
-Spindle_CardDescription,I can turn fibers into cord here.
+Spindle_CardDescription,I can turn fibers into cord here. 
 Spindle_Progress.OnFull.ActionName,Ready
 Spindle_CardInteractions[0].ActionName,Spin Cord
 Spindle_CardInteractions[1].ActionName,Spin Cord
 Spindle_CardInteractions[1].RequiredReceivingDurabilities.FailMessage,Spindle is not free
 SpindleFiber_CardName,Spindled Cord
-SpindleFiber_CardDescription,I can turn fibers into cord here.
+SpindleFiber_CardDescription,I can turn fibers into cord here. 
 SpindleFiber_DismantleActions[0].ActionName,Get Cord
 SpindleFiber_DismantleActions[1].ActionName,Get Yarn
 StoneAxe_CardName,Stone Axe
@@ -7929,7 +7929,7 @@ SagoSplitLog_CardName,Split Log
 SagoSplitLog_CardDescription,I should extract its pith.
 SagoSplitLog_CardInteractions[0].ActionName,Extract Sawdust
 SnakegrassPatch_CardName,Snakegrass Patch
-SnakegrassPatch_CardDescription,I should be able to extract fibres for cordage from this.
+SnakegrassPatch_CardDescription,I should be able to extract fibres for cordage from this. 
 SnakegrassPatch_DismantleActions[0].ActionName,Harvest
 SnakegrassPatch_DismantleActions[0].ActionLog.LogText,I harvested some Snakegras.
 SpiderLily_CardName,Spider Lily
@@ -8391,7 +8391,7 @@ GE_Bones_OverrideTitle,Bones
 GE_Bones_OverrideDescription,"Bones can be harvested from the carcasses of animals or sometimes found in the gastric pellets of monitor lizards.\n\nLarge bones can be used for certain crafts or broken into <b>Splinters</b>, which can later be further crushed into <b>Bonemeal</b> fertilizer or used for smaller items. \n<b>Hooks and Needles</b> can be crafted from bird bones or splinters and used for tailoring and fishing respectively. "
 GE_Bookshelf_OverrideDescription,"A useful piece of furniture that increases your <b>Comfort</b>, offers a good amount of storage space and gives you plenty of room for displaying <b>Decorations</b>. Every decoration placed on its shelves will increase your total <b>Comfort</b>.\n\nIt requires enough <b>Woodworking Skill</b> to build, as well as <b>Planks and Treenails</b>."
 GE_Brimstone_OverrideDescription,"Brimstone can be harvested from the toxic <b>Vents</b> that can be found in the volcanic area of the island or extracted from brimstone rich stones by firing them on kilns.\n\nBrimstone has multiple uses, including making a <b>Healing Gel</b>, a strong <b>Pesticide</b> and even <b>Dynamite</b> among other things."
-GE_BrimstoneGel_OverrideDescription,A relatively strong disinfectant that is more effective and longer lasting than Aloe Vera gel.
+GE_BrimstoneGel_OverrideDescription,A relatively strong disinfectant that is more effective and longer lasting than Aloe Vera gel. 
 GE_Broom_OverrideDescription,"An essential tool for keeping your house clean. Make sure to clean often as soon as you see some discomfort appearing. That way you'll feel less stressed and improve your mood.\n\nBrooms are relatively cheap to build, requiring only a long sticks, a cord and some Palm fronds. "
 GE_Bruising_OverrideDescription,"When falling from high places or getting attack by animals you can sometimes get bruises.\n\nBruises will produce pain, but can be treated with medicinal creams like <b>Aloe Gel</b> so that they heal faster and are less painful."
 GE_BugBites_OverrideDescription,"Bugbites appear if you spend time in areas with high bug populations. They are generally a minor nuisance, causing pain and increasing your chances of catching diseases. If you are not from these islands however, bug bites can be extremely dangerous, as they can transmit <b>Camp Fever and Malaria</b>.\n\nWearing more Clothes, applying Bug Repellant, eating Lemongrass or burning Snakegrass on a campfire are some of the ways in which you can avoid bugbites."
@@ -8403,10 +8403,10 @@ GE_BugRepellent_OverrideDescription,This gel can be applied to your body to incr
 GE_Bugs_OverrideTitle,Bugs
 GE_Bugs_OverrideDescription,Bugs can be found in dark humid caves and by digging in the ground.\n\nA bit disgusting but ultimately edible if you are hungry enough. They are a source of protein and can be used to make protein bars if your <b>Cooking Skill</b> is high enough.\n\nThey are also a good feed for <b>Partridges</b>.
 GE_Burns_OverrideDescription,Caused by over-exposure to the <b>Sun</b> or by coming in contact with <b>Fire</b>. They can be very painful and cause infections.\n\n<b>Aloe Vera Gel</b> can help them heal faster and alleviate their pain.
-GE_Butter_OverrideDescription,Made by churning milk in a Vase. This highly nutritious food can be used in place of Fat or Oil in many cooking recipes.
+GE_Butter_OverrideDescription,Made by churning milk in a Vase. This highly nutritious food can be used in place of Fat or Oil in many cooking recipes. 
 GE_ButterBakedOystersCooked_OverrideTitle,Butter Baked Oysters
 GE_ButterBakedOystersCooked_OverrideDescription,"A very tasty gourmet meal cooked with <b>Oysters, Butter and Lemongrass</b>.\nIt can only be cooked by reaching a very high <b>Cooking Skill</b>."
-GE_Caffeine_OverrideDescription,Caffeine is a stimulant that will help you stay awake at the cost of some stress and dehydration.\nIt can be ingested from Coffee Berries and any of their derivatives.\n\nCoffee can be made by roasting Coffee Berry seeds and applying them to boiling water.
+GE_Caffeine_OverrideDescription,Caffeine is a stimulant that will help you stay awake at the cost of some stress and dehydration.\nIt can be ingested from Coffee Berries and any of their derivatives.\n\nCoffee can be made by roasting Coffee Berry seeds and applying them to boiling water. 
 GE_Calcite_OverrideDescription,Calcite Crystals can be found inside Geodes and in the depths of the island's cave system.\nThey can be quite pretty and serve as very nice decorations to place on your shelves.
 GE_CallousesFeet_OverrideDescription,Callouses protect your feet from the damage caused by walking. \n\nThey will usually grow over time whenever your feet get a bit damaged.
 GE_CallousesHands_OverrideDescription,Callouses protect your hands from the damage caused by crafting. \n\nThey will usually grow over time whenever your hands get a bit damaged.
@@ -8514,7 +8514,7 @@ GE_Ginger_OverrideTitle,Ginger
 GE_Ginger_OverrideDescription,"This plant has an edible root with many health benefits.\n\nBy grinding it and soaking it in boiling water one can brew an energizing ginger tea that can help settle the stomach, reducing <b>Nausea and diarrhoea</b>, increase your <b>Appetite</b> and lower your level of <b>Saturation</b> in other types of food."
 GE_GlazedVase_OverrideTitle,Glazed Vase
 GE_GlazedVase_OverrideDescription,"A <b>Sealed</b> and relatively large vase capable of holding <b>3 portions</b> of any liquid, including acids like <b>Vitriol</b>.\n\nIt can be made with <b>Clay, Temper and Salt</b> and fired in any <b>Kiln</b>."
-GE_Glue_OverrideDescription,A natural adhesive made by cutting and boiling leather in a cooking pot along with slaked lime (soaked quicklime).\nIt dries after a while but can be reheated to become fluid again.
+GE_Glue_OverrideDescription,A natural adhesive made by cutting and boiling leather in a cooking pot along with slaked lime (soaked quicklime).\nIt dries after a while but can be reheated to become fluid again. 
 GE_Goat_OverrideTitle,Goat
 GE_Goat_OverrideDescription,"These animals can be seen frequenting the island's <b>Grasslands and Highlands</b>.\n\nThey can be hunted for their meat and leather or captured live through the use of <b>Trapping Pits</b>.\nCaptured goats can then be released on enclosures and if a members of both sexes are present, bred and used for milk.\n"
 GE_HandDrill_OverrideDescription,"An essential tool to <b>start a fire.</b>\nIt can be carved from <b>sticks</b> using a <b>cutting tool</b> like a knife or a sharpened stone.\n\nUse it on easily flammable materials like <b>dry leaves or fibers</b> to get <b>lit tinder.</b>\n\nPlace the lit tinder on a <b>campfire, kiln or other fire sources</b> to start a fire."
@@ -8726,7 +8726,7 @@ GE_WildJujube_OverrideDescription,"A big bush that can be found in <b>Grasslands
 GE_Wood_OverrideTitle,Wood
 GE_Wood_OverrideDescription,"Wood can be found by exploring, specially on forested areas, or obtained directly from the environment if you have an <b>Axe</b> in your possession.\n\nWood can be used as <b>Fuel</b>, as part of many different blueprints and even as a sort of tinder if you have a knife sharp enough to cut <b>Shavings</b>."
 GE_WoodCarving_OverrideTitle,Wood Carvings
-GE_WoodCarving_OverrideDescription,Wood Carvings can be made from <b>Wood</b> provided you have enough <b>Woodworking Skill</b>.\n\nCarving Sculptures is a great source of <b>Entertainment</b> and if your skill is high enough you can produce some nice <b>Decorations</b> to display on your shelves and increase your <b>Comfort</b>.
+GE_WoodCarving_OverrideDescription,Wood Carvings can be made from <b>Wood</b> provided you have enough <b>Woodworking Skill</b>.\n\nCarving Sculptures is a great source of <b>Entertainment</b> and if your skill is high enough you can produce some nice <b>Decorations</b> to display on your shelves and increase your <b>Comfort</b>. 
 GE_WoodShavings_OverrideDescription,"Drag a <b>Sharp Knife</b> onto Wood or use the right blueprint to create Shavings.\n\nShavings can be used as free <b>Tinder</b>, ideal for starting fires. \n\nMaking Shavings also doubles as a way to start training your <b>Woodworking</b> skills."
 GE_WoundDressing_OverrideDescription,"Dressings can be used to <b>protect Open Wounds from infection</b> and help them heal faster.\n\nIf you don't have access to a standard sterile <b>Wound Dressing</b>, you can improvise one using a <b>medium-sized piece of Cloth.</b>\nIf available, you can also <b>add Ash to your Cloth</b> to sterilize it.\n\nIf Cloth is not an option, a dressing can also be crafted out of large Leaves, like the ones of the <b>Weevil Lily Plant</b>\n\nBe sure to <b>clean the wound with Water or Soap</b> before applying a dressing, and in case of excessive bleeding use a <b>Tourniquet</b> first."
 GE_W_Abrasion_OverrideDescription,"Minor scrapes and abrasions can easily happen when surviving in the wild.\n\nThey're not very dangerous, but it is still a good idea to <b>Clean them with Water, Honey, Lye or Soap</b> to make sure they don't get <b>infected</b>\n\nIt is also possible to apply a <b>Wound Dressing</b> for protection and faster healing."
@@ -8795,7 +8795,7 @@ journal_ToDoList3_PageTitle,TO DO LIST 3 - FOOD AND SHELTER
 journal_ToDoList3_Sections[0].Entries[0].Title,Cook a Fish
 journal_ToDoList3_Sections[0].Entries[0].Content,To have a proper meal by the fire. Catch it with a spear or a fishing rod.
 journal_ToDoList3_Sections[0].Entries[1].Title,Build a Shelter
-journal_ToDoList3_Sections[0].Entries[1].Content,To rest better during the night.
+journal_ToDoList3_Sections[0].Entries[1].Content,To rest better during the night. 
 journal_ToDoList3_Sections[0].Entries[2].Title,Explore the Jungle
 journal_ToDoList3_Sections[0].Entries[2].Content,To find new locations and resources.
 journal_ToDoList4_PageTitle,TO DO LIST 4 - QUALITY OF LIFE
@@ -8829,7 +8829,7 @@ journal_ToDoListOLD6_Sections[0].Entries[1].Content,Perhaps I can find a way inl
 journal_ToDoListOLD6_Sections[0].Entries[2].Title,Build a Solar Still
 journal_ToDoListOLD6_Sections[0].Entries[2].Content,I need an extra water source. Should check the guide to see if there's anyway I can build a Solar Still with what I have.
 journal_ToDoListOLD6_Sections[0].Entries[3].Title,Build a Smoker
-journal_ToDoListOLD6_Sections[0].Entries[3].Content,I need a better fire that can help make my food last longer.
+journal_ToDoListOLD6_Sections[0].Entries[3].Content,I need a better fire that can help make my food last longer. 
 journal_ToDoListOLD6_Sections[0].Entries[4].Title,Build a Water Reservoir
 journal_ToDoListOLD6_Sections[0].Entries[4].Content,Build a Water Reservoir out of Mud Bricks.
 journal_ToDoListOLD6_Sections[0].Entries[5].Title,Craft a Fishing Spear
@@ -9052,9 +9052,9 @@ journalHunter2_StartingCamp_Sections[0].Entries[2].Title,Craft a Rustic Spear
 journalHunter2_StartingCamp_Sections[0].Entries[2].Content,To catch fish and hunt.
 journalHunter3_MovingForwards_PageTitle,MOVING FORWARD
 journalHunter3_MovingForwards_Sections[0].Entries[0].Title,Cook a Fish
-journalHunter3_MovingForwards_Sections[0].Entries[0].Content,To have a proper meal by the fire.
+journalHunter3_MovingForwards_Sections[0].Entries[0].Content,To have a proper meal by the fire. 
 journalHunter3_MovingForwards_Sections[0].Entries[1].Title,Build a Shelter
-journalHunter3_MovingForwards_Sections[0].Entries[1].Content,To rest better during the night.
+journalHunter3_MovingForwards_Sections[0].Entries[1].Content,To rest better during the night. 
 journalHunter3_MovingForwards_Sections[0].Entries[2].Title,Find a Puddle
 journalHunter3_MovingForwards_Sections[0].Entries[2].Content,To use as an emergency water source.
 journalHunter4_SettingUpBase_PageTitle,SETTING UP A BASE
@@ -9272,7 +9272,7 @@ journalTourist7_IslandHome_Sections[0].Entries[1].Title,Reach Maximum Comfort
 journalTourist7_IslandHome_Sections[0].Entries[1].Content,To turn your small resort into a 5 star hotel!
 journalTourist7_IslandHome_Sections[0].Entries[2].Content,"Once you are ready to call the island your home, a new <b>home improvement</b> will appear on it.\nMake sure to interact with it to finish your adventure."
 pg_ClayCrafts_PageTitle,Clay Crafts
-pg_ClayCrafts_Sections[0].Entries[0].Content,Mud and clay can be great construction materials and perfect for creating water containers.
+pg_ClayCrafts_Sections[0].Entries[0].Content,Mud and clay can be great construction materials and perfect for creating water containers. 
 pg_ClayCrafts_Sections[0].Entries[1].Title,\n<b>Mud Bricks</b>
 pg_ClayCrafts_Sections[0].Entries[1].Content,"\nCombine <b>mud</b> with <b>temper</b> such as sand, fiber or ashes to make mud bricks. They make for a great construction material."
 pg_ClayCrafts_Sections[0].Entries[2].Title,<b>Clay</b>
@@ -9287,7 +9287,7 @@ pg_Coconuts_Sections[0].Entries[1].Content,\nA <b>cutting tool</b> can be used t
 pg_Coconuts_Sections[0].Entries[2].Title,\n<b>Eating</b>
 pg_Coconuts_Sections[0].Entries[2].Content,\nCrack the shell with any <b>rock or heavy object</b> to access its <b>meat</b>.\n
 pg_Coconuts_Sections[0].Entries[3].Title,\n<b>Coconut Bowls</b>
-pg_Coconuts_Sections[0].Entries[3].Content,\nCoconut shells can be used as improvised <b>bowls</b> to <b>collect rain water</b> with or cook things on.
+pg_Coconuts_Sections[0].Entries[3].Content,\nCoconut shells can be used as improvised <b>bowls</b> to <b>collect rain water</b> with or cook things on. 
 pg_Crops_PageTitle,Crops
 pg_Crops_Sections[0].Entries[0].Title,<b>Basics</b>
 pg_Crops_Sections[0].Entries[0].Content,"Crops need water to survive and will die if their <b>hydration</b> level ever reaches zero. Make sure to keep them <b>hydrated, fertilized and safe</b> from pests and you'll be growing your plants in no time."
@@ -9354,7 +9354,7 @@ pg_HydrationBasics_Sections[0].Entries[3].Title,\n<b>Alternate Methods:</b>
 pg_HydrationBasics_Sections[0].Entries[3].Content,"\n<b>Solar stills</b>, purifying <b>unclean water</b> and extracting it from certain <b>plants</b> can provide you with extra hydration in times of need."
 pg_HydrationStorage_PageTitle,Water Storage
 pg_HydrationStorage_Sections[0].Entries[0].Title,<b>Coconut Bowls</b>
-pg_HydrationStorage_Sections[0].Entries[0].Content,<b>Coconut shells</b> can be used as improvised bowls to <b>cook</b> things in or <b>collect rain water</b>.
+pg_HydrationStorage_Sections[0].Entries[0].Content,<b>Coconut shells</b> can be used as improvised bowls to <b>cook</b> things in or <b>collect rain water</b>. 
 pg_HydrationStorage_Sections[0].Entries[1].Title,<b>Clay Containers</b>
 pg_HydrationStorage_Sections[0].Entries[1].Content,"Clay can be used to create lots of different containers. <b>Bowls</b> for cooking, <b>Clay Vases</b> for storing large amounts of liquid and more."
 pg_HydrationStorage_Sections[0].Entries[2].Title,\n<b>Water Reservoirs</b>
@@ -9367,7 +9367,7 @@ pg_HydrationTips_Sections[0].Entries[1].Content,\nFoods that are high in water l
 pg_HydrationTips_Sections[0].Entries[2].Title,\n<b>Fever and Diarrhoea</b>
 pg_HydrationTips_Sections[0].Entries[2].Content,\nThese two can make you lose hydration much faster. Eat <b>charcoal</b> to treat diarrhoea and <b>Kava</b> to temporarily lower your fever.
 pg_MentalWellbeing_PageTitle,Mental Wellbeing
-pg_MentalWellbeing_Sections[0].Entries[0].Content,Your mental state is just as important as your physical one. You should take good care of yourself and stay focused and pragmatic.
+pg_MentalWellbeing_Sections[0].Entries[0].Content,Your mental state is just as important as your physical one. You should take good care of yourself and stay focused and pragmatic. 
 pg_MentalWellbeing_Sections[0].Entries[1].Title,<b>Food and Water</b>
 pg_MentalWellbeing_Sections[0].Entries[1].Content,"Try to make sure you are not <b>hungry or thirsty</b>, as these things will worsen your mental state over time."
 pg_MentalWellbeing_Sections[0].Entries[2].Title,<b>Health</b>
@@ -9381,14 +9381,14 @@ pg_NutritionBasics_Sections[0].Entries[1].Content,"\n<b>Foraging, fishing, hunti
 pg_NutritionBasics_Sections[0].Entries[2].Title,\n<b>Cooking</b>
 pg_NutritionBasics_Sections[0].Entries[2].Content,"\nCooking food makes it <b>safer, tastier and more nutritious</b>. Cooking meals combining multiple ingredients is even better!"
 pg_NutritionBasics_Sections[0].Entries[3].Title,\n<b>Food Preservation:</b>
-pg_NutritionBasics_Sections[0].Entries[3].Content,\nFood preservation methods allow you to <b>extend the life</b> of most fish and meat so that you can stock in supplies for harder times.
+pg_NutritionBasics_Sections[0].Entries[3].Content,\nFood preservation methods allow you to <b>extend the life</b> of most fish and meat so that you can stock in supplies for harder times. 
 pg_NutritionCooking_PageTitle,Nutrition - Cooking
 pg_NutritionCooking_Sections[0].Entries[0].Title,<b>Cooking</b>
 pg_NutritionCooking_Sections[0].Entries[0].Content,"Cooked food is <b>safer, tastier and more nutritious</b>. Food can be left inside a Campfire or Stove to <b>cook over time</b>, one should however be careful not to <b>burn</b> it."
 pg_NutritionCooking_Sections[0].Entries[1].Title,<b>Prepared Meals</b>
 pg_NutritionCooking_Sections[0].Entries[1].Content,Prepared Meals usually require a <b>cooking pot and multiple ingredients</b> but are much tastier and richer than most other foods. Eating meals is the best way to avoid <b>malnourishment</b> and can also help with your <b>mood and mental state</b>.
 pg_NutritionCooking_Sections[0].Entries[2].Title,<b>Oil</b>
-pg_NutritionCooking_Sections[0].Entries[2].Content,Oil is an important ingredient for many different dishes. To make it you should simply boil <b>coconut milk</b> on a campfire or stove.
+pg_NutritionCooking_Sections[0].Entries[2].Content,Oil is an important ingredient for many different dishes. To make it you should simply boil <b>coconut milk</b> on a campfire or stove. 
 pg_NutritionPreservation_PageTitle,Nutrition- Preservation
 pg_NutritionPreservation_Sections[0].Entries[0].Title,<b>Smoking</b>
 pg_NutritionPreservation_Sections[0].Entries[0].Content,If you build a <b>Clay Stove</b> you can use it to <b>smoke</b> fish and meat so that it can last considerably more.
@@ -9409,7 +9409,7 @@ pg_NutritionSecuringFoodFishing_PageTitle,Nutrition- Fishing
 pg_NutritionSecuringFoodFishing_Sections[0].Entries[0].Title,\n<b>Spear Fishing</b>
 pg_NutritionSecuringFoodFishing_Sections[0].Entries[0].Content,"\nWhile not the most efficient fishing method for beginners, fishing with a <b>spear</b> can produce good results in the hands of an <b>experienced</b> spearfisher."
 pg_NutritionSecuringFoodFishing_Sections[0].Entries[1].Title,\n<b>Line and Hook</b>
-pg_NutritionSecuringFoodFishing_Sections[0].Entries[1].Content,\nHooks carved out of <b>bird bone or bone splinters</b> can be used to craft fishing lines and rods. These tools can catch fish with less work than a fishing spear. Make sure you're always using bait to increase your chances of success.
+pg_NutritionSecuringFoodFishing_Sections[0].Entries[1].Content,\nHooks carved out of <b>bird bone or bone splinters</b> can be used to craft fishing lines and rods. These tools can catch fish with less work than a fishing spear. Make sure you're always using bait to increase your chances of success. 
 pg_NutritionSecuringFoodFishing_Sections[0].Entries[2].Title,\n<b>Fishing Traps</b>
 pg_NutritionSecuringFoodFishing_Sections[0].Entries[2].Content,"\n<b>Fish Trap</b> which can then be <b>deployed in the water</b>. Traps can be the most cost-efficient method for acquiring food, once enough of them are built."
 pg_NutritionSecuringFoodForaging_PageTitle,Nutrition - Foraging
@@ -9428,7 +9428,7 @@ pg_NutritionSecuringFoodHunting_Sections[0].Entries[2].Title,<b>Traps</b>
 pg_NutritionSecuringFoodHunting_Sections[0].Entries[2].Content,<b>Deadfall and Snare Traps</b> are cheap to build and can catch basically all small animals. <b>Log Traps and Trapping Pits</b> are more expensive but can catch much bigger things. All land traps require bait to work and have different success chances depending on your <b>trapping skills and bait</b>.
 pg_NutritionTips_PageTitle,Nutrition - Tips
 pg_NutritionTips_Sections[0].Entries[0].Title,<b>Malnourishment</b>
-pg_NutritionTips_Sections[0].Entries[0].Content,If you consume less <b>calories</b> than you're spending you'll eventually get <b>underweight</b>. This is a serious condition that can compromise your <b>immune system</b> and outright kill you.
+pg_NutritionTips_Sections[0].Entries[0].Content,If you consume less <b>calories</b> than you're spending you'll eventually get <b>underweight</b>. This is a serious condition that can compromise your <b>immune system</b> and outright kill you. 
 pg_NutritionTips_Sections[0].Entries[1].Title,<b>Nutrition</b>
 pg_NutritionTips_Sections[0].Entries[1].Content,"Try to prioritize eating rich foods like <b>meats, carbohydrates or prepared meals</b> whenever possible.\nIf you're low on weight don't be afraid to eat even when you're not so hungry."
 pg_NutritionTips_Sections[0].Entries[2].Title,<b>Overeating</b>
@@ -9461,7 +9461,7 @@ pg_Weaving_Sections[0].Entries[1].Content,<b>Palm Fronds</b> can be woven togeth
 pg_Weaving_Sections[0].Entries[2].Title,<b>Coconut Sandals</b>
 pg_Weaving_Sections[0].Entries[2].Content,"You can craft sandals with <b>coconut husks</b> and <b>cords</b>. While not overly comfortable, they can <b>protect</b> your feet from different types of damage."
 pg_Welcome_PageTitle,Welcome
-pg_Welcome_Sections[0].Entries[0].Title,Welcome to the  <b>Survival Guide</b>!
+pg_Welcome_Sections[0].Entries[0].Title,Welcome to the  <b>Survival Guide</b>! 
 pg_Welcome_Sections[0].Entries[0].Content,Here are some common topics to help you get started!
 pg_Welcome_Sections[0].Entries[1].Title,Needs
 pg_Welcome_Sections[0].Entries[2].Title,Crafting
@@ -9961,7 +9961,7 @@ Pk_1_AlienLifeform_PerkDescription,"Smells great, strangely tasty, very nutritio
 Pk_1_DrySeason_PerkName,Extreme Drought
 Pk_1_DrySeason_PerkDescription,Rainy weather is extremely rare.
 Pk_1_KillerDrones_PerkName,Killer Drones
-Pk_1_KillerDrones_PerkDescription,Killer drones will constantly appear in the island and search for you.
+Pk_1_KillerDrones_PerkDescription,Killer drones will constantly appear in the island and search for you. 
 Pk_1_LifeRaft_PerkName,Life Raft
 Pk_1_LifeRaft_PerkDescription,Start with a Life Raft full of supplies.
 Pk_1_LocationBay_PerkName,Bay
@@ -9989,7 +9989,7 @@ Pk_1_LocationWGrasslands_PerkDescription,Start on the Western Grasslands.
 Pk_1_LocationWHighlands_PerkName,Western Highlands
 Pk_1_LocationWHighlands_PerkDescription,Start in the Western Highlands.
 Pk_1_MacaqueCurse_PerkName,Macaque Curse
-Pk_1_MacaqueCurse_PerkDescription,Macaques will especially enjoy annoying you.
+Pk_1_MacaqueCurse_PerkDescription,Macaques will especially enjoy annoying you. 
 Pk_1_NightStart_PerkName,Night Start
 Pk_1_NightStart_PerkDescription,Start the game during the night.
 Pk_1_Parachute_PerkName,Parachute
@@ -10001,7 +10001,7 @@ Pk_1_RainSeason_PerkDescription,Rainy weather is extremely common.
 Pk_1_RainStart_PerkName,Rain Start
 Pk_1_RainStart_PerkDescription,Start the game during the rain.
 Pk_1_Seahounds_PerkName,Seahounds
-Pk_1_Seahounds_PerkDescription,Sea Monsters will constantly hunt you in coastal areas.
+Pk_1_Seahounds_PerkDescription,Sea Monsters will constantly hunt you in coastal areas. 
 Pk_1_TVGame_PerkName,TV Game
 Pk_1_TVGame_PerkDescription,"You have 3 lives, find all 8 capsules as they are delivered before the timer runs out!"
 Pk_2_Islander_PerkName,Islander
@@ -10037,7 +10037,7 @@ Pk_3_PermeableSkin_PerkDescription,Your skin dries when out of water. Make sure 
 Pk_3_Shortsighted_PerkName,Shortsighted
 Pk_3_Shortsighted_PerkDescription,"Lowers your chances of finding good things, especially when not wearing glasses."
 Pk_3_SpecializedKidneys_PerkName,Specialized Kidneys
-Pk_3_SpecializedKidneys_PerkDescription,You can drink salt water without trouble.
+Pk_3_SpecializedKidneys_PerkDescription,You can drink salt water without trouble. 
 Pk_3_SunAllergy_PerkName,Sun Allergy
 Pk_3_SunAllergy_PerkDescription,Hide from the sun! It burns your skin!!
 Pk_3_Underweight_PerkName,Underweight
@@ -10646,15 +10646,15 @@ Skill_Percussion_NotEnoughText,Not enough skill.
 Skill_RockThrowing_GameName,Rock Throwing
 Skill_RockThrowing_Description,Shows how good you are at throwing rocks. Increases your success chances when throwing rocks.
 Skill_Sling_GameName,Sling
-Skill_Sling_Description,Shows how good you are at using slings. Increases your success chances when hunting with this weapon.
+Skill_Sling_Description,Shows how good you are at using slings. Increases your success chances when hunting with this weapon. 
 Skill_SpearFighting_GameName,Spear Fighting
-Skill_SpearFighting_Description,Shows how good you are at using spears. Increases your success chances when hunting with this weapon.
+Skill_SpearFighting_Description,Shows how good you are at using spears. Increases your success chances when hunting with this weapon. 
 Skill_SpearFishing_GameName,Spear Fishing
 Skill_SpearFishing_Description,Shows how good you are at fishing with spears and harpoons. Increases your chances of success and the quality of the fish when fishing.
 Skill_Stealth_GameName,Stealth
 Skill_Stealth_Description,Shows how good you are at staying unnoticed. Lowers your chances of being hurt by animals when retreating.
 Skill_Swimming_GameName,Swimming
-Skill_Swimming_Description,Shows how good you are at swimming. Increases your chances of reaching difficult places and finding good things when diving
+Skill_Swimming_Description,Shows how good you are at swimming. Increases your chances of reaching difficult places and finding good things when diving 
 Skill_Swimming_NotEnoughText,Not enough skill!
 Skill_Swimming_TooMuchText,Too much skill!
 Skill_Tailoring_GameName,Tailoring
@@ -10714,7 +10714,7 @@ Appetite_Statuses[4].GameName,Huge
 Appetite_Statuses[5].GameName,Extreme
 Armor_GameName,Armor
 BackPain_GameName,Back Pain
-BackPain_Description,A painful ailment caused by sleeping on bad beds or on the floor.
+BackPain_Description,A painful ailment caused by sleeping on bad beds or on the floor. 
 BackPain_Statuses[0].GameName,Back Pain
 BackPain_Statuses[1].GameName,Serious Back Pain
 BackPain_Statuses[1].Description,Hurts...
@@ -10772,13 +10772,13 @@ BloodLoss_GameName,Blood Loss
 BloodLoss_Description,"Caused by bleeding wounds, use Tourniquets and Dressings to lower it."
 BloodLoss_Statuses[0].GameName,Not Bleeding
 BloodLoss_Statuses[1].GameName,Bleeding
-BloodLoss_Statuses[1].Description,You are losing blood.
+BloodLoss_Statuses[1].Description,You are losing blood. 
 BloodLoss_Statuses[2].GameName,Bleeding
-BloodLoss_Statuses[2].Description,You are losing blood.
+BloodLoss_Statuses[2].Description,You are losing blood. 
 BloodLoss_Statuses[3].GameName,Bleeding Profusely
-BloodLoss_Statuses[3].Description,You are losing lots of blood.
+BloodLoss_Statuses[3].Description,You are losing lots of blood. 
 BloodLoss_Statuses[4].GameName,Bleeding Profusely
-BloodLoss_Statuses[4].Description,You are losing lots of blood.
+BloodLoss_Statuses[4].Description,You are losing lots of blood. 
 BloodLoss_NotEnoughText,It's to dark for this action...
 BoarDeathAlarm_GameName,Boar Death Alarm
 BoarDeathAlarm_NotEnoughText,It's to dark for this action...
@@ -10963,7 +10963,7 @@ Headache_Statuses[2].GameName,Severe Headache
 Headache_Statuses[2].Description,My head is killing me!
 HolidaySatisfaction_GameName,Holiday Satisfaction
 HolidaySatisfaction_NotEnoughText,My holiday needs are still not satisfied.
-Hydration_GameName,Hydration
+Hydration_GameName,Hydration 
 Hydration_Description,Your body's hydration level. If it reaches zero you're dead.
 Hydration_DefaultStatusName,Not Thirsty
 Hydration_DefaultStatusDescription,Not feeling thirsty right now.
@@ -11736,7 +11736,7 @@ pg_NutritionBasics_Sections[0].Entries[3].PageLinks[0].LocalizedLinkText,Preserv
 pg_NutritionSecuringFood_Sections[0].Entries[0].PageLinks[0].LocalizedLinkText,More Info
 pg_NutritionSecuringFood_Sections[0].Entries[1].PageLinks[0].LocalizedLinkText,More Info
 pg_NutritionSecuringFood_Sections[0].Entries[2].PageLinks[0].LocalizedLinkText,More Info
-pg_TutorialVideos_Sections[0].Entries[1].WebLinks[0].LocalizedLinkText,Mermaid
+pg_TutorialVideos_Sections[0].Entries[1].WebLinks[0].LocalizedLinkText,Mermaid 
 pg_TutorialVideos_Sections[0].Entries[1].WebLinks[1].LocalizedLinkText,No Rain
 pg_TutorialVideos_Sections[0].Entries[2].WebLinks[0].LocalizedLinkText,Hard Mode
 pg_TutorialVideos_Sections[0].Entries[2].WebLinks[1].LocalizedLinkText,Perkless
@@ -11820,11 +11820,11 @@ Bp_PotteryWheel_CardDescription,Should help me work with Clay.
 Bp_PotteryWheel_UnlockConditionsDesc,More Woodworking Needed
 Bp_PotteryWheel_BlueprintFinishedLog.LogText,I built a pottery wheel.
 Event_SkillMetalworking1_CardName,Metalworking Improved!
-Event_SkillMetalworking1_CardDescription,I'm starting to get better at metalworking.
+Event_SkillMetalworking1_CardDescription,I'm starting to get better at metalworking. 
 Event_SkillMetalworking1_DismantleActions[0].ActionName,Nice!
 Event_SkillMetalworking1_DismantleActions[0].ActionLog.LogText,I'm getting better at working with metal.
 Event_SkillMetalworking2_CardName,Metalworking Improved!
-Event_SkillMetalworking2_CardDescription,I'm getting good at metalworking.
+Event_SkillMetalworking2_CardDescription,I'm getting good at metalworking. 
 Event_SkillMetalworking2_DismantleActions[0].ActionName,Nice!
 Event_SkillMetalworking2_DismantleActions[0].ActionLog.LogText,I'm getting better at working with metal.
 Event_SkillMetalworking3_CardName,Crafting Improved!
@@ -11941,7 +11941,7 @@ tag_DecorationAdv_InGameName,Decoration Advanced
 GE_NerveDamage_OverrideTitle,Nerve Damage
 GE_NerveDamage_OverrideDescription,Leaving a Tourniquet on for too long can cause dangerous nerve damage.\nNerve damage will cause pain and add different <b>time penalties</b> depending on the limb that got hurt.\n\nNerve damage should slowly heal on its own as long as you don't have a <b>Tourniquet</b> equipped.
 GE_Oyster_OverrideTitle,Oysters
-GE_Oyster_OverrideDescription,Oysters are bivalve mollusks that can be found in the <b>Bird Rock and the island's Bay</b>.\n\nThey need a stone or some other tool to open and have a small chance of containing a valuable <b>Pearl</b>.
+GE_Oyster_OverrideDescription,Oysters are bivalve mollusks that can be found in the <b>Bird Rock and the island's Bay</b>.\n\nThey need a stone or some other tool to open and have a small chance of containing a valuable <b>Pearl</b>. 
 Intestines_GameName,Intestines
 Intestines_Statuses[0].GameName,Digestion
 Intestines_Statuses[1].GameName,Digestion
@@ -12364,7 +12364,7 @@ SpecialEndingFade_Steps[9].TextContent,"Love is a granted wish. A wish for exist
 SpecialEndingFade_Steps[9].AnswerText,I'll miss you Wes.
 SpecialEndingFade_Steps[10].TextContent,"I'll miss you too my friend. But I'll always be here. I'm a part of your mind just like you're a part of something higher.\n\nI'm sure that if we want to, we'll get to see each other again!"
 SpecialEndingFade_Steps[10].AnswerText,I'm sure too.
-SpecialEndingFade_Steps[11].TextContent,We're running out of time. It's getting harder to keep it together. \n\nOnce a belief starts losing coherence it's hard to stop it from unraveling.
+SpecialEndingFade_Steps[11].TextContent,We're running out of time. It's getting harder to keep it together. \n\nOnce a belief starts losing coherence it's hard to stop it from unraveling. 
 SpecialEndingFade_Steps[11].AnswerText,Goodbye Wes.
 SpecialEndingFade_Steps[12].TextContent,It's been a pleasure my friend\n\nUntil we meet again!
 SpecialEndingFade_Steps[12].AnswerText,Transcend.
@@ -12390,7 +12390,7 @@ ChairPlaced_DismantleActions[2].ActionName*,Meditate
 ChairPlaced_DismantleActions[2].FadeMessage,Resting...
 PotteryWheel_DismantleActions[0].ActionName,Take apart and Pick Up
 PotteryWheelDismantled_CardName,Dismantled PotteryWheel
-PotteryWheelDismantled_CardDescription,Can be put together in Shelters if Pottery Wheel  is not present and there is enough Light.
+PotteryWheelDismantled_CardDescription,Can be put together in Shelters if Pottery Wheel  is not present and there is enough Light. 
 PotteryWheelDismantled_DismantleActions[0].ActionName,Place
 SeatAttached_DismantleActions[3].ActionName,Meditate
 SeatAttached_DismantleActions[3].FadeMessage,Resting...
@@ -12401,11 +12401,11 @@ TableDismantled_CardName,Dismantled Table
 TableDismantled_CardDescription,Should help me with my crafts. Looks good too!
 TableDismantled_DismantleActions[0].ActionName,Place
 Bp_FishSalted_CardName,Salted Fish Meat
-Bp_FishSalted_CardDescription,Salt-cured to prevent spoilage.
-Bp_FishSalted_UnlockConditionsDesc,Salt needed.
+Bp_FishSalted_CardDescription,Salt-cured to prevent spoilage. 
+Bp_FishSalted_UnlockConditionsDesc,Salt needed. 
 Bp_MeatSalted_CardName,Salted Meat
-Bp_MeatSalted_CardDescription,Salt-cured to prevent spoilage.
-Bp_MeatSalted_UnlockConditionsDesc,Salt needed.
+Bp_MeatSalted_CardDescription,Salt-cured to prevent spoilage. 
+Bp_MeatSalted_UnlockConditionsDesc,Salt needed. 
 Bp_FeedBoar_CardName,Boar Feed
 Bp_FeedBoar_CardDescription,"Boar food, perfect for the Boar Feeder."
 Bp_FluteBone_CardName,Bone Flute
@@ -12423,7 +12423,7 @@ Bp_SaltBed_BlueprintFinishedLog.LogText,I made a Salt Bed
 Bp_Shower_CardName,Shower
 Bp_Shower_CardDescription,A very civilized contraption!
 Bp_Shower_UnlockConditionsDesc,Clay Vase Needed
-Bp_Shower_BlueprintFinishedLog.LogText,I made a Shower.
+Bp_Shower_BlueprintFinishedLog.LogText,I made a Shower. 
 Event_WestonSpecial2a_CardName,Weston
 Event_WestonSpecial2a_CardDescription,What do you mean? Of course I'm real!\nAren't we talking to each other right now.
 Event_WestonSpecial2a_DismantleActions[0].ActionName,Are we?
@@ -12487,7 +12487,7 @@ Event_WestonSpecial5a_DismantleActions[0].ActionLog.LogText,Weston woke me up fr
 Event_WestonSpecial5a_DismantleActions[1].ActionName,Not yet.
 Event_WestonSpecial5a_DismantleActions[1].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.
 Event_WestonSpecial5b1_CardName,Weston
-Event_WestonSpecial5b1_CardDescription,No worries. You have all the time in the world my friend.\n\nLet's be ourselves for a while longer! I'll be here waiting.
+Event_WestonSpecial5b1_CardDescription,No worries. You have all the time in the world my friend.\n\nLet's be ourselves for a while longer! I'll be here waiting. 
 Event_WestonSpecial5b1_DismantleActions[0].ActionName,Continue
 Event_WestonSpecial5b1_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.
 Event_WestonSpecial5b2_CardName,Weston
@@ -12536,19 +12536,19 @@ Event_BoarRummagingCrops_CardName,Wild Boar!
 Event_BoarRummagingCrops_CardDescription,The Boar left but my crops...
 Event_BoarRummagingCrops_DismantleActions[0].ActionName,Check the damage.
 Event_BoarRummagingCrops_DismantleActions[0].ActionLog.LogText,A Monitor lizard rummaged through my supplies.
-Event_BoarRummagingCrops_DismantleActions[0].CustomDestroyMessage,Wild Boar feasted on your Yam Crop Plot and damaged others.
-Event_BoarRummagingCrops_DismantleActions[0].NoCardsAffectedMessage,Wild Boar damaged your Crop Plots.
+Event_BoarRummagingCrops_DismantleActions[0].CustomDestroyMessage,Wild Boar feasted on your Yam Crop Plot and damaged others. 
+Event_BoarRummagingCrops_DismantleActions[0].NoCardsAffectedMessage,Wild Boar damaged your Crop Plots. 
 Event_BoarRummagingFeed_CardName,Wild Boar!
 Event_BoarRummagingFeed_CardDescription,The Boar left but my food...
 Event_BoarRummagingFeed_DismantleActions[0].ActionName,Check the damage.
 Event_BoarRummagingFeed_DismantleActions[0].ActionLog.LogText,A Monitor lizard rummaged through my supplies.
-Event_BoarRummagingFeed_DismantleActions[0].CustomDestroyMessage,Wild Boar feasted on your Food.
+Event_BoarRummagingFeed_DismantleActions[0].CustomDestroyMessage,Wild Boar feasted on your Food. 
 Event_BoarRummagingFeed_DismantleActions[0].NoCardsAffectedMessage,Wild Boar left without damaging anything.
 Event_BoarRummagingYamPlants_CardName,Wild Boar!
-Event_BoarRummagingYamPlants_CardDescription,The Boar left but my Plants.
+Event_BoarRummagingYamPlants_CardDescription,The Boar left but my Plants. 
 Event_BoarRummagingYamPlants_DismantleActions[0].ActionName,Check the damage.
 Event_BoarRummagingYamPlants_DismantleActions[0].ActionLog.LogText,A Monitor lizard rummaged through my supplies.
-Event_BoarRummagingYamPlants_DismantleActions[0].CustomDestroyMessage,Wild Boar feasted on your Yam Plants.
+Event_BoarRummagingYamPlants_DismantleActions[0].CustomDestroyMessage,Wild Boar feasted on your Yam Plants. 
 Event_BoarRummagingYamPlants_DismantleActions[0].NoCardsAffectedMessage,Wild Boar left without damaging anything.
 Event_FluteTunes1_CardName,Page 1
 Event_FluteTunes1_CardDescription,A selection of tunes.
@@ -12610,7 +12610,7 @@ Event_NewTuneSimple_DismantleActions[0].ActionName,Continue
 Event_NewTuneWeston_CardName,Weston's Tune
 Event_NewTuneWeston_CardDescription,You composed a new tune!
 Event_NewTuneWeston_DismantleActions[0].ActionName,Continue
-Event_SkillInsight1_CardDescription,Your mind's eye momentarily sees the world around you as an exploration of logical possibilities. Your present moment being constrained into its current shape by your past presents.
+Event_SkillInsight1_CardDescription,Your mind's eye momentarily sees the world around you as an exploration of logical possibilities. Your present moment being constrained into its current shape by your past presents. 
 Imp_WindTowerMudHut_CardName,Windcatcher
 Imp_WindTowerMudHut_CardDescription,Helps lower temperature.
 Imp_WindTowerStoneHut_CardName,Windcatcher
@@ -12644,7 +12644,7 @@ GoatTiedMale_CardInteractions[1].RequiredReceivingDurabilities.FailMessage*,Not 
 GoatTiedMale_CardInteractions[2].ActionName*,Feed
 GoatTiedMale_CardInteractions[2].RequiredReceivingDurabilities.FailMessage,Not hungry yet.
 ChiliPowder_CardInteractions[0].ActionName,Add Chilli Powder
-ChiliPowder_CardInteractions[0].ActionDescription,Add Chilli Powder to a meal to make it tastier and last longer.
+ChiliPowder_CardInteractions[0].ActionDescription,Add Chilli Powder to a meal to make it tastier and last longer. 
 MeatSaltedDried_CardName,Cured Meat
 MeatSaltedDried_CardDescription,"Salty, and so tasty!"
 MeatSaltedDried_DismantleActions[0].ActionName,Eat
@@ -12679,7 +12679,7 @@ FluteWooden_Unfinished_Progress.OnFull.ActionName,Finished!
 FluteWooden_Unfinished_Progress.OnFull.ProducedCards[0].CollectionMessages[0],Carving Failed!
 FluteWooden_Unfinished_CardInteractions[0].ActionName,Carve
 Salt_CardInteractions[0].ActionName,Add Salt
-Salt_CardInteractions[0].ActionDescription,Add Salt to a meal to make it tastier.
+Salt_CardInteractions[0].ActionDescription,Add Salt to a meal to make it tastier. 
 SnakegrassSeeds_CardName,Snakegrass Seeds
 SnakegrassSeeds_CardDescription,I don't think these are edible.
 Weston_DismantleActions[5].ActionName,Do I exist Wes?
@@ -12694,7 +12694,7 @@ Shower_CardDescription,A very civilized contraption!
 Shower_FuelCapacity.CardStatName,Mosquito Protection
 Shower_DismantleActions[0].ActionName,Take a Shower
 GpTag_DryLeavesStraw_TabName*,Dry Leaves or Straw
-GpTag_FeedBirdMedium_TabName,Quality Bird Feed
+GpTag_FeedBirdMedium_TabName,Quality Bird Feed 
 GpTag_WaterShower_TabName*,Showering Water
 GE_Feathermeal_OverrideDescription*,Created by grinding <b>Feathers</b>.\n\nIt can be used as a cheap <b>Fertilizer</b> for crops.
 ThoughtDepth_GameName,Thought Depth
@@ -12718,7 +12718,7 @@ WestonSpecial3_GameName,Weston Special 3
 WestonSpecial4_GameName,Weston Special 4
 tag_BoarPiglet_InGameName,Boar
 tag_BoarTerritory_InGameName,Shallow Water
-tag_Chilliable_InGameName,Chilli Powder can be added.
+tag_Chilliable_InGameName,Chilli Powder can be added. 
 tag_FibersMedium_InGameName*,Medium Fibers
 tag_FibersPoor_InGameName*,Poor Fibers
 tag_FibersRich_InGameName*,Rich Fibers
@@ -12730,7 +12730,7 @@ tag_ProcessedRich_InGameName*,Rich Processed
 tag_ProteinsMedium_InGameName*,Medium Proteins
 tag_ProteinsPoor_InGameName*,Poor Proteins
 tag_ProteinsRich_InGameName*,Rich Proteins
-tag_Saltable_InGameName*,Salt can be added.
+tag_Saltable_InGameName*,Salt can be added. 
 tag_SugarsMedium_InGameName*,Medium Sugars
 tag_SugarsPoor_InGameName*,Poor Sugars
 tag_SugarsRich_InGameName*,Rich Sugars
@@ -12758,7 +12758,7 @@ GasCookerOn_CookingRecipes[7].CannotCookText*,Not enough salt water...
 Bp_FiberArmor_CardName,Fiber Armor
 Bp_FiberArmor_CardDescription,"Should offer protection to my torso, arms and legs. "
 Bp_FiberArmor_UnlockConditionsDesc,More Tailoring Needed
-Bp_FiberArmor_BlueprintFinishedLog.LogText,I made myself some fiber armor.
+Bp_FiberArmor_BlueprintFinishedLog.LogText,I made myself some fiber armor. 
 Bp_FiberBracers_CardName,Fiber Bracers
 Bp_FiberBracers_CardDescription,Should offer protection for my Arms
 Bp_FiberBracers_UnlockConditionsDesc,More Tailoring Needed
@@ -12770,23 +12770,23 @@ Bp_FiberCuirass_BlueprintFinishedLog.LogText,I made myself a fiber cuirass
 Bp_FiberHelmet_CardName,Fiber Helmet
 Bp_FiberHelmet_CardDescription,Should offer protection for my Head
 Bp_FiberHelmet_UnlockConditionsDesc,More Tailoring Needed
-Bp_FiberHelmet_BlueprintFinishedLog.LogText,I made myself a fiber Helmet.
+Bp_FiberHelmet_BlueprintFinishedLog.LogText,I made myself a fiber Helmet. 
 Bp_JacketClothDisabled_CardName,Cloth Jacket
 Bp_JacketClothDisabled_CardDescription,Should protect me a bit from bug bites and the sun.
 Bp_JacketClothDisabled_UnlockConditionsDesc,More Tailoring Needed
 Bp_JacketClothDisabled_BlueprintFinishedLog.LogText,I made a cloth Jacket for myself.
 Bp_LeatherBracers_CardName,Leather Bracers
-Bp_LeatherBracers_CardDescription,Perfect for protecting my arms.
+Bp_LeatherBracers_CardDescription,Perfect for protecting my arms. 
 Bp_LeatherBracers_UnlockConditionsDesc,Cured Skin Needed
 Bp_LeatherBracers_BlueprintFinishedLog.LogText,I made myself some leather bracers.
 Bp_LeatherHelmet_CardName,Leather Helmet
 Bp_LeatherHelmet_CardDescription,"A bit hot, but should offer protection for my Head"
 Bp_LeatherHelmet_UnlockConditionsDesc,More Tailoring Needed
-Bp_LeatherHelmet_BlueprintFinishedLog.LogText,I made myself a leather Helmet.
+Bp_LeatherHelmet_BlueprintFinishedLog.LogText,I made myself a leather Helmet. 
 Bp_LeatherJacketDisabled_CardName,Leather Jacket
 Bp_LeatherJacketDisabled_CardDescription,"A bit hot, but should offer protection to my torso and arms"
 Bp_LeatherJacketDisabled_UnlockConditionsDesc,More Tailoring Needed
-Bp_LeatherJacketDisabled_BlueprintFinishedLog.LogText,I made myself a leather jacket.
+Bp_LeatherJacketDisabled_BlueprintFinishedLog.LogText,I made myself a leather jacket. 
 Bp_LeatherVest_CardName,Leather Vest
 Bp_LeatherVest_CardDescription,"A bit hot, but should offer protection for my torso"
 Bp_LeatherVest_UnlockConditionsDesc,More Tailoring Needed
@@ -12855,7 +12855,7 @@ Combat_ BTGoat_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you did
 Combat_ BTGoat_Head.MinorWounds[0].CombatLog.LogText,"You were able to hurt it, but only superficially."
 Combat_ BTGoat_Head.MediumWounds[0].CombatLog.LogText,"You hit it hard on the head, it's looking a bit dazzled."
 Combat_ BTGoat_Head.MediumWounds[1].CombatLog.LogText,You stabbed it in the face. That must have hurt!
-Combat_ BTGoat_Head.SeriousWounds[0].CombatLog.LogText,You cracked its skull. The Goat is dead.
+Combat_ BTGoat_Head.SeriousWounds[0].CombatLog.LogText,You cracked its skull. The Goat is dead. 
 Combat_ BTGoat_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of its eyes!
 Combat_ BTGoat_Head.SeriousWounds[2].CombatLog.LogText,"You pierced its brain, the Goat is dead!"
 Combat_ BTGoat_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm it."
@@ -13104,7 +13104,7 @@ Combat_EncounterDrone_EnemyActions[0].PlayerWounds.SeriousWounds[1].WoundLog.Log
 Combat_EncounterDrone_EnemyActions[1].ActionLog.LogText,The Drone starts flying higher in an attempt to escape...
 Combat_EncounterDrone_EnemyActions[2].ActionLog.LogText,The Drone starts flying higher in an attempt to escape...
 Combat_EncounterDrone_EnemyGettingCloseLog.LogText,The Drone starts accelerating in your direction. It's coming for you!
-Combat_EncounterDrone_PlayerWinEffects.ResultLog.LogText,The Drone is destroyed.. it's just a pile of scrap now.
+Combat_EncounterDrone_PlayerWinEffects.ResultLog.LogText,The Drone is destroyed.. it's just a pile of scrap now. 
 Combat_EncounterDrone_EnemyWinEffects.ResultLog.LogText,"The Drone escapes, swiftly fading into the distant horizon."
 Combat_EncounterDrone_TieEffects.ResultLog.LogText,"The Drone escapes, swiftly fading into the distant horizon."
 Combat_EncounterGoat_EncounterTitle,Goat Encounter
@@ -13194,9 +13194,9 @@ Combat_EncounterMacaque_EnemyActions[0].FailureLog.AlternateLogTexts[8],You adro
 Combat_EncounterMacaque_EnemyActions[0].FailureLog.AlternateLogTexts[9],"With a swift maneuver, you avoid the potential wound..."
 Combat_EncounterMacaque_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you."
 Combat_EncounterMacaque_EnemyActions[0].PlayerWounds.MinorWounds[0].WoundLog.LogText,That Macaque hit is likely to leave a nasty bruise...
-Combat_EncounterMacaque_EnemyActions[0].PlayerWounds.MinorWounds[1].WoundLog.LogText,The Macaque bit you!
+Combat_EncounterMacaque_EnemyActions[0].PlayerWounds.MinorWounds[1].WoundLog.LogText,The Macaque bit you! 
 Combat_EncounterMacaque_EnemyActions[0].PlayerWounds.MinorWounds[2].WoundLog.LogText,You got a abrasion while trying to defend yourself.
-Combat_EncounterMacaque_EnemyActions[0].PlayerWounds.MediumWounds[0].WoundLog.LogText,The Macaque bit you!
+Combat_EncounterMacaque_EnemyActions[0].PlayerWounds.MediumWounds[0].WoundLog.LogText,The Macaque bit you! 
 Combat_EncounterMacaque_EnemyActions[0].PlayerWounds.MediumWounds[1].WoundLog.LogText,You've been seriously roughed up. This is gonna sting later.
 Combat_EncounterMacaque_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.LogText,The Macaque bit you a few times. What a horrible creature.
 Combat_EncounterMacaque_EnemyActions[1].ActionLog.LogText,It turns around and tries to escape...
@@ -13264,7 +13264,7 @@ Combat_EncounterPartridge_EnemyActions[1].ActionLog.LogText,It flaps its wings i
 Combat_EncounterPartridge_EnemyActions[2].ActionLog.LogText,It flaps its wings in panic and tries to run away...
 Combat_EncounterPartridge_OverrideEscapeActionName,Retreat
 Combat_EncounterPartridge_OverrideEscapeActionLog.LogText,you continue on your way.
-Combat_EncounterPartridge_PlayerWinEffects.ResultLog.LogText,The Partridge lies dead on the ground.
+Combat_EncounterPartridge_PlayerWinEffects.ResultLog.LogText,The Partridge lies dead on the ground. 
 Combat_EncounterPartridge_EnemyWinEffects.ResultLog.LogText,The Partridge dissapears into the foliage...
 Combat_EncounterPartridge_TieEffects.ResultLog.LogText,The Partridge dissapears into the foliage...
 Combat_EncounterSeagull_EncounterTitle,Seagull Encounter
@@ -13334,16 +13334,16 @@ Combat_EncounterShark_TieEffects.ResultLog.LogText,The shark swims away from you
 Combat_EventBoar_1_Explore_CardName,You see a Boar!
 Combat_EventBoar_1_Explore_DismantleActions[0].ActionName,Continue
 Combat_EventBoar_2_Track_CardName,Tracking the Boar
-Combat_EventBoar_2_Track_CardDescription,The Boar managed to escape but you could track it down.
+Combat_EventBoar_2_Track_CardDescription,The Boar managed to escape but you could track it down. 
 Combat_EventBoar_2_Track_DismantleActions[0].ActionName,Give Up
-Combat_EventBoar_2_Track_DismantleActions[0].ActionDescription,Not worth my time.
+Combat_EventBoar_2_Track_DismantleActions[0].ActionDescription,Not worth my time. 
 Combat_EventBoar_2_Track_DismantleActions[1].ActionName,Give Up
 Combat_EventBoar_2_Track_DismantleActions[1].ActionLog.LogText,A seagull stole some of my food.
 Combat_EventBoar_2_Track_DismantleActions[2].ActionName,Go after it
 Combat_EventBoar_3_TrackFail_CardName,Fail
 Combat_EventBoar_3_TrackFail_CardDescription,You can't find it anywhere. You seem to have lost its trail.
 Combat_EventBoar_3_TrackFail_DismantleActions[0].ActionName,Continue
-Combat_EventBoar_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time.
+Combat_EventBoar_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time. 
 Combat_EventBoar_3_TrackFail_DismantleActions[1].ActionName,Give Up
 Combat_EventBoar_3_TrackFail_DismantleActions[1].ActionLog.LogText,A seagull stole some of my food.
 Combat_EventBoar_3_TrackSucess_CardName,Success
@@ -13353,14 +13353,14 @@ Combat_EventBoar_3_TrackSucess_DismantleActions[0].ActionDescription,It was wort
 Combat_EventCobra_1_Explore_CardName,I see a Cobra!
 Combat_EventCobra_1_Explore_DismantleActions[0].ActionName,Continue
 Combat_EventCobra_2_Track_CardName,Tracking the Cobra
-Combat_EventCobra_2_Track_CardDescription,The Cobra managed to escape but you could track it down.
+Combat_EventCobra_2_Track_CardDescription,The Cobra managed to escape but you could track it down. 
 Combat_EventCobra_2_Track_DismantleActions[0].ActionName,Give Up
 Combat_EventCobra_2_Track_DismantleActions[0].ActionDescription,It's not worth it.
 Combat_EventCobra_2_Track_DismantleActions[1].ActionName,Go After it
 Combat_EventCobra_3_TrackFail_CardName,Fail
 Combat_EventCobra_3_TrackFail_CardDescription,You can't find it anywhere. You seem to have lost its trail.
 Combat_EventCobra_3_TrackFail_DismantleActions[0].ActionName,Continue
-Combat_EventCobra_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time.
+Combat_EventCobra_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time. 
 Combat_EventCobra_3_TrackSuccess_CardName,Success
 Combat_EventCobra_3_TrackSuccess_CardDescription,You find the Cobra's dead body. It's all yours now.
 Combat_EventCobra_3_TrackSuccess_DismantleActions[0].ActionName,Continue
@@ -13374,7 +13374,7 @@ Combat_EventDrone_2_Track_DismantleActions[1].ActionName,Go After it
 Combat_EventDrone_3_TrackFail_CardName,Fail
 Combat_EventDrone_3_TrackFail_CardDescription,You can't find it anywhere. You seem to have lost it for good.
 Combat_EventDrone_3_TrackFail_DismantleActions[0].ActionName,Continue
-Combat_EventDrone_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time.
+Combat_EventDrone_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time. 
 Combat_EventDrone_3_TrackSuccess_CardName,Success
 Combat_EventDrone_3_TrackSuccess_CardDescription,You find the Droner's smoking frame. It's all yours now.
 Combat_EventDrone_3_TrackSuccess_DismantleActions[0].ActionName,Continue
@@ -13388,16 +13388,16 @@ Combat_EventGoat_2_Track_DismantleActions[1].ActionName,Go After it
 Combat_EventGoat_3_TrackFail_CardName,Fail
 Combat_EventGoat_3_TrackFail_CardDescription,You can't find it anywhere. You seem to have lost its trail.
 Combat_EventGoat_3_TrackFail_DismantleActions[0].ActionName,Continue
-Combat_EventGoat_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time.
+Combat_EventGoat_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time. 
 Combat_EventGoat_3_TrackSuccess_CardName,Success
 Combat_EventGoat_3_TrackSuccess_CardDescription,You found the Goat. Its meat is yours.
 Combat_EventGoat_3_TrackSuccess_DismantleActions[0].ActionName,Continue
 Combat_EventMacaque_1_Explore_CardName,You see a Macaque!
 Combat_EventMacaque_1_Explore_DismantleActions[0].ActionName,Continue
 Combat_EventMacaque_2_Track_CardName,Tracking the Macaque
-Combat_EventMacaque_2_Track_CardDescription,The Macaque managed to escape but you could track it down.
+Combat_EventMacaque_2_Track_CardDescription,The Macaque managed to escape but you could track it down. 
 Combat_EventMacaque_2_Track_DismantleActions[0].ActionName,Give Up
-Combat_EventMacaque_2_Track_DismantleActions[0].ActionDescription,Not worth my time.
+Combat_EventMacaque_2_Track_DismantleActions[0].ActionDescription,Not worth my time. 
 Combat_EventMacaque_2_Track_DismantleActions[1].ActionName,Give Up
 Combat_EventMacaque_2_Track_DismantleActions[1].NoCardsAffectedMessage,Oh! The Macaque doesn't seem to have stolen anything of value.
 Combat_EventMacaque_2_Track_DismantleActions[2].ActionName,Go after it
@@ -13412,15 +13412,15 @@ Combat_EventMacaque_3_TrackWounded_DismantleActions[0].ActionDescription,It was 
 Combat_EventMacaque_3_Track_Fail_CardName,Fail
 Combat_EventMacaque_3_Track_Fail_CardDescription,You can't find it anywhere. You seem to have lost its trail.
 Combat_EventMacaque_3_Track_Fail_DismantleActions[0].ActionName,Continue
-Combat_EventMacaque_3_Track_Fail_DismantleActions[0].ActionDescription,Maybe next time.
+Combat_EventMacaque_3_Track_Fail_DismantleActions[0].ActionDescription,Maybe next time. 
 Combat_EventMacaque_3_Track_Fail_DismantleActions[1].ActionName,Give up
 Combat_EventMacaque_3_Track_Fail_DismantleActions[1].NoCardsAffectedMessage,Oh! The Macaque doesn't seem to have stolen anything of value.
 Combat_EventMonitor_1_Explore_CardName,You see a Monitor Lizard!
 Combat_EventMonitor_1_Explore_DismantleActions[0].ActionName,Continue
 Combat_EventMonitor_2_Track_CardName,Tracking the Monitor Lizard
-Combat_EventMonitor_2_Track_CardDescription,The Monitor Lizard managed to escape but you could try to track it down.
+Combat_EventMonitor_2_Track_CardDescription,The Monitor Lizard managed to escape but you could try to track it down. 
 Combat_EventMonitor_2_Track_DismantleActions[0].ActionName,Give Up
-Combat_EventMonitor_2_Track_DismantleActions[0].ActionDescription,Not worth my time.
+Combat_EventMonitor_2_Track_DismantleActions[0].ActionDescription,Not worth my time. 
 Combat_EventMonitor_2_Track_DismantleActions[1].ActionName,Check the Food
 Combat_EventMonitor_2_Track_DismantleActions[1].ActionLog.LogText,A seagull stole some of my food.
 Combat_EventMonitor_2_Track_DismantleActions[1].NoCardsAffectedMessage,The Monitor didn't find anything.
@@ -13428,7 +13428,7 @@ Combat_EventMonitor_2_Track_DismantleActions[2].ActionName,Go After it
 Combat_EventMonitor_3_TrackFail_CardName,Fail
 Combat_EventMonitor_3_TrackFail_CardDescription,You can't find it anywhere... No idea where it went.
 Combat_EventMonitor_3_TrackFail_DismantleActions[0].ActionName,Continue
-Combat_EventMonitor_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time.
+Combat_EventMonitor_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time. 
 Combat_EventMonitor_3_TrackFail_DismantleActions[1].ActionName,Check the Food
 Combat_EventMonitor_3_TrackFail_DismantleActions[1].ActionLog.LogText,A seagull stole some of my food.
 Combat_EventMonitor_3_TrackFail_DismantleActions[1].NoCardsAffectedMessage,The Monitor  didn't take  anything.
@@ -13447,16 +13447,16 @@ Combat_EventPartridge_2_Track_DismantleActions[1].ActionName,Go After it
 Combat_EventPartridge_3_TrackFail_CardName,Fail
 Combat_EventPartridge_3_TrackFail_CardDescription,You can't find it anywhere. You seem to have lost its trail.
 Combat_EventPartridge_3_TrackFail_DismantleActions[0].ActionName,Continue
-Combat_EventPartridge_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time.
+Combat_EventPartridge_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time. 
 Combat_EventPartridge_3_TrackSuccess_CardName,Success
 Combat_EventPartridge_3_TrackSuccess_CardDescription,You find the Partridge. The bird is yours.
 Combat_EventPartridge_3_TrackSuccess_DismantleActions[0].ActionName,Continue
 Combat_EventSeagull_1_Explore_CardName,You see a Seagull!
 Combat_EventSeagull_1_Explore_DismantleActions[0].ActionName,Continue
 Combat_EventSeagull_2_Track_CardName,Tracking the Seagull
-Combat_EventSeagull_2_Track_CardDescription,The Seagull escaped but you can try to track it down.
+Combat_EventSeagull_2_Track_CardDescription,The Seagull escaped but you can try to track it down. 
 Combat_EventSeagull_2_Track_DismantleActions[0].ActionName,Give Up
-Combat_EventSeagull_2_Track_DismantleActions[0].ActionDescription,Not worth my time.
+Combat_EventSeagull_2_Track_DismantleActions[0].ActionDescription,Not worth my time. 
 Combat_EventSeagull_2_Track_DismantleActions[1].ActionName,Give Up
 Combat_EventSeagull_2_Track_DismantleActions[1].ActionLog.LogText,A seagull stole some of my food.
 Combat_EventSeagull_2_Track_DismantleActions[1].NoCardsAffectedMessage,The seagull didn't find anything.
@@ -13464,7 +13464,7 @@ Combat_EventSeagull_2_Track_DismantleActions[2].ActionName,Go After it
 Combat_EventSeagull_3_TrackFail_CardName,Fail
 Combat_EventSeagull_3_TrackFail_CardDescription,You can't find it anywhere... No idea where it went.
 Combat_EventSeagull_3_TrackFail_DismantleActions[0].ActionName,Continue
-Combat_EventSeagull_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time.
+Combat_EventSeagull_3_TrackFail_DismantleActions[0].ActionDescription,Maybe next time. 
 Combat_EventSeagull_3_TrackFail_DismantleActions[1].ActionName,Give Up
 Combat_EventSeagull_3_TrackFail_DismantleActions[1].ActionLog.LogText,A seagull stole some of my food.
 Combat_EventSeagull_3_TrackFail_DismantleActions[1].NoCardsAffectedMessage,The seagull didn't take  anything.
@@ -13493,11 +13493,11 @@ Combat_EventSeagull_1_Raid_DismantleActions[0].ActionLog.LogText,A seagull stole
 Combat_EventSeagull_1_Raid_DismantleActions[0].NoCardsAffectedMessage,The seagull didn't take anything.
 Combat_EventSeagull_1_Raid_DismantleActions[1].ActionName,Attack it
 Event_SkillTracking1_CardName,Tracking Improved!
-Event_SkillTracking1_CardDescription,I'm starting to become a good tracker
+Event_SkillTracking1_CardDescription,I'm starting to become a good tracker 
 Event_SkillTracking1_DismantleActions[0].ActionName,Nice!
 Event_SkillTracking1_DismantleActions[0].ActionLog.LogText,I'm getting better at making traps.
 Event_SkillTracking2_CardName,Tracking Improved!
-Event_SkillTracking2_CardDescription,I'm becoming a good tracker
+Event_SkillTracking2_CardDescription,I'm becoming a good tracker 
 Event_SkillTracking2_DismantleActions[0].ActionName,Nice!
 Event_SkillTracking2_DismantleActions[0].ActionLog.LogText,I'm getting better at making traps.
 Event_SkillTracking3_CardName,Tracking Improved!
@@ -13505,11 +13505,11 @@ Event_SkillTracking3_CardDescription,I'm becoming a very good tracker.
 Event_SkillTracking3_DismantleActions[0].ActionName,Nice!
 Event_SkillTracking3_DismantleActions[0].ActionLog.LogText,I'm getting better at making traps.
 Event_SkillTracking4_CardName,Tracking Improved!
-Event_SkillTracking4_CardDescription,I'm becoming a master tracker.
+Event_SkillTracking4_CardDescription,I'm becoming a master tracker. 
 Event_SkillTracking4_DismantleActions[0].ActionName,Nice!
 Event_SkillTracking4_DismantleActions[0].ActionLog.LogText,I'm getting better at making traps.
 Event_SkillWindInstruments1_CardName,Wind Instruments Improved!
-Event_SkillWindInstruments1_CardDescription,I'm starting to get better with wind instruments.
+Event_SkillWindInstruments1_CardDescription,I'm starting to get better with wind instruments. 
 Event_SkillWindInstruments1_DismantleActions[0].ActionName,Nice!
 Event_SkillWindInstruments1_DismantleActions[0].ActionLog.LogText,I'm getting better with drums.
 Event_SkillWindInstruments2_CardName,Wind Instruments Improved!
@@ -13681,17 +13681,17 @@ DMG_Fire_Name,Blunt
 DMG_Hydrodynamic_Name,Hydrodynamic
 DMG_Piercing_Name,Piercing
 DMG_Spit_Name,Spit
-GE_Skill_Tracking_OverrideDescription,This skill can help you track down escaping animals. \n\nTo increase it you should just train by trying to track down escaping animals.
+GE_Skill_Tracking_OverrideDescription,This skill can help you track down escaping animals. \n\nTo increase it you should just train by trying to track down escaping animals. 
 Obj_SkillPWindInstruments_ObjectiveDescription,Wind Instruments
 Obj_SkillPWindInstruments_OnCompleteActions[0].ActionName,Determination
 Obj_SkillTracking_ObjectiveDescription,Tracking
 Obj_SkillTracking_OnCompleteActions[0].ActionName,Determination
 Skill_ClubFighting_GameName,ClubFighting
-Skill_ClubFighting_Description,Shows how good you are at using clubs. Increases your success chances when hunting with this weapon.
+Skill_ClubFighting_Description,Shows how good you are at using clubs. Increases your success chances when hunting with this weapon. 
 Skill_KnifeFighting_GameName,Knife Fighting
-Skill_KnifeFighting_Description,Shows how good you are at using knives. Increases your success chances when hunting with this weapon.
+Skill_KnifeFighting_Description,Shows how good you are at using knives. Increases your success chances when hunting with this weapon. 
 Skill_Tracking_GameName,Tracking
-Skill_Tracking_Description,Shows how good you are at tracking animals. Increases your chances of finding escaping animals.
+Skill_Tracking_Description,Shows how good you are at tracking animals. Increases your chances of finding escaping animals. 
 CombatBloodBoar_GameName,BoarBlood
 CombatBloodBoar_Description,BoarBlood
 CombatBloodCobra_GameName,CobraBlood
@@ -13986,9 +13986,9 @@ Combat_EncounterMacaqueDen_EnemyActions[0].FailureLog.AlternateLogTexts[8],You a
 Combat_EncounterMacaqueDen_EnemyActions[0].FailureLog.AlternateLogTexts[9],"With a swift maneuver, you avoid the potential wound..."
 Combat_EncounterMacaqueDen_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you."
 Combat_EncounterMacaqueDen_EnemyActions[0].PlayerWounds.MinorWounds[0].WoundLog.LogText,One of the Macaque's hits is likely to leave a nasty bruise...
-Combat_EncounterMacaqueDen_EnemyActions[0].PlayerWounds.MinorWounds[1].WoundLog.LogText,One of the Macaques bit you!
+Combat_EncounterMacaqueDen_EnemyActions[0].PlayerWounds.MinorWounds[1].WoundLog.LogText,One of the Macaques bit you! 
 Combat_EncounterMacaqueDen_EnemyActions[0].PlayerWounds.MinorWounds[2].WoundLog.LogText,You got a abrasion while trying to defend yourself.
-Combat_EncounterMacaqueDen_EnemyActions[0].PlayerWounds.MediumWounds[0].WoundLog.LogText,One of the Macaques bit you!
+Combat_EncounterMacaqueDen_EnemyActions[0].PlayerWounds.MediumWounds[0].WoundLog.LogText,One of the Macaques bit you! 
 Combat_EncounterMacaqueDen_EnemyActions[0].PlayerWounds.MediumWounds[1].WoundLog.LogText,You've been seriously roughed up. This is gonna sting later.
 Combat_EncounterMacaqueDen_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You're nursing several harsh bites from the macaques and are feeling battered and pained.
 Combat_EncounterMacaqueDen_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.AlternateLogTexts[0],The macaques have torn into your flesh with their teeth... the pain is intense.
@@ -14165,7 +14165,7 @@ Tgr_CombatEndMonitorPlayerEscaped_Actions[3].ActionName,Monitor Lizard. Not Raid
 Tgr_CombatEndMonitorPlayerEscaped_Actions[3].ActionDescription,Monitor Lizard. Does not eat items. Cannot be tracked. (DONT TRANSLATE)
 Tgr_CombatEndPartridgeEnemyEscaped_Actions[0].ActionName,Partridge Unharmed (DONT TRANSLATE)
 Tgr_CombatEndPartridgeEnemyEscaped_Actions[0].ActionDescription,Escapes. Recovers. (DONT TRANSLATE)
-Tgr_CombatEndPartridgeEnemyEscaped_Actions[1].ActionName,Partridge Harmed (DONT TRANSLATE)
+Tgr_CombatEndPartridgeEnemyEscaped_Actions[1].ActionName,Partridge Harmed (DONT TRANSLATE) 
 Tgr_CombatEndPartridgeEnemyEscaped_Actions[1].ActionDescription,Escapes. Can be Tracked. Does not recover. (DONT TRANSLATE)
 Tgr_CombatEndPartridgePlayerEscaped_Actions[0].ActionName,Partridge Unharmed (DONT TRANSLATE)
 Tgr_CombatEndPartridgePlayerEscaped_Actions[0].ActionDescription,Escapes. Recovers. (DONT TRANSLATE)
