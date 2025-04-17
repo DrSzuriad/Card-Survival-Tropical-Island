@@ -2,7 +2,6 @@ import os
 import shutil
 import json
 
-# Funkcja do wczytania zapisanej ścieżki z pliku konfiguracyjnego
 def load_game_path():
     config_file = "game_path.json"
     
